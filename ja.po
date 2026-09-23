@@ -1,0 +1,2766 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Antivirus Survivors 2003MIME-Version: 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+#. Class select - name (brick)
+#. source: Brick
+msgid "CLASS.brick.name"
+msgstr "ヴリック"
+
+#. Class select - description (brick)
+#. source: A tank
+msgid "CLASS.brick.description"
+msgstr ""
+"硬いカーソル。\n"
+"堅牢で、頑丈で、打たれ強い"
+
+#. Class select - name (default)
+#. source: Default
+msgid "CLASS.default.name"
+msgstr "ノーマル"
+
+#. Class select - description (default)
+#. source: Your regular old cursor - balanced, simple, beautiful.
+msgid "CLASS.default.description"
+msgstr ""
+"普段から使っている、いつものカーソル。\n"
+"普遍的でシンプルで、ちょうどいい"
+
+#. Class select - name (null)
+#. source: Null
+msgid "CLASS.null.name"
+msgstr "ヌル"
+
+#. Class select - description (null)
+#. source: Weak and fragile, but has a lot of luck.
+msgid "CLASS.null.description"
+msgstr ""
+"何も入っていない、とても儚いカーソル。\n"
+"打たれ弱いけど、幸運を呼び寄せる"
+
+#. Class select - name (vector)
+#. source: Vector
+msgid "CLASS.vector.name"
+msgstr "ヴェクター"
+
+#. Class select - description (vector)
+#. source: A fast one
+msgid "CLASS.vector.description"
+msgstr ""
+"素早いカーソル。\n"
+"早さが足りない"
+
+#. Folder evolution mode - name (chaos)
+#. source: Chaos
+msgid "EVO.chaos.name"
+msgstr "カオス"
+
+#. Folder evolution mode - description (chaos)
+#. source: A inconsistent unpredictable mess of difficulty. I couldn't tell you what to expect.
+msgid "EVO.chaos.description"
+msgstr "難易度に一貫性がなく、急激な難易度上昇も考えられる不安定なモードです"
+
+#. Folder evolution mode - name (linear)
+#. source: Linear
+msgid "EVO.linear.name"
+msgstr "ライナー"
+
+#. Folder evolution mode - description (linear)
+#. source: A consistent linear stream of more enemies being added over time.
+msgid "EVO.linear.description"
+msgstr "時間の経過と共に、敵の数が直線的に増えていく直線的なモードです"
+
+#. Folder evolution mode - name (variable)
+#. source: Variable
+msgid "EVO.variable.name"
+msgstr "ｳ゛ｧﾘｱﾌﾞﾙ"
+
+#. Folder evolution mode - description (variable)
+#. source: A varied level of enemies that ramps up and down to give more moments of peace but harder increases.
+msgid "EVO.variable.description"
+msgstr ""
+"敵の強さがピークに達するまでの周期が明確となる、通常より手ごたえを感じられ"
+"るモードです"
+
+#. Meta upgrade menu - name (armor)
+#. source: Armo(u)r
+msgid "META.armor.name"
+msgstr "アーマー"
+
+#. Meta upgrade menu - description (armor)
+#. source: Adds +1 Armo(u)r per Rank.
+msgid "META.armor.description"
+msgstr "1上昇する毎にアーマーが+1増加します"
+
+#. Meta upgrade menu - name (coin_gain)
+#. source: Coin Gain
+msgid "META.coin_gain.name"
+msgstr ""
+"コイン\n"
+"取得量"
+
+#. Meta upgrade menu - description (coin_gain)
+#. source: Multiply Coin Gain by an extra +1% per Rank.
+msgid "META.coin_gain.description"
+msgstr "1上昇する毎に取得コインへ+1％乗算分が加算されます"
+
+#. Meta upgrade menu - name (crit_chance)
+#. source: Crit Chance
+msgid "META.crit_chance.name"
+msgstr "Crit.確率"
+
+#. Meta upgrade menu - description (crit_chance)
+#. source: Increases Crit Chance +1% per Rank.
+msgid "META.crit_chance.description"
+msgstr "1上昇する毎にCrit.発生確率が+1％増加します"
+
+#. Meta upgrade menu - name (crit_damage)
+#. source: Crit Damage
+msgid "META.crit_damage.name"
+msgstr "Crit.ﾀﾞﾒｰｼﾞ"
+
+#. Meta upgrade menu - description (crit_damage)
+#. source: Multiply Crit Damage by an extra +2% per Rank.
+msgid "META.crit_damage.description"
+msgstr "1上昇する毎にCrit.ダメージへ+2％乗算分が加算されます"
+
+#. Meta upgrade menu - name (cursor_speed)
+#. source: Cursor Speed
+msgid "META.cursor_speed.name"
+msgstr "移動速度"
+
+#. Meta upgrade menu - description (cursor_speed)
+#. source: Multiply Cursor Speed by an extra +1% per Rank.
+msgid "META.cursor_speed.description"
+msgstr "1上昇する毎に移動速度が+1％増加します"
+
+#. Meta upgrade menu - name (exp_gain)
+#. source: EXP Gain
+msgid "META.exp_gain.name"
+msgstr ""
+"経験値\n"
+"取得量"
+
+#. Meta upgrade menu - description (exp_gain)
+#. source: Multiply EXP Gain by an extra +2% per Rank.
+msgid "META.exp_gain.description"
+msgstr "1上昇する毎に取得経験値へ+2％乗算分が加算されます"
+
+#. Meta upgrade menu - name (health_regen)
+#. source: Health Regen
+msgid "META.health_regen.name"
+msgstr "HPリジェネ"
+
+#. Meta upgrade menu - description (health_regen)
+#. source: Adds +1 HP Health Regen per Rank.
+msgid "META.health_regen.description"
+msgstr "1上昇する毎にHPの自然回復量が+1増加します"
+
+#. Meta upgrade menu - name (luck)
+#. source: Luck
+msgid "META.luck.name"
+msgstr "ラック(運)"
+
+#. Meta upgrade menu - description (luck)
+#. source: Multiply Luck by an extra +1% per Rank.
+msgid "META.luck.description"
+msgstr "1上昇する毎にラック(運)が+1％増加します"
+
+#. Meta upgrade menu - name (magnetism)
+#. source: Magnetism
+msgid "META.magnetism.name"
+msgstr "ﾏｸﾞﾈﾃｨｽﾞﾑ"
+
+#. Meta upgrade menu - description (magnetism)
+#. source: Multiply Magnetism by an extra +2% per Rank.
+msgid "META.magnetism.description"
+msgstr "1上昇する毎に【マグネティズム】が+2％増加します"
+
+#. Meta upgrade menu - name (max_health)
+#. source: Max Health
+msgid "META.max_health.name"
+msgstr "HP最大値"
+
+#. Meta upgrade menu - description (max_health)
+#. source: Adds +10 HP Max Health per Rank.
+msgid "META.max_health.description"
+msgstr "1上昇する毎にHPの最大値が+10増加します"
+
+#. Meta upgrade menu - name (packet_loss)
+#. source: Packet Loss
+msgid "META.packet_loss.name"
+msgstr "パケットロス"
+
+#. Meta upgrade menu - description (packet_loss)
+#. source: Adds +1 Packet Loss per Rank.
+msgid "META.packet_loss.description"
+msgstr "1上昇する毎に【パケットロス】が+1増加します"
+
+#. Meta upgrade menu - name (proc_speed)
+#. source: Processing Speed
+msgid "META.proc_speed.name"
+msgstr "処理速度"
+
+#. Meta upgrade menu - description (proc_speed)
+#. source: Multiply Processing Speed by an extra +1% per Rank.
+msgid "META.proc_speed.description"
+msgstr "1上昇する毎にファイル処理速度が+1%増加します"
+
+#. Meta upgrade menu - name (weap_amount)
+#. source: Weapon Amount
+msgid "META.weap_amount.name"
+msgstr "展開数"
+
+#. Meta upgrade menu - description (weap_amount)
+#. source: Increases Weapon Amount chance +3% per Rank.
+msgid "META.weap_amount.description"
+msgstr "1上昇する毎にウェポンの発動数が+3％増加します"
+
+#. Meta upgrade menu - name (weap_damage)
+#. source: Weapon Damage
+msgid "META.weap_damage.name"
+msgstr "ダメージ量"
+
+#. Meta upgrade menu - description (weap_damage)
+#. source: Multiply Weapon Damage by an extra +2% per Rank.
+msgid "META.weap_damage.description"
+msgstr "1上昇する毎にウェポンの与ダメージが+2％増加します"
+
+#. Meta upgrade menu - name (weap_refresh)
+#. source: Weapon Refresh
+msgid "META.weap_refresh.name"
+msgstr "ｸｰﾙﾀｲﾑ短縮"
+
+#. Meta upgrade menu - description (weap_refresh)
+#. source: Multiply Weapon Refresh by an extra +1% per Rank.
+msgid "META.weap_refresh.description"
+msgstr "1上昇する毎にウェポンのクールタイムが+1％短縮されます"
+
+#. Meta upgrade menu - name (weap_repel)
+#. source: Weapon Power
+msgid "META.weap_repel.name"
+msgstr "ノックバック"
+
+#. Meta upgrade menu - description (weap_repel)
+#. source: Multiply Weapon Repel by an extra +1% per Rank.
+msgid "META.weap_repel.description"
+msgstr "1上昇する毎にウェポンのノックバック量が+1％増加します"
+
+#. Meta upgrade menu - name (weap_size)
+#. source: Weapon Size
+msgid "META.weap_size.name"
+msgstr "ｳｪﾎﾟﾝｻｲｽﾞ"
+
+#. Meta upgrade menu - description (weap_size)
+#. source: Multiply Weapon Size by an extra +1% per Rank.
+msgid "META.weap_size.description"
+msgstr "1上昇する毎にウェポンのサイズが+1％増加します"
+
+#. Meta upgrade menu - name (weap_speed)
+#. source: Weapon Speed
+msgid "META.weap_speed.name"
+msgstr "攻撃速度"
+
+#. Meta upgrade menu - description (weap_speed)
+#. source: Multiply Weapon Speed by an extra +1% per Rank.
+msgid "META.weap_speed.description"
+msgstr "1上昇する毎にウェポンの攻撃速度が+1％増加します"
+
+#. Plugin - name (armor_damage_trigger)
+#. source: armor_damage_trigger
+msgid "PLUGIN.armor_damage_trigger.name"
+msgstr "ｱｰﾏｰ&ﾀﾞﾒｰｼﾞﾄﾘｶﾞｰ"
+
+#. Plugin - description (armor_damage_trigger)
+#. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
+msgid "PLUGIN.armor_damage_trigger.description"
+msgstr ""
+"【攻撃耐性+5】\n"
+"被ダメージ時【パケットロス +25】(効果時間:10 秒)"
+
+#. Plugin - name (armor_missing_hp)
+#. source: armor_missing_hp
+msgid "PLUGIN.armor_missing_hp.name"
+msgstr "HPアーマー"
+
+#. Plugin - description (armor_missing_hp)
+#. source: Add +1 Armor per 2% missing HP.
+msgid "PLUGIN.armor_missing_hp.description"
+msgstr "HP最大値から 2％減少毎に【アーマー +1】"
+
+#. Plugin - name (big_hp_regen_boost)
+#. source: big_hp_regen_boost
+msgid "PLUGIN.big_hp_regen_boost.name"
+msgstr "HPブースト"
+
+#. Plugin - description (big_hp_regen_boost)
+#. source: Add +64 Max HP.\nAdd +12 Health Regen.
+msgid "PLUGIN.big_hp_regen_boost.description"
+msgstr ""
+"【HP最大値 +64】\n"
+"【HPリジェネ +12】"
+
+#. Plugin - name (big_wave_damage)
+#. source: big_wave_damage
+msgid "PLUGIN.big_wave_damage.name"
+msgstr "ウェーブブースト"
+
+#. Plugin - description (big_wave_damage)
+#. source: Increase Weapon Damage Multiplier +10% when opening a Big Wave.
+msgid "PLUGIN.big_wave_damage.description"
+msgstr ""
+"ビッグウェーブ起動時\n"
+"【与ダメージ +10%】"
+
+#. Plugin - name (blast_on_file_open)
+#. source: blast_on_file_open
+msgid "PLUGIN.blast_on_file_open.name"
+msgstr "バックドラフト"
+
+#. Plugin - description (blast_on_file_open)
+#. source: 25% Chance to trigger a Blast when opening a File.
+msgid "PLUGIN.blast_on_file_open.description"
+msgstr ""
+"ファイル起動時\n"
+"【25%の確率で『ブラスト』が発生】"
+
+#. Plugin - name (chance_defrag)
+#. source: chance_defrag
+msgid "PLUGIN.chance_defrag.name"
+msgstr "デフラグタイマー"
+
+#. Plugin - description (chance_defrag)
+#. source: 10% Chance to perform a Defrag every 30s.
+msgid "PLUGIN.chance_defrag.description"
+msgstr ""
+"30 秒経過時\n"
+"【10％の確率で『デフラグ』を実行】"
+
+#. Plugin - name (coin_boost)
+#. source: coin_boost
+msgid "PLUGIN.coin_boost.name"
+msgstr "ミリオネア"
+
+#. Plugin - description (coin_boost)
+#. source: Multiply Coin Gain 1.1x.
+msgid "PLUGIN.coin_boost.description"
+msgstr "【コイン取得量 +1.1x】"
+
+#. Plugin - name (coin_drop_boost)
+#. source: coin_drop_boost
+msgid "PLUGIN.coin_drop_boost.name"
+msgstr "スパイ"
+
+#. Plugin - description (coin_drop_boost)
+#. source: Increase enemy Coin Drop Chance +20%.
+msgid "PLUGIN.coin_drop_boost.description"
+msgstr "【コインドロップ率 +20%】"
+
+#. Plugin - name (crit_chance_boost)
+#. source: crit_chance_boost
+msgid "PLUGIN.crit_chance_boost.name"
+msgstr "イトトオシ"
+
+#. Plugin - description (crit_chance_boost)
+#. source: Multiply Crit Chance 1.1x.
+msgid "PLUGIN.crit_chance_boost.description"
+msgstr "【Crit.確率 +1.1x】"
+
+#. Plugin - name (cursor_speed_boost)
+#. source: cursor_speed_boost
+msgid "PLUGIN.cursor_speed_boost.name"
+msgstr "スケート"
+
+#. Plugin - description (cursor_speed_boost)
+#. source: Multiply Cursor Speed 1.1x
+msgid "PLUGIN.cursor_speed_boost.description"
+msgstr "【移動速度 +1.1x】"
+
+#. Plugin - name (cursor_speed_damage)
+#. source: cursor_speed_damage
+msgid "PLUGIN.cursor_speed_damage.name"
+msgstr "ニゲアシ"
+
+#. Plugin - description (cursor_speed_damage)
+#. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
+msgid "PLUGIN.cursor_speed_damage.description"
+msgstr ""
+"【移動速度 +10%】\n"
+"被ダメージ時【10 秒間 移動速度+30%】"
+
+#. Plugin - name (damage_boost)
+#. source: damage_boost
+msgid "PLUGIN.damage_boost.name"
+msgstr "パワーアップ"
+
+#. Plugin - description (damage_boost)
+#. source: Multiply Weapon Damage 1.1x.
+msgid "PLUGIN.damage_boost.description"
+msgstr "【与ダメージ +1.1x】"
+
+#. Plugin - name (damage_level_scaling)
+#. source: damage_level_scaling
+msgid "PLUGIN.damage_level_scaling.name"
+msgstr "レキセン"
+
+#. Plugin - description (damage_level_scaling)
+#. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
+msgid "PLUGIN.damage_level_scaling.description"
+msgstr ""
+"プレイヤーレベル 1 上昇毎【与ダメージ +3%】\n"
+"プレイヤーレベル 1 上昇毎【HP最大値 -1】"
+
+#. Plugin - name (damage_missing_hp)
+#. source: damage_missing_hp
+msgid "PLUGIN.damage_missing_hp.name"
+msgstr "バーサーク"
+
+#. Plugin - description (damage_missing_hp)
+#. source: Increase Weapon Damage +1% per 1% missing HP.
+msgid "PLUGIN.damage_missing_hp.description"
+msgstr "HP最大値より1%減少する毎に【与ダメージ +1%】"
+
+#. Plugin - name (damage_speed_crit)
+#. source: damage_speed_crit
+msgid "PLUGIN.damage_speed_crit.name"
+msgstr "モウコウゲキ"
+
+#. Plugin - description (damage_speed_crit)
+#. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
+msgid "PLUGIN.damage_speed_crit.description"
+msgstr ""
+"【与ダメージ +10%】\n"
+"【待機時間短縮 +10%】\n"
+"【Crit.確率 +5%】\n"
+"【Crit.ダメージ +15%】"
+
+#. Plugin - name (defrag_on_safe_folder)
+#. source: defrag_on_safe_folder
+msgid "PLUGIN.defrag_on_safe_folder.name"
+msgstr "トッパコウ"
+
+#. Plugin - description (defrag_on_safe_folder)
+#. source: Perform a Defrag when the Safe Folder spawns.
+msgid "PLUGIN.defrag_on_safe_folder.description"
+msgstr ""
+"セーブフォルダが出現した際\n"
+"【『デフラグ』を実行】"
+
+#. Plugin - name (dual_core)
+#. source: Dual Core
+msgid "PLUGIN.dual_core.name"
+msgstr "デュアルコア"
+
+#. Plugin - description (dual_core)
+#. source: Multiply Processing Speed 2.0x.
+msgid "PLUGIN.dual_core.description"
+msgstr "【ファイル処理速度 +2.0x】"
+
+#. Plugin - name (heal_on_crit)
+#. source: heal_on_crit
+msgid "PLUGIN.heal_on_crit.name"
+msgstr "キュウシュウ"
+
+#. Plugin - description (heal_on_crit)
+#. source: 5% Chance to Heal when landing a Crit.
+msgid "PLUGIN.heal_on_crit.description"
+msgstr "Crit.ヒット時【5％の確率でHP回復】"
+
+#. Plugin - name (hp_boost)
+#. source: hp_boost
+msgid "PLUGIN.hp_boost.name"
+msgstr "HPキョウカ"
+
+#. Plugin - description (hp_boost)
+#. source: Add +15 Max HP.
+msgid "PLUGIN.hp_boost.description"
+msgstr "【HP最大値 +15】"
+
+#. Plugin - name (hp_on_heal)
+#. source: hp_on_heal
+msgid "PLUGIN.hp_on_heal.name"
+msgstr "セイチョウ"
+
+#. Plugin - description (hp_on_heal)
+#. source: 7% Chance to Add +3 Max HP when Healed. (5s Cooldown).
+msgid "PLUGIN.hp_on_heal.description"
+msgstr ""
+"回復時【7 ％の確率でHP最大値 +3】\n"
+"(クールダウン:5 秒)"
+
+#. Plugin - name (locate_pointer)
+#. source: Locate Pointer
+msgid "PLUGIN.locate_pointer.name"
+msgstr "プレッシャー"
+
+#. Plugin - description (locate_pointer)
+#. source: Trigger a Blast when taking damage (20s cooldown).
+msgid "PLUGIN.locate_pointer.description"
+msgstr ""
+"被ダメージ時【『ブラスト』を発生】\n"
+"(クールダウン:20 秒)"
+
+#. Plugin - name (luck_boost)
+#. source: luck_boost
+msgid "PLUGIN.luck_boost.name"
+msgstr "オマモリ"
+
+#. Plugin - description (luck_boost)
+#. source: Multiply Luck 1.1x.
+msgid "PLUGIN.luck_boost.description"
+msgstr "【ラック(運) +1.1x】"
+
+#. Plugin - name (luck_reroll)
+#. source: luck_reroll
+msgid "PLUGIN.luck_reroll.name"
+msgstr "オイノリ"
+
+#. Plugin - description (luck_reroll)
+#. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
+msgid "PLUGIN.luck_reroll.description"
+msgstr ""
+"【ラック(運) +12%】\n"
+"リロール時\n"
+"【ラック(運) +25％】(効果時間:10 秒)"
+
+#. Plugin - name (luck_zip_boost)
+#. source: luck_zip_boost
+msgid "PLUGIN.luck_zip_boost.name"
+msgstr "ピッキング"
+
+#. Plugin - description (luck_zip_boost)
+#. source: Increase Luck +3% when successfully opening a Zip File.
+msgid "PLUGIN.luck_zip_boost.description"
+msgstr "zipファイルの解凍に成功した際、【ラック(運) +3%】"
+
+#. Plugin - name (lucky_when_hurt)
+#. source: Lucky When Hurt
+msgid "PLUGIN.lucky_when_hurt.name"
+msgstr "ケガノコウミョウ"
+
+#. Plugin - description (lucky_when_hurt)
+#. source: Multiply Luck 2.0x when taking Damage (Lasts 6s).
+msgid "PLUGIN.lucky_when_hurt.description"
+msgstr "被ダメージ時【ラック(運) +2.0x】(効果時間:6秒)"
+
+#. Plugin - name (packet_loss_boost)
+#. source: packet_loss_boost
+msgid "PLUGIN.packet_loss_boost.name"
+msgstr "カミヒトエ"
+
+#. Plugin - description (packet_loss_boost)
+#. source: Add +6 Packet Loss.
+msgid "PLUGIN.packet_loss_boost.description"
+msgstr "【パケットロス +6】"
+
+#. Plugin - name (processing_speed_boost)
+#. source: processing_speed_boost
+msgid "PLUGIN.processing_speed_boost.name"
+msgstr "クロップアップ"
+
+#. Plugin - description (processing_speed_boost)
+#. source: Multiply Processing Speed 1.1x.
+msgid "PLUGIN.processing_speed_boost.description"
+msgstr "【ファイル処理速度 +1.1x】"
+
+#. Plugin - name (regen_boost)
+#. source: regen_boost
+msgid "PLUGIN.regen_boost.name"
+msgstr "シゼンチユ"
+
+#. Plugin - description (regen_boost)
+#. source: Add +5 Health Regen.
+msgid "PLUGIN.regen_boost.description"
+msgstr "【HPリジェネ +5】"
+
+#. Plugin - name (shop_discount_10)
+#. source: shop_discount_10
+msgid "PLUGIN.shop_discount_10.name"
+msgstr "カオナジミ"
+
+#. Plugin - description (shop_discount_10)
+#. source: Discount Shop Items +10%.
+msgid "PLUGIN.shop_discount_10.description"
+msgstr "ショップの選択肢が10%割引される"
+
+#. Plugin - name (shop_discount_25)
+#. source: shop_discount_25
+msgid "PLUGIN.shop_discount_25.name"
+msgstr "オトクイサマ"
+
+#. Plugin - description (shop_discount_25)
+#. source: Discount Shop Items +25%.
+msgid "PLUGIN.shop_discount_25.description"
+msgstr "ショップの選択肢が25%割引される"
+
+#. Plugin - name (slow_but_strong)
+#. source: Rau und Stark
+msgid "PLUGIN.slow_but_strong.name"
+msgstr "ジュウソウビ"
+
+#. Plugin - description (slow_but_strong)
+#. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
+msgid "PLUGIN.slow_but_strong.description"
+msgstr ""
+"【与ダメージ +1.25x】\n"
+"【移動速度 -10%】"
+
+#. Plugin - name (smart_recovery)
+#. source: Smart Recovery
+msgid "PLUGIN.smart_recovery.name"
+msgstr "イノチダイジニ"
+
+#. Plugin - description (smart_recovery)
+#. source: Add +10 Max HP.\nHeal 25% of Max HP when opening a Safe Folder.
+msgid "PLUGIN.smart_recovery.description"
+msgstr ""
+"【HP最大値 +10】\n"
+"セーフフォルダを開いた際【HP 25％回復】"
+
+#. Plugin - name (weapon_speed_boost)
+#. source: weapon_speed_boost
+msgid "PLUGIN.weapon_speed_boost.name"
+msgstr "ハヤマワシ"
+
+#. Plugin - description (weapon_speed_boost)
+#. source: Multiply Weapon Speed 1.1x.
+msgid "PLUGIN.weapon_speed_boost.description"
+msgstr "【攻撃速度 +1.1x】"
+
+#. Plugin - name (xp_drop_boost)
+#. source: xp_drop_boost
+msgid "PLUGIN.xp_drop_boost.name"
+msgstr "キョウカガクシュウ"
+
+#. Plugin - description (xp_drop_boost)
+#. source: Increase enemy EXP Drop Chance +20%.
+msgid "PLUGIN.xp_drop_boost.description"
+msgstr "【エネミー撃破時の経験値ドロップ率 +20%】"
+
+#. Plugin - name (xp_file_open)
+#. source: xp_file_open
+msgid "PLUGIN.xp_file_open.name"
+msgstr "タンキュウシン"
+
+#. Plugin - description (xp_file_open)
+#. source: Gain +5 EXP when opening a File.
+msgid "PLUGIN.xp_file_open.description"
+msgstr "ファイルを開いた際【経験値 +5】"
+
+#. Plugin - name (xp_gain_boost)
+#. source: xp_gain_boost
+msgid "PLUGIN.xp_gain_boost.name"
+msgstr "トレース"
+
+#. Plugin - description (xp_gain_boost)
+#. source: Multiply EXP Gain 1.1x.
+msgid "PLUGIN.xp_gain_boost.description"
+msgstr "【経験値獲得量 +1.1x】"
+
+#. Plugin - name (xp_gain_on_damage)
+#. source: xp_gain_on_damage
+msgid "PLUGIN.xp_gain_on_damage.name"
+msgstr "ボウケンカ"
+
+#. Plugin - description (xp_gain_on_damage)
+#. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
+msgid "PLUGIN.xp_gain_on_damage.description"
+msgstr ""
+"【経験値獲得量 +10%】\n"
+"被ダメージ時【経験値 +4】"
+
+#. Difficulty protocol - name (protocol_1)
+#. source: Protocol I
+msgid "PROTOCOL.protocol_1.name"
+msgstr "ﾌﾟﾛﾄｺﾙ1"
+
+#. Difficulty protocol - description (protocol_1)
+#. source: The beginner difficulty. Earn 16 Beanz per Safe Folder opened + cleared enemies.
+msgid "PROTOCOL.protocol_1.description"
+msgstr ""
+"気軽に始められる、ビギナーな難易度です。\n"
+"ラウンド突破時【Beanz】を 16 獲得します"
+
+#. Difficulty protocol - name (protocol_2)
+#. source: Protocol II
+msgid "PROTOCOL.protocol_2.name"
+msgstr "ﾌﾟﾛﾄｺﾙ2"
+
+#. Difficulty protocol - description (protocol_2)
+#. source: The sophomore difficulty. Earn 24 Beanz per Safe Folder opened + cleared enemies.
+msgid "PROTOCOL.protocol_2.description"
+msgstr ""
+"おおよそ理解した初心者向けの難易度です。\n"
+"ラウンド突破時【Beanz】を 24 獲得します"
+
+#. Difficulty protocol - name (protocol_3)
+#. source: Protocol III
+msgid "PROTOCOL.protocol_3.name"
+msgstr "ﾌﾟﾛﾄｺﾙ3"
+
+#. Difficulty protocol - description (protocol_3)
+#. source: The tertiary difficulty. Earn 32 Beanz per Safe Folder opened + cleared enemies.
+msgid "PROTOCOL.protocol_3.description"
+msgstr ""
+"操作に慣れてきた中級者向けの難易度です。\n"
+"ラウンド突破時【Beanz】を 32 獲得します"
+
+#. Difficulty protocol - name (protocol_4)
+#. source: Protocol IV
+msgid "PROTOCOL.protocol_4.name"
+msgstr "ﾌﾟﾛﾄｺﾙ4"
+
+#. Difficulty protocol - description (protocol_4)
+#. source: The senior difficulty. Earn 48 Beanz per Safe Folder opened + cleared enemies.
+msgid "PROTOCOL.protocol_4.description"
+msgstr ""
+"手ごたえを求める上級者向けの難易度です。\n"
+"ラウンド突破時【Beanz】を 48 獲得します"
+
+#. Difficulty protocol - name (protocol_5)
+#. source: Protocol V
+msgid "PROTOCOL.protocol_5.name"
+msgstr "ﾌﾟﾛﾄｺﾙ5"
+
+#. Difficulty protocol - description (protocol_5)
+#. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
+msgid "PROTOCOL.protocol_5.description"
+msgstr ""
+"クリアが困難な超上級者向けの難易度です。\n"
+"ラウンド突破時【Beanz】を 64 獲得します"
+
+#. Stat display - name (upgrade_player_armor)
+#. source: Armo(u)r
+msgid "STAT.upgrade_player_armor.name"
+msgstr "アーマー"
+
+#. Stat display - description (upgrade_player_armor)
+#. source: Resistence from all incoming Damage. (Exponential)
+msgid "STAT.upgrade_player_armor.description"
+msgstr ""
+"エネミーへの接触や攻撃、ノイズ等\n"
+"接触ダメージに対する耐性を増加させます"
+
+#. Stat display - name (upgrade_player_coin_gain)
+#. source: Coin Gain
+msgid "STAT.upgrade_player_coin_gain.name"
+msgstr "コイン取得量"
+
+#. Stat display - description (upgrade_player_coin_gain)
+#. source: Multiplies the amount of all Coin received.
+msgid "STAT.upgrade_player_coin_gain.description"
+msgstr "エネミーの撃破、ファイル起動時等全てのコイン獲得量を増加させます"
+
+#. Stat display - name (upgrade_player_crit_chance)
+#. source: Crit Chance
+msgid "STAT.upgrade_player_crit_chance.name"
+msgstr "Crit.確率"
+
+#. Stat display - description (upgrade_player_crit_chance)
+#. source: Chance to cause Crit Hit.
+msgid "STAT.upgrade_player_crit_chance.description"
+msgstr "クリティカルの発生確率を向上させます"
+
+#. Stat display - name (upgrade_player_crit_damage_multi)
+#. source: Crit Damage
+msgid "STAT.upgrade_player_crit_damage_multi.name"
+msgstr "Crit.ダメージ"
+
+#. Stat display - description (upgrade_player_crit_damage_multi)
+#. source: Multiplies Damage on Crit Hit.
+msgid "STAT.upgrade_player_crit_damage_multi.description"
+msgstr "クリティカル発生時の与ダメージを向上させます"
+
+#. Stat display - name (upgrade_player_damage_multi)
+#. source: Damage
+msgid "STAT.upgrade_player_damage_multi.name"
+msgstr "与ダメージ"
+
+#. Stat display - description (upgrade_player_damage_multi)
+#. source: Multiplies all Damage output.
+msgid "STAT.upgrade_player_damage_multi.description"
+msgstr "全ての与ダメージを向上させます"
+
+#. Stat display - name (upgrade_player_dodge)
+#. source: Packet Loss
+msgid "STAT.upgrade_player_dodge.name"
+msgstr "パケットロス"
+
+#. Stat display - description (upgrade_player_dodge)
+#. source: Chance to dogde all incoming Damage. (Exponential)
+msgid "STAT.upgrade_player_dodge.description"
+msgstr ""
+"エネミーへの接触や攻撃、ノイズ等\n"
+"接触ダメージを回避する【パケットロス】を向上させます"
+
+#. Stat display - name (upgrade_player_exp_gain)
+#. source: EXP Gain
+msgid "STAT.upgrade_player_exp_gain.name"
+msgstr "経験値取得量"
+
+#. Stat display - description (upgrade_player_exp_gain)
+#. source: Multiplies the amount of all EXP received.
+msgid "STAT.upgrade_player_exp_gain.description"
+msgstr "エネミーの撃破、ファイル起動時等の経験値獲得量を増加させます"
+
+#. Stat display - name (upgrade_player_health_regen)
+#. source: Health Regen
+msgid "STAT.upgrade_player_health_regen.name"
+msgstr "HPリジェネ"
+
+#. Stat display - description (upgrade_player_health_regen)
+#. source: Amount of health regen every 20s.
+msgid "STAT.upgrade_player_health_regen.description"
+msgstr "20秒経過時にHPが回復する【リジェネ】の回復量を向上させます"
+
+#. Stat display - name (upgrade_player_luck)
+#. source: Luck
+msgid "STAT.upgrade_player_luck.name"
+msgstr "ラック(運)"
+
+#. Stat display - description (upgrade_player_luck)
+#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+msgid "STAT.upgrade_player_luck.description"
+msgstr ""
+"レアリティが高いアップグレードが出現しやすくなる\n"
+"『ラック(運)』を向上させます"
+
+#. Stat display - name (upgrade_player_magnetism_multi)
+#. source: Magnetism
+msgid "STAT.upgrade_player_magnetism_multi.name"
+msgstr "マグネティズム"
+
+#. Stat display - description (upgrade_player_magnetism_multi)
+#. source: Multiplies the radius that pulls in EXP and other pickup items.
+msgid "STAT.upgrade_player_magnetism_multi.description"
+msgstr ""
+"フィールドに散乱したアイテムを引き寄せる\n"
+"『マグネティズム』の範囲を向上させます"
+
+#. Stat display - name (upgrade_player_max_health)
+#. source: Max Health
+msgid "STAT.upgrade_player_max_health.name"
+msgstr "HP最大値"
+
+#. Stat display - description (upgrade_player_max_health)
+#. source: Additional Max HP.
+msgid "STAT.upgrade_player_max_health.description"
+msgstr "HP最大値を向上させます"
+
+#. Stat display - name (upgrade_player_power_multi)
+#. source: Weapon Power
+msgid "STAT.upgrade_player_power_multi.name"
+msgstr "デバフ効果"
+
+#. Stat display - description (upgrade_player_power_multi)
+#. source: Increases power of Repel, Heat, Infect and Lag from all weapons.
+msgid "STAT.upgrade_player_power_multi.description"
+msgstr ""
+"攻撃時に発生する「ノックバック」「ヒート」「インフェクト」「ラグ」の効果を"
+"向上させます"
+
+#. Stat display - name (upgrade_player_proc_speed)
+#. source: Processing Speed
+msgid "STAT.upgrade_player_proc_speed.name"
+msgstr "処理速度"
+
+#. Stat display - description (upgrade_player_proc_speed)
+#. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
+msgid "STAT.upgrade_player_proc_speed.description"
+msgstr "起動時間が発生するファイルの処理速度を向上させます"
+
+#. Stat display - name (upgrade_player_refresh_multi)
+#. source: Weapon Refresh
+msgid "STAT.upgrade_player_refresh_multi.name"
+msgstr "再使用時間"
+
+#. Stat display - description (upgrade_player_refresh_multi)
+#. source: Multiplies the speed that all weapons cooldown. (Exponential)
+msgid "STAT.upgrade_player_refresh_multi.description"
+msgstr "ウェポン使用後におけるクールタイムの短縮量を向上させます"
+
+#. Stat display - name (upgrade_player_speed)
+#. source: Cursor Speed
+msgid "STAT.upgrade_player_speed.name"
+msgstr "移動速度"
+
+#. Stat display - description (upgrade_player_speed)
+#. source: Multiplies the player movement speed.
+msgid "STAT.upgrade_player_speed.description"
+msgstr "カーソルの移動速度を向上させます"
+
+#. Stat display - name (upgrade_player_weap_amount)
+#. source: Weapon Amount
+msgid "STAT.upgrade_player_weap_amount.name"
+msgstr "ウェポン展開数"
+
+#. Stat display - description (upgrade_player_weap_amount)
+#. source: Chance of additional weapon spawns on attack. Relative to base amount.
+msgid "STAT.upgrade_player_weap_amount.description"
+msgstr "ウェポン起動時に発生するウェポン展開数を向上させます"
+
+#. Stat display - name (upgrade_player_weap_size)
+#. source: Weapon Size
+msgid "STAT.upgrade_player_weap_size.name"
+msgstr "ウェポンサイズ"
+
+#. Stat display - description (upgrade_player_weap_size)
+#. source: Multiplies the size of all weapons.
+msgid "STAT.upgrade_player_weap_size.description"
+msgstr "ウェポン起動時に発生するウェポンのサイズを向上させます"
+
+#. Stat display - name (upgrade_player_weap_speed)
+#. source: Weapon Speed
+msgid "STAT.upgrade_player_weap_speed.name"
+msgstr "ウェポン攻撃速度"
+
+#. Stat display - description (upgrade_player_weap_speed)
+#. source: Multiplies the speed that all weapons attack. (Exponential)
+msgid "STAT.upgrade_player_weap_speed.description"
+msgstr "ウェポンの攻撃速度を向上させます"
+
+#. Weapon upgrade card - damage stat title
+#. source: {weapon} Damage
+#. Keep placeholders unchanged: {weapon}
+msgid "WEAPON_UPGRADE.damage.name"
+msgstr "ダメージアップ"
+
+#. Weapon upgrade card - damage stat description
+#. source: Increases {weapon} damage by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.damage.description"
+msgstr "{weapon}のダメージを{percent}%向上させます"
+
+#. Weapon upgrade card - attack speed stat title
+#. source: {weapon} Speed
+#. Keep placeholders unchanged: {weapon}
+msgid "WEAPON_UPGRADE.speed.name"
+msgstr "速度アップ"
+
+#. Weapon upgrade card - attack speed stat description
+#. source: Increases {weapon} attack speed by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.speed.description"
+msgstr "{weapon}の攻撃速度を{percent}%向上させます"
+
+#. Weapon upgrade card - refresh/cooldown stat title
+#. source: {weapon} Refresh
+#. Keep placeholders unchanged: {weapon}
+msgid "WEAPON_UPGRADE.refresh.name"
+msgstr "クールタイム短縮"
+
+#. Weapon upgrade card - refresh/cooldown stat description
+#. source: Increases {weapon} refresh speed by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.refresh.description"
+msgstr "{weapon}のクールタイムを{percent}%短縮させます"
+
+#. Weapon upgrade card - size stat title
+#. source: {weapon} Size
+#. Keep placeholders unchanged: {weapon}
+msgid "WEAPON_UPGRADE.size.name"
+msgstr "サイズアップ"
+
+#. Weapon upgrade card - size stat description
+#. source: Increases {weapon} size by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.size.description"
+msgstr "{weapon}のウェポンサイズを{percent}%向上させます"
+
+#. Weapon upgrade card - spawn amount stat title
+#. source: {weapon} Amount
+#. Keep placeholders unchanged: {weapon}
+msgid "WEAPON_UPGRADE.amount.name"
+msgstr "ウェポン展開数アップ"
+
+#. Weapon upgrade card - spawn amount stat description
+#. source: Adds +{percent}% chance of additional {spawn_noun}.
+#. Keep placeholders unchanged: {percent}, {spawn_noun}
+msgid "WEAPON_UPGRADE.amount.description"
+msgstr "{spawn_noun}の展開数を{percent}%向上させます"
+
+#. Weapon upgrade card - power stat title
+#. source: {weapon} Power
+#. Keep placeholders unchanged: {weapon}
+msgid "WEAPON_UPGRADE.power.name"
+msgstr "パワーアップ"
+
+#. Weapon upgrade card - repel power description
+#. source: Increases {weapon} Repel effect by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.power.repel.description"
+msgstr "{weapon}のノックバックを{percent}%向上させます"
+
+#. Weapon upgrade card - heat stacks power description
+#. source: Increases {weapon} Heat Stacks by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.power.heat.description"
+msgstr "{weapon}のヒート蓄積率を{percent}%向上させます"
+
+#. Weapon upgrade card - lag stacks power description
+#. source: Increases {weapon} Lag Stacks by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.power.lag.description"
+msgstr "{weapon}のラグ蓄積率を{percent}%向上させます"
+
+#. Weapon upgrade card - infect stacks power description
+#. source: Increases {weapon} Infect Stacks by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.power.infect.description"
+msgstr "{weapon}のインフェクト蓄積率を{percent}%向上させます"
+
+#. Weapon amount upgrade - phrase after "additional" for AVD
+#. source: logos spawning
+#, fuzzy
+msgid "WEAPON.avd.spawn_noun"
+msgstr "AVDロゴ"
+
+#. Weapon amount upgrade - phrase after "additional" for Bubbles
+#. source: bubbles spawning
+#, fuzzy
+msgid "WEAPON.bubbles.spawn_noun"
+msgstr "バブル"
+
+#. Weapon amount upgrade - phrase after "additional" for C: Drive
+#. source: drives spawning
+#, fuzzy
+msgid "WEAPON.cdrive.spawn_noun"
+msgstr ":Cドライブ"
+
+#. Weapon amount upgrade - phrase after "additional" for Cut
+#. source: scissors spawning
+#, fuzzy
+msgid "WEAPON.cut.spawn_noun"
+msgstr "切り取り"
+
+#. Weapon amount upgrade - phrase after "additional" for Firewall
+#. source: fire rings spawning
+#, fuzzy
+msgid "WEAPON.firewall.spawn_noun"
+msgstr "ファイアウォール"
+
+#. Weapon amount upgrade - phrase after "additional" for FontArt
+#. source: letters spawning
+#, fuzzy
+msgid "WEAPON.fontart.spawn_noun"
+msgstr "FontArt"
+
+#. Weapon amount upgrade - phrase after "additional" for HaD: DoCK
+#. source: shots
+#, fuzzy
+msgid "WEAPON.hitmarkers.spawn_noun"
+msgstr "HIT-MAN"
+
+#. Weapon amount upgrade - phrase after "additional" for Paint
+#. source: circles spawning
+#, fuzzy
+msgid "WEAPON.paint.spawn_noun"
+msgstr "ペイントツール"
+
+#. Weapon amount upgrade - phrase after "additional" for Pinball
+#. source: pinballs spawning
+#, fuzzy
+msgid "WEAPON.pinball.spawn_noun"
+msgstr "ピンボール"
+
+#. Weapon amount upgrade - phrase after "additional" for Quarantine
+#. source: scans
+#, fuzzy
+msgid "WEAPON.quarantine.spawn_noun"
+msgstr "スキャン"
+
+#. Weapon amount upgrade - phrase after "additional" for Search
+#. source: magnifying glasses
+#, fuzzy
+msgid "WEAPON.search.spawn_noun"
+msgstr "検索"
+
+#. Weapon amount upgrade - phrase after "additional" for Solitaire
+#. source: cards spawning
+#, fuzzy
+msgid "WEAPON.solitaire.spawn_noun"
+msgstr "ソルティア"
+
+#. Upgrade card - name (upgrade_player_armor)
+#. source: Armo(u)r
+msgid "UPGRADE.upgrade_player_armor.name"
+msgstr "アーマー"
+
+#. Upgrade card - description (upgrade_player_armor)
+#. source: Increases damage resistance by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_armor.description"
+msgstr "アーマーが+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_coin_gain)
+#. source: Coin Gain
+msgid "UPGRADE.upgrade_player_coin_gain.name"
+msgstr "コイン取得量"
+
+#. Upgrade card - description (upgrade_player_coin_gain)
+#. source: Increases coin gain by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_coin_gain.description"
+msgstr "コイン取得量が+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_crit_chance)
+#. source: Crit Chance
+msgid "UPGRADE.upgrade_player_crit_chance.name"
+msgstr "Crit.確率"
+
+#. Upgrade card - description (upgrade_player_crit_chance)
+#. source: Increases crit hit chance by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_crit_chance.description"
+msgstr "Crit.確率が+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_crit_damage_multi)
+#. source: Crit Damage
+msgid "UPGRADE.upgrade_player_crit_damage_multi.name"
+msgstr "Crit.ダメージ"
+
+#. Upgrade card - description (upgrade_player_crit_damage_multi)
+#. source: Increases crit hit damage by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_crit_damage_multi.description"
+msgstr "Crit.ダメージが+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_damage_multi)
+#. source: Weapon Damage
+msgid "UPGRADE.upgrade_player_damage_multi.name"
+msgstr "与ダメージ"
+
+#. Upgrade card - description (upgrade_player_damage_multi)
+#. source: Increases weapon damage multiplier by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_damage_multi.description"
+msgstr "与ダメージが+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_dodge)
+#. source: Packet Loss
+msgid "UPGRADE.upgrade_player_dodge.name"
+msgstr "パケットロス"
+
+#. Upgrade card - description (upgrade_player_dodge)
+#. source: Increases chance of dodging damage by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_dodge.description"
+msgstr "『パケットロス』が+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_exp_gain)
+#. source: EXP Gain
+msgid "UPGRADE.upgrade_player_exp_gain.name"
+msgstr "経験値取得量"
+
+#. Upgrade card - description (upgrade_player_exp_gain)
+#. source: Increases EXP gain by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_exp_gain.description"
+msgstr "経験値取得量が+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_health_regen)
+#. source: Health Regen
+msgid "UPGRADE.upgrade_player_health_regen.name"
+msgstr "HPリジェネ"
+
+#. Upgrade card - description (upgrade_player_health_regen)
+#. source: Increases health regen by +{percent} HP every 20s.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_health_regen.description"
+msgstr "20秒経過時のHP回復量が+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_luck)
+#. source: Luck
+msgid "UPGRADE.upgrade_player_luck.name"
+msgstr "ラック(運)"
+
+#. Upgrade card - description (upgrade_player_luck)
+#. source: Increases luck by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_luck.description"
+msgstr "ラック(運)が+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_magnetism_multi)
+#. source: Magnetism
+msgid "UPGRADE.upgrade_player_magnetism_multi.name"
+msgstr "マグネティズム"
+
+#. Upgrade card - description (upgrade_player_magnetism_multi)
+#. source: Increases player magnetism by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_magnetism_multi.description"
+msgstr "【マグネティズム】が+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_max_health)
+#. source: Max Health
+msgid "UPGRADE.upgrade_player_max_health.name"
+msgstr "HP最大値"
+
+#. Upgrade card - description (upgrade_player_max_health)
+#. source: Increases max health by +{percent}.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_max_health.description"
+msgstr "HP最大値が+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_power_multi)
+#. source: Weapon Power
+msgid "UPGRADE.upgrade_player_power_multi.name"
+msgstr "パワー"
+
+#. Upgrade card - description (upgrade_player_power_multi)
+#. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_power_multi.description"
+msgstr "デバフの効果が+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_proc_speed)
+#. source: Processing Speed
+msgid "UPGRADE.upgrade_player_proc_speed.name"
+msgstr "処理速度"
+
+#. Upgrade card - description (upgrade_player_proc_speed)
+#. source: Increases file opening speed by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_proc_speed.description"
+msgstr "処理速度が+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_refresh_multi)
+#. source: Weapon Refresh
+msgid "UPGRADE.upgrade_player_refresh_multi.name"
+msgstr "再使用時間"
+
+#. Upgrade card - description (upgrade_player_refresh_multi)
+#. source: Increases weapon refresh multiplier by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_refresh_multi.description"
+msgstr "クールタイムの短縮量が+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_speed)
+#. source: Cursor Speed
+msgid "UPGRADE.upgrade_player_speed.name"
+msgstr "移動速度"
+
+#. Upgrade card - description (upgrade_player_speed)
+#. source: Increases movement speed by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_speed.description"
+msgstr "移動速度が+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_weap_amount)
+#. source: Weapon Amount
+msgid "UPGRADE.upgrade_player_weap_amount.name"
+msgstr "ウェポン展開数"
+
+#. Upgrade card - description (upgrade_player_weap_amount)
+#. source: Adds +{percent}% chance of additional weapon spawns.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_weap_amount.description"
+msgstr "ウェポン展開数が+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_weap_size)
+#. source: Weapon Size
+msgid "UPGRADE.upgrade_player_weap_size.name"
+msgstr "ウェポンサイズ"
+
+#. Upgrade card - description (upgrade_player_weap_size)
+#. source: Increases weapon size multiplier by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_weap_size.description"
+msgstr "ウェポンサイズが+{percent}%増加します"
+
+#. Upgrade card - name (upgrade_player_weap_speed)
+#. source: Weapon Speed
+msgid "UPGRADE.upgrade_player_weap_speed.name"
+msgstr "攻撃速度"
+
+#. Upgrade card - description (upgrade_player_weap_speed)
+#. source: Increases weapon attack speed multiplier by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_weap_speed.description"
+msgstr "攻撃速度+{percent}%増加します"
+
+#. Upgrade card - name (weapon_avd)
+#. source: AVD Logo
+msgid "UPGRADE.weapon_avd.name"
+msgstr "AVD ロゴ"
+
+#. Upgrade card - description (weapon_avd)
+#. source: Shoots a giant AVD logo towards the nearest enemy.
+msgid "UPGRADE.weapon_avd.description"
+msgstr ""
+"巨大なAVDロゴを最も近いエネミーに向かって発射する。\n"
+"ウェポン起動時間の間、画面内を反射し続ける。"
+
+#. Upgrade card - name (weapon_bubbles)
+#. source: Bubbles
+msgid "UPGRADE.weapon_bubbles.name"
+msgstr "バブル"
+
+#. Upgrade card - description (weapon_bubbles)
+#. source: Giant bubbles float around that add stacks of Infect to enemies.
+msgid "UPGRADE.weapon_bubbles.description"
+msgstr ""
+"触れたエネミーに「インフェクト」を付与するバブルを発射する。\n"
+"ウェポン起動時間の間、画面内で跳ねながら滞在する。"
+
+#. Upgrade card - name (weapon_cdrive)
+#. source: C: Drive
+msgid "UPGRADE.weapon_cdrive.name"
+msgstr ":Cドライブ"
+
+#. Upgrade card - description (weapon_cdrive)
+#. source: Drops harddrives randomly on enemies.
+msgid "UPGRADE.weapon_cdrive.description"
+msgstr ""
+"ハードディスクドライブのアイコンを画面内に存在するランダムなエネミーに落下"
+"させる"
+
+#. Upgrade card - name (weapon_cut)
+#. source: Cut
+msgid "UPGRADE.weapon_cut.name"
+msgstr "切り取り"
+
+#. Upgrade card - description (weapon_cut)
+#. source: Scissors slice through the nearest enemy.
+msgid "UPGRADE.weapon_cut.description"
+msgstr "プレイヤーから最も近いエネミーに向かってはさみが出現し切り取りを行う"
+
+#. Upgrade card - name (weapon_firewall)
+#. source: Firewall
+msgid "UPGRADE.weapon_firewall.name"
+msgstr "ファイアウォール"
+
+#. Upgrade card - description (weapon_firewall)
+#. source: Creates a ring of fire around the player that adds stacks of Heat to enemies.
+msgid "UPGRADE.weapon_firewall.description"
+msgstr ""
+"プレイヤーを中心にファイアが円を形成する。\n"
+"触れたエネミーに「ヒート」を付与する"
+
+#. Upgrade card - name (weapon_fontart)
+#. source: FontArt
+msgid "UPGRADE.weapon_fontart.name"
+msgstr "FontArt"
+
+#. Upgrade card - description (weapon_fontart)
+#. source: Drops letters on the strongest enemy that add stacks of Heat to enemies.
+msgid "UPGRADE.weapon_fontart.description"
+msgstr ""
+"画面内の最も強力なエネミーに向かってフォントアートが落下する。\n"
+"触れた敵に「ヒート」を付与する"
+
+#. Upgrade card - name (weapon_hitmarkers)
+#. source: HaD: DoCK
+msgid "UPGRADE.weapon_hitmarkers.name"
+msgstr "HIT-MAN"
+
+#. Upgrade card - description (weapon_hitmarkers)
+#. source: Shots land on the nearest enemy. 3% chance of a headshot.
+msgid "UPGRADE.weapon_hitmarkers.description"
+msgstr ""
+"最も近いエネミーに向かってレティクルが合わさり射撃が行われる。\n"
+"3％の確率でヘッドショットが発生する"
+
+#. Upgrade card - name (weapon_paint)
+#. source: Paint
+msgid "UPGRADE.weapon_paint.name"
+msgstr "ペイントツール"
+
+#. Upgrade card - description (weapon_paint)
+#. source: Paints circles near the player that damage and add stacks of Lag to enemies over time.
+msgid "UPGRADE.weapon_paint.description"
+msgstr ""
+"プレイヤーの近くを円で囲い、触れたエネミーに「インフェクト」を付与する塗り"
+"つぶしを行う"
+
+#. Upgrade card - name (weapon_pinball)
+#. source: Pinball
+msgid "UPGRADE.weapon_pinball.name"
+msgstr "ピンボール"
+
+#. Upgrade card - description (weapon_pinball)
+#. source: Shoots a bouncing ball towards the nearest enemy.
+msgid "UPGRADE.weapon_pinball.description"
+msgstr "ピンボールの玉を最も近いエネミーに向かって発射する。"
+
+#. Upgrade card - name (weapon_quarantine)
+#. source: Quarantine
+msgid "UPGRADE.weapon_quarantine.name"
+msgstr "スキャン"
+
+#. Upgrade card - description (weapon_quarantine)
+#. source: Scans an area around the player damaging enemies.
+msgid "UPGRADE.weapon_quarantine.description"
+msgstr "プレイヤーの周囲をスキャンし、範囲内に入ったエネミーを攻撃する"
+
+#. Upgrade card - name (weapon_search)
+#. source: Search
+msgid "UPGRADE.weapon_search.name"
+msgstr "検索"
+
+#. Upgrade card - description (weapon_search)
+#. source: Sends out a magnifying glass around the player.
+msgid "UPGRADE.weapon_search.description"
+msgstr ""
+"プレイヤーの中心から渦を描くように検索を行い、触れたエネミーにダメージを与"
+"える"
+
+#. Upgrade card - name (weapon_solitaire)
+#. source: Solitaire
+msgid "UPGRADE.weapon_solitaire.name"
+msgstr "ソルティア"
+
+#. Upgrade card - description (weapon_solitaire)
+#. source: Shoots a bouncing card that adds stacks of Infect to enemies.
+msgid "UPGRADE.weapon_solitaire.description"
+msgstr ""
+"画面内で跳ね回るカードを発射し、触れたエネミーに「インフェクト」を付与する"
+
+#. Settings menu
+#. source: Unlimited
+msgid "SETTINGS.fps_unlimited"
+msgstr "FPS 制限なし"
+
+#. Settings menu
+#. source: Windowed
+msgid "SETTINGS.windowed"
+msgstr "ウィンドウ"
+
+#. Settings menu
+#. source: Full Screen
+msgid "SETTINGS.fullscreen"
+msgstr "フルスクリーン"
+
+#. Settings menu
+#. source: Unknown
+msgid "SETTINGS.unknown"
+msgstr "不明"
+
+#. Settings menu
+#. source: Standard
+msgid "SETTINGS.zoom_standard"
+msgstr "ズーム:通常"
+
+#. Settings menu
+#. source: ON
+msgid "SETTINGS.on"
+msgstr "オン"
+
+#. Settings menu
+#. source: OFF
+msgid "SETTINGS.off"
+msgstr "オフ"
+
+#. Settings menu
+#. source: Language
+msgid "SETTINGS.language"
+msgstr "言語"
+
+#. Settings menu
+#. source: Restart the game for all text to update.
+msgid "SETTINGS.restart_for_locale"
+msgstr ""
+
+#. Rarity label
+#. source: Common
+msgid "RARITY.common"
+msgstr "コモン"
+
+#. Rarity label
+#. source: Uncommon
+msgid "RARITY.uncommon"
+msgstr "アンコモン"
+
+#. Rarity label
+#. source: Rare
+msgid "RARITY.rare"
+msgstr "レア"
+
+#. Rarity label
+#. source: Epic
+msgid "RARITY.epic"
+msgstr "エピック"
+
+#. Rarity label
+#. source: Legendary
+msgid "RARITY.legendary"
+msgstr "レジェンダリー"
+
+#. Rarity label
+#. source: Unknown
+msgid "RARITY.unknown"
+msgstr "不明"
+
+#. Torrent window
+#. source: Finished
+msgid "TORRENT.finished"
+msgstr "完了"
+
+#. Torrent window
+#. source: Stalled
+msgid "TORRENT.stalled"
+msgstr "失敗"
+
+#. Torrent window
+#. source: Downloading
+msgid "TORRENT.downloading"
+msgstr "ﾀﾞｳﾝﾛｰﾄﾞ中"
+
+#. Torrent window
+#. source: %d KB/s
+#. Keep placeholders unchanged: %d
+msgid "TORRENT.speed"
+msgstr "速度"
+
+#. UI (script-driven)
+#. source: Vapor - Validating files - {0}% complete
+msgid "UI.vapor_validating"
+msgstr "Vapor - ファイル検証中 {0}% 完了"
+
+#. HUD - level label
+#. source: Level: %d
+#. Keep placeholders unchanged: %d
+msgid "UI.level"
+msgstr "レベル: %d"
+
+#. Upgrade screen - fake window title
+#. source: level%d.doc - SH Docs 2003
+#. Keep placeholders unchanged: %d
+msgid "UI.window_title"
+msgstr "レベル%d.doc - SH Docs 2003"
+
+#. Upgrade screen - title
+#. source: Level Up!
+msgid "UI.level_up"
+msgstr "レベルアップ"
+
+#. UI (script-driven)
+#. source: Collecting any loose Data.
+msgid "UI.collecting_data"
+msgstr "散乱しているデータを収集します"
+
+#. Shop screen - title
+#. source: Shop
+msgid "UI.shop_title"
+msgstr "ショップ"
+
+#. Shop screen - speech
+#. source: Purchase some upgrades! Please, I need Coin...
+msgid "UI.shop_speech"
+msgstr "ここではアップグレードを購入できます。"
+
+#. UI (script-driven)
+#. source: Max
+msgid "UI.max"
+msgstr "最大"
+
+#. UI (script-driven)
+#. source: Defragmented
+msgid "UI.defragmented"
+msgstr "デフラグは完了しました"
+
+#. UI (script-driven)
+#. source: %2.2f KB
+msgid "UI.defrag_capacity"
+msgstr ""
+
+#. Upgrade screen - speech prompt
+#. source: Select an upgrade to continue.
+msgid "UI.select_upgrade"
+msgstr "アップグレードを選択してください"
+
+#. Upgrade screen - weapon pick prompt
+#. source: Select a weapon to continue.
+msgid "UI.select_weapon"
+msgstr "ウェポンを選択してください"
+
+#. Shop / upgrade screen - reroll button
+#. source: Reroll: %.2f Coin
+#. Keep placeholders unchanged: %.2f
+msgid "UI.reroll_coin"
+msgstr "リロールには%.2f コイン必要です"
+
+#. HUD - Beanz label
+#. source: Beanz: %d
+#. Keep placeholders unchanged: %d
+msgid "UI.beanz"
+msgstr "Beanz: %d"
+
+#. HUD - Coin label
+#. source: Coin: %.2f
+#. Keep placeholders unchanged: %.2f
+msgid "UI.coin"
+msgstr "コイン: %.2f"
+
+#. HUD - Keys label
+#. source: Keys: %.2f
+#. Keep placeholders unchanged: %.2f
+msgid "UI.keys"
+msgstr "キー: %.2f"
+
+#. Torrent window - tab
+#. source: All (%d)
+#. Keep placeholders unchanged: %d
+msgid "UI.all_count"
+msgstr "合計: (%d)"
+
+#. Torrent window - tab
+#. source: Downloading (%d)
+#. Keep placeholders unchanged: %d
+msgid "UI.downloading_count"
+msgstr "ダウンロード中… (%d)"
+
+#. Torrent window - tab
+#. source: Completed (%d)
+#. Keep placeholders unchanged: %d
+msgid "UI.completed_count"
+msgstr "完了… (%d)"
+
+#. Torrent window - tab
+#. source: Stalled (%d)
+#. Keep placeholders unchanged: %d
+msgid "UI.stalled_count"
+msgstr "停止… (%d)"
+
+#. HUD - health label
+#. source: HP: %d/%d
+#. Keep placeholders unchanged: %d
+msgid "UI.hp"
+msgstr "HP: %d/%d"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Open
+msgid "CLICKABLE.double_click_open"
+msgstr "ダブルクリック で開く"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Run
+msgid "CLICKABLE.double_click_run"
+msgstr "ダブルクリック で起動"
+
+#. Desktop icon tooltip
+#. source: Downloads 1-5 Weapon Upgrades
+msgid "CLICKABLE.torrent_downloads"
+msgstr "アップグレードを1~5個獲得できます"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Purchase
+msgid "CLICKABLE.double_click_purchase"
+msgstr "ダブルクリック で購入"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Fight
+msgid "CLICKABLE.double_click_fight"
+msgstr "ダブルクリック で開始"
+
+#. Desktop icon tooltip
+#. source: Double-Click to collect all coins
+msgid "CLICKABLE.double_click_collect_coins"
+msgstr "ダブルクリック でコインを収集"
+
+#. Desktop icon tooltip
+#. source: Double-Click to collect all data
+msgid "CLICKABLE.double_click_collect_data"
+msgstr "ダブルクリック でデータを収集"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Install Plugin
+msgid "CLICKABLE.double_click_install"
+msgstr "プラグインのインストールを行います"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Generate Key
+msgid "CLICKABLE.double_click_keygen"
+msgstr "キーの作成を実行します"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Play
+msgid "CLICKABLE.double_click_play"
+msgstr "ダブルクリック で起動"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Open Shop
+msgid "CLICKABLE.double_click_shop"
+msgstr "ショップを起動します"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Unarchive
+msgid "CLICKABLE.double_click_unarchive"
+msgstr "アーカイブを解除します"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Equip
+msgid "CLICKABLE.double_click_equip"
+msgstr "ダブルクリック で装備"
+
+#. Desktop icon tooltip
+#. source: Double-Click to apply
+msgid "CLICKABLE.double_click_apply"
+msgstr "ダブルクリック で適用"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Open Link
+msgid "CLICKABLE.double_click_open_link"
+msgstr "リンクを開きます"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Change Language
+msgid "CLICKABLE.double_click_cycle_language"
+msgstr "ダブルクリックで言語を変更できます"
+
+#. Desktop icon tooltip
+#. source: %.0f%% chance of Success
+#. Keep placeholders unchanged: %.0f, %%
+msgid "CLICKABLE.success_chance"
+msgstr "%.0f%% の確率で成功します"
+
+#. Desktop icon tooltip
+#. source: Uses 1 Key
+msgid "CLICKABLE.uses_one_key"
+msgstr "キーを1つ使用します"
+
+#. Desktop icon tooltip
+#. source: Destroys everything on-screen!
+msgid "CLICKABLE.vapor_destroys"
+msgstr "タスクキルを実行します"
+
+#. Stat tooltip
+#. source: Level %d
+#. Keep placeholders unchanged: %d
+msgid "TOOLTIP.level"
+msgstr "レベル %d"
+
+#. Stat tooltip
+#. source: Damage: %.1f
+#. Keep placeholders unchanged: %.1f
+msgid "TOOLTIP.damage"
+msgstr "ダメージ: %.1f"
+
+#. Stat tooltip
+#. source: Amount: %.1f
+#. Keep placeholders unchanged: %.1f
+msgid "TOOLTIP.amount"
+msgstr "数量: %.1f"
+
+#. Stat tooltip
+#. source: Speed: %.2fs
+#. Keep placeholders unchanged: %.2f
+msgid "TOOLTIP.speed"
+msgstr "速度: %.2fs"
+
+#. Stat tooltip
+#. source: Refresh: %.2fs
+#. Keep placeholders unchanged: %.2f
+msgid "TOOLTIP.refresh"
+msgstr "短縮量: %.2fs"
+
+#. Stat tooltip
+#. source: Size: %.2fx
+#. Keep placeholders unchanged: %.2f
+msgid "TOOLTIP.size"
+msgstr "サイズ: %.2fx"
+
+#. Stat tooltip
+#. source: Power: %.1f
+#. Keep placeholders unchanged: %.1f
+msgid "TOOLTIP.power"
+msgstr "パワー: %.1f"
+
+#. Stat tooltip
+#. source: Completions: %d
+#. Keep placeholders unchanged: %d
+msgid "TOOLTIP.completions"
+msgstr "完了率: %d"
+
+#. Meta upgrade menu
+#. source: Rank: %d/%d
+#. Keep placeholders unchanged: %d
+msgid "META.rank"
+msgstr "ランク: %d/%d"
+
+#. Meta upgrade menu
+#. source: MAX RANK
+msgid "META.rank_max"
+msgstr "ランク上限"
+
+#. Meta upgrade menu
+#. source: Cost: %d Beanz
+#. Keep placeholders unchanged: %d
+msgid "META.cost_beanz"
+msgstr "必要量: %d Beanz"
+
+#. Zip extractor window
+#. source: Extracting file: \n%s from /.???
+#. Keep placeholders unchanged: %s
+msgid "ZIP.extracting"
+msgstr ""
+"解凍中: \n"
+"%s from /.???"
+
+#. Zip extractor window
+#. source: Estimated time left: {m}m {s}s ({cur} KB of {max} KB) \nProcessing rate: {rate} KB/Sec
+#. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
+msgid "ZIP.progress"
+msgstr ""
+"所要時間: {m}分 {s}秒 ({cur} KB / {max}KB)\n"
+"処理速度: {rate} KB/秒"
+
+#. Zip extractor window
+#. source: %s extracted successfully.
+#. Keep placeholders unchanged: %s
+msgid "ZIP.extracted_success"
+msgstr "1 ファイルの解凍が完了しました"
+
+#. DLL
+#. source: Missing dynamic link library %s located.
+#. Keep placeholders unchanged: %s
+msgid "DLL.missing_library"
+msgstr "ダイナミックライブラリから %s 個のリンクが見つかりました"
+
+#. Desktop icon tooltip
+#. source: BigWave.exe
+msgid "CLICKABLE.filename.torrent"
+msgstr ""
+
+#. Desktop icon tooltip
+#. source: LemWire.exe
+msgid "CLICKABLE.filename.lemwire"
+msgstr ""
+
+#. Desktop icon tooltip
+#. source: Installer.pgi
+msgid "CLICKABLE.filename.installer"
+msgstr ""
+
+#. Run stats panel row
+#. source: Difficulty
+msgid "RUNSTAT.difficulty"
+msgstr "難易度"
+
+#. Run stats panel row
+#. source: Levels Gained
+msgid "RUNSTAT.levels_gained"
+msgstr "ﾚﾍﾞﾙｱｯﾌﾟした量"
+
+#. Run stats panel row
+#. source: EXP Gained
+msgid "RUNSTAT.exp_gained"
+msgstr "獲得した経験値"
+
+#. Run stats panel row
+#. source: Safe Folders Opened
+msgid "RUNSTAT.safe_folders"
+msgstr "開いたｾｰﾌﾌｫﾙﾀﾞ"
+
+#. Run stats panel row
+#. source: Files Opened
+msgid "RUNSTAT.files_opened"
+msgstr "起動したファイル"
+
+#. Run stats panel row
+#. source: Enemies Cleared
+msgid "RUNSTAT.enemies_cleared"
+msgstr "撃破したエネミー"
+
+#. Run stats panel row
+#. source: Coin Collected
+msgid "RUNSTAT.coin_collected"
+msgstr "獲得したコイン"
+
+#. Run stats panel row
+#. source: Keys Collected
+msgid "RUNSTAT.keys_collected"
+msgstr "獲得したキー"
+
+#. Run stats panel row
+#. source: Beanz Collected
+msgid "RUNSTAT.beanz_collected"
+msgstr "獲得したBeanz"
+
+#. Scene label
+msgid "Packet Loss"
+msgstr "パケットロス"
+
+#. Scene label
+#. source: Memory Leak!
+msgid "Memory Leak"
+msgstr "メモリーリーク"
+
+#. Scene label
+msgid "Zip File"
+msgstr "Zip ファイル"
+
+#. Scene label
+msgid "Shop"
+msgstr "ショップ"
+
+#. Scene label
+msgid "Safe Folder"
+msgstr "セーフフォルダ"
+
+#. Scene label
+msgid "Next Folder"
+msgstr "次のフォルダ"
+
+#. Scene label
+msgid "Coin Collector"
+msgstr "ｺｲﾝｺﾚｸﾀ"
+
+#. Scene label
+#. screens: defrag_window.tscn
+msgid "Defrag Collector"
+msgstr "ﾃﾞﾌﾗｸﾞｺﾚｸﾀ"
+
+#. Scene label
+msgid "Health Check"
+msgstr "ﾍﾙｽﾁｪｯｸ"
+
+#. Scene label
+msgid "Pointer Trails"
+msgstr "スピーダー"
+
+#. Scene label
+msgid "Download More RAM"
+msgstr ""
+
+#. RAM download complete
+msgid "RAM download complete."
+msgstr ""
+
+#. LemWire
+msgid "LemWire.exe"
+msgstr ""
+
+#. keygen
+msgid "keygen.exe"
+msgstr ""
+
+#. vapor
+msgid "vapor.exe"
+msgstr ""
+
+#. frenzy
+msgid "frenzy.exe"
+msgstr ""
+
+#. Installer
+msgid "Installer.pgi"
+msgstr ""
+
+#. Scene label
+msgid "Feedback"
+msgstr ""
+
+#. Scene label
+msgid "Wishlist"
+msgstr ""
+
+#. Scene label
+msgid "Discord"
+msgstr ""
+
+#. avs03
+msgid "avs03.com"
+msgstr ""
+
+#. Scene label
+msgid "Level 8"
+msgstr "レベル 8"
+
+#. Scene label
+msgid "Level 16"
+msgstr "レベル 16"
+
+#. Scene label
+msgid "Level 24 "
+msgstr "レベル 24"
+
+#. Scene label
+msgid "Empty"
+msgstr "空き"
+
+#. Scene label
+msgid ""
+"Internet\n"
+"Cruiser"
+msgstr ""
+
+#. Scene label
+msgid "Paint"
+msgstr ""
+
+#. Vapor window
+#. source: {0} files failed to validate and will be reaquired.
+msgid "VAPOR.validate_fail"
+msgstr ""
+
+#. Skips installing plugin and removes it from selection pool
+msgid "Skips installing plugin and removes it from selection pool."
+msgstr ""
+
+#. Skips installing plugin and refunds Key
+msgid "Skips installing plugin and refunds Key."
+msgstr ""
+
+#. Installs plugin
+msgid "Installs plugin."
+msgstr ""
+
+#. Scene label
+#. screens: spam_ad.tscn; trailer_ad.tscn
+msgid "(1) Alert!!! CRITICAL"
+msgstr ""
+
+#. Scene label
+#. screens: headshot_text.tscn
+msgid "Headshot!"
+msgstr ""
+
+#. Scene label
+#. screens: basic_window.tscn; defrag_window.tscn; torrent_window.tscn; upgrade_screen.tscn; window.tscn
+msgid "File"
+msgstr "ファイル (F)"
+
+#. Scene label
+#. screens: defrag_window.tscn
+msgid "Action"
+msgstr "編集 (E)"
+
+#. Scene label
+#. screens: basic_window.tscn; defrag_window.tscn; torrent_window.tscn; upgrade_screen.tscn; window.tscn
+msgid "View"
+msgstr "表示 (V)"
+
+#. Scene label
+#. screens: basic_window.tscn; defrag_window.tscn; torrent_window.tscn; upgrade_screen.tscn; window.tscn
+msgid "Help"
+msgstr "ヘルプ (H)"
+
+#. Scene label
+#. screens: defrag_window.tscn
+msgid "Volume"
+msgstr "ボリューム"
+
+#. Scene label
+#. screens: defrag_window.tscn
+msgid "Session Status"
+msgstr "状態"
+
+#. Scene label
+#. screens: defrag_window.tscn
+msgid "Capacity"
+msgstr "容量"
+
+#. Scene label
+#. screens: defrag_window.tscn
+msgid "LOCAL DISK (C:)"
+msgstr "ローカルディスク (:C)"
+
+#. Scene label
+#. screens: defrag_window.tscn
+msgid "Defragmenting"
+msgstr "最適化中"
+
+#. Scene label
+#. screens: defrag_window.tscn
+msgid "Estimated exp before defragmentation:"
+msgstr "推定所要時間:"
+
+#. Scene label
+#. screens: dll_window.tscn
+msgid "Missing dynamic link library scd.dll located."
+msgstr ""
+"見つからなかったダイナミックリンクライブラリ scd.dll が見つかりました。"
+
+#. Scene label
+#. screens: dll_window.tscn
+msgid "Procedure can now resume."
+msgstr "作業を続行できます。"
+
+#. Scene label
+#. screens: dll_window.tscn
+msgid "OK"
+msgstr ""
+
+#. Scene label
+#. screens: download_ram_window.tscn
+msgid "RAM Downloader Professional (Legal)"
+msgstr ""
+
+#. Scene label
+#. screens: download_ram_window.tscn
+msgid "Download"
+msgstr ""
+
+#. Scene label
+#. screens: download_ram_window.tscn
+msgid "Your RAM is now downloading..."
+msgstr "Downloading…"
+
+#. Scene label
+#. screens: keygen_window.tscn
+msgid "Serial:"
+msgstr "シリアル:"
+
+#. Scene label
+#. screens: keygen_window.tscn
+msgid "Generate Key"
+msgstr "キー生成"
+
+#. Scene label
+#. screens: lem_upgrade_screen.tscn
+msgid "LemWire 4.7 - Pick Your Download"
+msgstr ""
+
+#. Scene label
+#. screens: lem_window.tscn
+msgid "LemWire 4.7"
+msgstr ""
+
+#. Scene label
+#. screens: lem_window.tscn
+msgid "Searching: cursor upgrades"
+msgstr ""
+
+#. Scene label
+#. screens: lem_window.tscn
+msgid "Quality"
+msgstr "品質"
+
+#. Scene label
+#. screens: lem_window.tscn; torrent_window.tscn
+msgid "Name"
+msgstr "ファイル名"
+
+#. Scene label
+#. screens: lem_window.tscn
+msgid "Type"
+msgstr "レアリティ"
+
+#. Scene label
+#. screens: lem_window.tscn
+msgid "Bitrate"
+msgstr "ビットレート"
+
+#. Scene label
+#. screens: spam_ad_2.tscn
+msgid "(3) \"hey x \"  HOT!!! Singles"
+msgstr ""
+
+#. Scene label
+#. screens: spam_ad_3.tscn
+msgid "!!! !!  WINNER WINNER WINER!!! !!!"
+msgstr ""
+
+#. Scene label
+#. screens: spam_ad_4.tscn
+msgid "FREE AVDs CLI..."
+msgstr ""
+
+#. Scene label
+#. screens: spam_ad_5.tscn
+msgid "BIG BIG WINNER THATS YOU!!!"
+msgstr ""
+
+#. Scene label
+#. screens: spam_ad_6.tscn
+msgid "CHEAP PRINTER ONE CLICK AWAY"
+msgstr ""
+
+#. Scene label
+#. screens: spam_ad_7.tscn
+msgid "Before you go, did you kno.."
+msgstr ""
+
+#. Scene label
+#. screens: spam_ad_8.tscn
+msgid "Hey DUMBY!!"
+msgstr ""
+
+#. Scene label
+#. screens: spam_ad_9.tscn
+msgid "UH OHHHHHHHHH WARNING YOU MIG..."
+msgstr ""
+
+#. Scene label
+#. screens: spam_ad_10.tscn
+msgid "1,000,0000 th VISTOR this WEEK!!! PRIZE WON!"
+msgstr ""
+
+#. Scene label
+#. screens: vapor_exe.tscn
+msgid "Vapor.exe"
+msgstr ""
+
+#. Scene label
+#. screens: vapor_window.tscn
+msgid "Validating cache files..."
+msgstr ""
+
+#. Scene label
+#. screens: vapor_window.tscn
+msgid "Cancel"
+msgstr "キャンセル"
+
+#. Scene label
+#. screens: zip_window.tscn
+msgid "SHZip v2.03 (evaluation copy)"
+msgstr ""
+
+#. Scene label
+#. screens: zip_window.tscn
+msgid ""
+"Extracting file:\n"
+"temp_file_649743.zip from /.???"
+msgstr "解凍中: temp_file_649743.zip  /.???"
+
+#. Scene label
+#. screens: zip_window.tscn
+msgid ""
+"Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
+"Processing rate: 0.00 KB/Sec"
+msgstr ""
+"所要時間: 0分 00秒 (0.00KB / 0.00KB)\n"
+"処理速度: 0.00 KB/秒"
+
+#. Scene label
+#. screens: zip_window.tscn
+msgid "Progress will reset if area is abandoned"
+msgstr "エリア外へ出た場合、進行状況はリセットされます"
+
+#. Scene label
+#. screens: main.tscn
+msgid "All data has been collected."
+msgstr "全てのデータを取得しました"
+
+#. Scene label
+#. screens: main.tscn
+msgid "Collecting any loose Coin."
+msgstr "散乱したコインをすべて取得します"
+
+#. Scene label
+#. screens: main.tscn
+msgid "Not Enough Keys :("
+msgstr "キーが不足しています (´・ω・`)"
+
+#. Scene label
+#. screens: main.tscn
+msgid "Critical Health!"
+msgstr "HPが少なくなっています!"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Welcome..."
+msgstr "ようこそ"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Let's get started with Double-Clicking some settings."
+msgstr "まずは、いくつかの設定をダブルクリックで選択してみましょう。"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Movement -"
+msgstr "移動"
+
+#. Scene label
+#. screens: starter_folder.tscn; window.tscn
+msgid "/"
+msgstr ""
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Click and Drag -"
+msgstr "ドラッグ"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Menu Shortcut -"
+msgstr "ショートカット -"
+
+#. Scene label
+#. screens: starter_folder.tscn; window.tscn
+msgid "Show Stats -"
+msgstr "ステータスを表示 -"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Close -"
+msgstr "閉じる -"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Pause -"
+msgstr "ポーズ -"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Weapons..."
+msgstr "ウェポン選択"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Great, now just pick a weapon you want to start with."
+msgstr ""
+"いい感じです。\n"
+"次に、初期ウェポンを選択してください。"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Folder Evolution"
+msgstr "ウェーブ形状"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Folder Difficulty"
+msgstr "難易度"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Cursor Class"
+msgstr "カーソルクラス"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Starter Weapon"
+msgstr "ウェポンを選択してください"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Locked Weapons - Coming Soon"
+msgstr "このウェポンは使用できません… 次のアップデートをお待ちください"
+
+#. Scene label
+#. screens: stat_list.tscn
+msgid "StatsManager V0.1b"
+msgstr "ステータスマネージャ V0.1b"
+
+#. Scene label
+#. screens: stat_list.tscn
+msgid "A"
+msgstr ""
+
+#. Scene label
+#. screens: stat_list.tscn
+msgid "B"
+msgstr ""
+
+#. Scene label
+#. screens: stat_list.tscn
+msgid "Weapons"
+msgstr "ウェポン選択"
+
+#. Scene label
+#. screens: stat_list.tscn
+msgid "Installed Plugins"
+msgstr "インストールしたプラグイン"
+
+#. Scene label
+#. screens: stat_upgrade_item.tscn
+msgid "Firewall Size"
+msgstr "ファイアウォールのサイズ"
+
+#. Scene label
+#. screens: basic_window.tscn; upgrade_screen.tscn; window.tscn
+msgid "Edit"
+msgstr "編集"
+
+#. Scene label
+#. screens: basic_window.tscn; window.tscn
+msgid "Favorites"
+msgstr "お気に入り"
+
+#. Scene label
+#. screens: basic_window.tscn; window.tscn
+msgid "Antivirus Survivors 2003 Professional ©"
+msgstr "アンチウィルス サバイバーズ 2003 Professional ©"
+
+#. Scene label
+#. screens: end_screen.tscn
+msgid "Victory!"
+msgstr "YOU WIN!"
+
+#. Scene label
+#. screens: end_screen.tscn
+msgid ""
+"You did it! I'm proud of you! I hope you had fun.\n"
+"\n"
+"However I am very sorry that this is such a boring and uninspired win "
+"screen. You deserve better and you will get better - in the full release.\n"
+"\n"
+"In the meantime, enjoy trying some of the harder difficulties, go spend "
+"those Beanz on some upgrades and try out some different builds.\n"
+"\n"
+"If you had fun during this demo be sure to give it a wishlist or follow on "
+"Steam - there's so much more to come!"
+msgstr ""
+"おめでとうございます！\n"
+"あなたはこのレベルを見事突破されました！\n"
+"製品版が発売されるまでの間、\n"
+"いろいろなビルドを試してみてくださいね!\n"
+"このデモ版を楽しんでいただけたなら、\n"
+"ウィッシュリスト登録やフォローをお願いします!\n"
+"今後さらに多くのコンテンツが出てきますので\n"
+"どうぞお楽しみに!"
+
+#. Scene label
+#. screens: end_screen.tscn
+msgid "Open Steam Page"
+msgstr "Steamのストアページへ"
+
+#. Scene label
+#. screens: end_screen.tscn
+msgid "Exit to Menu"
+msgstr "メニューへ戻る"
+
+#. Scene label
+#. screens: end_timer_ui.tscn
+msgid "Get to the Safe Folder!"
+msgstr "セーブフォルダが出現しました!"
+
+#. Scene label
+#. screens: installer_window.tscn
+msgid "Plugin Suite Installation"
+msgstr ""
+
+#. Scene label
+#. screens: installer_window.tscn
+msgid "Please wait..."
+msgstr "しばらくお待ちください"
+
+#. Scene label
+#. screens: installer_window.tscn
+msgid "PluginInstaller v2.03 r2"
+msgstr ""
+
+#. Scene label
+#. screens: installer_window.tscn
+msgid "Preparing to Install..."
+msgstr "インストールを実行しています"
+
+#. Scene label
+#. screens: installer_window.tscn
+msgid ""
+"PluginInstaller is preparing to find all appropriate plugins for this "
+"application."
+msgstr "プラグインを検索しています"
+
+#. Scene label
+#. screens: installer_window.tscn
+msgid "Checking Plugin Compatibility Layer..."
+msgstr "プラグイン互換レイヤーを確認中..."
+
+#. Scene label
+#. screens: installer_window.tscn
+msgid ""
+"Add +10 Max HP.\n"
+"Heal 20% of Max HP when opening a Safe Folder."
+msgstr ""
+
+#. Scene label
+#. screens: installer_window.tscn
+msgid "Remove"
+msgstr "拒否"
+
+#. Scene label
+#. screens: installer_window.tscn
+msgid "Skip"
+msgstr "スキップ"
+
+#. Scene label
+#. screens: installer_window.tscn
+msgid "Install"
+msgstr "受け入れる"
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid "Exit to Desktop"
+msgstr "デスクトップへ戻る"
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid "Start Exploring"
+msgstr "スタート"
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid "Upgrades"
+msgstr "アップグレード"
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid "Statistics"
+msgstr "レコード"
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid "Personalise"
+msgstr "パーソナル"
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid "Settings"
+msgstr "セッティング"
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid ""
+"coming soon\n"
+"- more weapons\n"
+"- more enemies\n"
+"- bosses\n"
+"- classes\n"
+"- wallpapers\n"
+"- weapon evos\n"
+"- and more"
+msgstr ""
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid ""
+"Thank you so much for playing. It means the world to me.\n"
+"enjoy and have a great day <3\n"
+"shaun"
+msgstr ""
+
+#. Scene label
+#. screens: meta_upgrades_menu.tscn
+msgid "UpgradeManager 2003 rc2"
+msgstr "アップグレードマネージャ 2003 rc 2"
+
+#. Scene label
+#. screens: meta_upgrades_menu.tscn
+msgid "Refund All"
+msgstr "全てリセット"
+
+#. Scene label
+#. screens: notif_bubble.tscn
+msgid "This is"
+msgstr ""
+
+#. Scene label
+#. screens: options_menu.tscn; pause_menu.tscn; torrent_window.tscn
+msgid "Options"
+msgstr "オプション"
+
+#. Scene label
+#. screens: options_menu.tscn
+msgid "SFX Volume"
+msgstr "SFXボリューム"
+
+#. Scene label
+#. screens: options_menu.tscn
+msgid "Music Volume"
+msgstr "BGMボリューム"
+
+#. Scene label
+#. screens: options_menu.tscn
+msgid "Window Mode"
+msgstr "画面モード"
+
+#. Scene label
+#. screens: options_menu.tscn
+msgid "Back"
+msgstr "戻る"
+
+#. Scene label
+#. screens: pause_menu.tscn
+msgid "Pause menu"
+msgstr "ポーズ"
+
+#. Scene label
+#. screens: pause_menu.tscn
+msgid "Stats"
+msgstr "ｽﾃｰﾀｽ"
+
+#. Scene label
+#. screens: pause_menu.tscn
+msgid "Resume"
+msgstr "再開"
+
+#. Scene label
+#. screens: pause_menu.tscn
+msgid "Exit"
+msgstr "終了"
+
+#. Scene label
+#. screens: pause_menu.tscn
+msgid ""
+"Antivirus Survivors 2003 Professional\n"
+"Shaun Hammond Business Solutions Ltd"
+msgstr ""
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Control Panel"
+msgstr "コントロールパネル"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Vsync:"
+msgstr "Vsync(垂直同期):"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Toggle"
+msgstr "切替"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "FPS Cap:"
+msgstr "FPS制限:"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Cycle"
+msgstr "変更"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Language:"
+msgstr "言語:"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Window Mode:"
+msgstr "ウィンドウモード:"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Display Zoom:"
+msgstr "画面ズーム:"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "-"
+msgstr ""
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "+"
+msgstr ""
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Animation Speed:"
+msgstr "アニメーションスピード:"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Master Volume:"
+msgstr "マスターボリューム:"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Music Volume:"
+msgstr "BGMボリューム:"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Keygen Volume:"
+msgstr "キー生成アプリボリューム:"
+
+#. Scene label
+#. screens: shop_screen.tscn
+msgid "Upgrade Shop"
+msgstr "アップグレードショップ"
+
+#. Scene label
+#. screens: sound_button.tscn
+msgid "Sound Button"
+msgstr "音量ボタン"
+
+#. Scene label
+#. screens: upgrade_button.tscn
+msgid "Search Refresh"
+msgstr ""
+
+#. Scene label
+#. screens: upgrade_button.tscn
+msgid ""
+"Increases Refresh Rate for Search by 20%.\n"
+"But here's a second line also."
+msgstr ""
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "BigWave 2003 Edition"
+msgstr ""
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Sources"
+msgstr ""
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Rarity"
+msgstr "レアリティ"
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Size"
+msgstr "サイズ"
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Progress"
+msgstr "進捗"
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Status"
+msgstr "ステータス"
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Seeds"
+msgstr ""
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Speed"
+msgstr "スピード"
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Downloads complete, click to continue..."
+msgstr ""
+
+#. Scene label
+#. screens: upgrade_screen.tscn
+msgid "Insert"
+msgstr "挿入"
+
+#. Scene label
+#. screens: upgrade_screen.tscn
+msgid "Format"
+msgstr "フォーマット"
+
+#. Scene label
+#. screens: upgrade_screen.tscn
+msgid "Tools"
+msgstr "ツール(T)"
+
+#. Scene label
+#. screens: upgrade_screen.tscn
+msgid "Window"
+msgstr "ウィンドウ(W)"
+
+#. Scene label
+#. screens: upgrade_screen.tscn
+msgid "Show Stats"
+msgstr "ステータス表示"
+
+#. Scene label
+msgid "Antivirus Survivors 2003 Professional"
+msgstr ""
