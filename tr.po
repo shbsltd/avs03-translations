@@ -42,7 +42,7 @@ msgstr ""
 #. Class select - name (null)
 #. source: Null
 msgid "CLASS.null.name"
-msgstr "Boş"
+msgstr "Tanımsız"
 
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
@@ -72,7 +72,7 @@ msgstr ""
 #. Class select - name (breakpoint)
 #. source: Breakpoint
 msgid "CLASS.breakpoint.name"
-msgstr "Kırılma Noktası"
+msgstr "Kesme Noktası"
 
 #. Class select - description (breakpoint)
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
@@ -101,7 +101,7 @@ msgstr ""
 #. Class select - name (admin)
 #. source: Admin
 msgid "CLASS.admin.name"
-msgstr "Admin"
+msgstr "Yönetici"
 
 #. Class select - description (admin)
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
@@ -110,7 +110,7 @@ msgstr ""
 "+1 Anahtarla başla.\n"
 "Jeton Kazancını 1.3 katına çıkar.\n"
 "Toplama Mesafesini 1.3 katına çıkar.\n"
-"Dükkanda +%10 indirim.\n"
+"Dükkanda +%10 indirim uygula.\n"
 "Azami Canı 0.9 katına indir.\n"
 "Silah Hasarını 0.85 katına indir."
 
@@ -151,22 +151,22 @@ msgstr ""
 #. Meta upgrade menu - description (armor)
 #. source: Adds +1 Armo(u)r per Rank.
 msgid "META.armor.description"
-msgstr "Rütbe başına +1 Koruma ekler."
+msgstr "Kademe başına +1 Koruma ekler."
 
 #. Meta upgrade menu - description (coin_gain)
 #. source: Multiply Coin Gain by an extra +1% per Rank.
 msgid "META.coin_gain.description"
-msgstr "Jeton Kazancını rütbe başına fazladan +%1 artırır."
+msgstr "Jeton Kazancını kademe başına fazladan +%1 artırır."
 
 #. Meta upgrade menu - description (crit_chance)
 #. source: Increases Crit Chance +1% per Rank.
 msgid "META.crit_chance.description"
-msgstr "Kritik Şansını rütbe başı +%1 yükseltir."
+msgstr "Kritik Şansını kademe başı +%1 yükseltir."
 
 #. Meta upgrade menu - description (crit_damage)
 #. source: Multiply Crit Damage by an extra +2% per Rank.
 msgid "META.crit_damage.description"
-msgstr "Kritik Hasarı rütbe başına fazladan +%2 artır."
+msgstr "Kritik Hasarı kademe başına fazladan +%2 artır."
 
 #. Meta upgrade menu - name (cursor_speed)
 #. source: Cursor Speed
@@ -176,32 +176,32 @@ msgstr "İmleç Hızı"
 #. Meta upgrade menu - description (cursor_speed)
 #. source: Multiply Cursor Speed by an extra +1% per Rank.
 msgid "META.cursor_speed.description"
-msgstr "İmleç Hızını rütbe başına fazladan +%1 artır."
+msgstr "İmleç Hızını kademe başına fazladan +%1 artır."
 
 #. Meta upgrade menu - description (exp_gain)
 #. source: Multiply EXP Gain by an extra +2% per Rank.
 msgid "META.exp_gain.description"
-msgstr "TP Kazancını rütbe başına fazladan +%2 artır."
+msgstr "TP Kazancını kademe başına fazladan +%2 artır."
 
 #. Meta upgrade menu - description (health_regen)
 #. source: Adds +1 Health Regen per Rank.
 msgid "META.health_regen.description"
-msgstr "Rütbe başına +1 puan Can Yenileme ekler."
+msgstr "Kademe başına +1 puan Can Yenileme ekler."
 
 #. Meta upgrade menu - description (luck)
 #. source: Multiply Luck by an extra +1% per Rank.
 msgid "META.luck.description"
-msgstr "Şansı rütbe başına fazladan +%1 artır."
+msgstr "Şansı kademe başına fazladan +%1 artır."
 
 #. Meta upgrade menu - description (magnetism)
 #. source: Multiply Magnetism by an extra +2% per Rank.
 msgid "META.magnetism.description"
-msgstr "Çekim Gücünü rütbe başına fazladan +%2 artır."
+msgstr "Çekim Gücünü kademe başına fazladan +%2 artır."
 
 #. Meta upgrade menu - description (max_health)
 #. source: Adds +10 Max HP per Rank.
 msgid "META.max_health.description"
-msgstr "Azami Cana rütbe başına +10 puan ekler."
+msgstr "Azami Cana kademe başına +10 puan ekler."
 
 #. Meta upgrade menu - name (packet_loss)
 #. source: Packet Loss
@@ -211,42 +211,42 @@ msgstr "Paket Kaybı"
 #. Meta upgrade menu - description (packet_loss)
 #. source: Adds +1 Packet Loss per Rank.
 msgid "META.packet_loss.description"
-msgstr "Rütbe başına +1 Paket Kaybı ekler."
+msgstr "Kademe başına +1 Paket Kaybı ekler."
 
 #. Meta upgrade menu - description (proc_speed)
 #. source: Multiply Processing Speed by an extra +1% per Rank.
 msgid "META.proc_speed.description"
-msgstr "İşlem Hızını rütbe başına fazladan +%1 artır."
+msgstr "İşlem Hızını kademe başına fazladan +%1 artır."
 
 #. Meta upgrade menu - description (weap_amount)
 #. source: Increases Weapon Amount chance +3% per Rank.
 msgid "META.weap_amount.description"
-msgstr "Silah Miktarı şansını rütbe başına +%3 yükseltir."
+msgstr "Silah Miktarı şansını kademe başına +%3 yükseltir."
 
 #. Meta upgrade menu - description (weap_damage)
 #. source: Multiply Weapon Damage by an extra +2% per Rank.
 msgid "META.weap_damage.description"
-msgstr "Silah Hasarını rütbe başına fazladan +%2 artır."
+msgstr "Silah Hasarını kademe başına fazladan +%2 artır."
 
 #. Meta upgrade menu - description (weap_refresh)
 #. source: Multiply Weapon Refresh by an extra +1% per Rank.
 msgid "META.weap_refresh.description"
-msgstr "Silah Yenilemesini rütbe başına fazladan +%1 artır."
+msgstr "Silah Yenilemesini kademe başına fazladan +%1 artır."
 
 #. Meta upgrade menu - description (weap_repel)
 #. source: Multiply Weapon Repel by an extra +1% per Rank.
 msgid "META.weap_repel.description"
-msgstr "Silah Geri Püskürtmesini rütbe başına fazladan +%1 artır."
+msgstr "Silah Geri Püskürtmesini kademe başına fazladan +%1 artır."
 
 #. Meta upgrade menu - description (weap_size)
 #. source: Multiply Weapon Size by an extra +1% per Rank.
 msgid "META.weap_size.description"
-msgstr "Silah Boyutunu rütbe başına fazladan +%1 artır."
+msgstr "Silah Boyutunu kademe başına fazladan +%1 artır."
 
 #. Meta upgrade menu - description (weap_speed)
 #. source: Multiply Weapon Speed by an extra +1% per Rank.
 msgid "META.weap_speed.description"
-msgstr "Silah Hızını rütbe başına fazladan +%1 artır."
+msgstr "Silah Hızını kademe başına fazladan +%1 artır."
 
 #. Plugin - name (armor_boost)
 #. source: Armo(u)r Boost
@@ -572,7 +572,7 @@ msgstr "Kupon Kodu"
 #. Plugin - description (shop_discount_10)
 #. source: Discount Shop Items +10%.
 msgid "PLUGIN.shop_discount_10.description"
-msgstr "Dükkânda +%10 indirim."
+msgstr "Dükkânda +%10 indirim uygula."
 
 #. Plugin - name (shop_discount_25)
 #. source: Volume License
@@ -582,7 +582,7 @@ msgstr "Toplu Lisans"
 #. Plugin - description (shop_discount_25)
 #. source: Discount Shop Items +25%.
 msgid "PLUGIN.shop_discount_25.description"
-msgstr "Dükkânda +%25 indirim."
+msgstr "Dükkânda +%25 indirim uygula."
 
 #. Plugin - name (slow_but_strong)
 #. source: Rau und Stark
@@ -669,7 +669,7 @@ msgstr "Morgan Antivirüs"
 #. source: Difficulty is increased for the rest of the run.\n+1 extra Plus! enemy at each midway point.
 msgid "PLUGIN.morgan_av.description"
 msgstr ""
-"El boyunca zorluk artar.\n"
+"Oturum boyunca zorluk artar.\n"
 "Her ara noktada +1 fazladan Plus! düşmanı."
 
 #. Plugin - name (popup_blocker)
@@ -1776,17 +1776,17 @@ msgstr "Dönen Ölüm Çarkı"
 #. BOSS - name (random)
 #. source: Random Boss
 msgid "BOSS.random.name"
-msgstr "Rastgele Bölüm Sonu Canavarı"
+msgstr "Rastgele Baş Düşman"
 
 #. BOSS
 #. source: Fight a boss you have not met yet.
 msgid "BOSS.random.tooltip_unmet"
-msgstr "Henüz karşılaşmadığın bir bölüm sonu canavarıyla savaş."
+msgstr "Henüz karşılaşmadığın bir baş düşmanla savaş."
 
 #. BOSS
 #. source: Fight a random boss.
 msgid "BOSS.random.tooltip_all_met"
-msgstr "Rastgele bir bölüm sonu canavarıyla savaş."
+msgstr "Rastgele bir baş düşmanla savaş."
 
 #. Elite HUD fallback name
 #. source: Elite
@@ -2283,7 +2283,7 @@ msgstr "Normal"
 #. Rarity label
 #. source: Uncommon
 msgid "RARITY.uncommon"
-msgstr "Nadir Olmayan"
+msgstr "Seyrek"
 
 #. Rarity label
 #. source: Rare
@@ -2329,7 +2329,7 @@ msgstr "%d KB/sn"
 #. UI (script-driven)
 #. source: Vapor - Validating files - {0}% complete
 msgid "UI.vapor_validating"
-msgstr "Vapor - Dosyalar doğrulanıyor - %{0} tamamlandı"
+msgstr "Buhar - Dosyalar doğrulanıyor - %{0} tamamlandı"
 
 #. HUD - level label
 #. source: Level: %d
@@ -2351,7 +2351,7 @@ msgstr "Güvenli Klasöre git!"
 #. End-of-round timer prompt when the boss file drops
 #. source: Get to the Boss File!
 msgid "UI.get_to_boss_file"
-msgstr "Bölüm Sonu Dosyasına git!"
+msgstr "Baş Düşman Dosyasına git!"
 
 #. Upgrade screen - title
 #. source: Level Up!
@@ -2435,7 +2435,7 @@ msgstr "Profil"
 #. Personalise window - locked avatar hint
 #. source: Open .png files in a run to unlock more pictures.
 msgid "UI.personalise_locked_avatar"
-msgstr "Daha fazla resmin kilidini açmak için bir elde .png dosyaları açın."
+msgstr "Daha fazla resmin kilidini açmak için bir oturumda .png dosyaları açın."
 
 #. Personalise window - apply button
 #. source: Apply
@@ -2537,7 +2537,7 @@ msgstr "Klasik Tema"
 #. Cosmetic unlock - vapor theme name
 #. source: Vapor Theme
 msgid "UI.cosmetic_theme_vapor"
-msgstr "Vapor Tema"
+msgstr "Buhar Tema"
 
 #. Cosmetic unlock - gold theme name
 #. source: Gold Theme
@@ -2652,7 +2652,7 @@ msgstr "Klasik"
 #. Personalise - theme name
 #. source: Vapor
 msgid "UI.theme_vapor"
-msgstr "Vapor"
+msgstr "Buhar"
 
 #. Personalise - theme name
 #. source: Olive
@@ -2718,7 +2718,7 @@ msgstr "Kategoriler"
 #. source: Your run records live in these sheet. Switch to Tasks for unlocks.
 msgid "UI.task_virry_stats"
 msgstr ""
-"Bu sayfalarda el kayıtlarınız yer alıyor. Kilit açmak için Görevler "
+"Bu sayfalarda oturum kayıtlarınız yer alıyor. Kilit açmak için Görevler "
 "sekmesine geçin."
 
 #. Virry blurb - weapons tasks
@@ -2793,7 +2793,7 @@ msgstr "En Yüksek Skor"
 #. Profile stats - highest score tooltip
 #. source: Best run score recorded on this profile.
 msgid "UI.stat_highest_score_desc"
-msgstr "Bu profildeki ellerden alınan en iyi skor."
+msgstr "Bu profildeki oturumlardan alınan en iyi skor."
 
 #. Profile stats - time played
 #. source: Time Played
@@ -2803,7 +2803,7 @@ msgstr "Oynama Süresi"
 #. Profile stats - time played tooltip
 #. source: Time spent inside Battle Folders across all runs.
 msgid "UI.stat_time_played_desc"
-msgstr "Bütün eller boyunca savaş klasörlerinde geçirilen zaman."
+msgstr "Bütün oturumlar boyunca savaş klasörlerinde geçirilen zaman."
 
 #. Profile stats - enemies cleared
 #. source: Enemies Cleared
@@ -2813,7 +2813,7 @@ msgstr "Temizlenen Düşmanlar"
 #. Profile stats - enemies cleared tooltip
 #. source: Enemies cleared across all runs.
 msgid "UI.stat_kills_desc"
-msgstr "Bütün eller boyunca temizlenen düşmanlar."
+msgstr "Bütün oturumlar boyunca temizlenen düşmanlar."
 
 #. Profile stats - deaths
 #. source: Deaths
@@ -2828,12 +2828,12 @@ msgstr "Bu profilin gördüğü mavi ekran sayısı."
 #. Profile stats - runs finished
 #. source: Runs
 msgid "UI.stat_runs"
-msgstr "El"
+msgstr "Oturumlar"
 
 #. Profile stats - runs finished tooltip
 #. source: Runs started and finished on this profile.
 msgid "UI.stat_runs_desc"
-msgstr "Bu profille başlatılan ve bitirilen el sayısı."
+msgstr "Bu profille başlatılan ve bitirilen oturum sayısı."
 
 #. Profile stats - runs completed
 #. source: Completions
@@ -2843,7 +2843,7 @@ msgstr "Tamamlamalar"
 #. Profile stats - runs completed tooltip
 #. source: Runs that completed a Protocol.
 msgid "UI.stat_runs_won_desc"
-msgstr "Protokolü tamamlayan eller."
+msgstr "Protokolü tamamlayan oturumlar."
 
 #. Profile stats - critical hits
 #. source: Critical Hits
@@ -2853,7 +2853,7 @@ msgstr "Kritik Vuruşlar"
 #. Profile stats - critical hits tooltip
 #. source: Critical hits landed across all runs.
 msgid "UI.stat_crits_desc"
-msgstr "Bütün eller boyunca isabet eden kritik vuruşlar."
+msgstr "Bütün oturumlar boyunca isabet eden kritik vuruşlar."
 
 #. Profile stats - total damage dealt
 #. source: Damage Dealt
@@ -2863,7 +2863,7 @@ msgstr "Verilen Hasar"
 #. Profile stats - total damage dealt tooltip
 #. source: Total damage dealt to enemies across all runs.
 msgid "UI.stat_damage_dealt_desc"
-msgstr "Bütün eller boyunca düşmanlara verilen toplam hasar."
+msgstr "Bütün oturumlar boyunca düşmanlara verilen toplam hasar."
 
 #. Profile stats - total damage taken
 #. source: Damage Taken
@@ -2873,7 +2873,7 @@ msgstr "Alınan Hasar"
 #. Profile stats - total damage taken tooltip
 #. source: Total damage taken across all runs.
 msgid "UI.stat_damage_taken_desc"
-msgstr "Bütün eller boyunca alınan toplam hasar."
+msgstr "Bütün oturumlar boyunca alınan toplam hasar."
 
 #. Profile stats - biggest single hit
 #. source: Biggest Hit
@@ -2893,7 +2893,7 @@ msgstr "Açılan Dosyalar"
 #. Profile stats - files opened tooltip
 #. source: All folders and files double-clicked across runs.
 msgid "UI.stat_files_opened_desc"
-msgstr "Bütün eller boyunca çift tıklanan klasörler ve dosyalar."
+msgstr "Bütün oturumlar boyunca çift tıklanan klasörler ve dosyalar."
 
 #. Profile stats - safe folders
 #. source: Safe Folders
@@ -2903,7 +2903,7 @@ msgstr "Güvenli Dosyalar"
 #. Profile stats - safe folders tooltip
 #. source: Safe folders opened across all runs.
 msgid "UI.stat_safe_folders_desc"
-msgstr "Bütün eller boyunca açılan güvenli klasörler."
+msgstr "Bütün oturumlar boyunca açılan güvenli klasörler."
 
 #. Profile stats - highest level
 #. source: Highest Level
@@ -2913,7 +2913,7 @@ msgstr "En Yüksek Seviye"
 #. Profile stats - highest level tooltip
 #. source: Highest player level reached in a single run.
 msgid "UI.stat_max_level_desc"
-msgstr "Bir elde erişilen en yüksek oyuncu seviyesi."
+msgstr "Bir oturumda erişilen en yüksek oyuncu seviyesi."
 
 #. Profile stats - HP healed
 #. source: HP Healed
@@ -2923,7 +2923,7 @@ msgstr "İyileştirilen Can"
 #. Profile stats - HP healed tooltip
 #. source: Total HP restored across all runs.
 msgid "UI.stat_hp_healed_desc"
-msgstr "Bütün eller boyunca iyileştirilen toplam can."
+msgstr "Bütün oturumlar boyunca iyileştirilen toplam can."
 
 #. Profile stats - plugins installed
 #. source: Plugins Installed
@@ -2933,7 +2933,7 @@ msgstr "Yüklenen Eklentiler"
 #. Profile stats - plugins installed tooltip
 #. source: Plugins installed across all runs.
 msgid "UI.stat_plugins_desc"
-msgstr "Bütün eller boyunca yüklenen eklentiler."
+msgstr "Bütün oturumlar boyunca yüklenen eklentiler."
 
 #. Profile stats - zip files opened tooltip
 #. source: Zip archives successfully extracted.
@@ -2983,7 +2983,7 @@ msgstr "Toplanan Jeton"
 #. Profile stats - coins collected tooltip
 #. source: Coin picked up across all runs.
 msgid "UI.stat_coins_collected_desc"
-msgstr "Bütün eller boyunca toplanan jeton sayısı."
+msgstr "Bütün oturumlar boyunca toplanan jeton sayısı."
 
 #. Profile stats - keys collected
 #. source: Keys Collected
@@ -2993,7 +2993,7 @@ msgstr "Toplanan Anahtar"
 #. Profile stats - keys collected tooltip
 #. source: Keys collected across all runs.
 msgid "UI.stat_keys_collected_desc"
-msgstr "Bütün eller boyunca toplanan ürün anahtarları."
+msgstr "Bütün oturumlar boyunca toplanan ürün anahtarları."
 
 #. Profile stats - highest weapon level
 #. source: Highest Weapon Level
@@ -3003,7 +3003,7 @@ msgstr "En Yüksek Silah Seviyesi"
 #. Profile stats - highest weapon level tooltip
 #. source: Highest weapon level reached in a single run.
 msgid "UI.stat_weapon_level_desc"
-msgstr "Bir elde ulaşılan en yüksek silah seviyesi."
+msgstr "Bir oturumda ulaşılan en yüksek silah seviyesi."
 
 #. Profile stats - favourite weapon by time used
 #. source: Favourite Weapon
@@ -3051,12 +3051,12 @@ msgstr "Bu silahla temizlenen düşmanlar."
 #. Profile stats - class sheet row tooltip
 #. source: Runs completed with this Cursor Class.
 msgid "UI.stat_class_row_desc"
-msgstr "Bu imleç sınıfıyla tamamlanan eller."
+msgstr "Bu imleç sınıfıyla tamamlanan oturumlar."
 
 #. Profile stats - policy sheet row tooltip
 #. source: Runs completed with this Policy.
 msgid "UI.stat_policy_row_desc"
-msgstr "Bu İlkeyle bitirilen eller."
+msgstr "Bu İlkeyle bitirilen oturumlar."
 
 #. Profile stats - enemy sheet row tooltip
 #. source: Times this enemy type has been cleared.
@@ -3066,7 +3066,7 @@ msgstr "Bu düşman türünün kaç defa temizlendiği."
 #. Profile stats - protocol completions row tooltip
 #. source: Runs completed on this Protocol.
 msgid "UI.stat_protocol_wins_desc"
-msgstr "Bu Protokolde tamamlanan eller."
+msgstr "Bu Protokolde tamamlanan oturumlar."
 
 #. Profile stats - overall sheet tab
 #. source: Overall
@@ -3142,12 +3142,12 @@ msgstr "Sayfa %d"
 #. Vapor store - window title
 #. source: Vapor Store
 msgid "UI.vapor_store_title"
-msgstr "Vapor Mağazası"
+msgstr "Buhar Mağazası"
 
 #. Vapor store - black header logo wordmark
 #. source: VAPOR
 msgid "UI.vapor_store_brand"
-msgstr "VAPOR"
+msgstr "BUHAR"
 
 #. Vapor store - special files explanation
 #. source: Special Files spawn during battle. While one is active, hold {special} to use it.
@@ -3180,7 +3180,7 @@ msgstr "Kilitleri Ekle/Kaldır"
 #. Add/Remove Unlocks - weapons tab intro
 #. source: Unlock new weapons to start with and choose during runs.
 msgid "UI.features_store_intro_weapons"
-msgstr "Başlangıçta ve el sırasında seçmek için yeni silahların kilidini aç."
+msgstr "Başlangıçta ve oturum sırasında seçmek için yeni silahların kilidini aç."
 
 #. Add/Remove Unlocks - cursors tab intro
 #. source: Unlock new Cursor Classes to start with.
@@ -3190,7 +3190,7 @@ msgstr "Başlangıç için yeni imleç sınıflarının kilidini aç."
 #. Add/Remove Unlocks - plugins tab intro
 #. source: Unlock new Plugins to install during runs.
 msgid "UI.features_store_intro_plugins"
-msgstr "El sırasında yüklemek için yeni eklentilerin kilidini aç."
+msgstr "Oturum sırasında yüklemek için yeni eklentilerin kilidini aç."
 
 #. Add/Remove Unlocks - safe files tab intro
 #. source: Unlock new file types to use in Safe Folders.
@@ -3292,7 +3292,7 @@ msgstr "Protokol"
 #. Task tooltip type - boss file
 #. source: Boss File
 msgid "UI.task_group_singular_file"
-msgstr "Bölüm Sonu Canavarı Dosyası"
+msgstr "Baş Düşman Dosyası"
 
 #. Task tooltip type - singular
 #. source: Theme
@@ -3364,7 +3364,7 @@ msgstr ""
 #. source: Run Beanz: x%.2f
 #. Keep placeholders unchanged: %.2f
 msgid "UI.policies_beanz_multiplier"
-msgstr "El Beanz çarpanı: x%.2f"
+msgstr "Oturum Beanz çarpanı: x%.2f"
 
 #. UI (script-driven)
 #. source: Policies
@@ -3482,7 +3482,7 @@ msgstr "%s +%d Beanz"
 #. source: Reach level {amount} with {weapon} in a single run
 #. Keep placeholders unchanged: {amount}, {weapon}
 msgid "UI.unlock_driver_req"
-msgstr "Tek bir elde {weapon} silahıyla {amount}. seviyeye ulaş."
+msgstr "Tek bir oturumda {weapon} silahıyla {amount}. seviyeye ulaş."
 
 #. Weapon driver unlock reward template
 #. source: {weapon} Drivers
@@ -3584,7 +3584,7 @@ msgstr "Yeterli Anahtar Yok :("
 #. source: Your first of four weapons for the run. You'll pick more as you level up.
 msgid "UI.starter_help_weapons"
 msgstr ""
-"Bu eldeki dört silahından ilki. Seviye atladıkça daha fazlasını seçeceksin."
+"Bu oturumdaki dört silahından ilki. Seviye atladıkça daha fazlasını seçeceksin."
 
 #. Starter folder cursor class category help
 #. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
@@ -3597,7 +3597,7 @@ msgstr ""
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
 msgid "UI.starter_help_difficulty"
 msgstr ""
-"Klasör Zorluğu, o elin kurallarını belirler: düşman baskısı, ödüller ve "
+"Klasör Zorluğu, o oturumun kurallarını belirler: düşman baskısı, ödüller ve "
 "kilidini açabilecekleriniz."
 
 #. Starter folder policies category help
@@ -3668,7 +3668,7 @@ msgid "UI.tutorial_4_body"
 msgstr ""
 "Başlayabilmek için bir tane Başlangıç Silahı seçebilirsin.\n"
 "\n"
-"Dizilimine daha fazla silah eklemek için el boyunca ilerle ve seviye "
+"Dizilimine daha fazla silah eklemek için oturum boyunca ilerle ve seviye "
 "atla.\n"
 "\n"
 "Seviye atladığında, kendini geliştirmek için silah ve oyuncu yükseltmeleri "
@@ -4090,7 +4090,7 @@ msgstr "{weapon} silahını {amount}. seviyeye getir"
 #. source: Reach level {amount} in a single run
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_reach_level"
-msgstr "Tek bir elde {amount}. seviyeye ulaş."
+msgstr "Tek bir oturumda {amount}. seviyeye ulaş."
 
 #. Unlock requirement - deal N damage
 #. source: Deal {amount} damage
@@ -4126,7 +4126,7 @@ msgstr "{amount} arşiv dosyasını başarıyla dışarı çıkart"
 #. source: Open vapor.exe {amount} times
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_open_vapor"
-msgstr "Vapor.exe'yi {amount} defa aç"
+msgstr "Buhar.exe'yi {amount} defa aç"
 
 #. Unlock requirement - clear N of an enemy type
 #. source: Clear {amount} {enemy} enemies
@@ -4138,7 +4138,7 @@ msgstr "{amount} {enemy} düşmanı temizle"
 #. source: Complete {amount} runs
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_win_runs"
-msgstr "{amount} defa el tamamla"
+msgstr "{amount} defa oturum tamamla"
 
 #. Unlock requirement - have overlay windows in all 4 corners at once
 #. source: Have windows in all 4 corners at once
@@ -4189,7 +4189,7 @@ msgstr "{amount} eklenti kur"
 #. source: Collect {amount} Keys in a single run
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_collect_keys_run"
-msgstr "Tek bir turda {amount} Anahtar topla."
+msgstr "Tek bir oturumda {amount} Anahtar topla."
 
 #. Unlock requirement - collect N Keys lifetime
 #. source: Collect {amount} Keys
@@ -4287,7 +4287,7 @@ msgstr "{boss} düşmanını yen"
 #. Unlock requirement - defeat any boss
 #. source: Defeat any boss
 msgid "UI.unlock_defeat_any_boss"
-msgstr "Herhangi bir bölüm sonu canavarını yen"
+msgstr "Herhangi bir baş düşmanı yen"
 
 #. Unlock reward - boss choice file
 #. source: {boss} File
@@ -4299,7 +4299,7 @@ msgstr "{boss} Dosyası"
 #. source: Lets you choose {boss} at the end of a run instead of only Random Boss.
 #. Keep placeholders unchanged: {boss}
 msgid "UI.unlock_boss_choice_desc"
-msgstr "Rastgele bir bölüm sonu canavarı yerine {boss} seçebilmeni sağlar."
+msgstr "Rastgele bir baş düşman yerine {boss} seçebilmeni sağlar."
 
 #. Unlock requirement - land a hit of N damage
 #. source: Land a single hit of {amount} damage
@@ -4340,7 +4340,7 @@ msgstr "10 defa öl"
 #. source: Collect {amount} Coin in a single run
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_widget_nos"
-msgstr "Bir elde {amount} Jeton topla."
+msgstr "Bir oturumda {amount} Jeton topla."
 
 #. UI (script-driven)
 #. source: Temporarily boost cursor speed for a short burst.
@@ -4490,18 +4490,18 @@ msgstr "Toplam açılan dosya eşiği."
 #. source: {file} files opened across all runs.
 #. Keep placeholders unchanged: {file}
 msgid "UI.unlock_general_file_type_desc"
-msgstr "Tüm ellerde açılan {file} dosyası."
+msgstr "Tüm oturumlarda açılan {file} dosyası."
 
 #. Lifetime Download More RAM milestone description
 #. source: Download More RAM completed across all runs.
 msgid "UI.unlock_general_download_ram_desc"
-msgstr "Tüm ellerde indirilen RAM'ler."
+msgstr "Tüm oturumlarda indirilen RAM'ler."
 
 #. Lifetime enemy-type clears milestone description
 #. source: {enemy} enemies cleared across all runs.
 #. Keep placeholders unchanged: {enemy}
 msgid "UI.unlock_general_enemy_desc"
-msgstr "Tüm ellerde temizlenen {enemy} düşmanları."
+msgstr "Tüm oturumlarda temizlenen {enemy} düşmanları."
 
 #. Lifetime critical hits milestone description
 #. source: Lifetime critical hits milestone.
@@ -4521,7 +4521,7 @@ msgstr "En büyük vuruş eşiği."
 #. Lifetime run completions milestone description
 #. source: Runs completed successfully.
 msgid "UI.unlock_general_wins_desc"
-msgstr "Başarıyla tamamlanan eller."
+msgstr "Başarıyla tamamlanan oturumlar."
 
 #. Lifetime tasks completed milestone description
 #. source: Tasks completed from the list.
@@ -4531,7 +4531,7 @@ msgstr "Listedeki tamamlanan görevler."
 #. Single-run level milestone description
 #. source: Single-run level milestone.
 msgid "UI.unlock_general_level_desc"
-msgstr "Tek bir turda ulaşılan seviye eşiği."
+msgstr "Tek bir oturumda ulaşılan seviye eşiği."
 
 #. Optional extra difficulty policy - name (legacy_hardware)
 #. source: Legacy Hardware
@@ -4653,7 +4653,7 @@ msgstr "Kritik Hata"
 #. Optional extra difficulty policy - description (fatal_exception)
 #. source: Touching the void ends the run.
 msgid "POLICY.fatal_exception.description"
-msgstr "Boşluğa dokunmak eli bitirir."
+msgstr "Boşluğa dokunmak oturumu sonlandırır."
 
 #. Optional extra difficulty policy - name (redirected_folders)
 #. source: Redirected Folders
@@ -4787,7 +4787,7 @@ msgstr "Yükseltilenler"
 #. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
 msgstr ""
-"Bu el için bir sonraki savaşlarda Can Kontrolü dosyaları daha fazla kalp "
+"Bu oturum için bir sonraki savaşlarda Can Kontrolü dosyaları daha fazla kalp "
 "verir."
 
 #. Health Check Pro heal tooltip
@@ -4875,7 +4875,7 @@ msgstr "Pozisyon"
 #. Finance Manager run-stats group
 #. source: Run Stats
 msgid "UI.stock_trader_group_run"
-msgstr "El İstatistikleri"
+msgstr "Oturum İstatistikleri"
 
 #. Finance Manager wallet group
 #. source: Wallet
@@ -5013,7 +5013,7 @@ msgstr "Açmak için Çift Tıkla"
 #. Desktop icon tooltip
 #. source: Double-Click to Run
 msgid "CLICKABLE.double_click_run"
-msgstr "Yürütmek için Çift Tıkla"
+msgstr "Çalıştırmak için Çift Tıkla"
 
 #. Desktop icon tooltip
 #. source: Downloads 1-5 Weapon Upgrades
@@ -5132,7 +5132,7 @@ msgstr "Ekrandaki her şeyi yok eder!"
 #. Desktop icon tooltip
 #. source: Harder run. Extra Plus! enemies.
 msgid "CLICKABLE.morgan_av_warning"
-msgstr "Daha zor el. Fazladan Plus! düşmanları."
+msgstr "Daha zor oturum. Fazladan Plus! düşmanları."
 
 #. Stat tooltip
 #. source: Level %d
@@ -5180,7 +5180,7 @@ msgstr "Güç: %.1f"
 #. source: Damage this run: %.0f
 #. Keep placeholders unchanged: %.0f
 msgid "TOOLTIP.run_damage"
-msgstr "Eldeki hasar: %.0f"
+msgstr "Oturumdaki hasar: %.0f"
 
 #. Stat tooltip
 #. source: DPS: %.1f
@@ -5227,12 +5227,12 @@ msgstr "Sürücüler"
 #. source: Rank: %d/%d
 #. Keep placeholders unchanged: %d
 msgid "META.rank"
-msgstr "Rütbe: %d/%d"
+msgstr "Kademe: %d/%d"
 
 #. Meta upgrade menu
 #. source: MAX RANK
 msgid "META.rank_max"
-msgstr "AZAMİ RÜTBE"
+msgstr "AZAMİ KADEME"
 
 #. Meta upgrade menu
 #. source: Cost: %d Beanz
@@ -5306,7 +5306,7 @@ msgstr "Zorluk"
 #. Run stats panel row
 #. source: Current protocol difficulty for this run.
 msgid "RUNSTAT.difficulty_desc"
-msgstr "Bu eldeki mevcut zorluk protokolü."
+msgstr "Bu oturumdaki mevcut zorluk protokolü."
 
 #. Run stats panel row
 #. source: Levels Gained
@@ -5316,7 +5316,7 @@ msgstr "Kazanılan Seviye"
 #. Run stats panel row
 #. source: Levels gained from experience this run.
 msgid "RUNSTAT.levels_gained_desc"
-msgstr "Bu el tecrübeyle kazanılan seviye."
+msgstr "Bu oturum tecrübeyle kazanılan seviye."
 
 #. Run stats panel row
 #. source: EXP Gained
@@ -5326,7 +5326,7 @@ msgstr "Kazanılan TP"
 #. Run stats panel row
 #. source: Total experience collected this run.
 msgid "RUNSTAT.exp_gained_desc"
-msgstr "Bu el kazanılan toplam tecrübe."
+msgstr "Bu oturum kazanılan toplam tecrübe."
 
 #. Run stats panel row
 #. source: Safe Folders Opened
@@ -5336,27 +5336,27 @@ msgstr "Açılan Güvenli Klasör"
 #. Run stats panel row
 #. source: Safe folders opened this run.
 msgid "RUNSTAT.safe_folders_desc"
-msgstr "Bu el açılan güvenli klasörler."
+msgstr "Bu oturum açılan güvenli klasörler."
 
 #. Run stats panel row
 #. source: Folders and files opened this run.
 msgid "RUNSTAT.files_opened_desc"
-msgstr "Bu el açılan klasörler ve dosyalar."
+msgstr "Bu oturum açılan klasörler ve dosyalar."
 
 #. Run stats panel row
 #. source: Enemies cleared this run.
 msgid "RUNSTAT.enemies_cleared_desc"
-msgstr "Bu el temizlenen düşmanlar."
+msgstr "Bu oturum temizlenen düşmanlar."
 
 #. Run stats panel row
 #. source: Coins collected this run.
 msgid "RUNSTAT.coin_collected_desc"
-msgstr "Bu el toplanan jeton."
+msgstr "Bu oturum toplanan jeton."
 
 #. Run stats panel row
 #. source: Keys collected this run.
 msgid "RUNSTAT.keys_collected_desc"
-msgstr "Bu el toplanan anahtar."
+msgstr "Bu oturum toplanan anahtar."
 
 #. Run stats panel row
 #. source: Beanz Collected
@@ -5366,7 +5366,7 @@ msgstr "Kazanılan Beanz"
 #. Run stats panel row
 #. source: Beanz earned this run.
 msgid "RUNSTAT.beanz_collected_desc"
-msgstr "Bu el toplanan Beanz."
+msgstr "Bu oturum toplanan Beanz."
 
 #. Run stats panel row
 #. source: Score
@@ -5377,7 +5377,7 @@ msgstr "Puan"
 #. source: Run score from clears, levels, safe folders, and a completion bonus.
 msgid "RUNSTAT.score_desc"
 msgstr ""
-"Temizlik, seviye, güvenli klasör ve bitirme bonuslarından kazanılan el "
+"Temizlik, seviye, güvenli klasör ve bitirme bonuslarından kazanılan oturum "
 "puanı."
 
 #. Run stats panel row
@@ -5388,7 +5388,7 @@ msgstr "Sınıf"
 #. Run stats panel row
 #. source: Cursor class chosen for this run.
 msgid "RUNSTAT.class_desc"
-msgstr "Bu el seçilen imleç sınıfı."
+msgstr "Bu oturum seçilen imleç sınıfı."
 
 #. Run stats panel row
 #. source: Policy
@@ -5398,7 +5398,7 @@ msgstr "İlke"
 #. Run stats panel row
 #. source: Extra difficulty policy enabled for this run.
 msgid "RUNSTAT.policy_desc"
-msgstr "Bu el tanımlanan fazladan zorluk ilkeleri."
+msgstr "Bu oturum tanımlanan fazladan zorluk ilkeleri."
 
 #. Run stats panel row
 #. source: None
@@ -5414,7 +5414,7 @@ msgstr "Tamamlanan Görevler - %d"
 #. UI (script-driven)
 #. source: No new tasks this run
 msgid "UI.win_tasks_empty"
-msgstr "Bu el yeni görev yok"
+msgstr "Bu oturum yeni görev yok"
 
 #. Safe Folder explorer - tree pane header
 #. source: Folders
@@ -5478,17 +5478,17 @@ msgstr "DPS"
 #. Run DPS tooltip
 #. source: Damage per second this run, during Battle Folders only.
 msgid "RUNSTAT.dps_desc"
-msgstr "Bu eldeki, yalnızca Savaş Klasörleri boyunca saniye başına hasar."
+msgstr "Bu oturumdaki, yalnızca Savaş Klasörleri boyunca saniye başına hasar."
 
 #. Run damage dealt tooltip
 #. source: Total damage dealt this run.
 msgid "RUNSTAT.damage_dealt_desc"
-msgstr "Bu el verilen toplam hasar."
+msgstr "Bu oturum verilen toplam hasar."
 
 #. Run biggest hit tooltip
 #. source: Highest single hit this run.
 msgid "RUNSTAT.biggest_hit_desc"
-msgstr "Bu eldeki en yüksek tek vuruş."
+msgstr "Bu oturumdaki en yüksek tek vuruş."
 
 #. Run Side Tasks completed label
 #. source: Side Tasks
@@ -5498,7 +5498,7 @@ msgstr "Yan Görevler"
 #. Run Side Tasks completed tooltip
 #. source: Side Tasks completed this run.
 msgid "RUNSTAT.side_tasks_desc"
-msgstr "Bu el tamamlanan yan görevler."
+msgstr "Bu oturum tamamlanan yan görevler."
 
 #. Last round DPS tooltip
 #. source: Damage per second in the last Battle Folder.
@@ -5566,7 +5566,7 @@ msgstr "keygen.exe"
 
 #. vapor
 msgid "vapor.exe"
-msgstr "vapor.exe"
+msgstr "buhar.exe"
 
 #. frenzy
 msgid "frenzy.exe"
@@ -6341,7 +6341,7 @@ msgstr "BU HAFTAKİ 1,000,0000ncı ZİYRETÇİ!!! ÖDÜL KAZANDIN!"
 #. Scene label
 #. screens: vapor_exe.tscn
 msgid "Vapor.exe"
-msgstr "Vapor.exe"
+msgstr "Buhar.exe"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6569,7 +6569,7 @@ msgstr ""
 "çok yakında\n"
 "- daha fazla silah\n"
 "- daha fazla düşman\n"
-"- bölüm sonu canavarları\n"
+"- baş düşmanlar\n"
 "- sınıflar\n"
 "- duvar kağıtları\n"
 "- silah evrimleri\n"
@@ -6719,10 +6719,8 @@ msgstr "Arama Yenileme"
 #. screens: upgrade_button.tscn
 msgid ""
 "Increases Refresh Rate for Search by 20%.\n"
-"But here's a second line also."
 msgstr ""
 "Arama için Yenileme Hızını %20 artırır.\n"
-"Ama işte ikinci bir satır daha."
 
 #. Scene label
 #. screens: torrent_window.tscn
@@ -6752,7 +6750,7 @@ msgstr "Durum"
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "Seeds"
-msgstr "Besleyenler"
+msgstr "Seed"
 
 #. Scene label
 #. screens: torrent_window.tscn
