@@ -942,9 +942,9 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr "Packet Loss"
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_dodge.description"
-msgstr "Chance to dogde all incoming Damage. (Exponential)"
+msgstr "Chance to dodge all incoming Damage. (Exponential)"
 
 #. Stat display - name (upgrade_player_exp_gain)
 #. source: EXP Gain
