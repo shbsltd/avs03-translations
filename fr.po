@@ -33,7 +33,9 @@ msgstr "Standard"
 #. Class select - description (default)
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 msgid "CLASS.default.description"
-msgstr "Le pointeur standard."
+msgstr ""
+"Aucun bonus ni malus de classe.\n"
+"Pointeur de base équilibré."
 
 #. Class select - name (null)
 #. source: Null
@@ -68,7 +70,7 @@ msgstr ""
 #. Class select - name (breakpoint)
 #. source: Breakpoint
 msgid "CLASS.breakpoint.name"
-msgstr "Pointe"
+msgstr "Point d'arrêt"
 
 #. Class select - description (breakpoint)
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
@@ -83,7 +85,7 @@ msgstr ""
 #. Class select - name (thread)
 #. source: Thread
 msgid "CLASS.thread.name"
-msgstr "Air"
+msgstr "Thread"
 
 #. Class select - description (thread)
 #. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
@@ -283,7 +285,7 @@ msgstr "Édition entreprise"
 msgid "PLUGIN.big_hp_regen_boost.description"
 msgstr ""
 "Ajoute +64 PV.\n"
-"Ajoute +12 regénération de PV."
+"Ajoute +12 de régénération de PV."
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -429,7 +431,7 @@ msgstr "Défragmentation pendant l'apparition du dossier sécurisé."
 #. Plugin - name (dual_core)
 #. source: Dual Core
 msgid "PLUGIN.dual_core.name"
-msgstr "Double noyaux"
+msgstr "Double cœur"
 
 #. Plugin - description (dual_core)
 #. source: Multiply Processing Speed 2.0x.
@@ -464,12 +466,13 @@ msgstr "AutoRégen"
 #. Plugin - description (hp_on_heal)
 #. source: 7% Chance to Add +3 Max HP when Healed. (5s Cooldown).
 msgid "PLUGIN.hp_on_heal.description"
-msgstr "7% de chance d'ajouter +3 PV quand la barre de PV est pleine."
+msgstr ""
+"7% de chance d'ajouter +3 PV max quand tu es soigné (5s temps d'attente)."
 
 #. Plugin - name (locate_pointer)
 #. source: Locate Pointer
 msgid "PLUGIN.locate_pointer.name"
-msgstr "Aidez moi!"
+msgstr "Aidez-moi !"
 
 #. Plugin - description (locate_pointer)
 #. source: Trigger a Blast when taking damage (20s cooldown, reduced per stack).
@@ -489,7 +492,7 @@ msgstr "Multiplie la chance par 1.1x."
 #. Plugin - name (luck_reroll)
 #. source: Lucky Break
 msgid "PLUGIN.luck_reroll.name"
-msgstr "Pause chanceuse"
+msgstr "Coup de chance"
 
 #. Plugin - description (luck_reroll)
 #. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
@@ -511,7 +514,7 @@ msgstr "Incrémente la chance par +3% après extraction d'un dossier compressé.
 #. Plugin - name (lucky_when_hurt)
 #. source: Lucky When Hurt
 msgid "PLUGIN.lucky_when_hurt.name"
-msgstr "Malchanceux"
+msgstr "Chanceux dans le malheur"
 
 #. Plugin - description (lucky_when_hurt)
 #. source: Multiply Luck 2.0x when taking Damage (Lasts 6s).
@@ -551,12 +554,12 @@ msgstr "Multiplie la vitesse du processeur par 1.1x."
 #. Plugin - name (regen_boost)
 #. source: Health Regen Boost
 msgid "PLUGIN.regen_boost.name"
-msgstr "Boost de regéneration"
+msgstr "Boost de régénération"
 
 #. Plugin - description (regen_boost)
 #. source: Add +5 Health Regen.
 msgid "PLUGIN.regen_boost.description"
-msgstr "Ajoute +5 de regéneration de PV."
+msgstr "Ajoute +5 de régénération de PV."
 
 #. Plugin - name (shop_discount_10)
 #. source: Coupon Code
@@ -664,7 +667,7 @@ msgstr "Antivirus Morgan"
 msgid "PLUGIN.morgan_av.description"
 msgstr ""
 "Difficulté incrémentée pendant le reste de cette session.\n"
-"+1 ennemi Plus! pendant un dossier de combat."
+"+1 ennemi Plus! supplémentaire à chaque mi-parcours."
 
 #. Plugin - name (popup_blocker)
 #. source: Realtime Protection
@@ -699,7 +702,7 @@ msgstr "+1 pièce en ouvrant un fichier."
 #. Plugin - name (still_frame)
 #. source: Still Frame
 msgid "PLUGIN.still_frame.name"
-msgstr "Pas bouge!"
+msgstr "Pas bouger !"
 
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
@@ -772,7 +775,7 @@ msgstr "Hôpital ZIP"
 #. Plugin - description (zip_recover)
 #. source: Successful Zips leave a green healing zone.
 msgid "PLUGIN.zip_recover.description"
-msgstr "Fichiers ZIP ouverts créent une zone verte qui régénère des PV."
+msgstr "Les fichiers ZIP ouverts créent une zone verte qui régénère des PV."
 
 #. Plugin - name (vapidshare_pro)
 #. source: Vapidshare Pro
@@ -847,7 +850,7 @@ msgstr "Slot d'expansion"
 #. Plugin - description (expansion_slot)
 #. source: Equip a random extra weapon at level 6.
 msgid "PLUGIN.expansion_slot.description"
-msgstr "Gagne une arme de niveau 6 aléatoire."
+msgstr "Gagne une arme supplémentaire aléatoire au niveau 6."
 
 #. Plugin - name (task_manager)
 #. source: Task Manager
@@ -881,7 +884,9 @@ msgstr "Restauration système"
 #. Plugin - description (system_restore)
 #. source: On death, heal 50% of Max HP instead of Blue Screen.\nOnce per stack.
 msgid "PLUGIN.system_restore.description"
-msgstr "Régénère 50% des PV maxi au lieu d'un Bluescreen en cas de mort."
+msgstr ""
+"Régénère 50% des PV maxi au lieu d'un Bluescreen en cas de mort.\n"
+"Une fois par exemplaire."
 
 #. Plugin - name (power_user)
 #. source: Power User
@@ -906,7 +911,7 @@ msgstr "Ajoute +1 amélioration dans la boutique."
 #. Plugin - name (extra_upgrade_choice)
 #. source: Optional Components
 msgid "PLUGIN.extra_upgrade_choice.name"
-msgstr "Composants optionaux"
+msgstr "Composants optionnels"
 
 #. Plugin - description (extra_upgrade_choice)
 #. source: Add +1 upgrade choice on Level Up.
@@ -976,7 +981,7 @@ msgstr "Protection"
 #. Stat display - description (upgrade_player_armor)
 #. source: Resistence from all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_armor.description"
-msgstr "Résistance contre les attaques ennemis. (Exponentiel)"
+msgstr "Résistance contre les attaques ennemies. (Exponentiel)"
 
 #. Stat display - name (upgrade_player_coin_gain)
 #. source: Coin Gain
@@ -1046,7 +1051,7 @@ msgstr "Régénération PV"
 #. Stat display - description (upgrade_player_health_regen)
 #. source: Amount of Health Regen every 20s.
 msgid "STAT.upgrade_player_health_regen.description"
-msgstr "Nombre de PV régénéré toutes les 20s."
+msgstr "Nombre de PV régénérés toutes les 20s."
 
 #. Stats manager - HP value format
 #. source: {sign}{value} HP
@@ -1137,7 +1142,9 @@ msgstr "Nombre d'armes"
 #. Stat display - description (upgrade_player_weap_amount)
 #. source: Chance of additional weapon spawns on attack. Relative to base amount.
 msgid "STAT.upgrade_player_weap_amount.description"
-msgstr "Chance d'apparition d'armes additionelles."
+msgstr ""
+"Chance d'apparition d'armes additionnelles, proportionnelle à la quantité de "
+"base."
 
 #. Stat display - name (upgrade_player_weap_size)
 #. source: Weapon Size
@@ -1565,12 +1572,14 @@ msgstr ""
 #. Upgrade card - name (weapon_scimitar)
 #. source: Scimitar
 msgid "UPGRADE.weapon_scimitar.name"
-msgstr "Scimitar"
+msgstr "Cimeterre"
 
 #. Upgrade card - description (weapon_scimitar)
 #. source: Slashes above and below the cursor. Extra amount adds alternating slashes.
 msgid "UPGRADE.weapon_scimitar.description"
-msgstr "Coupe les ennemis situés en haut et en bas du curseur."
+msgstr ""
+"Coupe les ennemis situés en haut et en bas du curseur. Chaque quantité "
+"supplémentaire ajoute des coups alternés."
 
 #. Upgrade card - name (weapon_sniper)
 #. source: Sniper 1.6
@@ -1593,7 +1602,7 @@ msgstr "Mines"
 #. source: Tosses mines that plant, then explode when an enemy touches them.
 msgid "UPGRADE.weapon_minesweeper.description"
 msgstr ""
-"Lance des mines qui se plantes dans le sol et explosent quand un ennemi "
+"Lance des mines qui se plantent dans le sol et explosent quand un ennemi "
 "entre en contact."
 
 #. Upgrade card - name (weapon_email)
@@ -1743,7 +1752,7 @@ msgstr "lien"
 #. Weapon metadata
 #. source: ring
 msgid "WEAPON.modem.spawn_noun"
-msgstr "appel"
+msgstr "onde"
 
 #. BOSS - name (recycle_bin)
 #. source: Recycle Bin
@@ -1768,12 +1777,12 @@ msgstr "Boss au hasard"
 #. BOSS
 #. source: Fight a boss you have not met yet.
 msgid "BOSS.random.tooltip_unmet"
-msgstr "Confronte un boss inconnu."
+msgstr "Affronte un boss inconnu."
 
 #. BOSS
 #. source: Fight a random boss.
 msgid "BOSS.random.tooltip_all_met"
-msgstr "Confronte un boss à l'aléatoire."
+msgstr "Affronte un boss aléatoire."
 
 #. Elite HUD fallback name
 #. source: Elite
@@ -1903,7 +1912,7 @@ msgstr "Sans limite"
 #. Settings menu
 #. source: Windowed
 msgid "SETTINGS.windowed"
-msgstr "Fenêtre"
+msgstr "Fenêtré"
 
 #. Settings menu
 #. source: Full Screen
@@ -2063,14 +2072,14 @@ msgstr "Affiche le jeu en mode fenêtré ou en plein écran."
 #. Settings menu
 #. source: How large the game draws inside the window.
 msgid "SETTINGS.display_zoom_tip"
-msgstr "La largeur des élements et de l'interface du jeu."
+msgstr "La taille des éléments et de l'interface du jeu."
 
 #. Settings menu
 #. source: Lock the frame rate to your display to prevent tearing.
 msgid "SETTINGS.vsync_tip"
 msgstr ""
-"Limite les images par seconde du jeu au même montant que le moniteur pour "
-"améliorer l'affichage."
+"Limite les images par seconde du jeu à la fréquence du moniteur pour éviter "
+"le déchirement de l'image."
 
 #. Settings menu
 #. source: Maximum frames per second. Unlimited uses your hardware's limit.
@@ -2090,7 +2099,7 @@ msgstr "Affiche ou cache le moniteur."
 #. Settings menu
 #. source: Overall volume for every sound in the game.
 msgid "SETTINGS.master_volume_tip"
-msgstr "Le volume géneral pour tous les sons du jeu."
+msgstr "Le volume général pour tous les sons du jeu."
 
 #. Settings menu
 #. source: Volume for the soundtrack.
@@ -2100,7 +2109,7 @@ msgstr "Le volume de la musique."
 #. Settings menu
 #. source: Volume for Keygen windows that play their own track.
 msgid "SETTINGS.keygen_volume_tip"
-msgstr "Le volume pour la musique des génerateurs de clés."
+msgstr "Le volume pour la musique des générateurs de clés."
 
 #. Settings menu
 #. source: Language for menus and in-game text.
@@ -2122,7 +2131,7 @@ msgstr "La vitesse du pointeur dans les menus du jeu."
 msgid "SETTINGS.admin_cursor_tip"
 msgstr ""
 "Contrôle le pointeur avec la souris dans les dossiers sécurisés. Les "
-"dossiers de combat utilisent toujours les touches directionelles."
+"dossiers de combat utilisent toujours WASD ou le stick gauche."
 
 #. Settings menu
 #. source: Vibrate the controller when taking damage.
@@ -2179,7 +2188,7 @@ msgstr "Garder les deux"
 #. Settings menu
 #. source: Press to Cancel (Hold to Bind)
 msgid "SETTINGS.rebind_hold_hint"
-msgstr "Appuyer pour annuler (Rester appuyer pour assigner)"
+msgstr "Appuyer pour annuler (rester appuyé pour assigner)"
 
 #. Settings menu
 #. source: Current %s:
@@ -2300,12 +2309,12 @@ msgstr "Terminé"
 #. Torrent window
 #. source: Stalled
 msgid "TORRENT.stalled"
-msgstr "Perdu"
+msgstr "Bloqué"
 
 #. Torrent window
 #. source: Downloading
 msgid "TORRENT.downloading"
-msgstr "Télechargement"
+msgstr "Téléchargement"
 
 #. Torrent window
 #. source: %d KB/s
@@ -2432,7 +2441,7 @@ msgstr "Appliquer"
 #. source: %d/%d Unlocked
 #. Keep placeholders unchanged: %d
 msgid "UI.personalise_themes_unlocked"
-msgstr "%d/%d déverrouillé"
+msgstr "%d/%d déverrouillés"
 
 #. Personalise window - hide locked themes and wallpapers
 #. source: Hide Locked
@@ -2492,7 +2501,7 @@ msgstr "Dans un fichier .bmp"
 #. Cosmetic unlock - image drop requirement
 #. source: Found in a .jpeg/.png file
 msgid "UI.cosmetic_found_image"
-msgstr "Dans un fichier .jpeg/.jpg"
+msgstr "Dans un fichier .jpeg/.png"
 
 #. Cosmetic unlock - avatar reward blurb
 #. source: Unlocks a new profile picture.
@@ -2904,7 +2913,7 @@ msgstr "Niveau maximum en une session."
 #. Profile stats - HP healed
 #. source: HP Healed
 msgid "UI.stat_hp_healed"
-msgstr "PV régénéré"
+msgstr "PV régénérés"
 
 #. Profile stats - HP healed tooltip
 #. source: Total HP restored across all runs.
@@ -3003,7 +3012,7 @@ msgstr "L'arme utilisée la plus souvante."
 #. Profile stats - tasks completed
 #. source: Tasks Completed
 msgid "UI.stat_tasks"
-msgstr "Tâches complétés"
+msgstr "Tâches complétées"
 
 #. Profile stats - tasks completed tooltip
 #. source: Unlock tasks completed on this profile.
@@ -3116,7 +3125,7 @@ msgstr "Achats"
 #. Profile stats - shop purchases tooltip
 #. source: Upgrades bought from the Shop.
 msgid "UI.stat_shop_purchases_desc"
-msgstr "Améliorations achetés dans la boutique"
+msgstr "Améliorations achetées dans la boutique"
 
 #. Profile stats - spreadsheet sheet tab label
 #. source: Sheet %d
@@ -3215,7 +3224,7 @@ msgstr "Fichiers de combat"
 #. UI (script-driven)
 #. source: Special Files
 msgid "UI.store_group_widgets"
-msgstr "Fichier spéciaux"
+msgstr "Fichiers spéciaux"
 
 #. UI (script-driven)
 #. source: Other
@@ -3362,13 +3371,13 @@ msgstr "Stratégies de domaine"
 #. UI (script-driven)
 #. source: Extra Difficulty
 msgid "UI.policies_header"
-msgstr "Modes additionaux"
+msgstr "Modes additionnels"
 
 #. UI (script-driven)
 #. source: Extra Difficulty - %d/%d Complete
 #. Keep placeholders unchanged: %d
 msgid "UI.policies_header_progress"
-msgstr "Modes additionaux - %d/%d complété"
+msgstr "Modes additionnels - %d/%d complétés"
 
 #. UI (script-driven)
 #. source: Select a Folder Difficulty first.
@@ -3430,7 +3439,7 @@ msgstr ""
 #. UI (script-driven)
 #. source: Reroll Locked
 msgid "UI.reroll_disabled"
-msgstr "Nouv. sélection désactivé"
+msgstr "Nouv. sélection désactivée"
 
 #. Toast shown when something is unlocked
 #. source: Unlocked: %s
@@ -3550,7 +3559,7 @@ msgstr "Tâche complétée."
 #. Vapidshare cracked installer spawned toast
 #. source: Cracked Installer created
 msgid "UI.notif_vapidshare_complete"
-msgstr "Installateur piraté crée"
+msgstr "Installateur piraté créé"
 
 #. Vapidshare part finished toast. %s is the part filename
 #. source: %s complete
@@ -3733,7 +3742,7 @@ msgstr "PiloteInstallateur LÉGENDAIRE"
 #. Morgan AV installer window title
 #. source: Morgan Antivirus Setup
 msgid "UI.installer_title_morgan"
-msgstr "Installation de Antivirus Morgan"
+msgstr "Installation d'Antivirus Morgan"
 
 #. Installer skip tooltip when no Key was spent
 #. source: Skip installing.
@@ -4023,7 +4032,7 @@ msgstr "Terminé (%d)"
 #. source: Stalled (%d)
 #. Keep placeholders unchanged: %d
 msgid "UI.stalled_count"
-msgstr "Perdu (%d)"
+msgstr "Bloqué (%d)"
 
 #. End screen exit bar close prompt
 #. source: Press {close} to reboot to main menu...
@@ -4964,7 +4973,7 @@ msgstr "Double-clic pour ouvrir"
 #. Desktop icon tooltip
 #. source: Double-Click to Run
 msgid "CLICKABLE.double_click_run"
-msgstr "Double-clic pour éxécuter"
+msgstr "Double-clic pour exécuter"
 
 #. Desktop icon tooltip
 #. source: Downloads 1-5 Weapon Upgrades
@@ -5080,7 +5089,7 @@ msgstr "Utilise une clé"
 #. Cracked installer tooltip
 #. source: No key required
 msgid "CLICKABLE.no_key_required"
-msgstr "Utilise aucune clé"
+msgstr "N'utilise aucune clé"
 
 #. Legendary installer tooltip
 #. source: Uses 3 keys · Always Legendary
@@ -5279,7 +5288,7 @@ msgstr "La difficulté pour cette session."
 #. Run stats panel row
 #. source: Levels Gained
 msgid "RUNSTAT.levels_gained"
-msgstr "Niveau"
+msgstr "Niveaux gagnés"
 
 #. Run stats panel row
 #. source: Levels gained from experience this run.
@@ -5289,7 +5298,7 @@ msgstr "Le niveau actuel pour cette session."
 #. Run stats panel row
 #. source: EXP Gained
 msgid "RUNSTAT.exp_gained"
-msgstr "EXP gagné"
+msgstr "EXP gagnée"
 
 #. Run stats panel row
 #. source: Total experience collected this run.
@@ -5375,7 +5384,7 @@ msgstr "Aucune"
 #. source: Tasks Completed - %d
 #. Keep placeholders unchanged: %d
 msgid "UI.win_tasks_title"
-msgstr "Tâches complétés - %d"
+msgstr "Tâches complétées - %d"
 
 #. UI (script-driven)
 #. source: No new tasks this run
@@ -5580,7 +5589,8 @@ msgstr "Vide"
 #. Vapor window
 #. source: {0} files failed to validate and will be reaquired.
 msgid "VAPOR.validate_fail"
-msgstr "Erreur de validation sur {0} fichiers."
+msgstr ""
+"Erreur de validation sur {0} fichiers, qui seront téléchargés à nouveau."
 
 #. Weapon driver / overclock card - name (overclocked)
 #. source: Overclocked
@@ -5885,7 +5895,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (minesweeper_flag)
 #. source: Incendiary Charge
 msgid "DRIVER.minesweeper_flag.name"
-msgstr "Drapeau"
+msgstr "Charge incendiaire"
 
 #. Weapon driver / overclock card - description (minesweeper_flag)
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
@@ -5985,7 +5995,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (quarantine_heuristic)
 #. source: Heuristic
 msgid "DRIVER.quarantine_heuristic.name"
-msgstr "Rapide"
+msgstr "Heuristique"
 
 #. Weapon driver / overclock card - description (quarantine_heuristic)
 #. source: Increase Damage +40%.\nIncrease Speed +20%.
@@ -6126,7 +6136,7 @@ msgstr "Estimation de l'EXP avant la défragmentation:"
 #. Scene label
 #. screens: dll_window.tscn
 msgid "Missing dynamic link library scd.dll located."
-msgstr "Extension d'application « scd.dll » introuvable."
+msgstr "Bibliothèque dynamique manquante détectée : scd.dll"
 
 #. Scene label
 #. screens: dll_window.tscn
@@ -6136,7 +6146,7 @@ msgstr "La procédure peut continuer."
 #. Scene label
 #. screens: download_ram_window.tscn
 msgid "RAM Downloader Professional (Legal)"
-msgstr "Télécharger RAM Gratuit (Légal)"
+msgstr "Télécharger RAM Gratuite (Légal)"
 
 #. Scene label
 #. screens: download_ram_window.tscn
@@ -6488,7 +6498,7 @@ msgstr "Volume son"
 #. Scene label
 #. screens: options_menu.tscn
 msgid "Back"
-msgstr "Annuler"
+msgstr "Retour"
 
 #. Scene label
 #. screens: pause_menu.tscn
@@ -6639,7 +6649,7 @@ msgstr "Téléchargements complets. Clic pour continuer..."
 #. Scene label
 #. screens: upgrade_screen.tscn
 msgid "Insert"
-msgstr "Édition"
+msgstr "Insertion"
 
 #. Scene label
 #. screens: upgrade_screen.tscn
