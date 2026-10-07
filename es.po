@@ -24,7 +24,8 @@ msgstr ""
 "Añade +12 de Armadura.\n"
 "Velocidad del cursor 0,8x.\n"
 "Multiplica el daño 0,85x.\n"
-"Multiplica el daño 1,1x cuando te hacen daño (Dura 8s, se combina hasta 3 veces)."
+"Multiplica el daño 1,1x cuando te hacen daño (Dura 8s, se combina hasta 3 "
+"veces)."
 
 #. Class select - name (default)
 #. source: Default
@@ -65,7 +66,8 @@ msgstr ""
 "Añade 15 de Pérdida de paquetes\n"
 "Reduce los PS máximos en 25\n"
 "Multiplica el Daño 0,9x\n"
-"Multiplica la velocidad del cursor 1,25x y la Velocidad de Refresco 1,2x al perder un paquete (Dura 4s)"
+"Multiplica la velocidad del cursor 1,25x y la Velocidad de Refresco 1,2x al "
+"perder un paquete (Dura 4s)"
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -107,6 +109,7 @@ msgid "CLASS.admin.description"
 msgstr ""
 "Empieza con +1 clave.\n"
 "Multiplica la ganancia de Dinero 1,3x\n"
+"Multiplica el alcance de recogida en 1,3x\n"
 "Descuento en la tienda de un 10%.\n"
 "Multiplica la PS máxima 0,9x.\n"
 "Multiplica el daño 0,85x."
@@ -119,7 +122,9 @@ msgstr "Caos"
 #. Folder evolution mode - description (chaos)
 #. source: A inconsistent unpredictable mess of difficulty. I couldn't tell you what to expect.
 msgid "EVO.chaos.description"
-msgstr "Una dificultad liosa, inconsistente e impredecible. No sabría decirte que esperar."
+msgstr ""
+"Una dificultad liosa, inconsistente e impredecible. No sabría decirte que "
+"esperar."
 
 #. Folder evolution mode - name (linear)
 #. source: Linear
@@ -129,7 +134,8 @@ msgstr ""
 #. Folder evolution mode - description (linear)
 #. source: A consistent linear stream of more enemies being added over time.
 msgid "EVO.linear.description"
-msgstr "Un flujo consistente de cada vez más enemigos que van saliendo con el tiempo."
+msgstr ""
+"Un flujo consistente de cada vez más enemigos que van saliendo con el tiempo."
 
 #. Folder evolution mode - name (variable)
 #. source: Variable
@@ -139,7 +145,9 @@ msgstr ""
 #. Folder evolution mode - description (variable)
 #. source: A varied level of enemies that ramps up and down to give more moments of peace but harder increases.
 msgid "EVO.variable.description"
-msgstr "Un nivel variado de enemigos que va subiendo y bajando para dar momentos de paz pero con incrementos mas complicados."
+msgstr ""
+"Un nivel variado de enemigos que va subiendo y bajando para dar momentos de "
+"paz pero con incrementos mas complicados."
 
 #. Meta upgrade menu - description (armor)
 #. source: Adds +1 Armo(u)r per Rank.
@@ -214,7 +222,9 @@ msgstr "Multiplica la Velocidad de procesado por 1% extra por nivel"
 #. Meta upgrade menu - description (weap_amount)
 #. source: Increases Weapon Amount chance +3% per Rank.
 msgid "META.weap_amount.description"
-msgstr "Incrementa la probabilidad de aumentar la cantidad de disparos por 3% por nivel"
+msgstr ""
+"Incrementa la probabilidad de aumentar la cantidad de disparos por 3% por "
+"nivel"
 
 #. Meta upgrade menu - description (weap_damage)
 #. source: Multiply Weapon Damage by an extra +2% per Rank.
@@ -293,7 +303,8 @@ msgstr "Horas punta"
 #. Plugin - description (big_wave_damage)
 #. source: Increase Weapon Damage Multiplier +10% when opening a Big Wave.
 msgid "PLUGIN.big_wave_damage.description"
-msgstr "Incrementa el multiplicador de Daño de arma +10% cuando abres Big Wave."
+msgstr ""
+"Incrementa el multiplicador de Daño de arma +10% cuando abres Big Wave."
 
 #. Plugin - name (blast_on_file_open)
 #. source: AutoPlay
@@ -461,7 +472,8 @@ msgstr "Autorecuperación"
 #. Plugin - description (hp_on_heal)
 #. source: 7% Chance to Add +3 Max HP when Healed. (5s Cooldown).
 msgid "PLUGIN.hp_on_heal.description"
-msgstr "7% de probabilidad de añadir 3 PS máximos cuando te curas. (5s enfriamiento)"
+msgstr ""
+"7% de probabilidad de añadir 3 PS máximos cuando te curas. (5s enfriamiento)"
 
 #. Plugin - name (locate_pointer)
 #. source: Locate Pointer
@@ -659,7 +671,9 @@ msgstr "Antivirus Koala"
 #. Plugin - description (morgan_av)
 #. source: Difficulty is increased for the rest of the run.\n+1 extra Plus! enemy at each midway point.
 msgid "PLUGIN.morgan_av.description"
-msgstr "Incrementa la dificultad el resto de la partida. Aparece +1 enemigo Plus! más en cada ronda."
+msgstr ""
+"Incrementa la dificultad el resto de la partida. Aparece +1 enemigo Plus! "
+"más en cada ronda."
 
 #. Plugin - name (popup_blocker)
 #. source: Realtime Protection
@@ -699,7 +713,9 @@ msgstr "Fotograma parado"
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
 msgid "PLUGIN.still_frame.description"
-msgstr "Incrementa el daño de las armas un +5% por segundo cuando estás quieto, hasta un +15%."
+msgstr ""
+"Incrementa el daño de las armas un +5% por segundo cuando estás quieto, "
+"hasta un +15%."
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
@@ -741,7 +757,8 @@ msgstr "Primera sangre"
 #. Plugin - description (first_strike)
 #. source: Increase Damage +25% against enemies above 90% HP.
 msgid "PLUGIN.first_strike.description"
-msgstr "Incrementa el daño un +25% contra enemigos que tengan más del 90% de PS."
+msgstr ""
+"Incrementa el daño un +25% contra enemigos que tengan más del 90% de PS."
 
 #. Plugin - name (crit_blast)
 #. source: Crit Blast
@@ -783,7 +800,8 @@ msgstr "Megacrítico"
 msgid "PLUGIN.megacrit.description"
 msgstr ""
 "Incrementa la probabilidad de crítico un +40%.\n"
-"Si la probabilidad de crítico es más de 100%, se puede hacer megacrítico con doble de daño."
+"Si la probabilidad de crítico es más de 100%, se puede hacer megacrítico con "
+"doble de daño."
 
 #. Plugin - name (hyperthread)
 #. source: Hyperthreading
@@ -911,7 +929,9 @@ msgstr "Protocolo I"
 #. Difficulty protocol - description (protocol_1)
 #. source: The beginner difficulty. Earn 16 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_1.description"
-msgstr "Dificultad principiante. Gana 16 Beanz por cada Carpeta Segura abierta y enemigos eliminados."
+msgstr ""
+"Dificultad principiante. Gana 16 Beanz por cada Carpeta Segura abierta y "
+"enemigos eliminados."
 
 #. Difficulty protocol - name (protocol_2)
 #. source: Protocol II
@@ -921,7 +941,9 @@ msgstr "Protocolo II"
 #. Difficulty protocol - description (protocol_2)
 #. source: The sophomore difficulty. Earn 24 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_2.description"
-msgstr "Dificultad de segundo año. Gana 24 Beanz por cada Carpeta Segura abierta y enemigos eliminados."
+msgstr ""
+"Dificultad de segundo año. Gana 24 Beanz por cada Carpeta Segura abierta y "
+"enemigos eliminados."
 
 #. Difficulty protocol - name (protocol_3)
 #. source: Protocol III
@@ -931,7 +953,9 @@ msgstr "Protocolo III"
 #. Difficulty protocol - description (protocol_3)
 #. source: The tertiary difficulty. Earn 32 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_3.description"
-msgstr "Dificultad terciaria. Gana 32 Beanz por cada Carpeta Segura abierta y enemigos eliminados."
+msgstr ""
+"Dificultad terciaria. Gana 32 Beanz por cada Carpeta Segura abierta y "
+"enemigos eliminados."
 
 #. Difficulty protocol - name (protocol_4)
 #. source: Protocol IV
@@ -941,7 +965,9 @@ msgstr "Protocolo IV"
 #. Difficulty protocol - description (protocol_4)
 #. source: The senior difficulty. Earn 48 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_4.description"
-msgstr "Dificultad senior. Gana 48 Beanz por cada Carpeta Segura abierta y enemigos eliminados."
+msgstr ""
+"Dificultad senior. Gana 48 Beanz por cada Carpeta Segura abierta y enemigos "
+"eliminados."
 
 #. Difficulty protocol - name (protocol_5)
 #. source: Protocol V
@@ -951,7 +977,8 @@ msgstr "Protocolo V"
 #. Difficulty protocol - description (protocol_5)
 #. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
 msgid "PROTOCOL.protocol_5.description"
-msgstr "No tienes por qué hacer esto. Gana 64 Beanz por cada Carpeta Segura eso sí."
+msgstr ""
+"No tienes por qué hacer esto. Gana 64 Beanz por cada Carpeta Segura eso sí."
 
 #. Stat display - name (upgrade_player_armor)
 #. source: Armo(u)r
@@ -1009,7 +1036,7 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr "Pérdida de paquetes"
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_dodge.description"
 msgstr "Probabilidad de esquivar todo el daño (Exponencial)"
 
@@ -1045,9 +1072,11 @@ msgid "STAT.upgrade_player_luck.name"
 msgstr "Suerte"
 
 #. Stat display - description (upgrade_player_luck)
-#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
 msgid "STAT.upgrade_player_luck.description"
-msgstr "Incrementa las probabilidades para mejores renovaciones, resultando en mejores rarezas sumados a otros beneficios."
+msgstr ""
+"Incrementa las probabilidades para mejores renovaciones, resultando en "
+"mejores rarezas sumados a otros beneficios."
 
 #. Stat display - name (upgrade_player_magnetism_multi)
 #. source: Magnetism
@@ -1077,7 +1106,8 @@ msgstr "Poder de arma"
 #. Stat display - description (upgrade_player_power_multi)
 #. source: Increases power of Repel, Heat, Infect and Lag from all weapons.
 msgid "STAT.upgrade_player_power_multi.description"
-msgstr "Incrementa el poder de repulsión, calor, infectar y Lag de todas las armas."
+msgstr ""
+"Incrementa el poder de repulsión, calor, infectar y Lag de todas las armas."
 
 #. Stat display - name (upgrade_player_proc_speed)
 #. source: Processing Speed
@@ -1087,7 +1117,9 @@ msgstr "Velocidad de procesado"
 #. Stat display - description (upgrade_player_proc_speed)
 #. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
 msgid "STAT.upgrade_player_proc_speed.description"
-msgstr "Multiplica la velocidad de procesamiento de todos los archivos, incluyendo .zip, .bat, LemWire... etc (Exponencial)"
+msgstr ""
+"Multiplica la velocidad de procesamiento de todos los archivos, "
+"incluyendo .zip, .bat, LemWire... etc (Exponencial)"
 
 #. Stat display - name (upgrade_player_refresh_multi)
 #. source: Weapon Refresh
@@ -1117,7 +1149,9 @@ msgstr "Cantidad de armas"
 #. Stat display - description (upgrade_player_weap_amount)
 #. source: Chance of additional weapon spawns on attack. Relative to base amount.
 msgid "STAT.upgrade_player_weap_amount.description"
-msgstr "Probabilidad de disparos adicionales que aparecen al atacar. Relativas a la cantidad base."
+msgstr ""
+"Probabilidad de disparos adicionales que aparecen al atacar. Relativas a la "
+"cantidad base."
 
 #. Stat display - name (upgrade_player_weap_size)
 #. source: Weapon Size
@@ -1359,7 +1393,9 @@ msgstr "Incrementa la vida máxima un +{percent}%"
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_power_multi.description"
-msgstr "Incrementa el poder de repulsión, calor, infectar y Lag de todas las armas un +{percent}%"
+msgstr ""
+"Incrementa el poder de repulsión, calor, infectar y Lag de todas las armas "
+"un +{percent}%"
 
 #. Upgrade card - description (upgrade_player_proc_speed)
 #. source: Increases file opening speed by +{percent}%.
@@ -1415,7 +1451,8 @@ msgstr "Burbujas"
 #. Upgrade card - description (weapon_bubbles)
 #. source: Giant bubbles float around that add stacks of Infect to enemies.
 msgid "UPGRADE.weapon_bubbles.description"
-msgstr "Burbujas gigantes que flotan provocando cargas de infección a los enemigos"
+msgstr ""
+"Burbujas gigantes que flotan provocando cargas de infección a los enemigos"
 
 #. Upgrade card - name (weapon_cdrive)
 #. source: C: Drive
@@ -1445,7 +1482,9 @@ msgstr "Cortafuegos"
 #. Upgrade card - description (weapon_firewall)
 #. source: Creates a ring of fire around the player that adds stacks of Heat to enemies.
 msgid "UPGRADE.weapon_firewall.description"
-msgstr "Crea un aro de fuego alrededor del jugador que añade cargas de Calor a los enemigos"
+msgstr ""
+"Crea un aro de fuego alrededor del jugador que añade cargas de Calor a los "
+"enemigos"
 
 #. Upgrade card - name (weapon_fontart)
 #. source: FontArt
@@ -1465,7 +1504,8 @@ msgstr "Carlos Duty"
 #. Upgrade card - description (weapon_hitmarkers)
 #. source: Shots land on the nearest enemy. 3% chance of a headshot.
 msgid "UPGRADE.weapon_hitmarkers.description"
-msgstr "Dispara a los enemigos cercanos. 3% de probabilidades de tiro a la cabeza"
+msgstr ""
+"Dispara a los enemigos cercanos. 3% de probabilidades de tiro a la cabeza"
 
 #. Upgrade card - name (weapon_paint)
 #. source: Paint
@@ -1525,7 +1565,7 @@ msgstr "Fotogramas"
 #. Upgrade card - description (weapon_fraps)
 #. source: Fires flickering FPS numbers. The number shown is the damage dealt.
 msgid "UPGRADE.weapon_fraps.description"
-msgstr "Dispara números de FPS. El número que sale es el daño que hace."
+msgstr "Dispara números FPS. El número mostrado es el daño que hace."
 
 #. Upgrade card - name (weapon_scimitar)
 #. source: Scimitar
@@ -1535,7 +1575,9 @@ msgstr "Cimitarra"
 #. Upgrade card - description (weapon_scimitar)
 #. source: Slashes above and below the cursor. Extra amount adds alternating slashes.
 msgid "UPGRADE.weapon_scimitar.description"
-msgstr "Raja por encima y por debajo del cursor. Más cantidad añade cortes alternativos."
+msgstr ""
+"Raja por encima y por debajo del cursor. Más cantidad añade cortes "
+"alternativos."
 
 #. Upgrade card - name (weapon_sniper)
 #. source: Sniper 1.6
@@ -1545,7 +1587,9 @@ msgstr "Francotirador 1.6"
 #. Upgrade card - description (weapon_sniper)
 #. source: One heavy shot at the strongest enemy. Clears show in a killfeed.
 msgid "UPGRADE.weapon_sniper.description"
-msgstr "Un tiro pesado al enemigo más fuerte. Se muestran las bajas en una estadística."
+msgstr ""
+"Un tiro pesado al enemigo más fuerte. Se muestran las bajas en una "
+"estadística."
 
 #. Upgrade card - name (weapon_minesweeper)
 #. source: Mines
@@ -1555,7 +1599,9 @@ msgstr "Minas"
 #. Upgrade card - description (weapon_minesweeper)
 #. source: Tosses mines that plant, then explode when an enemy touches them.
 msgid "UPGRADE.weapon_minesweeper.description"
-msgstr "Saca minas que son plantadas, luego explotan cuando un enemigo pasa sobre ellas."
+msgstr ""
+"Saca minas que son plantadas, luego explotan cuando un enemigo pasa sobre "
+"ellas."
 
 #. Upgrade card - name (weapon_email)
 #. source: Email
@@ -1575,7 +1621,9 @@ msgstr "Explorador de Internet"
 #. Upgrade card - description (weapon_cruiser)
 #. source: Opens a browser tab somewhere on screen. Lingers and applies heavy Lag.
 msgid "UPGRADE.weapon_cruiser.description"
-msgstr "Abre una pestaña del navegador en algún sitio de la pantalla. Se queda y aplica Lag profundo."
+msgstr ""
+"Abre una pestaña del navegador en algún sitio de la pantalla. Se queda y "
+"aplica Lag profundo."
 
 #. Upgrade card - name (weapon_orchestra)
 #. source: Orchestra
@@ -1585,7 +1633,9 @@ msgstr "Orquesta"
 #. Upgrade card - description (weapon_orchestra)
 #. source: Opens a browser tab on the closest enemy on screen. Infects, and sometimes executes.
 msgid "UPGRADE.weapon_orchestra.description"
-msgstr "Abre una pestaña del navegador sobre el enemigo más cercano. Infecta y a veces ejecuta."
+msgstr ""
+"Abre una pestaña del navegador sobre el enemigo más cercano. Infecta y a "
+"veces ejecuta."
 
 #. Upgrade card - name (weapon_satellite)
 #. source: WLAN
@@ -1613,9 +1663,9 @@ msgid "UPGRADE.weapon_cone.name"
 msgstr "VLC (Cono muy grande)"
 
 #. Upgrade card - description (weapon_cone)
-#. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
-msgstr "Conos de tráfico se pegan a ti. Cocinan lo que apuntan con calor."
+msgstr "Conos naranjas e pegan a ti. Atacan e infligen Calor a los enemigos."
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
@@ -1633,7 +1683,7 @@ msgid "UPGRADE.weapon_modem.name"
 msgstr "Dispositivo de salida"
 
 #. Upgrade card - description (weapon_modem)
-#. source: Blasts concentric handshake rings outward from the cursor.
+#. source: Blasts sound rings outward from the cursor.
 msgid "UPGRADE.weapon_modem.description"
 msgstr "Dispara ondas concéntricas desde el cursor que repelen los enemigos."
 
@@ -1668,7 +1718,7 @@ msgid "WEAPON.cruiser.spawn_noun"
 msgstr "cantidad de pestañas adicionales"
 
 #. Weapon metadata
-#. source: trap
+#. source: tab
 msgid "WEAPON.orchestra.spawn_noun"
 msgstr "cantidad de trampas adicionales"
 
@@ -1983,9 +2033,19 @@ msgid "SETTINGS.music_volume"
 msgstr "Volumen de la música"
 
 #. Settings menu
+#. source: SFX Volume
+msgid "SETTINGS.sfx_volume"
+msgstr "Volumen de los efectos"
+
+#. Settings menu
 #. source: Keygen Volume
 msgid "SETTINGS.keygen_volume"
 msgstr "Volumen del keygen"
+
+#. Settings menu
+#. source: Main Menu Computer Sound
+msgid "SETTINGS.menu_computer_sound"
+msgstr "Sonidos del ordenador"
 
 #. Settings menu
 #. source: Animation Speed
@@ -2048,9 +2108,19 @@ msgid "SETTINGS.music_volume_tip"
 msgstr "Volumen para la banda sonora"
 
 #. Settings menu
+#. source: Volume for sound effects.
+msgid "SETTINGS.sfx_volume_tip"
+msgstr "Volumen para los efectos de sonido."
+
+#. Settings menu
 #. source: Volume for Keygen windows that play their own track.
 msgid "SETTINGS.keygen_volume_tip"
 msgstr "Volumen para las ventanas de Keygen que reproducen su música"
+
+#. Settings menu
+#. source: Play the computer humming sound on the main menu.
+msgid "SETTINGS.menu_computer_sound_tip"
+msgstr "Reproduce el sonido ambiente en el menú principal."
 
 #. Settings menu
 #. source: Language for menus and in-game text.
@@ -2060,17 +2130,22 @@ msgstr "Idioma para los menús y el propio juego"
 #. Settings menu
 #. source: How quickly UI animations and transitions play.
 msgid "SETTINGS.anim_speed_tip"
-msgstr "Cómo de rápido se reproducen las animaciones de la interfaz y las transiciones."
+msgstr ""
+"Cómo de rápido se reproducen las animaciones de la interfaz y las "
+"transiciones."
 
 #. Settings menu
 #. source: How fast the cursor moves with the stick or keys in menus.
 msgid "SETTINGS.menu_cursor_speed_tip"
-msgstr "Cómo de rápido se mueve el cursor con el joystick o teclas en los menús"
+msgstr ""
+"Cómo de rápido se mueve el cursor con el joystick o teclas en los menús"
 
 #. Settings menu
 #. source: Control your cursor with the mouse in Safe Folders. Battle Folders always use WASD or the left stick.
 msgid "SETTINGS.admin_cursor_tip"
-msgstr "Controla tu cursor con el ratón en las Carpetas Seguras. En las carpetas de batalla siempre se usa WASD o el joystick izquierdo"
+msgstr ""
+"Controla tu cursor con el ratón en las Carpetas Seguras. En las carpetas de "
+"batalla siempre se usa WASD o el joystick izquierdo"
 
 #. Settings menu
 #. source: Vibrate the controller when taking damage.
@@ -2667,7 +2742,9 @@ msgstr "Agradecimientos especiales"
 #. Credits window - note under Special Thanks
 #. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
 msgid "CREDITS.special_thanks_note"
-msgstr "Muchísimas gracias a todos por ayudarme a conseguir este sueño. ¡Os quiero a todos! -Shaun"
+msgstr ""
+"Muchísimas gracias a todos por ayudarme a conseguir este sueño. ¡Os quiero a "
+"todos! -Shaun"
 
 #. Profile stats window - statistics tab
 #. source: Stats
@@ -2692,7 +2769,8 @@ msgstr "Categorías"
 #. Virry blurb - statistics mode
 #. source: Your run records live in these sheet. Switch to Tasks for unlocks.
 msgid "UI.task_virry_stats"
-msgstr "Tus récords en las partidas viven aquí. Cambia a tareas para desbloqueos"
+msgstr ""
+"Tus récords en las partidas viven aquí. Cambia a tareas para desbloqueos"
 
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
@@ -2702,32 +2780,44 @@ msgstr "Termina una tarea de un arma, luego cómprala en Añadir/Quitar Mejoras"
 #. Virry blurb - cursor class tasks
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_classes"
-msgstr "Las clases del cursor cambian cómo peleas. Desbloquea uno, luego cómprala en Añadir/Quitar Mejoras."
+msgstr ""
+"Las clases del cursor cambian cómo peleas. Desbloquea uno, luego cómprala en "
+"Añadir/Quitar Mejoras."
 
 #. Virry blurb - plugin tasks
 #. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_plugins"
-msgstr "Los plugins añaden poderes pasivos que pueden obtenerse abriendo Instaladores. Completa la tarea, luego cómpralos en Añadir/Quitar Mejoras"
+msgstr ""
+"Los plugins añaden poderes pasivos que pueden obtenerse abriendo "
+"Instaladores. Completa la tarea, luego cómpralos en Añadir/Quitar Mejoras"
 
 #. Virry blurb - weapon driver tasks
 #. source: Weapon Drivers upgrade a weapon's with unique additions. When unlocked reach levels 8, 16 and 24 to obtain them.
 msgid "UI.task_virry_drivers"
-msgstr "Los controladores de armas mejoran un arma de manera única. Cuando se desbloquea, alcanza niveles 8, 16 y 24 para obtenerlas."
+msgstr ""
+"Los controladores de armas mejoran un arma de manera única. Cuando se "
+"desbloquea, alcanza niveles 8, 16 y 24 para obtenerlas."
 
 #. Virry blurb - files tasks
 #. source: Safe Files, Battle Files, and Special Files. Unlock them, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_files"
-msgstr "Archivos seguros, Archivos de batalla y Archivos especiales. Desbloquéalos y luego cómpralos en Añadir/Quitar Mejoras"
+msgstr ""
+"Archivos seguros, Archivos de batalla y Archivos especiales. Desbloquéalos y "
+"luego cómpralos en Añadir/Quitar Mejoras"
 
 #. Virry blurb - theme tasks
 #. source: Themes dress up the desktop. When unlocked they can be applied in the Personalise menu.
 msgid "UI.task_virry_themes"
-msgstr "Los temas decoran el escritorio. Cuando se desbloquean se pueden aplicar en Personalizar."
+msgstr ""
+"Los temas decoran el escritorio. Cuando se desbloquean se pueden aplicar en "
+"Personalizar."
 
 #. Virry blurb - policy tasks
 #. source: Complete a Protocol with each Policy, then Domain Policies. Protocol V is the hard set.
 msgid "UI.task_virry_policies"
-msgstr "Completa un Protocolo con cada Política, después Políticas de dominio. Protocolo V es lo más complicado."
+msgstr ""
+"Completa un Protocolo con cada Política, después Políticas de dominio. "
+"Protocolo V es lo más complicado."
 
 #. Virry blurb - general milestones
 #. source: General milestones. Mostly Beanz rewards.
@@ -3110,7 +3200,9 @@ msgstr ""
 #. source: Special Files spawn during battle. While one is active, hold {special} to use it.
 #. Keep placeholders unchanged: {special}
 msgid "UI.vapor_store_intro"
-msgstr "Archivos especiales durante una batalla. Cuando uno está activo, mantén {special} para usarlo."
+msgstr ""
+"Archivos especiales durante una batalla. Cuando uno está activo, mantén "
+"{special} para usarlo."
 
 #. Vapor store - featured weapon heading
 #. source: Featured Weapon
@@ -3309,7 +3401,9 @@ msgstr "Completa %s o más para desbloquear las Políticas."
 #. source: Complete 3 different Policies on %s or higher to enable Domain Policies.
 #. Keep placeholders unchanged: %s
 msgid "UI.domain_policies_locked"
-msgstr "Completa 3 diferentes Políticas en %s o más alto para desbloquear las Políticas de Dominio"
+msgstr ""
+"Completa 3 diferentes Políticas en %s o más alto para desbloquear las "
+"Políticas de Dominio"
 
 #. UI (script-driven)
 #. source: Run Beanz: x%.2f
@@ -3391,7 +3485,9 @@ msgstr "Incompleto"
 #. UI (script-driven)
 #. source: Control your cursor with the mouse in Safe Folders.[br]Battle Folders always use WASD or the left stick.
 msgid "UI.admin_mouse_tooltip"
-msgstr "Controla el cursor con el ratón en las Carpetas seguras.[br]Las Carpetas de batalla siempre usan WASD o el joystick izquierdo"
+msgstr ""
+"Controla el cursor con el ratón en las Carpetas seguras.[br]Las Carpetas de "
+"batalla siempre usan WASD o el joystick izquierdo"
 
 #. UI (script-driven)
 #. source: Reroll Locked
@@ -3483,7 +3579,7 @@ msgstr "Controladores de arma"
 #. Weapon Drivers screen - fake window title
 #. source: drivers.doc - SH Docs 2003
 msgid "UI.weapon_drivers_window"
-msgstr ""
+msgstr "controladores.doc - SH Docs 2003"
 
 #. Weapon Drivers screen - speech prompt with weapon name
 #. source: Select a driver for %s.
@@ -3532,22 +3628,29 @@ msgstr "No hay claves :("
 #. Starter folder weapons category help
 #. source: Your first of four weapons for the run. You'll pick more as you level up.
 msgid "UI.starter_help_weapons"
-msgstr "Tus primera de cuatro armas para la partida. Cogerás más conforme subas de nivel."
+msgstr ""
+"Tus primera de cuatro armas para la partida. Cogerás más conforme subas de "
+"nivel."
 
 #. Starter folder cursor class category help
 #. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
 msgid "UI.starter_help_cursor"
-msgstr "Las Clases de Cursor cambian tus estadísticas base. Todas las mejoras multiplican sobre éstas."
+msgstr ""
+"Las Clases de Cursor cambian tus estadísticas base. Todas las mejoras "
+"multiplican sobre éstas."
 
 #. Starter folder difficulty category help
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
 msgid "UI.starter_help_difficulty"
-msgstr "La dificultad de carpeta pone las reglas de la partida: presión de los enemigos, recompensas y lo que puedas desbloquear"
+msgstr ""
+"La dificultad de carpeta pone las reglas de la partida: presión de los "
+"enemigos, recompensas y lo que puedas desbloquear"
 
 #. Starter folder policies category help
 #. source: Optional extra rules on top of the protocol. Completing them earns more Beanz.
 msgid "UI.starter_help_policies"
-msgstr "Reglas adicionales sobre el protocolo. Completarlas hace que ganes mas Beanz"
+msgstr ""
+"Reglas adicionales sobre el protocolo. Completarlas hace que ganes mas Beanz"
 
 #. Starter folder button that reopens the tutorial guide
 #. source: Guide
@@ -3557,7 +3660,7 @@ msgstr "Guía"
 #. Tutorial next-page button
 #. source: Next
 msgid "UI.next"
-msgstr ""
+msgstr "Siguiente"
 
 #. Tutorial window title
 #. source: Quick Start Guide
@@ -3584,7 +3687,8 @@ msgstr ""
 "\n"
 "Clica con {click} y no te olvides de hacer doble clic para abrir archivos.\n"
 "\n"
-"También puedes mantener {drag} para arrastrar archivos y moverlos por la carpeta."
+"También puedes mantener {drag} para arrastrar archivos y moverlos por la "
+"carpeta."
 
 #. Tutorial page 3 - class, protocol, policies
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
@@ -3593,7 +3697,8 @@ msgid "UI.tutorial_3_body"
 msgstr ""
 "Para empezar debes elegir una {class} y una {difficulty}.\n"
 "\n"
-"Por ahora, vamos a seleccionar el cursor {default} y eventualmente desbloquearás más conforme juegues.\n"
+"Por ahora, vamos a seleccionar el cursor {default} y eventualmente "
+"desbloquearás más conforme juegues.\n"
 "\n"
 "Elige Protocolo I-III como {difficulty}.\n"
 "\n"
@@ -3610,9 +3715,11 @@ msgstr ""
 "\n"
 "Progresa en la partida y sube de nivel para añadir más armas a tu conjunto.\n"
 "\n"
-"Cuando subes de nivel, puedes elegir entre mejoras de cursor o de arma para mejorar tus estadísticas.\n"
+"Cuando subes de nivel, puedes elegir entre mejoras de cursor o de arma para "
+"mejorar tus estadísticas.\n"
 "\n"
-"Cuando el arma sube a un cierto nivel, desbloqueas los {drivers} que dan mejoras a medida."
+"Cuando el arma sube a un cierto nivel, desbloqueas los {drivers} que dan "
+"mejoras a medida."
 
 #. Tutorial page 5 - {safe}
 #. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
@@ -3621,18 +3728,22 @@ msgid "UI.tutorial_5_body"
 msgstr ""
 "El objetivo del juego es sobrevivir, básicamente.\n"
 "\n"
-"Hay 5 rondas de 5 minutos. Ve a la {safe} al final de cada ronda para continuar."
+"Hay 5 rondas de 5 minutos. Ve a la {safe} al final de cada ronda para "
+"continuar."
 
 #. Tutorial page 6
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
 msgstr ""
 "Para sobrevivir:\n"
-"Evita los enemigos, colecciona experiencia y dinero, consigue mejoras y abre archivos.\n"
+"Evita los enemigos, colecciona experiencia y dinero, consigue mejoras y abre "
+"archivos.\n"
 "\n"
-"Algunos archivos conllevan riesgos, otros necesitan claves y otros dan cosas garantizadas.\n"
+"Algunos archivos conllevan riesgos, otros necesitan claves y otros dan cosas "
+"garantizadas.\n"
 "\n"
-"Tendrás una tarea opcional en la esquina superior derecha que da bonificaciones adicionales."
+"Tendrás una tarea opcional en la esquina superior derecha que da "
+"bonificaciones adicionales."
 
 #. Tutorial page 7 - {safe} {vapor}
 #. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
@@ -3833,20 +3944,27 @@ msgstr "¡Has ganado!"
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
 msgstr ""
-"Se ha encontrado un problema en su ordenador y Ventanas ha sido apagado para evitar daños al equipo.\n"
+"Se ha encontrado un problema en su ordenador y Ventanas ha sido apagado para "
+"evitar daños al equipo.\n"
 "\n"
 "SYSTEM_COHERENCE_FAILURE\n"
 "\n"
-"Si esta es la primera vez que ve esta pantalla de error de detención, reinicie su equipo. Si esta pantalla aparece otra vez, módulos internos del sistema podrían haberse comprometido.\n"
+"Si esta es la primera vez que ve esta pantalla de error de detención, "
+"reinicie su equipo. Si esta pantalla aparece otra vez, módulos internos del "
+"sistema podrían haberse comprometido.\n"
 "\n"
-"Por favor, verifique la integridad de los componentes del sistema instalados. Comportamientos no esperados incluyen: memoria corrupta, inyección de paquetes inválida o ejecución de scripts no permitidos.\n"
-"Si continúa el problema, haga un reinicio seguro y elimine o reinstale los componentes comprometidos.\n"
+"Por favor, verifique la integridad de los componentes del sistema "
+"instalados. Comportamientos no esperados incluyen: memoria corrupta, "
+"inyección de paquetes inválida o ejecución de scripts no permitidos.\n"
+"Si continúa el problema, haga un reinicio seguro y elimine o reinstale los "
+"componentes comprometidos.\n"
 "\n"
 "*** STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n"
 "\n"
 "Empezando el volcado de memoria física.\n"
 "Descarga de memoria física completa.\n"
-"Póngase en contacto con su administrador de sistema para obtener más información\n"
+"Póngase en contacto con su administrador de sistema para obtener más "
+"información\n"
 "Presione {click} para continuar. {tab} para ver estadísticas..."
 
 #. Browser address-bar caption
@@ -3929,7 +4047,9 @@ msgstr "Descargar"
 #. Vapidshare part tooltip while another part is downloading
 #. source: Another part is downloading. Get Vapidshare Pro for simultaneous downloads.
 msgid "CLICKABLE.vapid_part_busy"
-msgstr "Otra parte se está descargando. Obtén Vapidshare Pro para descargas simultáneas"
+msgstr ""
+"Otra parte se está descargando. Obtén Vapidshare Pro para descargas "
+"simultáneas"
 
 #. Shop / upgrade screen - reroll button
 #. source: Reroll: %.2f Coin
@@ -4071,7 +4191,8 @@ msgstr "Ten ventanas en las 4 esquinas a la vez"
 #. Unlock description - overlay windows in all 4 corners
 #. source: Open files until their windows fill every corner of the screen.
 msgid "UI.unlock_corner_windows_desc"
-msgstr "Abre archivos hasta que las ventanas cubran cada esquina de la pantalla"
+msgstr ""
+"Abre archivos hasta que las ventanas cubran cada esquina de la pantalla"
 
 #. Unlock requirement - complete N tasks
 #. source: Complete {amount} tasks
@@ -4222,7 +4343,9 @@ msgstr "Archivo {boss}"
 #. source: Lets you choose {boss} at the end of a run instead of only Random Boss.
 #. Keep placeholders unchanged: {boss}
 msgid "UI.unlock_boss_choice_desc"
-msgstr "Te permite elegir {boss} al final de una partida en lugar de un jefe aleatorio."
+msgstr ""
+"Te permite elegir {boss} al final de una partida en lugar de un jefe "
+"aleatorio."
 
 #. Unlock requirement - land a hit of N damage
 #. source: Land a single hit of {amount} damage
@@ -4288,7 +4411,8 @@ msgstr ""
 #. UI (script-driven)
 #. source: Slow the world around you to clear enemies more easily.
 msgid "UI.unlock_widget_bullet_time_desc"
-msgstr "Ralentiza el mundo alrededor tuya para poder eliminar enemigos más fácil"
+msgstr ""
+"Ralentiza el mundo alrededor tuya para poder eliminar enemigos más fácil"
 
 #. UI (script-driven)
 #. source: Heaps of Pain
@@ -4308,7 +4432,8 @@ msgstr ""
 #. UI (script-driven)
 #. source: Heal now, or upgrade Health Check files for later battles.
 msgid "UI.unlock_file_health_check_pro_desc"
-msgstr "Cúrate ahora, o mejora los comprobadores de salud para batallas posteriores"
+msgstr ""
+"Cúrate ahora, o mejora los comprobadores de salud para batallas posteriores"
 
 #. UI (script-driven)
 #. source: Health Check Plus
@@ -4388,7 +4513,9 @@ msgstr "Derrota un enemigo Plus! en 10 segundos"
 #. UI (script-driven)
 #. source: Install Morgan Antivirus to raise difficulty and spawn extra Plus! enemies.
 msgid "UI.unlock_file_morgan_av_desc"
-msgstr "Instala el antivirus Koala para subir la dificultad y hacer que aparezcan más enemigos Plus!"
+msgstr ""
+"Instala el antivirus Koala para subir la dificultad y hacer que aparezcan "
+"más enemigos Plus!"
 
 #. UI (script-driven)
 #. source: Bonus Beanz
@@ -4510,7 +4637,9 @@ msgstr "Activación requerida"
 #. Optional extra difficulty policy - description (unsigned_driver)
 #. source: Keygen files do not spawn. Get plugins from cracked installers, or buy Keys at the Key Shop.
 msgid "POLICY.unsigned_driver.description"
-msgstr "No hay Keygens. Consigue plugins de instaladores craqueados o compra las claves en la Tienda."
+msgstr ""
+"No hay Keygens. Consigue plugins de instaladores craqueados o compra las "
+"claves en la Tienda."
 
 #. Optional extra difficulty policy - name (read_only)
 #. source: Read Only
@@ -4594,14 +4723,17 @@ msgstr "Cada archivo contiene spam"
 
 #. Optional extra difficulty policy - name (default_domain_policy)
 #. source: Natasha's Wrath
-#, fuzzy
 msgid "POLICY.default_domain_policy.name"
-msgstr "Política de dominio predeterminada"
+msgstr "La furia de Natasha"
 
 #. Optional extra difficulty policy - description (default_domain_policy)
 #. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
 msgid "POLICY.default_domain_policy.description"
-msgstr "Cada Política estándar a la vez. Los enemigos son más rápidos, duros y más numerosos. Comienza cada ronda con la mitad de la salud. No hay armas adicionales, Keygens o renovaciones. Vacío es 2x. El tiempo de escape dura la mitad."
+msgstr ""
+"Cada Política estándar a la vez. Los enemigos son más rápidos, duros y más "
+"numerosos. Comienza cada ronda con la mitad de la salud. No hay armas "
+"adicionales, Keygens o renovaciones. Vacío es 2x. El tiempo de escape dura "
+"la mitad."
 
 #. Policy complete unlock requirement template
 #. source: Complete any protocol using {policy}
@@ -4725,7 +4857,8 @@ msgstr "Reparación instantánea"
 #. Health Check Pro file-upgrade explanation
 #. source: Upgrading makes Health Check files in battle drop more hearts.
 msgid "UI.health_check_pro_file_blurb"
-msgstr "Mejorar hace que los comprobadores de salud en las rondas echen más corazones"
+msgstr ""
+"Mejorar hace que los comprobadores de salud en las rondas echen más corazones"
 
 #. Health Check Pro current heart range
 #. source: Now: {min}–{max} HP
@@ -4870,7 +5003,9 @@ msgstr "Retira tu inversión actual a monedas"
 #. Ethanol 130% window explanation
 #. source: Pay Coin to roll a copy of a random plugin you already have installed.
 msgid "UI.ethanol_body"
-msgstr "Paga dinero para obtener una copia de un plugin aleatorio de los que tengas instalado"
+msgstr ""
+"Paga dinero para obtener una copia de un plugin aleatorio de los que tengas "
+"instalado"
 
 #. Ethanol 130% copy button
 #. source: Copy: {cost} Coin
@@ -5019,7 +5154,9 @@ msgstr "Doble clic para cambiar idioma"
 #. Desktop icon tooltip
 #. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
 msgid "CLICKABLE.github_translations"
-msgstr "Doble click para abrir el enlace[br]Las traducciones del juego son contribuciones de la comunidad."
+msgstr ""
+"Doble click para abrir el enlace[br]Las traducciones del juego son "
+"contribuciones de la comunidad."
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
@@ -5299,7 +5436,9 @@ msgstr "Puntuación"
 #. Run stats panel row
 #. source: Run score from clears, levels, safe folders, and a completion bonus.
 msgid "RUNSTAT.score_desc"
-msgstr "Puntuación de la partida de eliminaciones, niveles, carpetas seguras y recompensas adicionales"
+msgstr ""
+"Puntuación de la partida de eliminaciones, niveles, carpetas seguras y "
+"recompensas adicionales"
 
 #. Run stats panel row
 #. source: Class
@@ -5590,7 +5729,8 @@ msgstr "Tabla extendida"
 #. Weapon driver / overclock card - description (extended_table)
 #. source: Attack Speed no longer makes this weapon expire sooner.
 msgid "DRIVER.extended_table.description"
-msgstr "La velocidad de ataque hace que esta arma dure más en lugar de expirar antes."
+msgstr ""
+"La velocidad de ataque hace que esta arma dure más en lugar de expirar antes."
 
 #. Weapon driver / overclock card - name (bumper)
 #. source: Bumper
@@ -5611,8 +5751,8 @@ msgstr "Fragmentado"
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.avd_fragmented.description"
 msgstr ""
-"Cuando rebota: se muta en dos copias.\n"
-"Las copias solo se mutan una vez."
+"Cuando rebota muta en dos copias.\n"
+"Las copias solo mutan una vez."
 
 #. Weapon driver / overclock card - name (avn_away)
 #. source: Away Message
@@ -5819,9 +5959,9 @@ msgstr ""
 "Reduce la cantidad en -25%"
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
 msgid "DRIVER.fontart_wordart.name"
-msgstr ""
+msgstr "Contorno"
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
@@ -5899,9 +6039,9 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr "Las minas se quedan hasta que salten"
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
 msgid "DRIVER.modem_handshake.name"
-msgstr "Congestión del acceso telefónico"
+msgstr "Comentarios"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
@@ -5911,9 +6051,9 @@ msgstr ""
 "Incrementa el tamaño +25%"
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
 msgid "DRIVER.modem_broadband.name"
-msgstr "Banda ancha"
+msgstr "Ganancia"
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
@@ -6181,7 +6321,7 @@ msgstr "Generar clave"
 #. Scene label
 #. screens: lem_upgrade_screen.tscn
 msgid "LemWire 4.7 - Pick Your Download"
-msgstr "LemWire 4.7 - Selecciona tu descarga!"
+msgstr "LemWire 4.7 - ¡Selecciona tu descarga!"
 
 #. Scene label
 #. screens: lem_window.tscn
@@ -6381,16 +6521,22 @@ msgstr "¡Victoria!"
 msgid ""
 "You did it! I'm proud of you! I hope you had fun.\n"
 "\n"
-"However I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n"
+"However I am very sorry that this is such a boring and uninspired win "
+"screen. You deserve better and you will get better - in the full release.\n"
 "\n"
-"In the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n"
+"In the meantime, enjoy trying some of the harder difficulties, go spend "
+"those Beanz on some upgrades and try out some different builds.\n"
 "\n"
-"If you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
+"If you had fun during this demo be sure to give it a wishlist or follow on "
+"Steam - there's so much more to come!"
 msgstr ""
 "¡Lo has conseguido! ¡Estoy orgulloso de ti! Espero que te hayas divertido\n"
-"Sin embargo, siento mucho que esta sea una pantalla de victoria tan aburrida y poco inspiradora. Te mereces algo mejor y mejorará - en la versión final\n"
-"Mientras, disfruta intentando las demás dificultades, gasta los Beanz en algunas mejoras e intenta otras builds\n"
-"Si te ha divertido esta demo, añade a la lista de deseados o síguelo en Steam - ¡vendrán muchas cosas!"
+"Sin embargo, siento mucho que esta sea una pantalla de victoria tan aburrida "
+"y poco inspiradora. Te mereces algo mejor y mejorará - en la versión final\n"
+"Mientras, disfruta intentando las demás dificultades, gasta los Beanz en "
+"algunas mejoras e intenta otras builds\n"
+"Si te ha divertido esta demo, añade a la lista de deseados o síguelo en "
+"Steam - ¡vendrán muchas cosas!"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6414,8 +6560,12 @@ msgstr "Preparando para instalar..."
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid "PluginInstaller is preparing to find all appropriate plugins for this application."
-msgstr "PluginInstaller está prepando para buscar todos los plugins apropiados para esta aplicación."
+msgid ""
+"PluginInstaller is preparing to find all appropriate plugins for this "
+"application."
+msgstr ""
+"PluginInstaller está prepando para buscar todos los plugins apropiados para "
+"esta aplicación."
 
 #. Scene label
 #. screens: installer_window.tscn
@@ -6628,8 +6778,6 @@ msgid ""
 "Increases Refresh Rate for Search by 20%.\n"
 "But here's a second line also."
 msgstr ""
-"Incrementa la tasa de refresco un 20%\n"
-"Aquí hay una segunda línea"
 
 #. Scene label
 #. screens: torrent_window.tscn
