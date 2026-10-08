@@ -108,7 +108,7 @@ msgstr ""
 "ได้รับ 1 คีย์เมื่อเริ่มเกม\n"
 "เหรียญที่ได้รับ x1.3\n"
 "ระยะดึงดูด x1.3\n"
-"ราคาของในร้านค้าลดลง 10%\n"
+"ราคาไอเท็มในร้านค้าลดลง 10%\n"
 "พลังชีวิตสูงสุด x0.9\n"
 "ดาเมจอาวุธ x0.85"
 
@@ -564,7 +564,7 @@ msgstr "คูปอง โค้ด"
 #. Plugin - description (shop_discount_10)
 #. source: Discount Shop Items +10%.
 msgid "PLUGIN.shop_discount_10.description"
-msgstr "ราคาของในร้านค้าลดลง 10%"
+msgstr "ราคาไอเท็มในร้านค้าลดลง 10%"
 
 #. Plugin - name (shop_discount_25)
 #. source: Volume License
@@ -574,7 +574,7 @@ msgstr "โวลูม ไลเซนส์"
 #. Plugin - description (shop_discount_25)
 #. source: Discount Shop Items +25%.
 msgid "PLUGIN.shop_discount_25.description"
-msgstr "ราคาของในร้านค้าลดลง 25%"
+msgstr "ราคาไอเท็มในร้านค้าลดลง 25%"
 
 #. Plugin - name (slow_but_strong)
 #. source: Rau und Stark
@@ -1021,7 +1021,7 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr "ข้อมูลเล็ดลอด"
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_dodge.description"
 msgstr "เพิ่มโอกาสที่จะหลบการโจมตี (แบบก้าวกระโดด)"
 
@@ -1057,7 +1057,7 @@ msgid "STAT.upgrade_player_luck.name"
 msgstr "โชค"
 
 #. Stat display - description (upgrade_player_luck)
-#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
 msgid "STAT.upgrade_player_luck.description"
 msgstr "เพิ่มโอกาศที่จะรีโรลได้ตัวเลือกที่มีระดับความหายากสูง"
 
@@ -1499,7 +1499,7 @@ msgstr "พินบอล"
 #. Upgrade card - description (weapon_pinball)
 #. source: Shoots a bouncing ball towards the nearest enemy.
 msgid "UPGRADE.weapon_pinball.description"
-msgstr "ยิงลูกบอลสะท้อนใส่ศัตรูที่อยู่ใกล้ที่สุด"
+msgstr "ยิงลูกบอลเด้งสะท้อนขอบกำแพงใส่ศัตรูที่อยู่ใกล้ที่สุด"
 
 #. Upgrade card - name (weapon_quarantine)
 #. source: Quarantine
@@ -1529,7 +1529,7 @@ msgstr "โซลิแทร์"
 #. Upgrade card - description (weapon_solitaire)
 #. source: Shoots a bouncing card that adds stacks of Infect to enemies.
 msgid "UPGRADE.weapon_solitaire.description"
-msgstr "ปล่อยไพ่สะท้อนที่จะสร้างความเสียหายอินเฟ็คท์ทับซ้อนให้กับศัตรู"
+msgstr "ปล่อยไพ่เด้งสะท้อนขอบกำแพงที่จะสร้างความเสียหายอินเฟ็คท์ทับซ้อนให้กับศัตรู"
 
 #. Upgrade card - name (weapon_fraps)
 #. source: Frames
@@ -1582,8 +1582,8 @@ msgstr "อีเมล"
 #. source: Envelopes fly out, bounce off walls, and boomerang home hitting both ways.
 msgid "UPGRADE.weapon_email.description"
 msgstr ""
-"ปล่อยซองจดหมายที่จะสะท้อนขอบกำแพง\n"
-"และเด้งย้อนกลับเคอร์เซอร์ ทำดาเมจสองรอบ"
+"ปล่อยซองจดหมายที่จะเด้งสะท้อนขอบกำแพง\n"
+"ย้อนกลับมาที่เคอร์เซอร์ ทำดาเมจสองรอบ"
 
 #. Upgrade card - name (weapon_cruiser)
 #. source: Internet Cruiser
@@ -1635,9 +1635,9 @@ msgid "UPGRADE.weapon_cone.name"
 msgstr "กรวยยักษ์"
 
 #. Upgrade card - description (weapon_cone)
-#. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
-msgstr "กรวยจราจรสีส้มที่ติดอยู่กับเคอร์เซอร์ สร้างความเสียหายฮีทให้กับศัตรูที่สัมผัสมัน"
+msgstr "กรวยสีส้มที่ติดอยู่กับเคอร์เซอร์ สร้างความเสียหายฮีทให้กับศัตรูที่สัมผัสมัน"
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
@@ -1657,7 +1657,7 @@ msgid "UPGRADE.weapon_modem.name"
 msgstr "เอาท์พุต ดีไวซ์"
 
 #. Upgrade card - description (weapon_modem)
-#. source: Blasts concentric handshake rings outward from the cursor.
+#. source: Blasts sound rings outward from the cursor.
 msgid "UPGRADE.weapon_modem.description"
 msgstr "ปล่อยวงแหวนคลื่นเสียงระยะใกล้รอบๆเคอร์เซอร์ออกเป็นวงกว้าง"
 
@@ -1692,7 +1692,7 @@ msgid "WEAPON.cruiser.spawn_noun"
 msgstr "เปิดแท็บ"
 
 #. Weapon metadata
-#. source: trap
+#. source: tab
 msgid "WEAPON.orchestra.spawn_noun"
 msgstr "เปิดแท็บ"
 
@@ -2007,9 +2007,19 @@ msgid "SETTINGS.music_volume"
 msgstr "เสียงเพลง"
 
 #. Settings menu
+#. source: SFX Volume
+msgid "SETTINGS.sfx_volume"
+msgstr "เสียงเอฟเฟ็ค"
+
+#. Settings menu
 #. source: Keygen Volume
 msgid "SETTINGS.keygen_volume"
 msgstr "เสียงคีย์เจ็น"
+
+#. Settings menu
+#. source: Main Menu Computer Sound
+msgid "SETTINGS.menu_computer_sound"
+msgstr "เสียงหน้าเมนูหลัก"
 
 #. Settings menu
 #. source: Animation Speed
@@ -2069,12 +2079,22 @@ msgstr "ปรับระดับเสียงโดยรวมทั้ง
 #. Settings menu
 #. source: Volume for the soundtrack.
 msgid "SETTINGS.music_volume_tip"
-msgstr "ปรับระดับเสียงเพลง"
+msgstr "ปรับระดับเสียงเพลงประกอบ"
+
+#. Settings menu
+#. source: Volume for sound effects.
+msgid "SETTINGS.sfx_volume_tip"
+msgstr "ปรับระดับเสียงเอฟเฟ็คภายในเกม"
 
 #. Settings menu
 #. source: Volume for Keygen windows that play their own track.
 msgid "SETTINGS.keygen_volume_tip"
 msgstr "ปรับระดับเสียงเพลงที่เล่นเมื่อเปิดหน้าต่างคีย์เจ็น"
+
+#. Settings menu
+#. source: Play the computer humming sound on the main menu.
+msgid "SETTINGS.menu_computer_sound_tip"
+msgstr "ปรับระดับเสียงเครื่องคอมพิวเตอร์ที่หน้าเมนูหลัก"
 
 #. Settings menu
 #. source: Language for menus and in-game text.
@@ -2084,12 +2104,12 @@ msgstr "ภาษาเมนูและข้อความภายในเ
 #. Settings menu
 #. source: How quickly UI animations and transitions play.
 msgid "SETTINGS.anim_speed_tip"
-msgstr "ปรับระดับความเร็วแอนิเมชั่นของ UI และเอฟเฟคเปลี่ยนผ่าน"
+msgstr "ปรับระดับความเร็วแอนิเมชั่นของ UI และเอฟเฟ็คเปลี่ยนผ่าน"
 
 #. Settings menu
 #. source: How fast the cursor moves with the stick or keys in menus.
 msgid "SETTINGS.menu_cursor_speed_tip"
-msgstr "ปรับความเร็วเคอร์เซอร์เมื่อเลื่อนที่บนเมนู"
+msgstr "ปรับความเร็วเคอร์เซอร์เมื่อเคลื่อนที่บนหน้าเมนู"
 
 #. Settings menu
 #. source: Control your cursor with the mouse in Safe Folders. Battle Folders always use WASD or the left stick.
@@ -2099,7 +2119,7 @@ msgstr "ใช้เมาส์ควบคุมเคอร์เซอร์
 #. Settings menu
 #. source: Vibrate the controller when taking damage.
 msgid "SETTINGS.controller_vibration_tip"
-msgstr "สั่นจอยควบคุมเมื่อเคอร์เซอร์ได้รับความเสียหาย"
+msgstr "สั่นจอยควบคุมเมื่อเคอร์เซอร์ได้รับดาเมจ"
 
 #. Settings menu
 #. source: OK
@@ -2305,12 +2325,12 @@ msgstr "เลเวล %d.doc - SH Docs 2003"
 #. End-of-round timer prompt for the Safe Folder
 #. source: Get to the Safe Folder!
 msgid "UI.get_to_safe_folder"
-msgstr "เคลื่อนที่ไปที่โฟลเดอร์ปลอดภัย!"
+msgstr "เคลื่อนที่ไปยังโฟลเดอร์ปลอดภัย!"
 
 #. End-of-round timer prompt when the boss file drops
 #. source: Get to the Boss File!
 msgid "UI.get_to_boss_file"
-msgstr "เคลื่อนที่ไปที่ไฟล์บอส!"
+msgstr "เคลื่อนที่ไปยังไฟล์บอส!"
 
 #. Upgrade screen - title
 #. source: Level Up!
@@ -3873,8 +3893,8 @@ msgstr ""
 "หากนี่เป็นครั้งแรกที่คุณเห็นหน้าจอยุติการทำงาน กรุณารีสตาร์ทคอมพิวเตอร์ของคุณ\n"
 "หากหน้าจอนี้ยังคงเกิดขึ้นอีกครั้ง โมดูลภายในระบบอาจได้รับความเสียหายจากการถูกโจมตี\n"
 "\n"
-"โปรดตรวจสอบความสมบูรณ์ของส่วนประกอบที่ติดตั้ง\n"
-"การทำงานที่ผิดปกติจากการฝังโค้ดอันตรายหรือการรันสคริปต์ที่ไม่ได้รับอนุญาตอาจเป็นสาเหตุที่ทำให้ข้อมูลเกิดความเสียหาย\n"
+"โปรดตรวจสอบความสมบูรณ์ของส่วนประกอบที่ติดตั้ง การทำงานที่ผิดปกติจากการฝังโค้ดอันตราย\n"
+"หรือการรันสคริปต์ที่ไม่ได้รับอนุญาตอาจเป็นสาเหตุที่ทำให้ข้อมูลเกิดความเสียหาย\n"
 "\n"
 "หากปัญหายังคงอยู่ ให้ทำการรีบู้ตแบบปลอดภัยหรือติดต่อผู้ดูแลระบบภายในของคุณ\n"
 "\n"
@@ -5235,7 +5255,7 @@ msgstr "แตกไฟล์ %s เสร็จสิ้น"
 #. source: Missing dynamic link library %s located.
 #. Keep placeholders unchanged: %s
 msgid "DLL.missing_library"
-msgstr "พบตำแหน่งไฟล์ชุดคำสั่ง %s"
+msgstr "พบตำแหน่งไฟล์ %s"
 
 #. Desktop icon tooltip
 #. source: BigWave.exe
@@ -5646,7 +5666,7 @@ msgstr "บัมเปอร์"
 #. Weapon driver / overclock card - description (bumper)
 #. source: On wall bounce: Increase Damage +50% and trigger a Blast.
 msgid "DRIVER.bumper.description"
-msgstr "เมื่อการโจมตีสะท้อนกำแพง: ดาเมจอาวุธ +50% และสร้างคลื่นระเบิด"
+msgstr "เมื่อการโจมตีสะท้อนขอบกำแพง: ดาเมจอาวุธ +50% และสร้างคลื่นระเบิด"
 
 #. Weapon driver / overclock card - name (avd_fragmented)
 #. source: Fragmented
@@ -5656,7 +5676,7 @@ msgstr "แฟรกเมนต์"
 #. Weapon driver / overclock card - description (avd_fragmented)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.avd_fragmented.description"
-msgstr "เมื่อการโจมตีสะท้อนกำแพง: แยกการโจมตีเป็นสองส่วนแบ่งครึ่งขนาด การโจมตีที่ถูกแยกสามารถแยกตัวได้อีกหนึ่งครั้ง"
+msgstr "เมื่อการโจมตีสะท้อนขอบกำแพง: แยกการโจมตีเป็นสองส่วนแบ่งครึ่งขนาด การโจมตีที่ถูกแยกสามารถแยกตัวได้อีกหนึ่งครั้ง"
 
 #. Weapon driver / overclock card - name (avn_away)
 #. source: Away Message
@@ -5714,7 +5734,7 @@ msgstr "ซัดส์"
 #. Weapon driver / overclock card - description (bubbles_suds)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.bubbles_suds.description"
-msgstr "เมื่อการโจมตีสะท้อนกำแพง: แยกการโจมตีเป็นสองส่วนแบ่งครึ่งขนาด การโจมตีที่ถูกแยกสามารถแยกตัวได้อีกหนึ่งครั้ง"
+msgstr "เมื่อการโจมตีสะท้อนขอบกำแพง: แยกการโจมตีเป็นสองส่วนแบ่งครึ่งขนาด การโจมตีที่ถูกแยกสามารถแยกตัวได้อีกหนึ่งครั้ง"
 
 #. Weapon driver / overclock card - name (cdrive_seek)
 #. source: Seek
@@ -5863,9 +5883,9 @@ msgstr ""
 "จำนวนอาวุธ -25%"
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
 msgid "DRIVER.fontart_wordart.name"
-msgstr "เวิร์ดอาร์ต"
+msgstr "เอาท์ไลน์"
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
@@ -5895,7 +5915,7 @@ msgstr "วี-ซิงก์"
 #. source: FPS numbers bounce off walls.\nIncrease Size +20%.
 msgid "DRIVER.fraps_vsync.description"
 msgstr ""
-"ตัวนับ FPS จะเด้งสะท้อนกำแพง\n"
+"ตัวนับ FPS จะเด้งสะท้อนขอบกำแพง\n"
 "ขนาดอาวุธ +20%"
 
 #. Weapon driver / overclock card - name (hitmarkers_headhunter)
@@ -5943,9 +5963,9 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr "กับระเบิดไม่หายไปจนกว่าจะถูกสัมผัส"
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
 msgid "DRIVER.modem_handshake.name"
-msgstr "ไดอัล-อัป คอนเจสชั่น"
+msgstr "ฟี้ดแบ็ค"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
@@ -5955,9 +5975,9 @@ msgstr ""
 "ขนาดอาวุธ +25%"
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
 msgid "DRIVER.modem_broadband.name"
-msgstr "บรอดแบนด์"
+msgstr "เกน"
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
@@ -6021,7 +6041,7 @@ msgstr "ทิลต์"
 #. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
 msgid "DRIVER.pinball_tilted.description"
 msgstr ""
-"เมื่อการโจมตีสะท้อนกำแพง: ขยายขนาดอาวุธ เกิดขึ้นได้สองครั้ง\n"
+"เมื่อการโจมตีสะท้อนขอบกำแพง: ขยายขนาดอาวุธ เกิดขึ้นได้สองครั้ง\n"
 "ขนาดอาวุธ -30%"
 
 #. Weapon driver / overclock card - name (quarantine_strict)
@@ -6195,7 +6215,7 @@ msgstr "คาดการณ์ปริมาณ EXP ก่อนดำเน�
 #. Scene label
 #. screens: dll_window.tscn
 msgid "Missing dynamic link library scd.dll located."
-msgstr "พบตำแหน่งไฟล์ชุดคำสั่ง scd.dll"
+msgstr "พบตำแหน่งไฟล์ scd.dll"
 
 #. Scene label
 #. screens: dll_window.tscn
@@ -6260,7 +6280,7 @@ msgstr "บิตเรท"
 #. Scene label
 #. screens: spam_ad_2.tscn
 msgid "(3) \"hey x \"  HOT!!! Singles"
-msgstr "(3) \"เฮ้ หวานใจ \"  สาวโสดสุดฮ็อต!!!"
+msgstr "(3) \"เฮ้ ทูนหัว\" สาวฮ็อต!!!"
 
 #. Scene label
 #. screens: spam_ad_3.tscn
@@ -6280,7 +6300,7 @@ msgstr "คุณคือผู้ชนะรางวัลยักษ์ใ
 #. Scene label
 #. screens: spam_ad_6.tscn
 msgid "CHEAP PRINTER ONE CLICK AWAY"
-msgstr "ซื้อเครื่องปริ้นท์ราคาถูก กดแค่คลิกเดียว"
+msgstr "เครื่องปริ้นท์ราคาถูก กดแค่คลิกเดียว"
 
 #. Scene label
 #. screens: spam_ad_7.tscn
@@ -6300,7 +6320,7 @@ msgstr "โอ๊ะโอออออออออ แจ้งเตือน �
 #. Scene label
 #. screens: spam_ad_10.tscn
 msgid "1,000,0000 th VISTOR this WEEK!!! PRIZE WON!"
-msgstr "คุณคือผู้เยี่ยมชมคนที่ 1,000,0000 ประจำสัปดาหืนี้!!! คุณถูกรางวัล!"
+msgstr "คุณคือผู้เยี่ยมชมคนที่ 1,000,0000 ประจำสัปดาห์!!! คุณถูกรางวัล!"
 
 #. Scene label
 #. screens: vapor_exe.tscn
