@@ -1033,7 +1033,7 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr "Потеря пакетов"
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_dodge.description"
 msgstr "Шанс избежать полученный урон (экспоненциально)"
 
@@ -1069,7 +1069,7 @@ msgid "STAT.upgrade_player_luck.name"
 msgstr "Удача"
 
 #. Stat display - description (upgrade_player_luck)
-#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
 msgid "STAT.upgrade_player_luck.description"
 msgstr ""
 "Повышает удачу, увеличивая шанс получить апгрейды более высокой редкости и "
@@ -1655,7 +1655,7 @@ msgid "UPGRADE.weapon_cone.name"
 msgstr "Very Large Cone"
 
 #. Upgrade card - description (weapon_cone)
-#. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
 msgstr "Оранжевые дорожные конусы прицепились к вам. Наносят эффект пламени."
 
@@ -1675,10 +1675,9 @@ msgid "UPGRADE.weapon_modem.name"
 msgstr "Устройство вывода"
 
 #. Upgrade card - description (weapon_modem)
-#. source: Blasts concentric handshake rings outward from the cursor.
+#. source: Blasts sound rings outward from the cursor.
 msgid "UPGRADE.weapon_modem.description"
-msgstr ""
-"Создает волну из концентрированных колец подключения, исходящих из курсора."
+msgstr "Создает кольца из звуковых волн, исходящих из курсора."
 
 #. Weapon metadata
 #. source: FPS counter
@@ -1711,7 +1710,7 @@ msgid "WEAPON.cruiser.spawn_noun"
 msgstr "вкладок"
 
 #. Weapon metadata
-#. source: trap
+#. source: tab
 msgid "WEAPON.orchestra.spawn_noun"
 msgstr "ловушек"
 
@@ -2026,9 +2025,19 @@ msgid "SETTINGS.music_volume"
 msgstr "Громкость музыки"
 
 #. Settings menu
+#. source: SFX Volume
+msgid "SETTINGS.sfx_volume"
+msgstr "Громкость звук. эффектов"
+
+#. Settings menu
 #. source: Keygen Volume
 msgid "SETTINGS.keygen_volume"
 msgstr "Громкость ключгена"
+
+#. Settings menu
+#. source: Main Menu Computer Sound
+msgid "SETTINGS.menu_computer_sound"
+msgstr "Звук ПК в главном меню"
 
 #. Settings menu
 #. source: Animation Speed
@@ -2093,9 +2102,19 @@ msgid "SETTINGS.music_volume_tip"
 msgstr "Громкость проигрываемой музыки."
 
 #. Settings menu
+#. source: Volume for sound effects.
+msgid "SETTINGS.sfx_volume_tip"
+msgstr "Громкость звуковых эффектов."
+
+#. Settings menu
 #. source: Volume for Keygen windows that play their own track.
 msgid "SETTINGS.keygen_volume_tip"
 msgstr "Громкость окон ключгена, использующие свою музыку."
+
+#. Settings menu
+#. source: Play the computer humming sound on the main menu.
+msgid "SETTINGS.menu_computer_sound_tip"
+msgstr "Проигрывает звук вентиляторов компьютера в главном меню."
 
 #. Settings menu
 #. source: Language for menus and in-game text.
@@ -2675,6 +2694,48 @@ msgstr "Профиль.xls - Антивирус Выживатели"
 #. source: Tasks and Stats
 msgid "UI.start_menu_tasks_stats"
 msgstr "Задания и статистика"
+
+#. Credits window - title, also the desktop icon name
+#. source: Credits
+msgid "CREDITS.window_title"
+msgstr "Создатели"
+
+#. Credits window - role title
+#. source: Development, Art, Music etc.
+msgid "CREDITS.solo_developer"
+msgstr "Разработка, арты, музыка, т.д."
+
+#. Credits window - role title
+#. source: Producer
+msgid "CREDITS.producer"
+msgstr "Продюсер"
+
+#. Credits window - role title. Keep the name Virry.
+#. source: Animator (Virry)
+msgid "CREDITS.animation_virry"
+msgstr "Анимации (Вирри)"
+
+#. Credits window - role title
+#. source: Community QA
+msgid "CREDITS.community_qa"
+msgstr "Помощь от сообщества"
+
+#. Credits window - role title
+#. source: Community Translators
+msgid "CREDITS.community_translators"
+msgstr "Переводы от сообщества"
+
+#. Credits window - role title
+#. source: Special Thanks
+msgid "CREDITS.special_thanks"
+msgstr "Особые благодарности"
+
+#. Credits window - note under Special Thanks
+#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
+msgid "CREDITS.special_thanks_note"
+msgstr ""
+"Большое вам всем спасибо за помощь в достижении моей мечты. Люблю вас всех! "
+"-Shaun"
 
 #. Profile stats window - statistics tab
 #. source: Stats
@@ -4661,9 +4722,9 @@ msgid "POLICY.open_relay.description"
 msgstr "Каждый файл в раундах содержит спам."
 
 #. Optional extra difficulty policy - name (default_domain_policy)
-#. source: Default Domain Policy
+#. source: Natasha's Wrath
 msgid "POLICY.default_domain_policy.name"
-msgstr "Стандартная групповая политика"
+msgstr "Возмездие Наташи"
 
 #. Optional extra difficulty policy - description (default_domain_policy)
 #. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
@@ -5898,9 +5959,9 @@ msgstr ""
 "Уменьшает кол-во на -25%."
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
 msgid "DRIVER.fontart_wordart.name"
-msgstr "WordArt"
+msgstr "Контур"
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
@@ -5978,7 +6039,7 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr "Мины остаются пока они не будут активированы."
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
 msgid "DRIVER.modem_handshake.name"
 msgstr "Перегруз линии"
 
@@ -5990,9 +6051,9 @@ msgstr ""
 "Увеличивает размер на +25%."
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
 msgid "DRIVER.modem_broadband.name"
-msgstr "Широкополосный"
+msgstr "Усилитель"
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
@@ -6786,48 +6847,6 @@ msgstr "Окно"
 #. Scene label
 msgid "Antivirus Survivors 2003 Professional"
 msgstr "Антивирус Выживатели 2003 Профессиональный"
-
-#. Credits window
-#. source: Credits
-msgid "CREDITS.window_title"
-msgstr "Создатели"
-
-#. Credits window - role title
-#. source: Development, Art, Music etc.
-msgid "CREDITS.solo_developer"
-msgstr "Разработка, арты, музыка, т.д."
-
-#. Credits window - role title
-#. source: Producer
-msgid "CREDITS.producer"
-msgstr "Продюсер"
-
-#. Credits window - role title. Keep the name Virry.
-#. source: Animator (Virry)
-msgid "CREDITS.animation_virry"
-msgstr "Анимации (Вирри)"
-
-#. Credits window - role title
-#. source: Community QA
-msgid "CREDITS.community_qa"
-msgstr "Помощь от сообщества"
-
-#. Credits window - role title
-#. source: Community Translators
-msgid "CREDITS.community_translators"
-msgstr "Переводы от сообщества"
-
-#. Credits window - role title
-#. source: Special Thanks
-msgid "CREDITS.special_thanks"
-msgstr "Особые благодарности"
-
-#. Credits window - note under Special Thanks
-#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
-msgid "CREDITS.special_thanks_note"
-msgstr ""
-"Большое вам всем спасибо за помощь в достижении моей мечты. Люблю вас всех! "
-"-Shaun"
 
 #~ msgid "Wishlist"
 #~ msgstr "Добавить в желаемое"
