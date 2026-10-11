@@ -1,10 +1,15 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Antivirus Survivors 2003"
+"Project-Id-Version: Antivirus Survivors 2003\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
 
 #. Class select - name (brick)
 #. source: Brick
@@ -15,7 +20,9 @@ msgstr "ヴリック"
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 #, fuzzy
 msgid "CLASS.brick.description"
-msgstr "硬いカーソル。\n堅牢で、頑丈で、打たれ強い"
+msgstr ""
+"硬いカーソル。\n"
+"堅牢で、頑丈で、打たれ強い"
 
 #. Class select - name (default)
 #. source: Default
@@ -26,7 +33,9 @@ msgstr "ノーマル"
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 #, fuzzy
 msgid "CLASS.default.description"
-msgstr "普段から使っている、いつものカーソル。\n普遍的でシンプルで、ちょうどいい"
+msgstr ""
+"普段から使っている、いつものカーソル。\n"
+"普遍的でシンプルで、ちょうどいい"
 
 #. Class select - name (null)
 #. source: Null
@@ -37,7 +46,9 @@ msgstr "ヌル"
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 #, fuzzy
 msgid "CLASS.null.description"
-msgstr "何も入っていない、とても儚いカーソル。\n打たれ弱いけど、幸運を呼び寄せる"
+msgstr ""
+"何も入っていない、とても儚いカーソル。\n"
+"打たれ弱いけど、幸運を呼び寄せる"
 
 #. Class select - name (vector)
 #. source: Vector
@@ -48,7 +59,9 @@ msgstr "ヴェクター"
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 #, fuzzy
 msgid "CLASS.vector.description"
-msgstr "素早いカーソル。\n早さが足りない"
+msgstr ""
+"素早いカーソル。\n"
+"早さが足りない"
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -215,12 +228,12 @@ msgstr "1上昇する毎にウェポンの攻撃速度が+1％増加します"
 #. Plugin - name (armor_boost)
 #. source: Armo(u)r Boost
 msgid "PLUGIN.armor_boost.name"
-msgstr ""
+msgstr "アーマー増加"
 
 #. Plugin - description (armor_boost)
 #. source: Add +5 Armo(u)r.
 msgid "PLUGIN.armor_boost.description"
-msgstr ""
+msgstr "アーマーを+5追加"
 
 #. Plugin - name (armor_damage_trigger)
 #. source: Hardware IRQ
@@ -231,7 +244,9 @@ msgstr "ｱｰﾏｰ&ﾀﾞﾒｰｼﾞﾄﾘｶﾞｰ"
 #. Plugin - description (armor_damage_trigger)
 #. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
 msgid "PLUGIN.armor_damage_trigger.description"
-msgstr "【攻撃耐性+5】\n被ダメージ時【パケットロス +25】(効果時間:10 秒)"
+msgstr ""
+"【攻撃耐性+5】\n"
+"被ダメージ時【パケットロス +25】(効果時間:10 秒)"
 
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
@@ -254,7 +269,9 @@ msgstr "HPブースト"
 #. Plugin - description (big_hp_regen_boost)
 #. source: Add +64 Max HP.\nAdd +12 Health Regen.
 msgid "PLUGIN.big_hp_regen_boost.description"
-msgstr "【HP最大値 +64】\n【HPリジェネ +12】"
+msgstr ""
+"【HP最大値 +64】\n"
+"【HPリジェネ +12】"
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -265,7 +282,9 @@ msgstr "ウェーブブースト"
 #. Plugin - description (big_wave_damage)
 #. source: Increase Weapon Damage Multiplier +10% when opening a Big Wave.
 msgid "PLUGIN.big_wave_damage.description"
-msgstr "ビッグウェーブ起動時\n【与ダメージ +10%】"
+msgstr ""
+"ビッグウェーブ起動時\n"
+"【与ダメージ +10%】"
 
 #. Plugin - name (blast_on_file_open)
 #. source: AutoPlay
@@ -276,7 +295,9 @@ msgstr "バックドラフト"
 #. Plugin - description (blast_on_file_open)
 #. source: 25% Chance to trigger a Blast when opening a File.
 msgid "PLUGIN.blast_on_file_open.description"
-msgstr "ファイル起動時\n【25%の確率で『ブラスト』が発生】"
+msgstr ""
+"ファイル起動時\n"
+"【25%の確率で『ブラスト』が発生】"
 
 #. Plugin - name (chance_defrag)
 #. source: Disk Cleanup
@@ -287,7 +308,9 @@ msgstr "デフラグタイマー"
 #. Plugin - description (chance_defrag)
 #. source: 10% Chance to perform a Defrag every 30s.
 msgid "PLUGIN.chance_defrag.description"
-msgstr "30 秒経過時\n【10％の確率で『デフラグ』を実行】"
+msgstr ""
+"30 秒経過時\n"
+"【10％の確率で『デフラグ』を実行】"
 
 #. Plugin - name (coin_boost)
 #. source: Coin Gain Boost
@@ -342,13 +365,14 @@ msgstr "ニゲアシ"
 #. Plugin - description (cursor_speed_damage)
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
-msgstr "【移動速度 +10%】\n被ダメージ時【10 秒間 移動速度+30%】"
+msgstr ""
+"【移動速度 +10%】\n"
+"被ダメージ時【10 秒間 移動速度+30%】"
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
-#, fuzzy
 msgid "PLUGIN.damage_boost.name"
-msgstr "パワーアップ"
+msgstr "ウェポンダメージ増加"
 
 #. Plugin - description (damage_boost)
 #. source: Multiply Weapon Damage 1.1x.
@@ -364,7 +388,9 @@ msgstr "レキセン"
 #. Plugin - description (damage_level_scaling)
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
 msgid "PLUGIN.damage_level_scaling.description"
-msgstr "プレイヤーレベル 1 上昇毎【与ダメージ +3%】\nプレイヤーレベル 1 上昇毎【HP最大値 -1】"
+msgstr ""
+"プレイヤーレベル 1 上昇毎【与ダメージ +3%】\n"
+"プレイヤーレベル 1 上昇毎【HP最大値 -1】"
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
@@ -386,7 +412,11 @@ msgstr "モウコウゲキ"
 #. Plugin - description (damage_speed_crit)
 #. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
 msgid "PLUGIN.damage_speed_crit.description"
-msgstr "【与ダメージ +10%】\n【待機時間短縮 +10%】\n【Crit.確率 +5%】\n【Crit.ダメージ +15%】"
+msgstr ""
+"【与ダメージ +10%】\n"
+"【待機時間短縮 +10%】\n"
+"【Crit.確率 +5%】\n"
+"【Crit.ダメージ +15%】"
 
 #. Plugin - name (defrag_on_safe_folder)
 #. source: Startup Folder
@@ -397,7 +427,9 @@ msgstr "トッパコウ"
 #. Plugin - description (defrag_on_safe_folder)
 #. source: Perform a Defrag when the Safe Folder spawns.
 msgid "PLUGIN.defrag_on_safe_folder.description"
-msgstr "セーブフォルダが出現した際\n【『デフラグ』を実行】"
+msgstr ""
+"セーブフォルダが出現した際\n"
+"【『デフラグ』を実行】"
 
 #. Plugin - name (dual_core)
 #. source: Dual Core
@@ -440,7 +472,9 @@ msgstr "セイチョウ"
 #. Plugin - description (hp_on_heal)
 #. source: 7% Chance to Add +3 Max HP when Healed. (5s Cooldown).
 msgid "PLUGIN.hp_on_heal.description"
-msgstr "回復時【7 ％の確率でHP最大値 +3】\n(クールダウン:5 秒)"
+msgstr ""
+"回復時【7 ％の確率でHP最大値 +3】\n"
+"(クールダウン:5 秒)"
 
 #. Plugin - name (locate_pointer)
 #. source: Locate Pointer
@@ -451,7 +485,9 @@ msgstr "プレッシャー"
 #. source: Trigger a Blast when taking damage (20s cooldown, reduced per stack).
 #, fuzzy
 msgid "PLUGIN.locate_pointer.description"
-msgstr "被ダメージ時【『ブラスト』を発生】\n(クールダウン:20 秒)"
+msgstr ""
+"被ダメージ時【『ブラスト』を発生】\n"
+"(クールダウン:20 秒)"
 
 #. Plugin - name (luck_boost)
 #. source: Luck Boost
@@ -473,7 +509,10 @@ msgstr "オイノリ"
 #. Plugin - description (luck_reroll)
 #. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
 msgid "PLUGIN.luck_reroll.description"
-msgstr "【ラック(運) +12%】\nリロール時\n【ラック(運) +25％】(効果時間:10 秒)"
+msgstr ""
+"【ラック(運) +12%】\n"
+"リロール時\n"
+"【ラック(運) +25％】(効果時間:10 秒)"
 
 #. Plugin - name (luck_zip_boost)
 #. source: Compressed Folders
@@ -569,7 +608,9 @@ msgstr "ジュウソウビ"
 #. Plugin - description (slow_but_strong)
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
-msgstr "【与ダメージ 1.25x】\n【移動速度 -10%】"
+msgstr ""
+"【与ダメージ 1.25x】\n"
+"【移動速度 -10%】"
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -579,7 +620,9 @@ msgstr "イノチダイジニ"
 #. Plugin - description (smart_recovery)
 #. source: Add +10 Max HP.\nHeal 25% of Max HP when opening a Safe Folder.
 msgid "PLUGIN.smart_recovery.description"
-msgstr "【HP最大値 +10】\nセーフフォルダを開いた際【HP 25％回復】"
+msgstr ""
+"【HP最大値 +10】\n"
+"セーフフォルダを開いた際【HP 25％回復】"
 
 #. Plugin - name (weapon_speed_boost)
 #. source: Weapon Speed Boost
@@ -634,7 +677,9 @@ msgstr "ボウケンカ"
 #. Plugin - description (xp_gain_on_damage)
 #. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
 msgid "PLUGIN.xp_gain_on_damage.description"
-msgstr "【経験値獲得量 +10%】\n被ダメージ時【経験値 +4】"
+msgstr ""
+"【経験値獲得量 +10%】\n"
+"被ダメージ時【経験値 +4】"
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
@@ -884,7 +929,9 @@ msgstr "ﾌﾟﾛﾄｺﾙ1"
 #. Difficulty protocol - description (protocol_1)
 #. source: The beginner difficulty. Earn 16 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_1.description"
-msgstr "気軽に始められる、ビギナーな難易度です。\nラウンド突破時【Beanz】を 16 獲得します"
+msgstr ""
+"気軽に始められる、ビギナーな難易度です。\n"
+"ラウンド突破時【Beanz】を 16 獲得します"
 
 #. Difficulty protocol - name (protocol_2)
 #. source: Protocol II
@@ -894,7 +941,9 @@ msgstr "ﾌﾟﾛﾄｺﾙ2"
 #. Difficulty protocol - description (protocol_2)
 #. source: The sophomore difficulty. Earn 24 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_2.description"
-msgstr "おおよそ理解した初心者向けの難易度です。\nラウンド突破時【Beanz】を 24 獲得します"
+msgstr ""
+"おおよそ理解した初心者向けの難易度です。\n"
+"ラウンド突破時【Beanz】を 24 獲得します"
 
 #. Difficulty protocol - name (protocol_3)
 #. source: Protocol III
@@ -904,7 +953,9 @@ msgstr "ﾌﾟﾛﾄｺﾙ3"
 #. Difficulty protocol - description (protocol_3)
 #. source: The tertiary difficulty. Earn 32 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_3.description"
-msgstr "操作に慣れてきた中級者向けの難易度です。\nラウンド突破時【Beanz】を 32 獲得します"
+msgstr ""
+"操作に慣れてきた中級者向けの難易度です。\n"
+"ラウンド突破時【Beanz】を 32 獲得します"
 
 #. Difficulty protocol - name (protocol_4)
 #. source: Protocol IV
@@ -914,7 +965,9 @@ msgstr "ﾌﾟﾛﾄｺﾙ4"
 #. Difficulty protocol - description (protocol_4)
 #. source: The senior difficulty. Earn 48 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_4.description"
-msgstr "手ごたえを求める上級者向けの難易度です。\nラウンド突破時【Beanz】を 48 獲得します"
+msgstr ""
+"手ごたえを求める上級者向けの難易度です。\n"
+"ラウンド突破時【Beanz】を 48 獲得します"
 
 #. Difficulty protocol - name (protocol_5)
 #. source: Protocol V
@@ -924,7 +977,9 @@ msgstr "ﾌﾟﾛﾄｺﾙ5"
 #. Difficulty protocol - description (protocol_5)
 #. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
 msgid "PROTOCOL.protocol_5.description"
-msgstr "クリアが困難な超上級者向けの難易度です。\nラウンド突破時【Beanz】を 64 獲得します"
+msgstr ""
+"クリアが困難な超上級者向けの難易度です。\n"
+"ラウンド突破時【Beanz】を 64 獲得します"
 
 #. Stat display - name (upgrade_player_armor)
 #. source: Armo(u)r
@@ -934,7 +989,9 @@ msgstr "アーマー"
 #. Stat display - description (upgrade_player_armor)
 #. source: Resistence from all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_armor.description"
-msgstr "エネミーへの接触や攻撃、ノイズ等\n接触ダメージに対する耐性を増加させます"
+msgstr ""
+"エネミーへの接触や攻撃、ノイズ等\n"
+"接触ダメージに対する耐性を増加させます"
 
 #. Stat display - name (upgrade_player_coin_gain)
 #. source: Coin Gain
@@ -985,7 +1042,9 @@ msgstr "パケットロス"
 #. Stat display - description (upgrade_player_dodge)
 #. source: Chance to dogde all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_dodge.description"
-msgstr "エネミーへの接触や攻撃、ノイズ等\n接触ダメージを回避する【パケットロス】を向上させます"
+msgstr ""
+"エネミーへの接触や攻撃、ノイズ等\n"
+"接触ダメージを回避する【パケットロス】を向上させます"
 
 #. Stat display - name (upgrade_player_exp_gain)
 #. source: EXP Gain
@@ -1022,7 +1081,9 @@ msgstr "ラック(運)"
 #. Stat display - description (upgrade_player_luck)
 #. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
 msgid "STAT.upgrade_player_luck.description"
-msgstr "レアリティが高いアップグレードが出現しやすくなる\n『ラック(運)』を向上させます"
+msgstr ""
+"レアリティが高いアップグレードが出現しやすくなる\n"
+"『ラック(運)』を向上させます"
 
 #. Stat display - name (upgrade_player_magnetism_multi)
 #. source: Magnetism
@@ -1032,7 +1093,9 @@ msgstr "マグネティズム"
 #. Stat display - description (upgrade_player_magnetism_multi)
 #. source: Multiplies the radius that pulls in EXP and other pickup items.
 msgid "STAT.upgrade_player_magnetism_multi.description"
-msgstr "フィールドに散乱したアイテムを引き寄せる\n『マグネティズム』の範囲を向上させます"
+msgstr ""
+"フィールドに散乱したアイテムを引き寄せる\n"
+"『マグネティズム』の範囲を向上させます"
 
 #. Stat display - name (upgrade_player_max_health)
 #. source: Max HP
@@ -1341,7 +1404,6 @@ msgstr "【マグネティズム】が+{percent}%増加します"
 #. Upgrade card - description (upgrade_player_max_health)
 #. source: Increases Max HP by +{percent}.
 #. Keep placeholders unchanged: {percent}
-#, fuzzy
 msgid "UPGRADE.upgrade_player_max_health.description"
 msgstr "HP最大値が+{percent}増加します"
 
@@ -1395,7 +1457,9 @@ msgstr "AVD ロゴ"
 #. Upgrade card - description (weapon_avd)
 #. source: Shoots a giant AVD logo towards the nearest enemy.
 msgid "UPGRADE.weapon_avd.description"
-msgstr "巨大なAVDロゴを最も近いエネミーに向かって発射する。\nウェポン起動時間の間、画面内を反射し続ける。"
+msgstr ""
+"巨大なAVDロゴを最も近いエネミーに向かって発射する。\n"
+"ウェポン起動時間の間、画面内を反射し続ける。"
 
 #. Upgrade card - name (weapon_bubbles)
 #. source: Bubbles
@@ -1405,7 +1469,9 @@ msgstr "バブル"
 #. Upgrade card - description (weapon_bubbles)
 #. source: Giant bubbles float around that add stacks of Infect to enemies.
 msgid "UPGRADE.weapon_bubbles.description"
-msgstr "触れたエネミーに「インフェクト」を付与するバブルを発射する。\nウェポン起動時間の間、画面内で跳ねながら滞在する。"
+msgstr ""
+"触れたエネミーに「インフェクト」を付与するバブルを発射する。\n"
+"ウェポン起動時間の間、画面内で跳ねながら滞在する。"
 
 #. Upgrade card - name (weapon_cdrive)
 #. source: C: Drive
@@ -1435,7 +1501,9 @@ msgstr "ファイアウォール"
 #. Upgrade card - description (weapon_firewall)
 #. source: Creates a ring of fire around the player that adds stacks of Heat to enemies.
 msgid "UPGRADE.weapon_firewall.description"
-msgstr "プレイヤーを中心にファイアが円を形成する。\n触れたエネミーに「ヒート」を付与する"
+msgstr ""
+"プレイヤーを中心にファイアが円を形成する。\n"
+"触れたエネミーに「ヒート」を付与する"
 
 #. Upgrade card - name (weapon_fontart)
 #. source: FontArt
@@ -1445,7 +1513,9 @@ msgstr ""
 #. Upgrade card - description (weapon_fontart)
 #. source: Drops letters on the strongest enemy that add stacks of Heat to enemies.
 msgid "UPGRADE.weapon_fontart.description"
-msgstr "画面内の最も強力なエネミーに向かってフォントアートが落下する。\n触れた敵に「ヒート」を付与する"
+msgstr ""
+"画面内の最も強力なエネミーに向かってフォントアートが落下する。\n"
+"触れた敵に「ヒート」を付与する"
 
 #. Upgrade card - name (weapon_hitmarkers)
 #. source: HaD: DoCK
@@ -1455,7 +1525,9 @@ msgstr ""
 #. Upgrade card - description (weapon_hitmarkers)
 #. source: Shots land on the nearest enemy. 3% chance of a headshot.
 msgid "UPGRADE.weapon_hitmarkers.description"
-msgstr "最も近いエネミーに向かってレティクルが合わさり射撃が行われる。\n3％の確率でヘッドショットが発生する"
+msgstr ""
+"最も近いエネミーに向かってレティクルが合わさり射撃が行われる。\n"
+"3％の確率でヘッドショットが発生する"
 
 #. Upgrade card - name (weapon_paint)
 #. source: Paint
@@ -1595,7 +1667,7 @@ msgstr ""
 #. Upgrade card - description (weapon_avn)
 #. source: Orbiting chat-bubble beams type out messages and Lag enemies.
 msgid "UPGRADE.weapon_avn.description"
-msgstr ""
+msgstr "周囲を回るチャットの吹き出しメッセージが、敵を「ラグ」状態にします。"
 
 #. Upgrade card - name (weapon_cone)
 #. source: Very Large Cone
@@ -1620,12 +1692,12 @@ msgstr ""
 #. Upgrade card - name (weapon_modem)
 #. source: Output Device
 msgid "UPGRADE.weapon_modem.name"
-msgstr ""
+msgstr "音響出力装置"
 
 #. Upgrade card - description (weapon_modem)
 #. source: Blasts concentric handshake rings outward from the cursor.
 msgid "UPGRADE.weapon_modem.description"
-msgstr ""
+msgstr "カーソルから衝撃波が周りへ伝わります"
 
 #. Weapon metadata
 #. source: FPS counter
@@ -2764,7 +2836,7 @@ msgstr ""
 #. Profile stats - total damage dealt
 #. source: Damage Dealt
 msgid "UI.stat_damage_dealt"
-msgstr ""
+msgstr "与えたダメージ"
 
 #. Profile stats - total damage dealt tooltip
 #. source: Total damage dealt to enemies across all runs.
@@ -2922,7 +2994,7 @@ msgstr ""
 #. Profile stats - tasks completed
 #. source: Tasks Completed
 msgid "UI.stat_tasks"
-msgstr ""
+msgstr "達成したタスク"
 
 #. Profile stats - tasks completed tooltip
 #. source: Unlock tasks completed on this profile.
@@ -3442,12 +3514,12 @@ msgstr ""
 #. source: %s reached level %d. Pick a driver.
 #. Keep placeholders unchanged: %s, %d
 msgid "UI.select_driver_level"
-msgstr ""
+msgstr "%sはlevel %dになりました。ドライバを選択してください。"
 
 #. Coin Collector notification
 #. source: Collecting coins
 msgid "UI.notif_coin_magnet"
-msgstr ""
+msgstr "コインを収集中"
 
 #. Stock auto-cashout notification with amount
 #. source: Investment withdrawn (%.2f)
@@ -3458,7 +3530,7 @@ msgstr ""
 #. Side Task complete toast
 #. source: Side Task complete
 msgid "UI.notif_side_objective_complete"
-msgstr ""
+msgstr "サイドタスクを達成"
 
 #. Vapidshare cracked installer spawned toast
 #. source: Cracked Installer created
@@ -4592,7 +4664,7 @@ msgstr ""
 #. Health Check Pro heal tooltip
 #. source: Restore 50% of your Max HP right now.
 msgid "UI.health_check_pro_heal_tooltip"
-msgstr ""
+msgstr "最大HPの50%分を回復"
 
 #. Health Check Pro program subtitle
 #. source: Help protect your PC
@@ -4612,7 +4684,7 @@ msgstr ""
 #. Health Check Pro file-upgrade explanation
 #. source: Upgrading makes Health Check files in battle drop more hearts.
 msgid "UI.health_check_pro_file_blurb"
-msgstr ""
+msgstr "アップグレードを行うと、Health Checkファイルからより多くのハートが出るようになります。"
 
 #. Health Check Pro current heart range
 #. source: Now: {min}–{max} HP
@@ -4624,18 +4696,18 @@ msgstr ""
 #. source: After upgrade: {min}–{max} HP
 #. Keep placeholders unchanged: {min}, {max}
 msgid "UI.health_check_pro_range_next"
-msgstr ""
+msgstr "アップグレード後: {min}–{max} HP"
 
 #. Health Check Pro range after purchase
 #. source: Upgraded: {min}–{max} HP
 #. Keep placeholders unchanged: {min}, {max}
 msgid "UI.health_check_pro_range_done"
-msgstr ""
+msgstr "アップグレード済み: {min}–{max} HP"
 
 #. Health Check Pro heal explanation
 #. source: Restore 50% of Max HP right now.
 msgid "UI.health_check_pro_heal_blurb"
-msgstr ""
+msgstr "最大HPの50%分を回復"
 
 #. Health Check Pro heal amount preview
 #. source: +{amount} HP
@@ -4647,7 +4719,7 @@ msgstr ""
 #. source: {cost} Coin
 #. Keep placeholders unchanged: {cost}
 msgid "UI.health_check_pro_cost"
-msgstr ""
+msgstr "{cost} コイン"
 
 #. Finance Manager window and desktop icon title
 #. source: Finance Manager
@@ -5054,13 +5126,17 @@ msgstr ""
 #. source: Extracting file: \n%s from /.???
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracting"
-msgstr "解凍中: \n%s from /.???"
+msgstr ""
+"解凍中: \n"
+"%s from /.???"
 
 #. Zip extractor window
 #. source: Estimated time left: {m}m {s}s ({cur} KB of {max} KB) \nProcessing rate: {rate} KB/Sec
 #. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
 msgid "ZIP.progress"
-msgstr "所要時間: {m}分 {s}秒 ({cur} KB / {max}KB)\n処理速度: {rate} KB/秒"
+msgstr ""
+"所要時間: {m}分 {s}秒 ({cur} KB / {max}KB)\n"
+"処理速度: {rate} KB/秒"
 
 #. Zip extractor window
 #. source: %s extracted successfully.
@@ -5213,7 +5289,7 @@ msgstr ""
 #. source: Tasks Completed - %d
 #. Keep placeholders unchanged: %d
 msgid "UI.win_tasks_title"
-msgstr ""
+msgstr "達成したタスク - %d"
 
 #. UI (script-driven)
 #. source: No new tasks this run
@@ -5234,7 +5310,7 @@ msgstr ""
 #. Safe Folder explorer - previous round stats header
 #. source: Previous Round
 msgid "UI.safe_hub_last_round"
-msgstr ""
+msgstr "前のラウンド"
 
 #. Safe Folder explorer - previous round window title
 #. source: BattleFolder%d.xls
@@ -5448,6 +5524,8 @@ msgstr ""
 #. source: Increase Speed +50%.\nReduce Power -15%.
 msgid "DRIVER.turbo_clock.description"
 msgstr ""
+"速度増加 +50%.\n"
+"パワー減少 -15%"
 
 #. Weapon driver / overclock card - name (bloated_cache)
 #. source: Bloated Cache
@@ -5457,7 +5535,7 @@ msgstr ""
 #. Weapon driver / overclock card - description (bloated_cache)
 #. source: Multiply Size 1.5x.
 msgid "DRIVER.bloated_cache.description"
-msgstr ""
+msgstr "サイズを1.5倍にします"
 
 #. Weapon driver / overclock card - name (extended_table)
 #. source: Extended Table
@@ -5467,7 +5545,7 @@ msgstr ""
 #. Weapon driver / overclock card - description (extended_table)
 #. source: Attack Speed no longer makes this weapon expire sooner.
 msgid "DRIVER.extended_table.description"
-msgstr ""
+msgstr "攻撃速度による有効時間の短縮を無効化"
 
 #. Weapon driver / overclock card - name (bumper)
 #. source: Bumper
@@ -5670,7 +5748,7 @@ msgid "DRIVER.fontart_bold.description"
 msgstr ""
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
 msgid "DRIVER.fontart_wordart.name"
 msgstr ""
 
@@ -5740,7 +5818,7 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr ""
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
 msgid "DRIVER.modem_handshake.name"
 msgstr ""
 
@@ -5750,7 +5828,7 @@ msgid "DRIVER.modem_handshake.description"
 msgstr ""
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
 msgid "DRIVER.modem_broadband.name"
 msgstr ""
 
@@ -5847,7 +5925,7 @@ msgstr ""
 #. Weapon driver / overclock card - description (satellite_uplink)
 #. source: Dishes follow you for their lifetime.
 msgid "DRIVER.satellite_uplink.description"
-msgstr ""
+msgstr "生涯あなたに寄り添います…"
 
 #. Weapon driver / overclock card - name (scimitar_dragon)
 #. source: Weapon Poison
@@ -6002,7 +6080,7 @@ msgstr ""
 #. Scene label
 #. screens: lem_window.tscn
 msgid "Searching: cursor upgrades"
-msgstr ""
+msgstr "検索中：カーソルアップグレード"
 
 #. Scene label
 #. screens: lem_window.tscn
@@ -6081,13 +6159,19 @@ msgstr ""
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid "Extracting file:\ntemp_file_649743.zip from /.???"
+msgid ""
+"Extracting file:\n"
+"temp_file_649743.zip from /.???"
 msgstr "解凍中: temp_file_649743.zip  /.???"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid "Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\nProcessing rate: 0.00 KB/Sec"
-msgstr "所要時間: 0分 00秒 (0.00KB / 0.00KB)\n処理速度: 0.00 KB/秒"
+msgid ""
+"Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
+"Processing rate: 0.00 KB/Sec"
+msgstr ""
+"所要時間: 0分 00秒 (0.00KB / 0.00KB)\n"
+"処理速度: 0.00 KB/秒"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6132,7 +6216,9 @@ msgstr "ウェポン選択"
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Great, now just pick a weapon you want to start with."
-msgstr "いい感じです。\n次に、初期ウェポンを選択してください。"
+msgstr ""
+"いい感じです。\n"
+"次に、初期ウェポンを選択してください。"
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -6181,8 +6267,23 @@ msgstr "YOU WIN!"
 
 #. Scene label
 #. screens: end_screen.tscn
-msgid "You did it! I'm proud of you! I hope you had fun.\n\nHowever I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n\nIn the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n\nIf you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
-msgstr "おめでとうございます！\nあなたはこのレベルを見事突破されました！\n製品版が発売されるまでの間、\nいろいろなビルドを試してみてくださいね!\nこのデモ版を楽しんでいただけたなら、\nウィッシュリスト登録やフォローをお願いします!\n今後さらに多くのコンテンツが出てきますので\nどうぞお楽しみに!"
+msgid ""
+"You did it! I'm proud of you! I hope you had fun.\n"
+"\n"
+"However I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n"
+"\n"
+"In the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n"
+"\n"
+"If you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
+msgstr ""
+"おめでとうございます！\n"
+"あなたはこのレベルを見事突破されました！\n"
+"製品版が発売されるまでの間、\n"
+"いろいろなビルドを試してみてくださいね!\n"
+"このデモ版を楽しんでいただけたなら、\n"
+"ウィッシュリスト登録やフォローをお願いします!\n"
+"今後さらに多くのコンテンツが出てきますので\n"
+"どうぞお楽しみに!"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6216,7 +6317,9 @@ msgstr "プラグイン互換レイヤーを確認中..."
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid "Add +10 Max HP.\nHeal 20% of Max HP when opening a Safe Folder."
+msgid ""
+"Add +10 Max HP.\n"
+"Heal 20% of Max HP when opening a Safe Folder."
 msgstr ""
 
 #. Scene label
@@ -6251,12 +6354,23 @@ msgstr "セッティング"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid "coming soon\n- more weapons\n- more enemies\n- bosses\n- classes\n- wallpapers\n- weapon evos\n- and more"
+msgid ""
+"coming soon\n"
+"- more weapons\n"
+"- more enemies\n"
+"- bosses\n"
+"- classes\n"
+"- wallpapers\n"
+"- weapon evos\n"
+"- and more"
 msgstr ""
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid "Thank you so much for playing. It means the world to me.\nenjoy and have a great day <3\nshaun"
+msgid ""
+"Thank you so much for playing. It means the world to me.\n"
+"enjoy and have a great day <3\n"
+"shaun"
 msgstr ""
 
 #. Scene label
@@ -6301,7 +6415,9 @@ msgstr "終了"
 
 #. Scene label
 #. screens: pause_menu.tscn
-msgid "Antivirus Survivors 2003 Professional\nShaun Hammond Business Solutions Ltd"
+msgid ""
+"Antivirus Survivors 2003 Professional\n"
+"Shaun Hammond Business Solutions Ltd"
 msgstr ""
 
 #. Scene label
@@ -6386,7 +6502,9 @@ msgstr ""
 
 #. Scene label
 #. screens: upgrade_button.tscn
-msgid "Increases Refresh Rate for Search by 20%.\nBut here's a second line also."
+msgid ""
+"Increases Refresh Rate for Search by 20%.\n"
+"But here's a second line also."
 msgstr ""
 
 #. Scene label
