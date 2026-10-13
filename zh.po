@@ -102,7 +102,7 @@ msgstr "管理员"
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
 msgstr ""
-"开局 +1 钥匙。\n"
+"开局 +1 密钥。\n"
 "金币获取 ×1.3。\n"
 "拾取范围 ×1.3。\n"
 "商店物品折扣 +10%。\n"
@@ -232,7 +232,7 @@ msgstr "每级额外提升武器击退 +1%。"
 #. Meta upgrade menu - description (weap_size)
 #. source: Multiply Weapon Size by an extra +1% per Rank.
 msgid "META.weap_size.description"
-msgstr "每级额外提升武器尺寸 +1%。"
+msgstr "每级额外提升武器体积 +1%。"
 
 #. Meta upgrade menu - description (weap_speed)
 #. source: Multiply Weapon Speed by an extra +1% per Rank.
@@ -1077,7 +1077,7 @@ msgstr "武器威力"
 #. Stat display - description (upgrade_player_power_multi)
 #. source: Increases power of Repel, Heat, Infect and Lag from all weapons.
 msgid "STAT.upgrade_player_power_multi.description"
-msgstr "提高所有武器的排斥、灼热、感染与卡顿威力。"
+msgstr "提高所有武器的击退、灼热、感染与卡顿威力。"
 
 #. Stat display - name (upgrade_player_proc_speed)
 #. source: Processing Speed
@@ -1209,7 +1209,7 @@ msgstr "{weapon} 威力"
 #. source: Increases {weapon} Repel effect by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.repel.description"
-msgstr "使 {weapon} 排斥效果提高 +{percent}%。"
+msgstr "使 {weapon} 击退效果提高 +{percent}%。"
 
 #. Weapon upgrade card - heat stacks power description
 #. source: Increases {weapon} Heat Stacks by +{percent}%.
@@ -1359,7 +1359,7 @@ msgstr "最大生命值 +{percent}。"
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_power_multi.description"
-msgstr "提升武器排斥、热能、感染与卡顿的威力 +{percent}%。"
+msgstr "提升武器击退、灼热、感染与卡顿的威力 +{percent}%。"
 
 #. Upgrade card - description (upgrade_player_proc_speed)
 #. source: Increases file opening speed by +{percent}%.
@@ -1445,7 +1445,7 @@ msgstr "防火墙"
 #. Upgrade card - description (weapon_firewall)
 #. source: Creates a ring of fire around the player that adds stacks of Heat to enemies.
 msgid "UPGRADE.weapon_firewall.description"
-msgstr "在玩家周围生成火环，为敌人叠加热能层数。"
+msgstr "在玩家周围生成火环，为敌人叠加灼热层数。"
 
 #. Upgrade card - name (weapon_fontart)
 #. source: FontArt
@@ -1455,7 +1455,7 @@ msgstr "字体艺术"
 #. Upgrade card - description (weapon_fontart)
 #. source: Drops letters on the strongest enemy that add stacks of Heat to enemies.
 msgid "UPGRADE.weapon_fontart.description"
-msgstr "向最强敌人投下字母，为敌人叠加热能层数。"
+msgstr "向最强敌人投下字母，为敌人叠加灼热层数。"
 
 #. Upgrade card - name (weapon_hitmarkers)
 #. source: HaD: DoCK
@@ -2965,12 +2965,12 @@ msgstr "所有本局拾取的金币。"
 #. Profile stats - keys collected
 #. source: Keys Collected
 msgid "UI.stat_keys_collected"
-msgstr "已收集钥匙"
+msgstr "已收集密钥"
 
 #. Profile stats - keys collected tooltip
 #. source: Keys collected across all runs.
 msgid "UI.stat_keys_collected_desc"
-msgstr "所有本局收集的钥匙。"
+msgstr "所有本局收集的密钥。"
 
 #. Profile stats - highest weapon level
 #. source: Highest Weapon Level
@@ -3547,7 +3547,7 @@ msgstr "%s 完成"
 #. Not enough keys toast
 #. source: Not Enough Keys :(
 msgid "UI.notif_not_enough_keys"
-msgstr "钥匙不足 :("
+msgstr "密钥不足 :("
 
 #. Starter folder weapons category help
 #. source: Your first of four weapons for the run. You'll pick more as you level up.
@@ -3650,7 +3650,7 @@ msgstr ""
 "为了生存：\n"
 "躲避敌人，收集经验值和金币，获取升级，打开文件。\n"
 "\n"
-"有些文件有风险，有些需要钥匙，还有些会给出保底奖励。\n"
+"有些文件有风险，有些需要密钥，还有些会给出保底奖励。\n"
 "\n"
 "每个回合右上角还会有一个支线任务，完成后给予额外奖励。"
 
@@ -3724,7 +3724,7 @@ msgstr "取消勾选。"
 #. Installer skip tooltip when a Key is refunded
 #. source: Skips installing plugin and refunds Key.
 msgid "UI.installer_skip"
-msgstr "取消勾选该插件，并退还钥匙。"
+msgstr "取消勾选该插件，并退还密钥。"
 
 #. Side Task HUD progress line
 #. source: Open %d/%d .%s files
@@ -3977,7 +3977,7 @@ msgstr "金币: %.2f"
 #. source: Keys: %d
 #. Keep placeholders unchanged: %d
 msgid "UI.keys"
-msgstr "钥匙: %d"
+msgstr "密钥: %d"
 
 #. Torrent window - tab
 #. source: All (%d)
@@ -4136,13 +4136,13 @@ msgstr "安装 {amount} 个插件"
 #. source: Collect {amount} Keys in a single run
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_collect_keys_run"
-msgstr "在本局中收集 {amount} 把钥匙"
+msgstr "在本局中收集 {amount} 把密钥"
 
 #. Unlock requirement - collect N Keys lifetime
 #. source: Collect {amount} Keys
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_collect_keys"
-msgstr "收集 {amount} 把钥匙"
+msgstr "收集 {amount} 把密钥"
 
 #. Unlock requirement - collect N Coin lifetime
 #. source: Collect {amount} Coin
@@ -4166,7 +4166,7 @@ msgstr "命中 {amount} 次爆头"
 #. source: Apply {amount} Heat stacks to enemies
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_apply_heat"
-msgstr "对敌人施加 {amount} 层热量"
+msgstr "对敌人施加 {amount} 层灼热"
 
 #. Unlock requirement - reach 2x Processing Speed
 #. source: Reach 2.00× Processing Speed
@@ -4322,7 +4322,7 @@ msgstr "痛苦成堆"
 #. UI (script-driven)
 #. source: Buy and sell Keys for Coin in Safe Folders.
 msgid "UI.unlock_file_keybuy_desc"
-msgstr "在安全文件夹中买卖钥匙赚取金币。"
+msgstr "在安全文件夹中买卖密钥赚取金币。"
 
 #. UI (script-driven)
 #. source: KeyBuy
@@ -4372,7 +4372,7 @@ msgstr "Vapidshare"
 #. UI (script-driven)
 #. source: Install plugins without spending a Key.
 msgid "UI.unlock_file_cracked_installer_desc"
-msgstr "无需消耗钥匙即可安装插件。"
+msgstr "无需消耗密钥即可安装插件。"
 
 #. UI (script-driven)
 #. source: Cracked Installer
@@ -4397,7 +4397,7 @@ msgstr "安装 3 个传说插件"
 #. UI (script-driven)
 #. source: Spend 3 Keys for a legendary plugin install.
 msgid "UI.unlock_file_legendary_installer_desc"
-msgstr "花费 3 把钥匙安装一个传说插件。"
+msgstr "花费 3 把密钥安装一个传说插件。"
 
 #. UI (script-driven)
 #. source: Legendary Installer
@@ -5109,7 +5109,7 @@ msgstr "刷新: %.2fs"
 #. source: Size: %.2fx
 #. Keep placeholders unchanged: %.2f
 msgid "TOOLTIP.size"
-msgstr "尺寸: %.2fx"
+msgstr "体积: %.2fx"
 
 #. Stat tooltip
 #. source: Power: %.1f
@@ -5302,7 +5302,7 @@ msgstr "本局收集的金币。"
 #. Run stats panel row
 #. source: Keys collected this run.
 msgid "RUNSTAT.keys_collected_desc"
-msgstr "本局收集的钥匙。"
+msgstr "本局收集的密钥。"
 
 #. Run stats panel row
 #. source: Beanz Collected
@@ -5405,7 +5405,7 @@ msgstr "上一个战斗文件夹中收集的金币。"
 #. Safe Folder explorer - last round keys tooltip
 #. source: Keys collected in the last Battle Folder.
 msgid "RUNSTAT.last_round_keys_desc"
-msgstr "上一个战斗文件夹中收集的钥匙。"
+msgstr "上一个战斗文件夹中收集的密钥。"
 
 #. Safe Folder explorer - last round Beanz tooltip
 #. source: Beanz earned in the last Battle Folder, including the Safe Folder award.
@@ -5634,7 +5634,7 @@ msgstr "碎片化"
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.avd_fragmented.description"
 msgstr ""
-"撞墙反弹时：分裂为两个半尺寸复制体。\n"
+"撞墙反弹时：分裂为两个体积减半的复制体。\n"
 "复制体可再分裂一次。"
 
 #. Weapon driver / overclock card - name (avn_away)
@@ -5694,7 +5694,7 @@ msgstr "泡沫"
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.bubbles_suds.description"
 msgstr ""
-"撞墙反弹时：分裂为两个半尺寸复制体。\n"
+"撞墙反弹时：分裂为两个体积减半的复制体。\n"
 "复制体可再分裂一次。"
 
 #. Weapon driver / overclock card - name (cdrive_seek)
@@ -5728,7 +5728,7 @@ msgstr "绕行"
 #. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
 msgid "DRIVER.cone_detour.description"
 msgstr ""
-"将热量转化为卡顿。体积 +35%。\n"
+"将灼热转化为卡顿。体积 +35%。\n"
 "伤害 +15%。"
 
 #. Weapon driver / overclock card - name (cone_workzone)
@@ -5798,7 +5798,7 @@ msgstr "骂战邮件"
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
 msgid "DRIVER.email_cc.description"
 msgstr ""
-"将感染转化为热量。数量 +1。\n"
+"将感染转化为灼热。数量 +1。\n"
 "速度 +35%。"
 
 #. Weapon driver / overclock card - name (email_bounce)
@@ -5864,7 +5864,7 @@ msgstr "跑分"
 #. source: Converts Repel to Heat. Increase Damage +25%.\nIncrease Speed +20%.
 msgid "DRIVER.fraps_benchmark.description"
 msgstr ""
-"将击退转化为热量。伤害 +25%。\n"
+"将击退转化为灼热。伤害 +25%。\n"
 "速度 +20%。"
 
 #. Weapon driver / overclock card - name (fraps_vsync)
@@ -5888,7 +5888,7 @@ msgstr "猎头者"
 #. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
 msgid "DRIVER.hitmarkers_headhunter.description"
 msgstr ""
-"提高处决几率。将击退转化为热量。\n"
+"提高处决几率。将击退转化为灼热。\n"
 "伤害 -15%。"
 
 #. Weapon driver / overclock card - name (hitmarkers_killstreak)
@@ -5910,7 +5910,7 @@ msgstr "燃烧弹"
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
 msgid "DRIVER.minesweeper_flag.description"
 msgstr ""
-"将击退转化为热量。数量 +1。\n"
+"将击退转化为灼热。数量 +1。\n"
 "威力 +20%。"
 
 #. Weapon driver / overclock card - name (minesweeper_chord)
@@ -5956,7 +5956,7 @@ msgstr "标签页过载"
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
 msgid "DRIVER.orchestra_fortissimo.description"
 msgstr ""
-"将感染转化为热量。伤害 +35%。\n"
+"将感染转化为灼热。伤害 +35%。\n"
 "威力 +35%。"
 
 #. Weapon driver / overclock card - name (orchestra_taskkill)
@@ -6038,7 +6038,7 @@ msgstr "微波天线"
 #. source: Converts Lag to Heat. Increase Size +30%.\nIncrease Speed +15%.
 msgid "DRIVER.satellite_dish.description"
 msgstr ""
-"将卡顿转化为热量。体积 +30%。\n"
+"将卡顿转化为灼热。体积 +30%。\n"
 "速度 +15%。"
 
 #. Weapon driver / overclock card - name (satellite_uplink)
@@ -6060,7 +6060,7 @@ msgstr "武器淬毒"
 #. source: Converts Repel to Infect. Increase Size +50%.\nAdd +1 Amount.
 msgid "DRIVER.scimitar_dragon.description"
 msgstr ""
-"将击退转化为感染。尺寸 +50%。\n"
+"将击退转化为感染。体积 +50%。\n"
 "数量 +1。"
 
 #. Weapon driver / overclock card - name (scimitar_dual)
@@ -6389,7 +6389,7 @@ msgstr "已安装插件"
 #. Scene label
 #. screens: stat_upgrade_item.tscn
 msgid "Firewall Size"
-msgstr "防火墙大小"
+msgstr "防火墙体积"
 
 #. Scene label
 #. screens: basic_window.tscn; window.tscn
