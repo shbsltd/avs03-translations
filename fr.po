@@ -130,7 +130,7 @@ msgstr "Linéaire"
 #. Folder evolution mode - description (linear)
 #. source: A consistent linear stream of more enemies being added over time.
 msgid "EVO.linear.description"
-msgstr "Le nombre d’ennemis augmente régulièrement au fil du temps"
+msgstr "Le nombre d’ennemis augmente régulièrement au fil du temps."
 
 #. Folder evolution mode - name (variable)
 #. source: Variable
@@ -195,7 +195,7 @@ msgstr "Multiplie le magnétisme d'un bonus de +2 % par rang."
 #. Meta upgrade menu - description (max_health)
 #. source: Adds +10 Max HP per Rank.
 msgid "META.max_health.description"
-msgstr "PV Max par rang+10 "
+msgstr "PV Max +10  par rang."
 
 #. Meta upgrade menu - name (packet_loss)
 #. source: Packet Loss
@@ -250,7 +250,7 @@ msgstr "Boost de protection"
 #. Plugin - description (armor_boost)
 #. source: Add +5 Armo(u)r.
 msgid "PLUGIN.armor_boost.description"
-msgstr "Protection +5 ."
+msgstr "Protection +5."
 
 #. Plugin - name (armor_damage_trigger)
 #. source: Hardware IRQ
@@ -294,7 +294,7 @@ msgstr "Heures de pointe"
 #. Plugin - description (big_wave_damage)
 #. source: Increase Weapon Damage Multiplier +10% when opening a Big Wave.
 msgid "PLUGIN.big_wave_damage.description"
-msgstr "Augmente les dégâts des armes de +10% en ouvrant BigWave."
+msgstr "Augmente les dégâts des armes de +10% en ouvrant un BigWave."
 
 #. Plugin - name (blast_on_file_open)
 #. source: AutoPlay
@@ -697,7 +697,7 @@ msgstr "+1 pièce à chaque fichier ouvert."
 #. Plugin - name (still_frame)
 #. source: Still Frame
 msgid "PLUGIN.still_frame.name"
-msgstr "Pas bouger !"
+msgstr "Arrêt sur image"
 
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
@@ -818,7 +818,7 @@ msgstr "Service Pack"
 #. Plugin - description (service_pack)
 #. source: Gain 3 levels.
 msgid "PLUGIN.service_pack.description"
-msgstr "+3 niveaux d'un coup."
+msgstr "Gain de +3 niveaux."
 
 #. Plugin - name (reward_leak)
 #. source: Reward Leak
@@ -894,7 +894,7 @@ msgstr "Catalogue de logiciels"
 #. Plugin - description (extra_shop_offer)
 #. source: Add +1 upgrade to the Shop.
 msgid "PLUGIN.extra_shop_offer.description"
-msgstr "+1 amélioration en boutique."
+msgstr "Ajoute +1 amélioration en boutique."
 
 #. Plugin - name (extra_upgrade_choice)
 #. source: Optional Components
@@ -904,7 +904,7 @@ msgstr "Composants optionnels"
 #. Plugin - description (extra_upgrade_choice)
 #. source: Add +1 upgrade choice on Level Up.
 msgid "PLUGIN.extra_upgrade_choice.description"
-msgstr "+1 choix d'amélioration à chaque niveau."
+msgstr "Ajoute +1 choix d'amélioration à chaque niveau."
 
 #. Difficulty protocol - name (protocol_1)
 #. source: Protocol I
@@ -2335,7 +2335,10 @@ msgstr "Connecté"
 #. Login screen - click your user name prompt
 #. source: To begin, click your user name.\nAfter you log on, you can change profiles.\nJust click on your name at the top of the menu.
 msgid "UI.login_prompt"
-msgstr "Pour commencer, cliquez sur votre nom d'utilisateur"
+msgstr ""
+"Pour commencer, cliquez sur votre nom d'utilisateur.\n"
+"Après votre connexion, vous pouvez changer de profil.\n"
+"Cliquez juste sur votre nom en haut du menu."
 
 #. Login screen - turn off computer button
 #. source: Turn off computer
@@ -2370,7 +2373,7 @@ msgstr "Profil"
 #. Personalise window - locked avatar hint
 #. source: Open .png files in a run to unlock more pictures.
 msgid "UI.personalise_locked_avatar"
-msgstr "Ouvre des fichiers .png pendant une session pour déverrouiller d’autres images"
+msgstr "Ouvre des fichiers .png pendant une session pour déverrouiller d’autres images."
 
 #. Personalise window - apply button
 #. source: Apply
@@ -2692,57 +2695,57 @@ msgstr "Catégories"
 #. Virry blurb - statistics mode
 #. source: Your run records live in these sheet. Switch to Tasks for unlocks.
 msgid "UI.task_virry_stats"
-msgstr "Retrouvez ici vos statistiques de session. Passe à l’onglet Tâches pour voir les éléments à déverrouiller"
+msgstr "Retrouvez ici vos statistiques de session. Passe à l’onglet Tâches pour voir les éléments à déverrouiller."
 
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_weapons"
-msgstr "Termine une tâche d’arme, puis achète l’arme dans Ajout/Suppression de contenu"
+msgstr "Termine une tâche d’arme, puis achète l’arme dans Ajout/Suppression de contenu."
 
 #. Virry blurb - cursor class tasks
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_classes"
-msgstr "Les classes de pointeur changent ta façon de combattre. Déverrouille une classe, puis achète-la dans Ajout/Suppression de contenu"
+msgstr "Les classes de pointeur changent ta façon de combattre. Déverrouille une classe, puis achète-la dans Ajout/Suppression de contenu."
 
 #. Virry blurb - plugin tasks
 #. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_plugins"
-msgstr "Les plugins apportent des bonus passifs et s’obtiennent dans les installateurs. Termine leurs tâches, puis achète-les dans Ajout/Suppression de contenu"
+msgstr "Les plugins apportent des bonus passifs et s’obtiennent dans les installateurs. Termine leurs tâches, puis achète-les dans Ajout/Suppression de contenu."
 
 #. Virry blurb - weapon driver tasks
 #. source: Weapon Drivers upgrade a weapon's with unique additions. When unlocked reach levels 8, 16 and 24 to obtain them.
 msgid "UI.task_virry_drivers"
-msgstr "Les pilotes améliorent les armes de façon unique. Se déverrouille lorsque l’arme atteint les niveaux 8, 16 ou 24"
+msgstr "Les pilotes améliorent les armes de façon unique. Se déverrouille lorsque l’arme atteint les niveaux 8, 16 ou 24."
 
 #. Virry blurb - files tasks
 #. source: Safe Files, Battle Files, and Special Files. Unlock them, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_files"
-msgstr "Déverrouille des fichiers sécurisés, de combat et spéciaux, puis achète-les dans Ajout/Suppression de contenu"
+msgstr "Déverrouille des fichiers sécurisés, de combat et spéciaux, puis achète-les dans Ajout/Suppression de contenu."
 
 #. Virry blurb - theme tasks
 #. source: Themes dress up the desktop. When unlocked they can be applied in the Personalise menu.
 msgid "UI.task_virry_themes"
-msgstr "Les thèmes changent l’apparence du bureau. Une fois déverrouillés, applique-les depuis le menu Personnaliser"
+msgstr "Les thèmes changent l’apparence du bureau. Une fois déverrouillés, applique-les depuis le menu Personnaliser."
 
 #. Virry blurb - policy tasks
 #. source: Complete a Protocol with each Policy, then Domain Policies. Protocol V is the hard set.
 msgid "UI.task_virry_policies"
-msgstr "Termine un protocole avec chaque stratégie, puis avec chaque stratégie de domaine. Le Protocole V est le plus difficile"
+msgstr "Termine un protocole avec chaque stratégie, puis avec chaque stratégie de domaine. Le Protocole V est le plus difficile."
 
 #. Virry blurb - general milestones
 #. source: General milestones. Mostly Beanz rewards.
 msgid "UI.task_virry_general"
-msgstr "Exploits généraux qui rapportent des Beanz"
+msgstr "Exploits généraux qui rapportent des Beanz."
 
 #. Virry blurb - claimable rewards waiting
 #. source: Nice work! Claim your Beanz rewards by clicking a blue row.
 msgid "UI.task_virry_claimable"
-msgstr "Bien joué ! Clique sur une ligne bleue pour récupérer les Beanz de cette tâche"
+msgstr "Bien joué ! Clique sur une ligne bleue pour récupérer les Beanz de cette tâche."
 
 #. Virry blurb - leftover task sheet
 #. source: Odds and ends that don't sit on the other task sheets.
 msgid "UI.task_virry_other"
-msgstr "Autres exploits qui ne rentrent dans aucune catégorie"
+msgstr "Autres exploits qui ne rentrent dans aucune catégorie."
 
 #. Profile stats - highest score
 #. source: Highest Score
@@ -2752,7 +2755,7 @@ msgstr "Meilleur score"
 #. Profile stats - highest score tooltip
 #. source: Best run score recorded on this profile.
 msgid "UI.stat_highest_score_desc"
-msgstr "Score maximum atteint"
+msgstr "Score maximum atteint pour ce profil."
 
 #. Profile stats - time played
 #. source: Time Played
@@ -2762,7 +2765,7 @@ msgstr "Temps de jeu"
 #. Profile stats - time played tooltip
 #. source: Time spent inside Battle Folders across all runs.
 msgid "UI.stat_time_played_desc"
-msgstr "Temps total écoulé dans les dossiers de combat"
+msgstr "Temps total écoulé dans les dossiers de combat."
 
 #. Profile stats - enemies cleared
 #. source: Enemies Cleared
@@ -2772,7 +2775,7 @@ msgstr "Ennemis éliminés"
 #. Profile stats - enemies cleared tooltip
 #. source: Enemies cleared across all runs.
 msgid "UI.stat_kills_desc"
-msgstr "Nombre total d'ennemis tués"
+msgstr "Nombre total d'ennemis tués."
 
 #. Profile stats - deaths
 #. source: Deaths
@@ -2782,7 +2785,7 @@ msgstr "Écrans bleus"
 #. Profile stats - deaths tooltip
 #. source: Times this profile has bluescreened.
 msgid "UI.stat_deaths_desc"
-msgstr "Nombre de bluescreens sur ce profil"
+msgstr "Nombre de bluescreens sur ce profil."
 
 #. Profile stats - runs finished
 #. source: Runs
@@ -2792,7 +2795,7 @@ msgstr "Sessions"
 #. Profile stats - runs finished tooltip
 #. source: Runs started and finished on this profile.
 msgid "UI.stat_runs_desc"
-msgstr "Sessions commencées et terminées sur ce profil"
+msgstr "Sessions commencées et terminées sur ce profil."
 
 #. Profile stats - runs completed
 #. source: Completions
@@ -2802,7 +2805,7 @@ msgstr "Sessions terminées"
 #. Profile stats - runs completed tooltip
 #. source: Runs that completed a Protocol.
 msgid "UI.stat_runs_won_desc"
-msgstr "Sessions où un protocole a été terminé"
+msgstr "Sessions où un protocole a été terminé."
 
 #. Profile stats - critical hits
 #. source: Critical Hits
@@ -2812,7 +2815,7 @@ msgstr "Coups critiques"
 #. Profile stats - critical hits tooltip
 #. source: Critical hits landed across all runs.
 msgid "UI.stat_crits_desc"
-msgstr "Nombre total d'attaques critiques"
+msgstr "Nombre total d'attaques critiques."
 
 #. Profile stats - total damage dealt
 #. source: Damage Dealt
@@ -2822,7 +2825,7 @@ msgstr "dégâts infligés"
 #. Profile stats - total damage dealt tooltip
 #. source: Total damage dealt to enemies across all runs.
 msgid "UI.stat_damage_dealt_desc"
-msgstr "Total des dégâts infligés aux ennemis"
+msgstr "Total des dégâts infligés aux ennemis."
 
 #. Profile stats - total damage taken
 #. source: Damage Taken
@@ -2832,7 +2835,7 @@ msgstr "dégâts subits"
 #. Profile stats - total damage taken tooltip
 #. source: Total damage taken across all runs.
 msgid "UI.stat_damage_taken_desc"
-msgstr "Total des dégâts subis"
+msgstr "Total des dégâts subis."
 
 #. Profile stats - biggest single hit
 #. source: Biggest Hit
@@ -2842,7 +2845,7 @@ msgstr "Plus gros coup"
 #. Profile stats - biggest single hit tooltip
 #. source: Largest amount of damage dealt in a single hit.
 msgid "UI.stat_highest_hit_desc"
-msgstr "Nombre maximum de dégâts en une attaque"
+msgstr "Nombre maximum de dégâts en une attaque."
 
 #. Profile stats - files opened
 #. source: Files Opened
@@ -2852,7 +2855,7 @@ msgstr "Fichiers ouverts"
 #. Profile stats - files opened tooltip
 #. source: All folders and files double-clicked across runs.
 msgid "UI.stat_files_opened_desc"
-msgstr "Fichiers ouverts au total"
+msgstr "Fichiers ouverts au total."
 
 #. Profile stats - safe folders
 #. source: Safe Folders
@@ -2862,7 +2865,7 @@ msgstr "Dossiers sécurisés"
 #. Profile stats - safe folders tooltip
 #. source: Safe folders opened across all runs.
 msgid "UI.stat_safe_folders_desc"
-msgstr "Dossiers sécurisés atteints au total"
+msgstr "Dossiers sécurisés atteints au total."
 
 #. Profile stats - highest level
 #. source: Highest Level
@@ -2872,7 +2875,7 @@ msgstr "Plus haut niveau"
 #. Profile stats - highest level tooltip
 #. source: Highest player level reached in a single run.
 msgid "UI.stat_max_level_desc"
-msgstr "Niveau maximum en une session"
+msgstr "Niveau maximum en une session."
 
 #. Profile stats - HP healed
 #. source: HP Healed
@@ -2882,7 +2885,7 @@ msgstr "PV régénérés"
 #. Profile stats - HP healed tooltip
 #. source: Total HP restored across all runs.
 msgid "UI.stat_hp_healed_desc"
-msgstr "Total des PV récupérés"
+msgstr "Total des PV récupérés."
 
 #. Profile stats - plugins installed
 #. source: Plugins Installed
@@ -2892,12 +2895,12 @@ msgstr "Plugins installés"
 #. Profile stats - plugins installed tooltip
 #. source: Plugins installed across all runs.
 msgid "UI.stat_plugins_desc"
-msgstr "Nombre total de pilotes installés"
+msgstr "Nombre total de pilotes installés."
 
 #. Profile stats - zip files opened tooltip
 #. source: Zip archives successfully extracted.
 msgid "UI.stat_zips_desc"
-msgstr "Fichiers compressés ouverts et extraits"
+msgstr "Fichiers compressés ouverts et extraits."
 
 #. Profile stats - failed file opens
 #. source: Spam Ad Attacks
@@ -2907,7 +2910,7 @@ msgstr "Attaques de pubs spam"
 #. Profile stats - failed file opens tooltip
 #. source: Spam popups spawned from failed Zip or Download More RAM opens.
 msgid "UI.stat_failed_files_desc"
-msgstr "Nombre d'attaque spam de fichiers ZIP ou de téléchargements de RAM échoués"
+msgstr "Nombre d'attaque spam de fichiers ZIP ou de téléchargements de RAM échoués."
 
 #. Profile stats - rar files opened tooltip
 #. source: Rar archives completed.
@@ -2950,7 +2953,7 @@ msgstr "Clés ramassées"
 #. Profile stats - keys collected tooltip
 #. source: Keys collected across all runs.
 msgid "UI.stat_keys_collected_desc"
-msgstr "Clés ramassées au total"
+msgstr "Clés ramassées au total."
 
 #. Profile stats - highest weapon level
 #. source: Highest Weapon Level
@@ -2960,7 +2963,7 @@ msgstr "Plus haut niveau d'arme"
 #. Profile stats - highest weapon level tooltip
 #. source: Highest weapon level reached in a single run.
 msgid "UI.stat_weapon_level_desc"
-msgstr "Niveau maximum d'une arme en une session"
+msgstr "Niveau maximum d'une arme en une session."
 
 #. Profile stats - favourite weapon by time used
 #. source: Favourite Weapon
@@ -2970,7 +2973,7 @@ msgstr "Arme préférée"
 #. Profile stats - favourite weapon tooltip
 #. source: Weapon you've spent the most battle time using.
 msgid "UI.stat_favourite_weapon_desc"
-msgstr "Arme utilisée le plus souvent"
+msgstr "Arme utilisée le plus souvent."
 
 #. Profile stats - tasks completed
 #. source: Tasks Completed
@@ -2980,7 +2983,7 @@ msgstr "Tâches complétées"
 #. Profile stats - tasks completed tooltip
 #. source: Unlock tasks completed on this profile.
 msgid "UI.stat_tasks_desc"
-msgstr "Tâches terminées sur ce profil"
+msgstr "Tâches terminées sur ce profil."
 
 #. Profile stats - named clears row title
 #. source: %s clears
@@ -3003,27 +3006,27 @@ msgstr "Victoires avec %s"
 #. Profile stats - weapon sheet row tooltip
 #. source: Enemies cleared with this weapon.
 msgid "UI.stat_weapon_row_desc"
-msgstr "Ennemis éliminés avec cette arme"
+msgstr "Ennemis éliminés avec cette arme."
 
 #. Profile stats - class sheet row tooltip
 #. source: Runs completed with this Cursor Class.
 msgid "UI.stat_class_row_desc"
-msgstr "Sessions terminées avec cette classe de pointeur"
+msgstr "Sessions terminées avec cette classe de pointeur."
 
 #. Profile stats - policy sheet row tooltip
 #. source: Runs completed with this Policy.
 msgid "UI.stat_policy_row_desc"
-msgstr "Sessions terminées avec cette stratégie"
+msgstr "Sessions terminées avec cette stratégie."
 
 #. Profile stats - enemy sheet row tooltip
 #. source: Times this enemy type has been cleared.
 msgid "UI.stat_enemy_row_desc"
-msgstr "Nombre d’ennemis éliminés de ce type"
+msgstr "Nombre d’ennemis éliminés de ce type."
 
 #. Profile stats - protocol completions row tooltip
 #. source: Runs completed on this Protocol.
 msgid "UI.stat_protocol_wins_desc"
-msgstr "Sessions terminées avec ce protocole"
+msgstr "Sessions terminées avec ce protocole."
 
 #. Profile stats - overall sheet tab
 #. source: Overall
@@ -3068,7 +3071,7 @@ msgstr "Tirs à la tête"
 #. Profile stats - headshots tooltip
 #. source: HaD: DoCK execute headshots landed.
 msgid "UI.stat_headshots_desc"
-msgstr "Tirs à la tête réussis avec HaD: DoCK"
+msgstr "Tirs à la tête réussis avec HaD: DoCK."
 
 #. Profile stats - installer skip or delete
 #. source: Plugins Skipped
@@ -3088,7 +3091,7 @@ msgstr "Achats en boutique"
 #. Profile stats - shop purchases tooltip
 #. source: Upgrades bought from the Shop.
 msgid "UI.stat_shop_purchases_desc"
-msgstr "Améliorations achetées dans la boutique"
+msgstr "Améliorations achetées dans la boutique."
 
 #. Profile stats - spreadsheet sheet tab label
 #. source: Sheet %d
@@ -3110,7 +3113,7 @@ msgstr "VAPOR"
 #. source: Special Files spawn during battle. While one is active, hold {special} to use it.
 #. Keep placeholders unchanged: {special}
 msgid "UI.vapor_store_intro"
-msgstr "Des fichiers spéciaux qui peuvent être activés avec {special} pendant une session"
+msgstr "Des fichiers spéciaux qui peuvent être activés avec {special} pendant une session."
 
 #. Vapor store - featured weapon heading
 #. source: Featured Weapon
@@ -3135,27 +3138,27 @@ msgstr "Ajout/Suppression de contenus"
 #. Add/Remove Unlocks - weapons tab intro
 #. source: Unlock new weapons to start with and choose during runs.
 msgid "UI.features_store_intro_weapons"
-msgstr "Déverrouille de nouvelles armes pour commencer une session avec elles et les choisir en cours de partie"
+msgstr "Déverrouille de nouvelles armes pour commencer une session avec elles et les choisir en cours de partie."
 
 #. Add/Remove Unlocks - cursors tab intro
 #. source: Unlock new Cursor Classes to start with.
 msgid "UI.features_store_intro_cursors"
-msgstr "Déverrouille de nouvelles classes de pointeur pour commencer une session avec elles"
+msgstr "Déverrouille de nouvelles classes de pointeur pour commencer une session avec elles."
 
 #. Add/Remove Unlocks - plugins tab intro
 #. source: Unlock new Plugins to install during runs.
 msgid "UI.features_store_intro_plugins"
-msgstr "Déverrouille de nouveaux plugins à installer pendant les sessions"
+msgstr "Déverrouille de nouveaux plugins à installer pendant les sessions."
 
 #. Add/Remove Unlocks - safe files tab intro
 #. source: Unlock new file types to use in Safe Folders.
 msgid "UI.features_store_intro_safe_files"
-msgstr "Déverrouille de nouveaux types de fichiers à utiliser dans les dossiers sécurisés"
+msgstr "Déverrouille de nouveaux types de fichiers à utiliser dans les dossiers sécurisés."
 
 #. Add/Remove Unlocks - battle files tab intro
 #. source: Unlock new file types to spawn during battle rounds.
 msgid "UI.features_store_intro_battle_files"
-msgstr "Déverrouille de nouveaux types de fichiers qui apparaîtront pendant les combats"
+msgstr "Déverrouille de nouveaux types de fichiers qui apparaîtront pendant les combats."
 
 #. UI (script-driven)
 #. source: Weapons
@@ -3309,7 +3312,7 @@ msgstr "Termine %s pour débloquer les stratégies"
 #. source: Complete 3 different Policies on %s or higher to enable Domain Policies.
 #. Keep placeholders unchanged: %s
 msgid "UI.domain_policies_locked"
-msgstr "Termine 3 stratégies différentes en %s pour débloquer les stratégies de domaine"
+msgstr "Termine 3 stratégies différentes en %s pour débloquer les stratégies de domaine."
 
 #. UI (script-driven)
 #. source: Run Beanz: x%.2f
@@ -3391,7 +3394,7 @@ msgstr "Incomplet"
 #. UI (script-driven)
 #. source: Control your cursor with the mouse in Safe Folders.[br]Battle Folders always use WASD or the left stick.
 msgid "UI.admin_mouse_tooltip"
-msgstr "Contrôle le pointeur avec la souris.[br]Les dossiers de combat utilisent toujours WASD ou le stick gauche de la manette"
+msgstr "Contrôle le pointeur avec la souris.[br]Les dossiers de combat utilisent toujours WASD ou le stick gauche de la manette."
 
 #. UI (script-driven)
 #. source: Reroll Locked
@@ -3532,22 +3535,22 @@ msgstr "Pas assez de clés CD :("
 #. Starter folder weapons category help
 #. source: Your first of four weapons for the run. You'll pick more as you level up.
 msgid "UI.starter_help_weapons"
-msgstr "Ta première arme sur quatre pour cette session. Tu en choisiras d’autres en gagnant des niveaux"
+msgstr "Ta première arme sur quatre pour cette session. Tu en choisiras d’autres en gagnant des niveaux."
 
 #. Starter folder cursor class category help
 #. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
 msgid "UI.starter_help_cursor"
-msgstr "Les classes de pointeur définissent tes statistiques de base, sur lesquelles s’appliquent les améliorations"
+msgstr "Les classes de pointeur définissent tes statistiques de base, sur lesquelles s’appliquent les améliorations."
 
 #. Starter folder difficulty category help
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
 msgid "UI.starter_help_difficulty"
-msgstr "La difficulté définit les règles de la session : pression ennemie, récompenses et déverrouillages"
+msgstr "La difficulté définit les règles de la session : pression ennemie, récompenses et déverrouillages."
 
 #. Starter folder policies category help
 #. source: Optional extra rules on top of the protocol. Completing them earns more Beanz.
 msgid "UI.starter_help_policies"
-msgstr "Des règles supplémentaires qui rapportent plus de Beanz quand tu les termines"
+msgstr "Des règles supplémentaires qui rapportent plus de Beanz quand tu les termines."
 
 #. Starter folder button that reopens the tutorial guide
 #. source: Guide
@@ -3571,33 +3574,33 @@ msgid "UI.tutorial_1_body"
 msgstr ""
 "Bienvenue dans {game} !\n"
 "\n"
-"Je suis Virry et je vais t’expliquer les bases du jeu"
+"Je suis Virry et je vais t’expliquer les bases du jeu."
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
 #. Keep placeholders unchanged: {move}, {click}, {drag}
 msgid "UI.tutorial_2_body"
 msgstr ""
-"Commençons par les déplacements\n"
+"Commençons par les déplacements.\n"
 "\n"
-"Utilise {move} pour te déplacer à l’écran\n"
+"Utilise {move} pour te déplacer à l’écran.\n"
 "\n"
-"Clique avec {click} et Double-clic pour ouvrir les fichiers\n"
+"Clique avec {click} et Double-clic pour ouvrir les fichiers.\n"
 "\n"
-"Maintiens {drag} pour déplacer les fichiers dans le dossier"
+"Maintiens {drag} pour déplacer les fichiers dans le dossier."
 
 #. Tutorial page 3 - class, protocol, policies
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
 msgstr ""
-"Pour commencer, Choisissez une {class} et une {difficulty}\n"
+"Pour commencer, Choisissez une {class} et une {difficulty}.\n"
 "\n"
-"Pour l’instant, prends le pointeur {default} : tu en débloqueras d’autres en jouant\n"
+"Pour l’instant, prends le pointeur {default} : tu en débloqueras d’autres en jouant.\n"
 "\n"
-"Choisissez un Protocole de I à III comme {difficulty}\n"
+"Choisissez un Protocole de I à III comme {difficulty}.\n"
 "\n"
-"Terminer un protocole débloque des {policies} qui ajoutent des défis\n"
+"Terminer un protocole débloque des {policies} qui ajoutent des défis.\n"
 "\n"
 "Choisissez maintenant ta {class} et ta {difficulty} !"
 
@@ -3606,33 +3609,33 @@ msgstr ""
 #. Keep placeholders unchanged: {drivers}
 msgid "UI.tutorial_4_body"
 msgstr ""
-"Tu peux choisir une arme de départ\n"
+"Tu peux choisir une arme de départ.\n"
 "\n"
-"Gagne des niveaux pendant la session pour ajouter d’autres armes\n"
+"Gagne des niveaux pendant la session pour ajouter d’autres armes.\n"
 "\n"
-"À chaque niveau, tu peux aussi choisir des améliorations pour tes armes ou ton pointeur\n"
+"À chaque niveau, tu peux aussi choisir des améliorations pour tes armes ou ton pointeur.\n"
 "\n"
-"Quand une arme atteint certains niveaux, tu débloques des {drivers} qui lui apportent des améliorations uniques"
+"Quand une arme atteint certains niveaux, tu débloques des {drivers} qui lui apportent des améliorations uniques."
 
 #. Tutorial page 5 - {safe}
 #. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
 #. Keep placeholders unchanged: {safe}
 msgid "UI.tutorial_5_body"
 msgstr ""
-"Le but du jeu est de survivre\n"
+"Le but du jeu est de survivre.\n"
 "\n"
-"Il y a 5 manches de 5 minutes. Atteins le {safe} à la fin de chaque manche pour passer à la suivante"
+"Il y a 5 manches de 5 minutes. Atteins le {safe} à la fin de chaque manche pour passer à la suivante."
 
 #. Tutorial page 6
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
 msgstr ""
 "Pour survivre :\n"
-"Évite les ennemis, ramasse de l’EXP et des pièces, prends des améliorations et ouvre des fichiers\n"
+"Évite les ennemis, ramasse de l’EXP et des pièces, prends des améliorations et ouvre des fichiers.\n"
 "\n"
-"Certains fichiers comportent des risques, d’autres demandent une clé et d’autres donnent une récompense garantie\n"
+"Certains fichiers comportent des risques, d’autres demandent une clé et d’autres donnent une récompense garantie.\n"
 "\n"
-"À chaque manche, une tâche secondaire en haut à droite te rapporte des bonus"
+"À chaque manche, une tâche secondaire en haut à droite te rapporte des bonus."
 
 #. Tutorial page 7 - {safe} {vapor}
 #. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
@@ -3833,7 +3836,7 @@ msgstr "Victoire !"
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
 msgstr ""
-"Un problème a été détecté et le système a été attêté afin de prévenir tout dommage sur votre ordinateur.\n"
+"Un problème a été détecté et le système a été arrêté afin de prévenir tout dommage sur votre ordinateur.\n"
 "\n"
 "CODE_ERREUR:\n"
 "SYSTEM_COHERENCE_FAILURE\n"
@@ -3931,7 +3934,7 @@ msgstr "Télécharger"
 #. Vapidshare part tooltip while another part is downloading
 #. source: Another part is downloading. Get Vapidshare Pro for simultaneous downloads.
 msgid "CLICKABLE.vapid_part_busy"
-msgstr "Une autre partie est en cours de téléchargement. Achète Vapidshare Pro pour télécharger plusieurs fichiers"
+msgstr "Une autre partie est en cours de téléchargement. Achète Vapidshare Pro pour télécharger plusieurs fichiers."
 
 #. Shop / upgrade screen - reroll button
 #. source: Reroll: %.2f Coin
@@ -4270,7 +4273,7 @@ msgstr "Ramasser {amount} pièces en une session"
 #. UI (script-driven)
 #. source: Temporarily boost cursor speed for a short burst.
 msgid "UI.unlock_widget_nos_desc"
-msgstr "Augmente brièvement la vitesse du pointeur"
+msgstr "Augmente temporairement la vitesse du pointeur"
 
 #. UI (script-driven)
 #. source: N2O
@@ -4300,7 +4303,7 @@ msgstr "Heaps of Pain"
 #. UI (script-driven)
 #. source: Buy and sell Keys for Coin in Safe Folders.
 msgid "UI.unlock_file_keybuy_desc"
-msgstr "Acheter et vendre des clés contre des pièces dans les dossiers sécurisés"
+msgstr "Acheter et vendre des clés contre des pièces dans les dossiers sécurisés."
 
 #. UI (script-driven)
 #. source: KeyBuy
@@ -4512,7 +4515,7 @@ msgstr "Activation requise"
 #. Optional extra difficulty policy - description (unsigned_driver)
 #. source: Keygen files do not spawn. Get plugins from cracked installers, or buy Keys at the Key Shop.
 msgid "POLICY.unsigned_driver.description"
-msgstr "Les fichiers Keygen n’apparaissent pas. Obtenez des plugins avec des installateurs crackés ou achetez des clés dans la boutique"
+msgstr "Les fichiers Keygen n’apparaissent pas. Obtenez des plugins avec des installateurs crackés ou achetez des clés dans la boutique."
 
 #. Optional extra difficulty policy - name (read_only)
 #. source: Read Only
@@ -4522,7 +4525,7 @@ msgstr "Lecture seule"
 #. Optional extra difficulty policy - description (read_only)
 #. source: Rerolls are disabled.
 msgid "POLICY.read_only.description"
-msgstr "Les nouveaux tirages sont désactivés"
+msgstr "Les nouveaux tirages sont désactivés."
 
 #. Optional extra difficulty policy - name (blue_screen_imminent)
 #. source: Blue Screen Imminent
@@ -4532,7 +4535,7 @@ msgstr "Écran bleu imminent"
 #. Optional extra difficulty policy - description (blue_screen_imminent)
 #. source: The post-round escape timer is halved.
 msgid "POLICY.blue_screen_imminent.description"
-msgstr "Le temps pour s’échapper après une manche est divisé par deux"
+msgstr "Le temps pour s’échapper après une manche est divisé par deux."
 
 #. Optional extra difficulty policy - name (trial_version)
 #. source: Trial Version
@@ -4542,7 +4545,7 @@ msgstr "Version d’essai"
 #. Optional extra difficulty policy - description (trial_version)
 #. source: Battle rounds last 2.5 minutes.
 msgid "POLICY.trial_version.description"
-msgstr "Les manches de combat durent 2 min 30 s"
+msgstr "Les manches de combat durent 2 min 30 s."
 
 #. Optional extra difficulty policy - name (extended_support)
 #. source: Extended Support
@@ -4552,7 +4555,7 @@ msgstr "Support étendu"
 #. Optional extra difficulty policy - description (extended_support)
 #. source: Battle rounds last 10 minutes.
 msgid "POLICY.extended_support.description"
-msgstr "Les manches de combat durent 10 minutes"
+msgstr "Les manches de combat durent 10 minutes."
 
 #. Optional extra difficulty policy - name (kiosk_mode)
 #. source: Kiosk Mode
@@ -4562,7 +4565,7 @@ msgstr "Mode kiosque"
 #. Optional extra difficulty policy - description (kiosk_mode)
 #. source: No weapons for the whole round.
 msgid "POLICY.kiosk_mode.description"
-msgstr "Aucune arme pendant toute la partie"
+msgstr "Aucune arme pendant toute la partie."
 
 #. Optional extra difficulty policy - name (fatal_exception)
 #. source: Fatal Exception
@@ -4602,7 +4605,7 @@ msgstr "Colère de Natasha"
 #. Optional extra difficulty policy - description (default_domain_policy)
 #. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
 msgid "POLICY.default_domain_policy.description"
-msgstr "Toutes les stratégies standard à la fois. Les ennemis sont plus rapides, plus résistants et plus nombreux. Les PV actuels sont divisés par deux dans chaque dossier de combat. Pas d’armes supplémentaires, de Keygen ni de nouveaux tirages. Le vide inflige deux fois plus de dégâts. Le temps pour s’échapper est divisé par deux"
+msgstr "Toutes les stratégies standard à la fois. Les ennemis sont plus rapides, plus résistants et plus nombreux. Les PV actuels sont divisés par deux dans chaque dossier de combat. Pas d’armes supplémentaires, de Keygen ni de nouveaux tirages. Le vide inflige deux fois plus de dégâts. Le temps pour s’échapper est divisé par deux."
 
 #. Policy complete unlock requirement template
 #. source: Complete any protocol using {policy}
@@ -4666,7 +4669,7 @@ msgstr "Dépenser {cost} pièces pour 1 clé"
 msgid "UI.keybuy_sell_tooltip"
 msgstr ""
 "Vendre 1 clé pour {cost} pièces\n"
-"Le marché prélève {fee} pièces de frais"
+"Le marché prélève {fee} pièces de frais."
 
 #. KeyBuy nav links under the logo
 #. source: home | buy | sell | my keys | help
@@ -4871,7 +4874,7 @@ msgstr "Retirer l’investissement en cours et récupérer les pièces"
 #. Ethanol 130% window explanation
 #. source: Pay Coin to roll a copy of a random plugin you already have installed.
 msgid "UI.ethanol_body"
-msgstr "Payer des pièces pour copier au hasard un plugin déjà installé"
+msgstr "Payer des pièces pour copier au hasard un plugin déjà installé."
 
 #. Ethanol 130% copy button
 #. source: Copy: {cost} Coin
@@ -5020,7 +5023,7 @@ msgstr "Double-clic pour changer la langue"
 #. Desktop icon tooltip
 #. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
 msgid "CLICKABLE.github_translations"
-msgstr "Double-clic pour ouvrir le lien[br]Les traductions sont possibles grâce aux contributions de la communauté"
+msgstr "Double-clic pour ouvrir le lien[br]Les traductions sont possibles grâce aux contributions de la communauté."
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
@@ -5300,7 +5303,7 @@ msgstr "Score"
 #. Run stats panel row
 #. source: Run score from clears, levels, safe folders, and a completion bonus.
 msgid "RUNSTAT.score_desc"
-msgstr "Score calculé selon les éliminations, les niveaux, les dossiers sécurisés et le bonus de fin de session"
+msgstr "Score calculé selon les éliminations, les niveaux, les dossiers sécurisés et le bonus de fin de session."
 
 #. Run stats panel row
 #. source: Class
@@ -5388,7 +5391,7 @@ msgstr "Clés ramassées dans le dernier dossier de combat"
 #. Safe Folder explorer - last round Beanz tooltip
 #. source: Beanz earned in the last Battle Folder, including the Safe Folder award.
 msgid "RUNSTAT.last_round_beanz_desc"
-msgstr "Beanz gagnés dans le dernier dossier de combat, récompense du dossier sécurisé comprise"
+msgstr "Beanz gagnés dans le dernier dossier de combat, récompense du dossier sécurisé comprise."
 
 #. Run and last-round DPS label
 #. source: DPS
@@ -5398,7 +5401,7 @@ msgstr "DPS"
 #. Run DPS tooltip
 #. source: Damage per second this run, during Battle Folders only.
 msgid "RUNSTAT.dps_desc"
-msgstr "Dégâts par seconde pendant cette session, uniquement dans les dossiers de combat"
+msgstr "Dégâts par seconde pendant cette session, uniquement dans les dossiers de combat."
 
 #. Run damage dealt tooltip
 #. source: Total damage dealt this run.
@@ -5613,7 +5616,7 @@ msgstr "Fragmenté"
 msgid "DRIVER.avd_fragmented.description"
 msgstr ""
 "Au rebond contre un mur : se divise en deux copies de moitié moins grandes\n"
-"Chaque copie peut se diviser une fois"
+"Chaque copie peut se diviser une fois."
 
 #. Weapon driver / overclock card - name (avn_away)
 #. source: Away Message
@@ -5673,7 +5676,7 @@ msgstr "Mousse"
 msgid "DRIVER.bubbles_suds.description"
 msgstr ""
 "Au rebond contre un mur : se divise en deux copies de moitié moins grandes\n"
-"Chaque copie peut se diviser une fois"
+"Chaque copie peut se diviser une fois."
 
 #. Weapon driver / overclock card - name (cdrive_seek)
 #. source: Seek
