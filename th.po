@@ -1642,7 +1642,7 @@ msgstr "กรวยสีส้มที่ติดอยู่กับเค
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
 msgid "UPGRADE.weapon_blatand.name"
-msgstr "บลูทู้ด"
+msgstr "บลาทานด์"
 
 #. Upgrade card - description (weapon_blatand)
 #. source: Chains dashed Infect links between enemies at a fixed link length.
