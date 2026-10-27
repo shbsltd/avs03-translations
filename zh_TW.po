@@ -4153,7 +4153,7 @@ msgstr "通關 {amount} 次"
 #. Unlock requirement - have overlay windows in all 4 corners at once
 #. source: Have windows in all 4 corners at once
 msgid "UI.unlock_corner_windows"
-msgstr "同時在四個角落都顯示窗口"
+msgstr "同時在四個角落都有視窗"
 
 #. Unlock description - overlay windows in all 4 corners
 #. source: Open files until their windows fill every corner of the screen.
