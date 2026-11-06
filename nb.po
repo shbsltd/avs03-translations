@@ -1,0 +1,4054 @@
+msgid ""
+msgstr ""
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: Tolgee\n"
+
+msgid "!!! !!  WINNER WINNER WINER!!! !!!"
+msgstr "!!! !!  VINNER VINNER VINNER!!! !!!"
+
+msgid "(1) Alert!!! CRITICAL"
+msgstr "(1) Varsel!!! KRITISK"
+
+msgid "(3) \"hey x \"  HOT!!! Singles"
+msgstr "(3) \"hei x \"  HETE!!! Single"
+
+msgid "+"
+msgstr "+"
+
+msgid "-"
+msgstr "-"
+
+msgid "/"
+msgstr "/"
+
+msgid "1,000,0000 th VISTOR this WEEK!!! PRIZE WON!"
+msgstr "1,000,0000-ende BESØKENDE denne UKEN!!! PRIS VUNNET!"
+
+msgid "A"
+msgstr "A"
+
+msgid ""
+"Add +10 Max HP.\n"
+"Heal 20% of Max HP when opening a Safe Folder."
+msgstr ""
+"Legg til +10 maks HP.\n"
+"Helbred 20% av maks HP når du åpner en trygg mappe."
+
+msgid "All data has been collected."
+msgstr "All data er samlet inn."
+
+msgid "Animation Speed:"
+msgstr "Animasjonshastighet:"
+
+msgid "Antivirus Survivors 2003 Professional"
+msgstr "Antivirus Survivors 2003 Professional"
+
+msgid ""
+"Antivirus Survivors 2003 Professional\n"
+"Shaun Hammond Business Solutions Ltd"
+msgstr ""
+"Antivirus Survivors 2003 Professional\n"
+"Shaun Hammond Business Solutions Ltd"
+
+msgid "Antivirus Survivors 2003 Professional ©"
+msgstr "Antivirus Survivors 2003 Professional ©"
+
+msgid "B"
+msgstr "B"
+
+msgid "BIG BIG WINNER THATS YOU!!!"
+msgstr "STOR STOR VINNER ER DEG!!!"
+
+msgid "BOSS.beachball.name"
+msgstr "Spinning Beach Ball of Death"
+
+msgid "BOSS.bonzi.name"
+msgstr "Caesar Chimp"
+
+msgid "BOSS.random.name"
+msgstr "Tilfeldig boss"
+
+msgid "BOSS.random.tooltip_all_met"
+msgstr "Kjemp mot en tilfeldig boss."
+
+msgid "BOSS.random.tooltip_unmet"
+msgstr "Kjemp mot en boss du ennå ikke har møtt."
+
+msgid "BOSS.recycle_bin.name"
+msgstr "Papirkurv"
+
+msgid "Back"
+msgstr "Tilbake"
+
+msgid "Before you go, did you kno.."
+msgstr "Før du går, visste du..."
+
+msgid "Bitrate"
+msgstr "Bithastighet"
+
+msgid "CHEAP PRINTER ONE CLICK AWAY"
+msgstr "BILLIG PRINTER ETT KLIKK UNNA"
+
+msgid "CLASS.admin.description"
+msgstr ""
+"Start med +1 nøkkel.\n"
+"Multipliser myntinntekt med 1.3x.\n"
+"Multipliser rekkevidde for oppsamling med 1.3x.\n"
+"Få +10% rabatt på butikkvarer.\n"
+"Multipliser maks HP med 0.9x.\n"
+"Multipliser våpenskade med 0.85x."
+
+msgid "CLASS.admin.name"
+msgstr "Admin"
+
+msgid "CLASS.breakpoint.description"
+msgstr ""
+"Øk sjansen for kritisk treff med +12%.\n"
+"Multipliser skade fra kritiske treff med 1.25x.\n"
+"Reduser maks HP med -15.\n"
+"Multipliser pekerhastighet med 0.9x.\n"
+"Multipliser våpenskade med 0.92x."
+
+msgid "CLASS.breakpoint.name"
+msgstr "Brytepunkt"
+
+msgid "CLASS.brick.description"
+msgstr ""
+"Legg til +40 maks HP.\n"
+"Legg til +12 rustning.\n"
+"Multipliser pekerhastighet med 0.8x.\n"
+"Multipliser våpenskade med 0.85x.\n"
+"Multipliser våpenskade med 1.1x ved skade (varer 8s, stables opptil 3)."
+
+msgid "CLASS.brick.name"
+msgstr "Murstein"
+
+msgid "CLASS.default.description"
+msgstr ""
+"Ingen klassebonuser eller -straffer.\n"
+"Balansert utgangspunkt for pekeren."
+
+msgid "CLASS.default.name"
+msgstr "Standard"
+
+msgid "CLASS.null.description"
+msgstr ""
+"Reduser maks HP med -25.\n"
+"Legg til +8 pakketap.\n"
+"Multipliser flaks med 1.5x.\n"
+"Multipliser våpenskade med 0.9x."
+
+msgid "CLASS.null.name"
+msgstr "Null"
+
+msgid "CLASS.thread.description"
+msgstr ""
+"Multipliser prosesshastighet med 1.3x.\n"
+"Multipliser oppdatering med 1.12x.\n"
+"Multipliser EXP-inntekt med 1.08x.\n"
+"Multipliser våpenskade med 0.85x."
+
+msgid "CLASS.thread.name"
+msgstr "Tråd"
+
+msgid "CLASS.vector.description"
+msgstr ""
+"Multipliser pekerhastighet med 1.25x.\n"
+"Legg til +15 pakketap.\n"
+"Reduser maks HP med -25.\n"
+"Multipliser våpenskade med 0.9x.\n"
+"Multipliser pekerhastighet med 1.25x og oppdatering med 1.2x ved pakketap (varer 4s)."
+
+msgid "CLASS.vector.name"
+msgstr "Vektor"
+
+msgid "CLICKABLE.cant_afford_beanz"
+msgstr "Trenger %d Beanz for å kjøpe"
+
+msgid "CLICKABLE.double_click_apply"
+msgstr "Dobbeltklikk for å bruke"
+
+msgid "CLICKABLE.double_click_buy"
+msgstr "Dobbeltklikk for å kjøpe for %d Beanz"
+
+msgid "CLICKABLE.double_click_collect_coins"
+msgstr "Dobbeltklikk for å samle inn alle myntene"
+
+msgid "CLICKABLE.double_click_collect_data"
+msgstr "Dobbeltklikk for å samle inn all data"
+
+msgid "CLICKABLE.double_click_cycle_language"
+msgstr "Dobbeltklikk for å endre språk"
+
+msgid "CLICKABLE.double_click_equip"
+msgstr "Dobbeltklikk for å velge"
+
+msgid "CLICKABLE.double_click_fight"
+msgstr "Dobbeltklikk for å kjempe"
+
+msgid "CLICKABLE.double_click_install"
+msgstr "Dobbeltklikk for å installere utvidelsen"
+
+msgid "CLICKABLE.double_click_keygen"
+msgstr "Dobbeltklikk for å generere nøkkel"
+
+msgid "CLICKABLE.double_click_open"
+msgstr "Dobbeltklikk for å åpne"
+
+msgid "CLICKABLE.double_click_open_link"
+msgstr "Dobbeltklikk for å åpne lenken"
+
+msgid "CLICKABLE.double_click_play"
+msgstr "Dobbeltklikk for å spille"
+
+msgid "CLICKABLE.double_click_purchase"
+msgstr "Dobbeltklikk for å kjøpe"
+
+msgid "CLICKABLE.double_click_run"
+msgstr "Dobbeltklikk for å kjøre"
+
+msgid "CLICKABLE.double_click_shop"
+msgstr "Dobbeltklikk for å åpne butikken"
+
+msgid "CLICKABLE.double_click_shuffle"
+msgstr "Dobbeltklikk for å hoppe over spor"
+
+msgid "CLICKABLE.double_click_unarchive"
+msgstr "Dobbeltklikk for å åpne arkivet"
+
+msgid "CLICKABLE.filename.cracked_installer"
+msgstr "cracked_installer.pgi"
+
+msgid "CLICKABLE.filename.installer"
+msgstr "Installer.pgi"
+
+msgid "CLICKABLE.filename.legendary_installer"
+msgstr "LEGENDARY_SETUP.exe"
+
+msgid "CLICKABLE.filename.lemwire"
+msgstr "LemWire.exe"
+
+msgid "CLICKABLE.filename.morgan_av"
+msgstr "MorganAV.pgi"
+
+msgid "CLICKABLE.filename.torrent"
+msgstr "BigWave.exe"
+
+msgid "CLICKABLE.github_translations"
+msgstr "Dobbeltklikk for å åpne lenken[br]Oversettelsene i spillet kommer fra frivillige bidrag fra miljøet."
+
+msgid "CLICKABLE.legendary_installer_hint"
+msgstr "Bruker 3 nøkler · Alltid legendarisk"
+
+msgid "CLICKABLE.menu_shortcut_refund"
+msgstr "%s for å refundere"
+
+msgid "CLICKABLE.morgan_av_warning"
+msgstr "Vanskeligere runde. Ekstra Plus!-fiender."
+
+msgid "CLICKABLE.no_key_required"
+msgstr "Ingen nøkkel kreves"
+
+msgid "CLICKABLE.success_chance"
+msgstr "%.0f%% sjanse for suksess"
+
+msgid "CLICKABLE.torrent_downloads"
+msgstr "Laster ned 1-5 våpenoppgraderinger"
+
+msgid "CLICKABLE.uses_one_key"
+msgstr "Bruker 1 nøkkel"
+
+msgid "CLICKABLE.vapid_part_busy"
+msgstr "En annen del laster ned. Skaff deg Vapidshare Pro for samtidige nedlastinger."
+
+msgid "CLICKABLE.vapor_destroys"
+msgstr "Ødelegger alt på skjermen!"
+
+msgid "CLICKABLE.widget_busy"
+msgstr "En annen spesialfil er åpen"
+
+msgid "CREDITS.animation_virry"
+msgstr "Animatør (Virry)"
+
+msgid "CREDITS.community_qa"
+msgstr "Kvalitetssikring fra miljøet"
+
+msgid "CREDITS.community_translators"
+msgstr "Frivillige oversettere"
+
+msgid "CREDITS.producer"
+msgstr "Produsent"
+
+msgid "CREDITS.solo_developer"
+msgstr "Utvikling, grafikk, musikk, osv."
+
+msgid "CREDITS.special_thanks"
+msgstr "En spesiell takk"
+
+msgid "CREDITS.special_thanks_note"
+msgstr "Tusen takk alle sammen for at dere hjalp meg å oppfylle denne drømmen. Jeg er glad i dere alle! -Shaun"
+
+msgid "CREDITS.window_title"
+msgstr "Medvirkende"
+
+msgid "Capacity"
+msgstr "Kapasitet"
+
+msgid "Checking Plugin Compatibility Layer..."
+msgstr "Kontrollerer kompatibilitetslag for utvidelser..."
+
+msgid "Coin Collector"
+msgstr "Myntsamler"
+
+msgid "Collecting any loose Coin."
+msgstr "Samler opp løse mynter."
+
+msgid "Critical Health!"
+msgstr "Kritisk lav helse!"
+
+msgid "Cycle"
+msgstr "Syklus"
+
+msgid "DLL.missing_library"
+msgstr "Manglende dynamisk bibliotek %s funnet."
+
+msgid "DRIVER.avd_fragmented.description"
+msgstr ""
+"Ved veggkollisjon: deles i to kopier med halv størrelse.\n"
+"Kopiene kan deles én gang."
+
+msgid "DRIVER.avd_fragmented.name"
+msgstr "Fragmentert"
+
+msgid "DRIVER.avn_away.description"
+msgstr ""
+"Legg til +1 antall. Øk hastighet med +20%.\n"
+"Øk størrelse med +15%."
+
+msgid "DRIVER.avn_away.name"
+msgstr "Fraværsmelding"
+
+msgid "DRIVER.avn_buddy.description"
+msgstr ""
+"Legg til +2 antall.\n"
+"Øk styrke med +15%."
+
+msgid "DRIVER.avn_buddy.name"
+msgstr "Venneliste"
+
+msgid "DRIVER.blatand_pair.description"
+msgstr ""
+"Legg til +1 antall. Øk styrke med +25%.\n"
+"Øk hastighet med +20%."
+
+msgid "DRIVER.blatand_pair.name"
+msgstr "Parkoblede enheter"
+
+msgid "DRIVER.bloated_cache.description"
+msgstr "Multipliser størrelse med 1.5x."
+
+msgid "DRIVER.bloated_cache.name"
+msgstr "Oppblåst hurtigbuffer"
+
+msgid "DRIVER.bubbles_soap.description"
+msgstr ""
+"Legg til +1 antall.\n"
+"Øk størrelse med +40%."
+
+msgid "DRIVER.bubbles_soap.name"
+msgstr "Såpe"
+
+msgid "DRIVER.bubbles_suds.description"
+msgstr ""
+"Ved veggkollisjon: deles i to kopier med halv størrelse.\n"
+"Kopiene kan deles én gang."
+
+msgid "DRIVER.bubbles_suds.name"
+msgstr "Såpeskum"
+
+msgid "DRIVER.bumper.description"
+msgstr "Ved veggkollisjon: Øk skade med +50% og utløs en eksplosjon."
+
+msgid "DRIVER.bumper.name"
+msgstr "Støtdemper"
+
+msgid "DRIVER.cdrive_cleanup.description"
+msgstr "Slår ned på målrettede fiender på skjermen."
+
+msgid "DRIVER.cdrive_cleanup.name"
+msgstr "Diskopprydding"
+
+msgid "DRIVER.cdrive_seek.description"
+msgstr ""
+"Konverter avstøting til hakking.\n"
+"Øk hastighet med +60%."
+
+msgid "DRIVER.cdrive_seek.name"
+msgstr "Disksøk"
+
+msgid "DRIVER.cone_detour.description"
+msgstr ""
+"Konverter varme til hakking. Øk størrelse med +35%.\n"
+"Øk skade med +15%."
+
+msgid "DRIVER.cone_detour.name"
+msgstr "Omvei"
+
+msgid "DRIVER.cone_workzone.description"
+msgstr ""
+"Legg til +1 antall.\n"
+"Øk styrke med +30%."
+
+msgid "DRIVER.cone_workzone.name"
+msgstr "Arbeidsområde"
+
+msgid "DRIVER.cruiser_multitab.description"
+msgstr ""
+"Konverter hakking til infeksjon. Legg til +1 antall.\n"
+"Øk styrke med +25%."
+
+msgid "DRIVER.cruiser_multitab.name"
+msgstr "Nettleserkapring"
+
+msgid "DRIVER.cruiser_popup.description"
+msgstr "Faner følger fiender til angrepet slutter."
+
+msgid "DRIVER.cruiser_popup.name"
+msgstr "Popup-storm"
+
+msgid "DRIVER.cut_cleave.description"
+msgstr ""
+"Konverter avstøting til infeksjon. Øk størrelse med +80%.\n"
+"Legg til -0.5 antall."
+
+msgid "DRIVER.cut_cleave.name"
+msgstr "Kløyve"
+
+msgid "DRIVER.cut_papercut.description"
+msgstr ""
+"Legg til +2 antall.\n"
+"Øk hastighet med +25%."
+
+msgid "DRIVER.cut_papercut.name"
+msgstr "Papirkutt"
+
+msgid "DRIVER.email_bounce.description"
+msgstr "Når den siste konvolutten spretter, start oppdatering."
+
+msgid "DRIVER.email_bounce.name"
+msgstr "Kan ikke leveres"
+
+msgid "DRIVER.email_cc.description"
+msgstr ""
+"Konverter infeksjon til varme. Legg til +1 antall.\n"
+"Øk hastighet med +35%."
+
+msgid "DRIVER.email_cc.name"
+msgstr "Flammepost"
+
+msgid "DRIVER.extended_table.description"
+msgstr "Angrepshastighet får ikke lenger dette våpenet til å utløpe tidligere."
+
+msgid "DRIVER.extended_table.name"
+msgstr "Utvidet tabell"
+
+msgid "DRIVER.firewall_deny.description"
+msgstr "Øk styrke med +50%. Legg til +1 antall."
+
+msgid "DRIVER.firewall_deny.name"
+msgstr "Nekt"
+
+msgid "DRIVER.firewall_stealth.description"
+msgstr "Når den siste flammen dør, start oppdatering."
+
+msgid "DRIVER.firewall_stealth.name"
+msgstr "Flammesvikt"
+
+msgid "DRIVER.fontart_bold.description"
+msgstr ""
+"Øk størrelse med +60%. Øk styrke med +60%.\n"
+"Reduser antall med -25%."
+
+msgid "DRIVER.fontart_bold.name"
+msgstr "Fet skrift"
+
+msgid "DRIVER.fontart_wordart.description"
+msgstr ""
+"Øk størrelse med +40%.\n"
+"Legg til +1 antall."
+
+msgid "DRIVER.fontart_wordart.name"
+msgstr "Omriss"
+
+msgid "DRIVER.fraps_benchmark.description"
+msgstr ""
+"Konverter avstøting til varme. Øk skade med +25%.\n"
+"Øk hastighet med +20%."
+
+msgid "DRIVER.fraps_benchmark.name"
+msgstr "Ytelsestest"
+
+msgid "DRIVER.fraps_vsync.description"
+msgstr ""
+"FPS-tall spretter av veggene.\n"
+"Øk størrelse med +20%."
+
+msgid "DRIVER.fraps_vsync.name"
+msgstr "VSync"
+
+msgid "DRIVER.hitmarkers_headhunter.description"
+msgstr ""
+"Øk sjansen for henrettelse. Konverter avstøting til varme.\n"
+"Reduser skade med -15%."
+
+msgid "DRIVER.hitmarkers_headhunter.name"
+msgstr "Hodejeger"
+
+msgid "DRIVER.hitmarkers_killstreak.description"
+msgstr "Fjernede fiender øker angrepshastigheten i neste angrep."
+
+msgid "DRIVER.hitmarkers_killstreak.name"
+msgstr "Drapsrekke"
+
+msgid "DRIVER.hyperthreaded.description"
+msgstr ""
+"Legg til +2 antall.\n"
+"Reduser skade med -20%."
+
+msgid "DRIVER.hyperthreaded.name"
+msgstr "Hypertrådet"
+
+msgid "DRIVER.minesweeper_chord.description"
+msgstr "Miner blir liggende til de utløses."
+
+msgid "DRIVER.minesweeper_chord.name"
+msgstr "Akkord"
+
+msgid "DRIVER.minesweeper_flag.description"
+msgstr ""
+"Konverter avstøting til varme. Legg til +1 antall.\n"
+"Øk styrke med +20%."
+
+msgid "DRIVER.minesweeper_flag.name"
+msgstr "Brannladning"
+
+msgid "DRIVER.modem_broadband.description"
+msgstr ""
+"Øk hastighet med +50%.\n"
+"Øk skade med +20%."
+
+msgid "DRIVER.modem_broadband.name"
+msgstr "Forsterkning"
+
+msgid "DRIVER.modem_handshake.description"
+msgstr ""
+"Konverter avstøting til hakking. Legg til +1 antall.\n"
+"Øk størrelse med +25%."
+
+msgid "DRIVER.modem_handshake.name"
+msgstr "Rundgang"
+
+msgid "DRIVER.orchestra_fortissimo.description"
+msgstr ""
+"Konverter infeksjon til varme. Øk skade med +35%.\n"
+"Øk styrke med +35%."
+
+msgid "DRIVER.orchestra_fortissimo.name"
+msgstr "For mange faner"
+
+msgid "DRIVER.orchestra_taskkill.description"
+msgstr "Øk sjansen for henrettelse."
+
+msgid "DRIVER.orchestra_taskkill.name"
+msgstr "Avslutt prosess"
+
+msgid "DRIVER.overclocked.description"
+msgstr ""
+"Multipliser skade med 1.6x.\n"
+"Reduser oppdatering med -15%."
+
+msgid "DRIVER.overclocked.name"
+msgstr "Overklokket"
+
+msgid "DRIVER.paint_fill.description"
+msgstr ""
+"Legg til +1 antall.\n"
+"Øk styrke med +40%."
+
+msgid "DRIVER.paint_fill.name"
+msgstr "Malingsspann"
+
+msgid "DRIVER.paint_spill.description"
+msgstr ""
+"Øk størrelse med +100%.\n"
+"Reduser skade med -20%."
+
+msgid "DRIVER.paint_spill.name"
+msgstr "Søl"
+
+msgid "DRIVER.pinball_tilted.description"
+msgstr ""
+"Ved veggkollisjon: Øk størrelse. Skjer opptil to ganger.\n"
+"Reduser størrelse med -30%."
+
+msgid "DRIVER.pinball_tilted.name"
+msgstr "Tiltet"
+
+msgid "DRIVER.quarantine_heuristic.description"
+msgstr ""
+"Øk skade med +40%.\n"
+"Øk hastighet med +20%."
+
+msgid "DRIVER.quarantine_heuristic.name"
+msgstr "Heuristisk"
+
+msgid "DRIVER.quarantine_strict.description"
+msgstr ""
+"Konverter avstøting til infeksjon.\n"
+"Øk styrke med +70%."
+
+msgid "DRIVER.quarantine_strict.name"
+msgstr "Streng"
+
+msgid "DRIVER.satellite_dish.description"
+msgstr ""
+"Konverter hakking til varme. Øk størrelse med +30%.\n"
+"Øk hastighet med +15%."
+
+msgid "DRIVER.satellite_dish.name"
+msgstr "Parabolantenne"
+
+msgid "DRIVER.satellite_uplink.description"
+msgstr "Paraboler følger deg hele deres levetid."
+
+msgid "DRIVER.satellite_uplink.name"
+msgstr "Opplink"
+
+msgid "DRIVER.scimitar_dragon.description"
+msgstr ""
+"Konverter avstøting til infeksjon. Øk størrelse med +50%.\n"
+"Legg til +1 antall."
+
+msgid "DRIVER.scimitar_dragon.name"
+msgstr "Våpengift"
+
+msgid "DRIVER.scimitar_dual.description"
+msgstr "Legg til +2 antall."
+
+msgid "DRIVER.scimitar_dual.name"
+msgstr "Dobbelthåndtering"
+
+msgid "DRIVER.search_deep.description"
+msgstr ""
+"Konverter avstøting til hakking. Legg til +2 antall.\n"
+"Reduser skade med -20%."
+
+msgid "DRIVER.search_deep.name"
+msgstr "Dypsøk"
+
+msgid "DRIVER.search_indexed.description"
+msgstr ""
+"Øk hastighet med +30%.\n"
+"Øk oppdatering med +20%."
+
+msgid "DRIVER.search_indexed.name"
+msgstr "Finn neste"
+
+msgid "DRIVER.sniper_oneshot.description"
+msgstr ""
+"Legg til +7% sjanse for henrettelse.\n"
+"Øk skade med +25%."
+
+msgid "DRIVER.sniper_oneshot.name"
+msgstr "Skarpskytter"
+
+msgid "DRIVER.sniper_scope.description"
+msgstr ""
+"Multipliser skade med 1.5x. Øk styrke med +30%.\n"
+"Øk oppdatering med +25%."
+
+msgid "DRIVER.sniper_scope.name"
+msgstr "Høyt kaliber"
+
+msgid "DRIVER.solitaire_cheat.description"
+msgstr ""
+"Øk skade med +50%. Legg til +1 antall.\n"
+"Reduser oppdatering med -15%."
+
+msgid "DRIVER.solitaire_cheat.name"
+msgstr "Juks"
+
+msgid "DRIVER.turbo_clock.description"
+msgstr ""
+"Øk hastighet med +50%.\n"
+"Reduser styrke med -15%."
+
+msgid "DRIVER.turbo_clock.name"
+msgstr "Turbofrekvens"
+
+msgid "Defrag Collector"
+msgstr "Defrag-samler"
+
+msgid "Defragmenting"
+msgstr "Defragmentering"
+
+msgid "Discord"
+msgstr "Discord"
+
+msgid "Display Zoom:"
+msgstr "Skjermzoom:"
+
+msgid "Download More RAM"
+msgstr "Last ned mer RAM"
+
+msgid "Downloads complete, click to continue..."
+msgstr "Nedlastingen er fullført, klikk for å fortsette..."
+
+msgid "ELITE.avn_buddy.name"
+msgstr "AVN Buddy Plus!"
+
+msgid "ELITE.crawler.name"
+msgstr "Søkerobot Plus!"
+
+msgid "ELITE.error.name"
+msgstr "Feil Plus!"
+
+msgid "ELITE.generic.name"
+msgstr "Elite"
+
+msgid "ELITE.question.name"
+msgstr "Spørsmål Plus!"
+
+msgid "ENEMY.big_critical.name"
+msgstr "Svært kritisk"
+
+msgid "ENEMY.big_error.name"
+msgstr "Stor feil"
+
+msgid "ENEMY.big_shield.name"
+msgstr "Stort skjold"
+
+msgid "ENEMY.blocker.name"
+msgstr "Lite skjold"
+
+msgid "ENEMY.bouncer.name"
+msgstr "Badeball"
+
+msgid "ENEMY.burning_disc.name"
+msgstr "PyroDisc"
+
+msgid "ENEMY.click_me.name"
+msgstr "KLIKK-MEG.TXT.vbs"
+
+msgid "ENEMY.crawler.name"
+msgstr "Søkerobot"
+
+msgid "ENEMY.critical.name"
+msgstr "Kritisk"
+
+msgid "ENEMY.dxdiag.name"
+msgstr "GfxDiag"
+
+msgid "ENEMY.error.name"
+msgstr "Feil"
+
+msgid "ENEMY.kiter.name"
+msgstr "Gjenvinner"
+
+msgid "ENEMY.large_mine.name"
+msgstr "Stor mine"
+
+msgid "ENEMY.memory_leak.filename"
+msgstr "minnelekkasje.reg"
+
+msgid "ENEMY.memory_leak.name"
+msgstr "Minnelekkasje"
+
+msgid "ENEMY.mine.name"
+msgstr "Mine"
+
+msgid "ENEMY.question.name"
+msgstr "Spørsmål"
+
+msgid "ENEMY.shooter.name"
+msgstr "AVN Buddy"
+
+msgid "ENEMY.swarm.name"
+msgstr "Lukk"
+
+msgid "EVO.chaos.description"
+msgstr "Et uforutsigbart kaos av en vanskelighetsgrad. Jeg kunne ikke sagt hva man kan forvente."
+
+msgid "EVO.chaos.name"
+msgstr "Kaos"
+
+msgid "EVO.linear.description"
+msgstr "En jevn, lineær strøm av flere fiender som legges til over tid."
+
+msgid "EVO.linear.name"
+msgstr "Lineær"
+
+msgid "EVO.variable.description"
+msgstr "Et variert fiendenivå som svinger opp og ned for å gi flere rolige øyeblikk, men kraftigere økninger."
+
+msgid "EVO.variable.name"
+msgstr "Variabel"
+
+msgid "Empty"
+msgstr "Tom"
+
+msgid "Estimated exp before defragmentation:"
+msgstr "Estimert exp før defragmentering:"
+
+msgid ""
+"Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
+"Processing rate: 0.00 KB/Sec"
+msgstr ""
+"Estimert gjenværende tid: 0m 00s (0.00 KB av 0.00 KB)\n"
+"Behandlingshastighet: 0.00 KB/s"
+
+msgid "Exit"
+msgstr "Avslutt"
+
+msgid "Exit to Desktop"
+msgstr "Avslutt til skrivebordet"
+
+msgid "Exit to Menu"
+msgstr "Avslutt til menyen"
+
+msgid ""
+"Extracting file:\n"
+"temp_file_649743.zip from /.???"
+msgstr ""
+"Pakker ut fil:\n"
+"temp_file_649743.zip fra /.???"
+
+msgid "FPS Cap:"
+msgstr "FPS-grense:"
+
+msgid "FREE AVDs CLI..."
+msgstr "GRATIS AVD CLI-er..."
+
+msgid "Feedback"
+msgstr "Send innspill"
+
+msgid "Firewall Size"
+msgstr "Brannmurstørrelse"
+
+msgid "Folder Evolution"
+msgstr "Mappeutvikling"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Generate Key"
+msgstr "Generer nøkkel"
+
+msgid "Great, now just pick a weapon you want to start with."
+msgstr "Herlig, da er det bare å velge et våpen du vil begynne med."
+
+msgid "Headshot!"
+msgstr "Headshot!"
+
+msgid "Health Check"
+msgstr "Helsesjekk"
+
+msgid "Hey DUMBY!!"
+msgstr "Hei DIN TULLING!!"
+
+msgid ""
+"Increases Refresh Rate for Search by 20%.\n"
+"But here's a second line also."
+msgstr ""
+"Øker oppdateringsfrekvensen for søk med 20%.\n"
+"Men det er også en linje til."
+
+msgid "Insert"
+msgstr "Sett inn"
+
+msgid "Installed Plugins"
+msgstr "Installerte utvidelser"
+
+msgid "Keygen Volume:"
+msgstr "Keygen-volum:"
+
+msgid "LOCAL DISK (C:)"
+msgstr "LOKAL DISK (C:)"
+
+msgid "Language:"
+msgstr "Språk:"
+
+msgid "LemWire 4.7"
+msgstr "LemWire 4.7"
+
+msgid "LemWire 4.7 - Pick Your Download"
+msgstr "LemWire 4.7 - Velg nedlasting"
+
+msgid "Let's get started with Double-Clicking some settings."
+msgstr "La oss begynne med å dobbeltklikke på noen innstillinger."
+
+msgid "Level 16"
+msgstr "Nivå 16"
+
+msgid "Level 24 "
+msgstr "Nivå 24 "
+
+msgid "Level 8"
+msgstr "Nivå 8"
+
+msgid "Locked Weapons - Coming Soon"
+msgstr "Låste våpen - kommer snart"
+
+msgid "META.armor.description"
+msgstr "Legger til +1 rustning per rang."
+
+msgid "META.coin_gain.description"
+msgstr "Øk myntinntekt med ekstra +1% per rang."
+
+msgid "META.cost_beanz"
+msgstr "Koster: %d Beanz"
+
+msgid "META.crit_chance.description"
+msgstr "Øker sjansen for kritisk treff med +1% per rang."
+
+msgid "META.crit_damage.description"
+msgstr "Øk kritisk skade med ekstra +2% per rang."
+
+msgid "META.cursor_speed.description"
+msgstr "Øk pekerhastighet med ekstra +1% per rang."
+
+msgid "META.cursor_speed.name"
+msgstr "Pekerfart"
+
+msgid "META.exp_gain.description"
+msgstr "Øk EXP-inntekt med ekstra +2% per rang."
+
+msgid "META.health_regen.description"
+msgstr "Legger til +1 helseregenerering per rang."
+
+msgid "META.luck.description"
+msgstr "Øk flaks med ekstra +1% per rang."
+
+msgid "META.magnetism.description"
+msgstr "Øk magnetisme med ekstra +2% per rang."
+
+msgid "META.max_health.description"
+msgstr "Legger til +10 maks HP per rang."
+
+msgid "META.packet_loss.description"
+msgstr "Legger til +1 pakketap per rang."
+
+msgid "META.packet_loss.name"
+msgstr "Pakketap"
+
+msgid "META.proc_speed.description"
+msgstr "Øk prosesshastighet med ekstra +1% per rang."
+
+msgid "META.rank"
+msgstr "Rang: %d/%d"
+
+msgid "META.rank_max"
+msgstr "MAKSIMAL RANG"
+
+msgid "META.weap_amount.description"
+msgstr "Øker sjansen for ekstra våpen med +3% per rang."
+
+msgid "META.weap_damage.description"
+msgstr "Øk våpenskade med ekstra +2% per rang."
+
+msgid "META.weap_refresh.description"
+msgstr "Øk våpenoppdatering med ekstra +1% per rang."
+
+msgid "META.weap_repel.description"
+msgstr "Øk våpenavstøting med ekstra +1% per rang."
+
+msgid "META.weap_size.description"
+msgstr "Øk våpenstørrelse med ekstra +1% per rang."
+
+msgid "META.weap_speed.description"
+msgstr "Øk våpenhastighet med ekstra +1% per rang."
+
+msgid "Master Volume:"
+msgstr "Hovedvolum:"
+
+msgid "Memory Leak"
+msgstr "Minnelekkasje!"
+
+msgid "Missing dynamic link library scd.dll located."
+msgstr "Manglende dynamisk bibliotek scd.dll funnet."
+
+msgid "Music Volume:"
+msgstr "Musikkvolum:"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Next Folder"
+msgstr "Neste mappe"
+
+msgid "Open Steam Page"
+msgstr "Åpne Steam-siden"
+
+msgid "Options"
+msgstr "Alternativer"
+
+msgid "PLUGIN.adsense.description"
+msgstr "Få +1 mynt når du åpner en fil."
+
+msgid "PLUGIN.adsense.name"
+msgstr "Besøksteller"
+
+msgid "PLUGIN.armor_boost.description"
+msgstr "Legg til +5 rustning."
+
+msgid "PLUGIN.armor_boost.name"
+msgstr "Økt rustning"
+
+msgid "PLUGIN.armor_damage_trigger.description"
+msgstr ""
+"Legg til +5 rustning.\n"
+"Legg til +25 pakketap ved skade (varer 10s)."
+
+msgid "PLUGIN.armor_damage_trigger.name"
+msgstr "Maskinvareavbrudd"
+
+msgid "PLUGIN.armor_missing_hp.description"
+msgstr "Legg til +1 rustning per 2% manglende HP."
+
+msgid "PLUGIN.armor_missing_hp.name"
+msgstr "Siste fungerende konfigurasjon"
+
+msgid "PLUGIN.big_hp_regen_boost.description"
+msgstr ""
+"Legg til +64 maks HP.\n"
+"Legg til +12 helseregenerering."
+
+msgid "PLUGIN.big_hp_regen_boost.name"
+msgstr "Bedriftsutgave"
+
+msgid "PLUGIN.big_wave_damage.description"
+msgstr "Øk våpenskade-multiplikator med +10% når du åpner en Big Wave."
+
+msgid "PLUGIN.big_wave_damage.name"
+msgstr "Rushtiden"
+
+msgid "PLUGIN.blast_on_file_open.description"
+msgstr "25% sjanse for å utløse en eksplosjon når du åpner en fil."
+
+msgid "PLUGIN.blast_on_file_open.name"
+msgstr "Autokjør"
+
+msgid "PLUGIN.chance_defrag.description"
+msgstr "10% sjanse for å utføre en defrag hvert 30s."
+
+msgid "PLUGIN.chance_defrag.name"
+msgstr "Diskopprydding"
+
+msgid "PLUGIN.coin_boost.description"
+msgstr "Multipliser myntinntekt med 1.1x."
+
+msgid "PLUGIN.coin_boost.name"
+msgstr "Økt myntinntekt"
+
+msgid "PLUGIN.coin_drop_boost.description"
+msgstr "Øk sjansen for at fiender slipper mynter med +20%."
+
+msgid "PLUGIN.coin_drop_boost.name"
+msgstr "Delte mapper"
+
+msgid "PLUGIN.crit_blast.description"
+msgstr "10% sjanse for at kritiske treff eksploderer for 50% skade."
+
+msgid "PLUGIN.crit_blast.name"
+msgstr "Kritisk eksplosjon"
+
+msgid "PLUGIN.crit_chance_boost.description"
+msgstr "Multipliser sjansen for kritisk treff med 1.1x."
+
+msgid "PLUGIN.crit_chance_boost.name"
+msgstr "Økt sjanse for kritisk treff"
+
+msgid "PLUGIN.cursor_speed_boost.description"
+msgstr "Multipliser pekerhastighet med 1.1x"
+
+msgid "PLUGIN.cursor_speed_boost.name"
+msgstr "Økt pekerhastighet"
+
+msgid "PLUGIN.cursor_speed_damage.description"
+msgstr ""
+"Øk pekerhastighet med +10%.\n"
+"Øk pekerhastighet med +30% ved skade (varer 10s)."
+
+msgid "PLUGIN.cursor_speed_damage.name"
+msgstr "Kritisk lavt batteri"
+
+msgid "PLUGIN.damage_boost.description"
+msgstr "Multipliser våpenskade med 1.1x."
+
+msgid "PLUGIN.damage_boost.name"
+msgstr "Økt våpenskade"
+
+msgid "PLUGIN.damage_level_scaling.description"
+msgstr ""
+"Øk våpenskade med +3% per spillernivå.\n"
+"Reduser maks HP med -1 per spillernivå."
+
+msgid "PLUGIN.damage_level_scaling.name"
+msgstr "Karrierevei"
+
+msgid "PLUGIN.damage_missing_hp.description"
+msgstr "Øk våpenskade med +1% per 1% manglende HP."
+
+msgid "PLUGIN.damage_missing_hp.name"
+msgstr "Rødlinje"
+
+msgid "PLUGIN.damage_speed_crit.description"
+msgstr ""
+"Øk våpenskade med +10%.\n"
+"Øk oppdatering med +10%.\n"
+"Øk sjansen for kritisk treff med +5%.\n"
+"Øk kritisk skade med +15%."
+
+msgid "PLUGIN.damage_speed_crit.name"
+msgstr "Ytelsesalternativer"
+
+msgid "PLUGIN.defrag_on_safe_folder.description"
+msgstr "Utfør en defrag når den trygge mappen dukker opp."
+
+msgid "PLUGIN.defrag_on_safe_folder.name"
+msgstr "Oppstartsmappe"
+
+msgid "PLUGIN.dual_core.description"
+msgstr "Multipliser prosesshastighet med 2.0x."
+
+msgid "PLUGIN.dual_core.name"
+msgstr "Dual Core"
+
+msgid "PLUGIN.expansion_slot.description"
+msgstr "Utstyr et tilfeldig ekstra våpen på nivå 6."
+
+msgid "PLUGIN.expansion_slot.name"
+msgstr "Utvidelsesplass"
+
+msgid "PLUGIN.extra_shop_offer.description"
+msgstr "Legg til +1 oppgradering i butikken."
+
+msgid "PLUGIN.extra_shop_offer.name"
+msgstr "Programvarekatalog"
+
+msgid "PLUGIN.extra_upgrade_choice.description"
+msgstr "Legg til +1 oppgraderingsvalg ved nytt nivå."
+
+msgid "PLUGIN.extra_upgrade_choice.name"
+msgstr "Valgfrie komponenter"
+
+msgid "PLUGIN.first_strike.description"
+msgstr "Øk skade med +25% mot fiender over 90% HP."
+
+msgid "PLUGIN.first_strike.name"
+msgstr "Initiativ"
+
+msgid "PLUGIN.heal_on_crit.description"
+msgstr "5% sjanse for å helbrede ved kritisk treff."
+
+msgid "PLUGIN.heal_on_crit.name"
+msgstr "Prøv på nytt"
+
+msgid "PLUGIN.hp_boost.description"
+msgstr "Legg til +15 maks HP."
+
+msgid "PLUGIN.hp_boost.name"
+msgstr "Økt maks HP"
+
+msgid "PLUGIN.hp_on_heal.description"
+msgstr "7% sjanse for å legge til +3 maks HP ved helbredelse. (5s nedkjøling)."
+
+msgid "PLUGIN.hp_on_heal.name"
+msgstr "Autogjenoppretting"
+
+msgid "PLUGIN.hyperthread.description"
+msgstr ""
+"Multipliser våpenantall med 1.5x.\n"
+"Multipliser våpenskade med 0.75x."
+
+msgid "PLUGIN.hyperthread.name"
+msgstr "Hypertråding"
+
+msgid "PLUGIN.locate_pointer.description"
+msgstr "Utløs en eksplosjon ved skade (20s nedkjøling, reduseres per stabel)."
+
+msgid "PLUGIN.locate_pointer.name"
+msgstr "Finn pekeren"
+
+msgid "PLUGIN.luck_boost.description"
+msgstr "Multipliser flaks med 1.1x."
+
+msgid "PLUGIN.luck_boost.name"
+msgstr "Mer flaks"
+
+msgid "PLUGIN.luck_reroll.description"
+msgstr ""
+"Øk flaks med +12%.\n"
+"Øk flaks med +25% ved ny trekning (varer 10s)."
+
+msgid "PLUGIN.luck_reroll.name"
+msgstr "Lucky Break"
+
+msgid "PLUGIN.luck_zip_boost.description"
+msgstr "Øk flaks med +3% ved vellykket åpning av en zip-fil."
+
+msgid "PLUGIN.luck_zip_boost.name"
+msgstr "Komprimerte mapper"
+
+msgid "PLUGIN.lucky_when_hurt.description"
+msgstr "Multipliser flaks med 2.0x ved skade (varer 6s)."
+
+msgid "PLUGIN.lucky_when_hurt.name"
+msgstr "Flaks ved skade"
+
+msgid "PLUGIN.magnetism_boost.description"
+msgstr "Multipliser magnetisme med 1.1x."
+
+msgid "PLUGIN.magnetism_boost.name"
+msgstr "Økt magnetisme"
+
+msgid "PLUGIN.megacrit.description"
+msgstr ""
+"Øk sjansen for kritisk treff med +40%.\n"
+"Sjanse for kritisk treff over 100% kan gi megakritisk for dobbel kritisk skade."
+
+msgid "PLUGIN.megacrit.name"
+msgstr "Megakritisk"
+
+msgid "PLUGIN.morgan_av.description"
+msgstr ""
+"Vanskelighetsgraden økes resten av runden.\n"
+"+1 ekstra Plus!-fiende ved hvert halvveispunkt."
+
+msgid "PLUGIN.morgan_av.name"
+msgstr "Morgan Antivirus"
+
+msgid "PLUGIN.packet_loss_boost.description"
+msgstr "Legg til +6 pakketap."
+
+msgid "PLUGIN.packet_loss_boost.name"
+msgstr "Økt pakketap"
+
+msgid "PLUGIN.popup_blocker.description"
+msgstr "Fiendtlige prosjektiler kan ødelegges med våpen."
+
+msgid "PLUGIN.popup_blocker.name"
+msgstr "Sanntidsbeskyttelse"
+
+msgid "PLUGIN.power_user.description"
+msgstr "Kapasiteten for spesialfiler skaleres med våpenstyrke."
+
+msgid "PLUGIN.power_user.name"
+msgstr "Superbruker"
+
+msgid "PLUGIN.processing_speed_boost.description"
+msgstr "Multipliser prosesshastighet med 1.1x."
+
+msgid "PLUGIN.processing_speed_boost.name"
+msgstr "Økt prosesshastighet"
+
+msgid "PLUGIN.raid_0.description"
+msgstr ""
+"Multipliser Zip- og RAM-belønninger med 2.0x.\n"
+"Reduser sjansen for vellykket Zip og RAM."
+
+msgid "PLUGIN.raid_0.name"
+msgstr "RAID 0"
+
+msgid "PLUGIN.refresh_overclock.description"
+msgstr ""
+"Øk oppdatering med +50%.\n"
+"Reduser pekerhastighet med -15%."
+
+msgid "PLUGIN.refresh_overclock.name"
+msgstr "Overklokket oppdatering"
+
+msgid "PLUGIN.regen_boost.description"
+msgstr "Legg til +5 helseregenerering."
+
+msgid "PLUGIN.regen_boost.name"
+msgstr "Økt helseregenerering"
+
+msgid "PLUGIN.reward_leak.description"
+msgstr "Generer 4 KLIKK-MEG- eller minnelekkasjefiler rundt deg."
+
+msgid "PLUGIN.reward_leak.name"
+msgstr "Lekkasje av belønninger"
+
+msgid "PLUGIN.service_pack.description"
+msgstr "Gå opp 3 nivåer."
+
+msgid "PLUGIN.service_pack.name"
+msgstr "Service Pack"
+
+msgid "PLUGIN.shop_discount_10.description"
+msgstr "Få +10% rabatt på butikkvarer."
+
+msgid "PLUGIN.shop_discount_10.name"
+msgstr "Rabattkode"
+
+msgid "PLUGIN.shop_discount_25.description"
+msgstr "Få +25% rabatt på butikkvarer."
+
+msgid "PLUGIN.shop_discount_25.name"
+msgstr "Volumlisens"
+
+msgid "PLUGIN.shzip_license.description"
+msgstr "Øk Zip-prosesshastighet med +50%."
+
+msgid "PLUGIN.shzip_license.name"
+msgstr "SHZip-lisens"
+
+msgid "PLUGIN.slow_but_strong.description"
+msgstr ""
+"Multipliser våpenskade med 1.25x.\n"
+"Reduser pekerhastighet med -10%."
+
+msgid "PLUGIN.slow_but_strong.name"
+msgstr "Rau und Stark"
+
+msgid "PLUGIN.smart_recovery.description"
+msgstr ""
+"Legg til +10 maks HP.\n"
+"Helbred 25% av maks HP når du åpner en trygg mappe."
+
+msgid "PLUGIN.smart_recovery.name"
+msgstr "Smart Recovery"
+
+msgid "PLUGIN.spam_blocker.description"
+msgstr "Blokker halvparten av spam-popupvinduene."
+
+msgid "PLUGIN.spam_blocker.name"
+msgstr "Popup-blokkering"
+
+msgid "PLUGIN.still_frame.description"
+msgstr "Øk våpenskade med +5% per sekund mens du står stille, opptil +15% per stabel."
+
+msgid "PLUGIN.still_frame.name"
+msgstr "Stillbilde"
+
+msgid "PLUGIN.system_restore.description"
+msgstr ""
+"Ved død: helbred 50% av maks HP i stedet for blåskjerm.\n"
+"Én gang per stabel."
+
+msgid "PLUGIN.system_restore.name"
+msgstr "Systemgjenoppretting"
+
+msgid "PLUGIN.tank_core.description"
+msgstr "Øk våpenskade med +20% per 100 maks HP."
+
+msgid "PLUGIN.tank_core.name"
+msgstr "Tank-kjerne"
+
+msgid "PLUGIN.task_manager.description"
+msgstr ""
+"Multipliser våpenoppdatering med 2.0x.\n"
+"Multipliser våpenstørrelse med 0.75x."
+
+msgid "PLUGIN.task_manager.name"
+msgstr "Oppgavebehandling"
+
+msgid "PLUGIN.vapidshare_pro.description"
+msgstr "Last ned Vapidshare-deler samtidig og raskere."
+
+msgid "PLUGIN.vapidshare_pro.name"
+msgstr "Vapidshare Pro"
+
+msgid "PLUGIN.wallet_damage.description"
+msgstr "Øk våpenskade med +1% per 10 mynter du har."
+
+msgid "PLUGIN.wallet_damage.name"
+msgstr "Lommebokskade"
+
+msgid "PLUGIN.weapon_speed_boost.description"
+msgstr "Multipliser våpenhastighet med 1.1x."
+
+msgid "PLUGIN.weapon_speed_boost.name"
+msgstr "Økt våpenhastighet"
+
+msgid "PLUGIN.xp_drop_boost.description"
+msgstr "Øk sjansen for at fiender slipper EXP med +20%."
+
+msgid "PLUGIN.xp_drop_boost.name"
+msgstr "Feilrapport"
+
+msgid "PLUGIN.xp_file_open.description"
+msgstr "Få +5 EXP når du åpner en fil."
+
+msgid "PLUGIN.xp_file_open.name"
+msgstr "Kunnskapsbase"
+
+msgid "PLUGIN.xp_gain_boost.description"
+msgstr "Multipliser EXP-inntekt med 1.1x."
+
+msgid "PLUGIN.xp_gain_boost.name"
+msgstr "Økt EXP-inntekt"
+
+msgid "PLUGIN.xp_gain_on_damage.description"
+msgstr ""
+"Øk EXP-inntekt med +10%.\n"
+"Få +4 EXP ved skade."
+
+msgid "PLUGIN.xp_gain_on_damage.name"
+msgstr "Lesmeg"
+
+msgid "PLUGIN.zip_recover.description"
+msgstr "Vellykkede zip-filer etterlater en grønn helbredelsessone."
+
+msgid "PLUGIN.zip_recover.name"
+msgstr "Zip-gjenoppretting"
+
+msgid "POLICY.bad_sector.description"
+msgstr "Halver nåværende HP i hver kampmappe."
+
+msgid "POLICY.bad_sector.name"
+msgstr "Dårlig sektor"
+
+msgid "POLICY.bloatware.description"
+msgstr "40% flere fiender dukker opp, og fiender har 20% mer helse."
+
+msgid "POLICY.bloatware.name"
+msgstr "Bloatware"
+
+msgid "POLICY.blue_screen_imminent.description"
+msgstr "Fluktnedtellingen etter omgangen halveres."
+
+msgid "POLICY.blue_screen_imminent.name"
+msgstr "Blåskjerm truer"
+
+msgid "POLICY.default_domain_policy.description"
+msgstr "Alle standardpolicyer samtidig. Fiender er raskere, tøffere og flere. Halver nåværende HP i hver kampmappe. Ingen ekstra våpen, keygens eller nye trekninger. Tomrommet er 2x. Fluktnedtellingen halveres."
+
+msgid "POLICY.default_domain_policy.name"
+msgstr "Natashas vrede"
+
+msgid "POLICY.extended_support.description"
+msgstr "Kampomganger varer 10 minutter."
+
+msgid "POLICY.extended_support.name"
+msgstr "Utvidet støtte"
+
+msgid "POLICY.fatal_exception.description"
+msgstr "Berøring av tomrommet avslutter runden."
+
+msgid "POLICY.fatal_exception.name"
+msgstr "Fatalt unntak"
+
+msgid "POLICY.kiosk_mode.description"
+msgstr "Ingen våpen hele omgangen."
+
+msgid "POLICY.kiosk_mode.name"
+msgstr "Kioskmodus"
+
+msgid "POLICY.legacy_hardware.description"
+msgstr "Fiender beveger seg 40% raskere og gjør 20% mer skade."
+
+msgid "POLICY.legacy_hardware.name"
+msgstr "Eldre maskinvare"
+
+msgid "POLICY.low_memory.description"
+msgstr "Ingen nye våpen på nivå 8, 16 eller 24."
+
+msgid "POLICY.low_memory.name"
+msgstr "Lite minne"
+
+msgid "POLICY.open_relay.description"
+msgstr "Hver kampfil inneholder spam."
+
+msgid "POLICY.open_relay.name"
+msgstr "Åpent relé"
+
+msgid "POLICY.read_only.description"
+msgstr "Nye trekninger er deaktivert."
+
+msgid "POLICY.read_only.name"
+msgstr "Skrivebeskyttet"
+
+msgid "POLICY.redirected_folders.description"
+msgstr "Ingen filer dukker opp i omgangene."
+
+msgid "POLICY.redirected_folders.name"
+msgstr "Omdirigerte mapper"
+
+msgid "POLICY.trial_version.description"
+msgstr "Kampomganger varer 2.5 minutter."
+
+msgid "POLICY.trial_version.name"
+msgstr "Prøveversjon"
+
+msgid "POLICY.unsigned_driver.description"
+msgstr "Keygen-filer dukker ikke opp. Skaff utvidelser fra knekte installasjonsprogrammer, eller kjøp nøkler i nøkkelbutikken."
+
+msgid "POLICY.unsigned_driver.name"
+msgstr "Aktivering kreves"
+
+msgid "POLICY.void_breach.description"
+msgstr "Tomrommet gjør 2x skade og gir 2x hakking."
+
+msgid "POLICY.void_breach.name"
+msgstr "Tomromsbrudd"
+
+msgid "PROTOCOL.protocol_1.description"
+msgstr "Nybegynnernivået. Tjen 16 Beanz per åpnet trygg mappe + fjernede fiender."
+
+msgid "PROTOCOL.protocol_1.name"
+msgstr "Protokoll I"
+
+msgid "PROTOCOL.protocol_2.description"
+msgstr "Andreårsnivået. Tjen 24 Beanz per åpnet trygg mappe + fjernede fiender."
+
+msgid "PROTOCOL.protocol_2.name"
+msgstr "Protokoll II"
+
+msgid "PROTOCOL.protocol_3.description"
+msgstr "Tredjenivået. Tjen 32 Beanz per åpnet trygg mappe + fjernede fiender."
+
+msgid "PROTOCOL.protocol_3.name"
+msgstr "Protokoll III"
+
+msgid "PROTOCOL.protocol_4.description"
+msgstr "Avgangsnivået. Tjen 48 Beanz per åpnet trygg mappe + fjernede fiender."
+
+msgid "PROTOCOL.protocol_4.name"
+msgstr "Protokoll IV"
+
+msgid "PROTOCOL.protocol_5.description"
+msgstr "Du trenger ikke gjøre dette. Men det gir 64 Beanz per åpnet trygg mappe hvis du gjør det."
+
+msgid "PROTOCOL.protocol_5.name"
+msgstr "Protokoll V"
+
+msgid "Packet Loss"
+msgstr "Pakketap"
+
+msgid "Personalise"
+msgstr "Tilpass"
+
+msgid "PluginInstaller is preparing to find all appropriate plugins for this application."
+msgstr "PluginInstaller gjør seg klar til å finne alle egnede utvidelser for dette programmet."
+
+msgid "PluginInstaller v2.03 r2"
+msgstr "PluginInstaller v2.03 r2"
+
+msgid "Pointer Trails"
+msgstr "Pekerspor"
+
+msgid "Preparing to Install..."
+msgstr "Forbereder installasjon..."
+
+msgid "Procedure can now resume."
+msgstr "Prosedyren kan nå gjenopptas."
+
+msgid "Progress"
+msgstr "Fremdrift"
+
+msgid "Progress will reset if area is abandoned"
+msgstr "Fremdriften nullstilles hvis området forlates"
+
+msgid "Quality"
+msgstr "Kvalitet"
+
+msgid "RAM Downloader Professional (Legal)"
+msgstr "RAM Downloader Professional (Lovlig)"
+
+msgid "RAM download complete."
+msgstr "RAM-nedlasting fullført."
+
+msgid "RARITY.common"
+msgstr "Vanlig"
+
+msgid "RARITY.epic"
+msgstr "Episk"
+
+msgid "RARITY.legendary"
+msgstr "Legendarisk"
+
+msgid "RARITY.rare"
+msgstr "Sjelden"
+
+msgid "RARITY.uncommon"
+msgstr "Uvanlig"
+
+msgid "RARITY.unknown"
+msgstr "Ukjent"
+
+msgid "RUNSTAT.beanz_collected"
+msgstr "Beanz samlet"
+
+msgid "RUNSTAT.beanz_collected_desc"
+msgstr "Beanz tjent denne runden."
+
+msgid "RUNSTAT.biggest_hit_desc"
+msgstr "Største enkelttreff denne runden."
+
+msgid "RUNSTAT.class"
+msgstr "Klasse"
+
+msgid "RUNSTAT.class_desc"
+msgstr "Pekerklasse valgt for denne runden."
+
+msgid "RUNSTAT.coin_collected_desc"
+msgstr "Mynter samlet denne runden."
+
+msgid "RUNSTAT.damage_dealt_desc"
+msgstr "Total skade gjort denne runden."
+
+msgid "RUNSTAT.difficulty"
+msgstr "Vanskelighetsgrad"
+
+msgid "RUNSTAT.difficulty_desc"
+msgstr "Protokollens vanskelighetsgrad for denne runden."
+
+msgid "RUNSTAT.dps"
+msgstr "DPS"
+
+msgid "RUNSTAT.dps_desc"
+msgstr "Skade per sekund denne runden, kun i kampmapper."
+
+msgid "RUNSTAT.enemies_cleared_desc"
+msgstr "Fiender fjernet denne runden."
+
+msgid "RUNSTAT.exp_gained"
+msgstr "EXP tjent"
+
+msgid "RUNSTAT.exp_gained_desc"
+msgstr "Total erfaring samlet denne runden."
+
+msgid "RUNSTAT.files_opened_desc"
+msgstr "Mapper og filer åpnet denne runden."
+
+msgid "RUNSTAT.keys_collected_desc"
+msgstr "Nøkler samlet denne runden."
+
+msgid "RUNSTAT.last_round_beanz_desc"
+msgstr "Beanz tjent i forrige kampmappe, inkludert belønningen for trygg mappe."
+
+msgid "RUNSTAT.last_round_coin_desc"
+msgstr "Mynter samlet i forrige kampmappe."
+
+msgid "RUNSTAT.last_round_damage_desc"
+msgstr "Skade gjort i forrige kampmappe."
+
+msgid "RUNSTAT.last_round_dps_desc"
+msgstr "Skade per sekund i forrige kampmappe."
+
+msgid "RUNSTAT.last_round_files_desc"
+msgstr "Filer åpnet i forrige kampmappe."
+
+msgid "RUNSTAT.last_round_keys_desc"
+msgstr "Nøkler samlet i forrige kampmappe."
+
+msgid "RUNSTAT.last_round_kills_desc"
+msgstr "Fiender fjernet i forrige kampmappe."
+
+msgid "RUNSTAT.levels_gained"
+msgstr "Nivåer oppnådd"
+
+msgid "RUNSTAT.levels_gained_desc"
+msgstr "Nivåer oppnådd fra erfaring denne runden."
+
+msgid "RUNSTAT.policy"
+msgstr "Policy"
+
+msgid "RUNSTAT.policy_desc"
+msgstr "Ekstra vanskelighetspolicy aktivert for denne runden."
+
+msgid "RUNSTAT.policy_none"
+msgstr "Ingen"
+
+msgid "RUNSTAT.safe_folders"
+msgstr "Trygge mapper åpnet"
+
+msgid "RUNSTAT.safe_folders_desc"
+msgstr "Trygge mapper åpnet denne runden."
+
+msgid "RUNSTAT.score"
+msgstr "Poengsum"
+
+msgid "RUNSTAT.score_desc"
+msgstr "Rundens poengsum fra fjernede fiender, nivåer, trygge mapper og en fullføringsbonus."
+
+msgid "RUNSTAT.side_tasks"
+msgstr "Sideoppgaver"
+
+msgid "RUNSTAT.side_tasks_desc"
+msgstr "Sideoppgaver fullført denne runden."
+
+msgid "Rarity"
+msgstr "Sjeldenhet"
+
+msgid "Refund All"
+msgstr "Refunder alt"
+
+msgid "Resume"
+msgstr "Fortsett"
+
+msgid "SETTINGS.action_close"
+msgstr "Lukk"
+
+msgid "SETTINGS.action_left_click"
+msgstr "Klikk / Dra"
+
+msgid "SETTINGS.action_menu_shortcut"
+msgstr "Snarvei til meny"
+
+msgid "SETTINGS.action_menu_tab_next"
+msgstr "Neste fane"
+
+msgid "SETTINGS.action_menu_tab_prev"
+msgstr "Forrige fane"
+
+msgid "SETTINGS.action_move"
+msgstr "Bevegelse"
+
+msgid "SETTINGS.action_move_down"
+msgstr "Gå ned"
+
+msgid "SETTINGS.action_move_left"
+msgstr "Gå til venstre"
+
+msgid "SETTINGS.action_move_right"
+msgstr "Gå til høyre"
+
+msgid "SETTINGS.action_move_up"
+msgstr "Gå opp"
+
+msgid "SETTINGS.action_pause"
+msgstr "Pause"
+
+msgid "SETTINGS.action_tab"
+msgstr "Vis statistikk"
+
+msgid "SETTINGS.action_widget_action"
+msgstr "Spesiell"
+
+msgid "SETTINGS.admin_cursor"
+msgstr "Kjør som administrator"
+
+msgid "SETTINGS.admin_cursor_tip"
+msgstr "Styr pekeren med musen i trygge mapper. I kampmapper brukes alltid WASD eller venstre styrespak."
+
+msgid "SETTINGS.anim_speed"
+msgstr "Animasjonshastighet"
+
+msgid "SETTINGS.anim_speed_tip"
+msgstr "Hvor raskt animasjoner og overganger i brukergrensesnittet avspilles."
+
+msgid "SETTINGS.cancel"
+msgstr "Avbryt"
+
+msgid "SETTINGS.controller_vibration"
+msgstr "Kontrollervibrasjon"
+
+msgid "SETTINGS.controller_vibration_tip"
+msgstr "Vibrer kontrolleren når du tar skade."
+
+msgid "SETTINGS.controls_gameplay"
+msgstr "Spilling"
+
+msgid "SETTINGS.controls_menus"
+msgstr "Menyer"
+
+msgid "SETTINGS.crt_filter"
+msgstr "CRT-filter"
+
+msgid "SETTINGS.crt_filter_tip"
+msgstr "Styrken på CRT-skannelinjefilteret over skjermen."
+
+msgid "SETTINGS.display_zoom"
+msgstr "Skjermzoom"
+
+msgid "SETTINGS.display_zoom_tip"
+msgstr "Hvor stort spillet tegnes opp inne i vinduet."
+
+msgid "SETTINGS.fps_cap"
+msgstr "FPS-grense"
+
+msgid "SETTINGS.fps_cap_tip"
+msgstr "Maksimalt FPS. Ubegrenset utnytter maskinvarens grenser."
+
+msgid "SETTINGS.fps_unlimited"
+msgstr "Ubegrenset"
+
+msgid "SETTINGS.fullscreen"
+msgstr "Fullskjerm"
+
+msgid "SETTINGS.group_audio_levels"
+msgstr "Lydnivåer"
+
+msgid "SETTINGS.group_external_display"
+msgstr "Ekstern skjerm"
+
+msgid "SETTINGS.group_internal_display"
+msgstr "Intern skjerm"
+
+msgid "SETTINGS.group_menu_controls"
+msgstr "Menykontroller"
+
+msgid "SETTINGS.group_text_services"
+msgstr "Teksttjenester"
+
+msgid "SETTINGS.keygen_volume"
+msgstr "Keygen-volum"
+
+msgid "SETTINGS.keygen_volume_tip"
+msgstr "Volum for Keygen-vinduer som spiller av sitt eget lydspor."
+
+msgid "SETTINGS.language"
+msgstr "Språk"
+
+msgid "SETTINGS.language_tip"
+msgstr "Språk for menyer og tekst i spillet."
+
+msgid "SETTINGS.master_volume"
+msgstr "Hovedvolum"
+
+msgid "SETTINGS.master_volume_tip"
+msgstr "Totalvolum for alle lyder i spillet."
+
+msgid "SETTINGS.menu_computer_sound"
+msgstr "Datamaskinlyd i hovedmenyen"
+
+msgid "SETTINGS.menu_computer_sound_tip"
+msgstr "Spill av lyden av en summende datamaskin på hovedmenyen."
+
+msgid "SETTINGS.menu_cursor_speed"
+msgstr "Pekerhastighet i menyer"
+
+msgid "SETTINGS.menu_cursor_speed_tip"
+msgstr "Hvor raskt pekeren beveger seg med spaken eller tastene i menyer."
+
+msgid "SETTINGS.music_volume"
+msgstr "Musikkvolum"
+
+msgid "SETTINGS.music_volume_tip"
+msgstr "Volum for lydsporet."
+
+msgid "SETTINGS.ok"
+msgstr "OK"
+
+msgid "SETTINGS.rebind_conflict"
+msgstr "Allerede bundet til %s."
+
+msgid "SETTINGS.rebind_current"
+msgstr "Nåværende %s:"
+
+msgid "SETTINGS.rebind_hold_hint"
+msgstr "Trykk for å avbryte (hold inne for å binde)"
+
+msgid "SETTINGS.rebind_keep_both"
+msgstr "Behold begge"
+
+msgid "SETTINGS.rebind_primary"
+msgstr "Hoved"
+
+msgid "SETTINGS.rebind_prompt"
+msgstr "Venter på inndata..."
+
+msgid "SETTINGS.rebind_replace"
+msgstr "Erstatt"
+
+msgid "SETTINGS.rebind_secondary"
+msgstr "Sekundær"
+
+msgid "SETTINGS.rebind_title"
+msgstr "Endre tastebinding: %s"
+
+msgid "SETTINGS.rebind_unbound"
+msgstr "Ubundet"
+
+msgid "SETTINGS.restore_defaults"
+msgstr "Gjenopprett standardinnstillinger"
+
+msgid "SETTINGS.sfx_volume"
+msgstr "SFX-volum"
+
+msgid "SETTINGS.sfx_volume_tip"
+msgstr "Volum for lydeffekter."
+
+msgid "SETTINGS.show_monitor_bezel"
+msgstr "Vis skjermramme"
+
+msgid "SETTINGS.show_monitor_bezel_tip"
+msgstr "Vis eller skjul skjermrammen rundt skrivebordet."
+
+msgid "SETTINGS.tab_audio"
+msgstr "Lyd"
+
+msgid "SETTINGS.tab_controls"
+msgstr "Kontroller"
+
+msgid "SETTINGS.tab_display"
+msgstr "Skjerm"
+
+msgid "SETTINGS.tab_game"
+msgstr "Spill"
+
+msgid "SETTINGS.unknown"
+msgstr "Ukjent"
+
+msgid "SETTINGS.vsync"
+msgstr "Vsync"
+
+msgid "SETTINGS.vsync_tip"
+msgstr "Lås bildefrekvensen til skjermen for å unngå revninger."
+
+msgid "SETTINGS.window_mode"
+msgstr "Vindusmodus"
+
+msgid "SETTINGS.window_mode_tip"
+msgstr "Bytt mellom vindusmodus og fullskjerm."
+
+msgid "SETTINGS.window_title"
+msgstr "Kontrollpanel"
+
+msgid "SETTINGS.windowed"
+msgstr "I vindu"
+
+msgid "SETTINGS.zoom_standard"
+msgstr "Standard"
+
+msgid "SETTINGS.zoom_zoomed_out"
+msgstr "Zoomet ut"
+
+msgid "SFX Volume"
+msgstr "SFX-volum"
+
+msgid "SHZip v2.03 (evaluation copy)"
+msgstr "SHZip v2.03 (evalueringsversjon)"
+
+msgid "STAT.format_hp"
+msgstr "{sign}{value} HP"
+
+msgid "STAT.upgrade_player_armor.description"
+msgstr "Motstand mot all innkommende skade. (Eksponentiell)"
+
+msgid "STAT.upgrade_player_armor.name"
+msgstr "Rustning"
+
+msgid "STAT.upgrade_player_coin_gain.description"
+msgstr "Multiplikator for alle mynter du mottar."
+
+msgid "STAT.upgrade_player_coin_gain.name"
+msgstr "Myntinntekt"
+
+msgid "STAT.upgrade_player_crit_chance.description"
+msgstr "Sjanse for kritisk treff."
+
+msgid "STAT.upgrade_player_crit_chance.name"
+msgstr "Kritisk sjanse"
+
+msgid "STAT.upgrade_player_crit_damage_multi.description"
+msgstr "Multiplikator for skade ved kritisk treff."
+
+msgid "STAT.upgrade_player_crit_damage_multi.name"
+msgstr "Kritisk skade"
+
+msgid "STAT.upgrade_player_damage_multi.description"
+msgstr "Multiplikator for all skade du gjør."
+
+msgid "STAT.upgrade_player_damage_multi.name"
+msgstr "Våpenskade"
+
+msgid "STAT.upgrade_player_dodge.description"
+msgstr "Sjanse for å unngå all innkommende skade. (Eksponentiell)"
+
+msgid "STAT.upgrade_player_dodge.name"
+msgstr "Pakketap"
+
+msgid "STAT.upgrade_player_exp_gain.description"
+msgstr "Multiplikator for all EXP du mottar."
+
+msgid "STAT.upgrade_player_exp_gain.name"
+msgstr "EXP-inntekt"
+
+msgid "STAT.upgrade_player_health_regen.description"
+msgstr "Mengde helseregenerering hvert 20s."
+
+msgid "STAT.upgrade_player_health_regen.name"
+msgstr "Regenerering"
+
+msgid "STAT.upgrade_player_luck.description"
+msgstr "Øker sjansen for bedre trekk, som blant annet gir høyere sjeldenhet."
+
+msgid "STAT.upgrade_player_luck.name"
+msgstr "Flaks"
+
+msgid "STAT.upgrade_player_magnetism_multi.description"
+msgstr "Multiplikator for radiusen som trekker til seg EXP og andre gjenstander."
+
+msgid "STAT.upgrade_player_magnetism_multi.name"
+msgstr "Magnetisme"
+
+msgid "STAT.upgrade_player_max_health.description"
+msgstr "Ekstra maks HP."
+
+msgid "STAT.upgrade_player_max_health.name"
+msgstr "Maks HP"
+
+msgid "STAT.upgrade_player_power_multi.description"
+msgstr "Øker styrken på avstøting, varme, infeksjon og hakking fra alle våpen."
+
+msgid "STAT.upgrade_player_power_multi.name"
+msgstr "Våpenstyrke"
+
+msgid "STAT.upgrade_player_proc_speed.description"
+msgstr "Multiplikator for hastigheten alle filer behandles med, inkludert .zip, .bat, LemWire osv. (Eksponentiell)"
+
+msgid "STAT.upgrade_player_proc_speed.name"
+msgstr "Prosessfart"
+
+msgid "STAT.upgrade_player_refresh_multi.description"
+msgstr "Multiplikator for hvor raskt alle våpen lades opp igjen. (Eksponentiell)"
+
+msgid "STAT.upgrade_player_refresh_multi.name"
+msgstr "Våpenets oppdatering"
+
+msgid "STAT.upgrade_player_speed.description"
+msgstr "Multiplikator for spillerens bevegelseshastighet."
+
+msgid "STAT.upgrade_player_speed.name"
+msgstr "Pekerfart"
+
+msgid "STAT.upgrade_player_weap_amount.description"
+msgstr "Sjanse for ekstra våpen ved angrep. Relativt til grunnantallet."
+
+msgid "STAT.upgrade_player_weap_amount.name"
+msgstr "Våpenantall"
+
+msgid "STAT.upgrade_player_weap_size.description"
+msgstr "Multiplikator for størrelsen på alle våpen."
+
+msgid "STAT.upgrade_player_weap_size.name"
+msgstr "Våpenets størrelse"
+
+msgid "STAT.upgrade_player_weap_speed.description"
+msgstr "Multiplikator for hvor raskt alle våpen angriper. (Eksponentiell)"
+
+msgid "STAT.upgrade_player_weap_speed.name"
+msgstr "Våpenfart"
+
+msgid "Safe Folder"
+msgstr "Trygg mappe"
+
+msgid "Search Refresh"
+msgstr "Søk oppdatering"
+
+msgid "Searching: cursor upgrades"
+msgstr "Søker: pekeroppgraderinger"
+
+msgid "Seeds"
+msgstr "Seedere"
+
+msgid "Serial:"
+msgstr "Serienummer:"
+
+msgid "Session Status"
+msgstr "Øktstatus"
+
+msgid "Settings"
+msgstr "Innstillinger"
+
+msgid "Shop"
+msgstr "Butikk"
+
+msgid "Size"
+msgstr "Størrelse"
+
+msgid "Sound Button"
+msgstr "Lydknapp"
+
+msgid "Sources"
+msgstr "Kilder"
+
+msgid "Speed"
+msgstr "Hastighet"
+
+msgid "Start Exploring"
+msgstr "Begynn å utforske"
+
+msgid "Statistics"
+msgstr "Statistikk"
+
+msgid "StatsManager V0.1b"
+msgstr "StatsManager V0.1b"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Steam"
+msgstr "Steam"
+
+msgid "TOOLTIP.amount"
+msgstr "Antall: %.1f"
+
+msgid "TOOLTIP.completions"
+msgstr "Fullføringer: %d"
+
+msgid "TOOLTIP.damage"
+msgstr "Skade: %.1f"
+
+msgid "TOOLTIP.drivers"
+msgstr "Drivere"
+
+msgid "TOOLTIP.level"
+msgstr "Nivå %d"
+
+msgid "TOOLTIP.power"
+msgstr "Styrke: %.1f"
+
+msgid "TOOLTIP.refresh"
+msgstr "Oppdatering: %.2fs"
+
+msgid "TOOLTIP.run_clears"
+msgstr "Fjernet: %d"
+
+msgid "TOOLTIP.run_crit_rate"
+msgstr "Kritisk andel: %.0f%%"
+
+msgid "TOOLTIP.run_damage"
+msgstr "Skade denne runden: %.0f"
+
+msgid "TOOLTIP.run_dps"
+msgstr "DPS: %.1f"
+
+msgid "TOOLTIP.run_highest_hit"
+msgstr "Største treff: %.0f"
+
+msgid "TOOLTIP.run_hits"
+msgstr "Treff: %d"
+
+msgid "TOOLTIP.size"
+msgstr "Størrelse: %.2fx"
+
+msgid "TOOLTIP.speed"
+msgstr "Hastighet: %.2fs"
+
+msgid "TORRENT.downloading"
+msgstr "Laster ned"
+
+msgid "TORRENT.finished"
+msgstr "Ferdig"
+
+msgid "TORRENT.speed"
+msgstr "%d KB/s"
+
+msgid "TORRENT.stalled"
+msgstr "Stoppet"
+
+msgid ""
+"Thank you so much for playing. It means the world to me.\n"
+"enjoy and have a great day <3\n"
+"shaun"
+msgstr ""
+"Tusen takk for at du spilte. Det betyr alt for meg.\n"
+"kos deg og ha en fin dag <3\n"
+"shaun"
+
+msgid "This is"
+msgstr "Dette er"
+
+msgid "Toggle"
+msgstr "Veksle"
+
+msgid "Tools"
+msgstr "Verktøy"
+
+msgid "Translations GitHub"
+msgstr "Oversett på GitHub"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "UH OHHHHHHHHH WARNING YOU MIG..."
+msgstr "UH OHHHHHHHHH ADVARSEL DU KANS..."
+
+msgid "UI.admin_mouse_tooltip"
+msgstr "Styr pekeren med musen i trygge mapper.[br]I kampmapper brukes alltid WASD eller venstre styrespak."
+
+msgid "UI.all_count"
+msgstr "Alle (%d)"
+
+msgid "UI.avatar_beanz"
+msgstr "Beanz"
+
+msgid "UI.avatar_coin"
+msgstr "Mynt"
+
+msgid "UI.avatar_computer"
+msgstr "Datamaskin"
+
+msgid "UI.avatar_crawler"
+msgstr "Søkerobot"
+
+msgid "UI.avatar_cruiser"
+msgstr "Cruiser"
+
+msgid "UI.avatar_enemy"
+msgstr "Fiende"
+
+msgid "UI.avatar_giraffe"
+msgstr "Sjiraff"
+
+msgid "UI.avatar_heart"
+msgstr "Hjerte"
+
+msgid "UI.avatar_lemwire"
+msgstr "Lemwire"
+
+msgid "UI.avatar_orchestra"
+msgstr "Orchestra"
+
+msgid "UI.avatar_paint"
+msgstr "Paint"
+
+msgid "UI.avatar_piggy"
+msgstr "Gris"
+
+msgid "UI.avatar_printer"
+msgstr "Skriver"
+
+msgid "UI.avatar_zip"
+msgstr "Zip"
+
+msgid "UI.beanz"
+msgstr "Beanz: %d"
+
+msgid "UI.bluescreen_text"
+msgstr ""
+"Et fatalt unntak har oppstått, og systemet er avsluttet for å hindre skade.\n"
+"\n"
+"CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
+"\n"
+"Hvis dette er første gang du ser denne avslutningsskjermen, start systemet på nytt.\n"
+"Hvis skjermen vises igjen, kan interne moduler være kompromittert.\n"
+"\n"
+"Kontroller integriteten til de installerte komponentene. Uventet oppførsel kan\n"
+"tyde på skadet minne, ugyldig pakkeinjeksjon eller uautorisert skriptkjøring.\n"
+"\n"
+"Hvis problemet vedvarer, utfør en sikker omstart eller kontakt systemets interne administrator.\n"
+"\n"
+"Teknisk dump:\n"
+"STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n"
+"\n"
+"Starter tvungen avslutning...\n"
+"Minnebuffer tømt.\n"
+"\n"
+"Trykk {click} for å fortsette. {tab} for statistikk"
+
+msgid "UI.browser_address"
+msgstr "Adresse"
+
+msgid "UI.browser_go"
+msgstr "Gå"
+
+msgid "UI.browser_search"
+msgstr "Søk"
+
+msgid "UI.coin"
+msgstr "Mynter: %.2f"
+
+msgid "UI.collecting_data"
+msgstr "Samler opp løse data."
+
+msgid "UI.completed_count"
+msgstr "Fullført (%d)"
+
+msgid "UI.cosmetic_avatar_desc"
+msgstr "Låser opp et nytt profilbilde."
+
+msgid "UI.cosmetic_avatar_picture"
+msgstr "{avatar}-bilde"
+
+msgid "UI.cosmetic_found_bmp"
+msgstr "Finnes i en .bmp-fil"
+
+msgid "UI.cosmetic_found_image"
+msgstr "Finnes i en .jpeg/.png-fil"
+
+msgid "UI.cosmetic_theme_classic"
+msgstr "Klassisk tema"
+
+msgid "UI.cosmetic_theme_dark"
+msgstr "Mørkt tema"
+
+msgid "UI.cosmetic_theme_desc"
+msgstr "Låser opp et nytt skrivebordstema."
+
+msgid "UI.cosmetic_theme_gold"
+msgstr "Gulltema"
+
+msgid "UI.cosmetic_theme_media"
+msgstr "Mediatema"
+
+msgid "UI.cosmetic_theme_olive"
+msgstr "Oliventema"
+
+msgid "UI.cosmetic_theme_pink"
+msgstr "Rosa tema"
+
+msgid "UI.cosmetic_theme_silver"
+msgstr "Sølvtema"
+
+msgid "UI.cosmetic_theme_vapor"
+msgstr "Vapor-tema"
+
+msgid "UI.cosmetic_wallpaper_desc"
+msgstr "Låser opp et nytt bakgrunnsbilde."
+
+msgid "UI.defrag_capacity"
+msgstr "%2.2f KB"
+
+msgid "UI.defragmented"
+msgstr "Defragmentert"
+
+msgid "UI.domain_policies_icon"
+msgstr "Domenepolicyer"
+
+msgid "UI.domain_policies_locked"
+msgstr "Fullfør 3 ulike policyer på %s eller høyere for å aktivere domenepolicyer."
+
+msgid "UI.download_ram_action"
+msgstr "Last ned"
+
+msgid "UI.downloading_count"
+msgstr "Laster ned (%d)"
+
+msgid "UI.elite_send_message"
+msgstr "Send melding"
+
+msgid "UI.end_screen_exit_prompt"
+msgstr "Trykk {close} for å starte på nytt til hovedmenyen..."
+
+msgid "UI.ethanol_body"
+msgstr "Betal mynter for å trekke en kopi av en tilfeldig utvidelse du allerede har installert."
+
+msgid "UI.ethanol_copy"
+msgstr "Kopier: {cost} mynter"
+
+msgid "UI.ethanol_copying"
+msgstr "Kopierer utvidelse..."
+
+msgid "UI.ethanol_install"
+msgstr "Installer"
+
+msgid "UI.ethanol_no_plugins"
+msgstr "Ingen utvidelser installert."
+
+msgid "UI.ethanol_none_copyable"
+msgstr "Installerte utvidelser kan ikke kopieres."
+
+msgid "UI.ethanol_ready"
+msgstr "Klar til å destillere..."
+
+msgid "UI.ethanol_used"
+msgstr "Allerede brukt i denne mappen."
+
+msgid "UI.features_store_intro_battle_files"
+msgstr "Lås opp nye filtyper som kan dukke opp i kampomganger."
+
+msgid "UI.features_store_intro_cursors"
+msgstr "Lås opp nye pekerklasser å starte med."
+
+msgid "UI.features_store_intro_plugins"
+msgstr "Lås opp nye utvidelser å installere i runder."
+
+msgid "UI.features_store_intro_safe_files"
+msgstr "Lås opp nye filtyper til bruk i trygge mapper."
+
+msgid "UI.features_store_intro_weapons"
+msgstr "Lås opp nye våpen å starte med og velge i runder."
+
+msgid "UI.features_store_title"
+msgstr "Legg til/fjern opplåsinger"
+
+msgid "UI.folder_difficulty"
+msgstr "Mappevanskelighet"
+
+msgid "UI.get_to_boss_file"
+msgstr "Kom deg til boss-filen!"
+
+msgid "UI.get_to_safe_folder"
+msgstr "Kom deg til den trygge mappen!"
+
+msgid "UI.health_check_pro_banner"
+msgstr "Bidra til å beskytte PC-en din"
+
+msgid "UI.health_check_pro_boost"
+msgstr "Oppgrader filer"
+
+msgid "UI.health_check_pro_boost_bought"
+msgstr "Oppgradert"
+
+msgid "UI.health_check_pro_boost_tooltip"
+msgstr "Helsesjekk-filer i de neste kampene slipper flere hjerter denne runden."
+
+msgid "UI.health_check_pro_cost"
+msgstr "{cost} mynter"
+
+msgid "UI.health_check_pro_file_blurb"
+msgstr "Oppgradering gjør at helsesjekk-filer i kamp slipper flere hjerter."
+
+msgid "UI.health_check_pro_file_head"
+msgstr "Helsesjekk-filer"
+
+msgid "UI.health_check_pro_heal"
+msgstr "Helbred nå"
+
+msgid "UI.health_check_pro_heal_blurb"
+msgstr "Gjenopprett 50% av maks HP nå."
+
+msgid "UI.health_check_pro_heal_head"
+msgstr "Øyeblikkelig reparasjon"
+
+msgid "UI.health_check_pro_heal_preview"
+msgstr "+{amount} HP"
+
+msgid "UI.health_check_pro_heal_tooltip"
+msgstr "Gjenopprett 50% av maks HP akkurat nå."
+
+msgid "UI.health_check_pro_range_done"
+msgstr "Oppgradert: {min}–{max} HP"
+
+msgid "UI.health_check_pro_range_next"
+msgstr "Etter oppgradering: {min}–{max} HP"
+
+msgid "UI.health_check_pro_range_now"
+msgstr "Nå: {min}–{max} HP"
+
+msgid "UI.hp"
+msgstr "HP: %d/%d"
+
+msgid "UI.installer_install_tooltip"
+msgstr "Installerer utvidelsen."
+
+msgid "UI.installer_please_wait"
+msgstr "Vennligst vent..."
+
+msgid "UI.installer_remove"
+msgstr "Fjern"
+
+msgid "UI.installer_remove_tooltip"
+msgstr "Hopper over installasjonen og fjerner utvidelsen fra utvalget."
+
+msgid "UI.installer_skip"
+msgstr "Hopper over installasjonen og refunderer nøkkelen."
+
+msgid "UI.installer_skip_button"
+msgstr "Hopp over"
+
+msgid "UI.installer_skip_no_key"
+msgstr "Hopp over installasjonen."
+
+msgid "UI.installer_title"
+msgstr "Installasjon av utvidelsespakke"
+
+msgid "UI.installer_title_cracked"
+msgstr "Knekt utvidelsesinstallasjon"
+
+msgid "UI.installer_title_legendary"
+msgstr "PluginInstaller LEGENDARY"
+
+msgid "UI.installer_title_morgan"
+msgstr "Morgan Antivirus-installasjon"
+
+msgid "UI.keybuy_buy"
+msgstr "Kjøp en nøkkel"
+
+msgid "UI.keybuy_buy_tooltip"
+msgstr "Bruk {cost} mynter på 1 nøkkel."
+
+msgid "UI.keybuy_cost"
+msgstr "{cost} mynter"
+
+msgid "UI.keybuy_heading_buy"
+msgstr "Kjøp"
+
+msgid "UI.keybuy_heading_sell"
+msgstr "Selg"
+
+msgid "UI.keybuy_nav"
+msgstr "hjem | kjøp | selg | mine nøkler | hjelp"
+
+msgid "UI.keybuy_sell"
+msgstr "Selg en nøkkel"
+
+msgid "UI.keybuy_sell_tooltip"
+msgstr ""
+"Selg 1 nøkkel for {cost} mynter.\n"
+"Markedsplassgebyret beholder {fee} mynter."
+
+msgid "UI.keybuy_tagline"
+msgstr "Verdens største markedsplass for nøkler"
+
+msgid "UI.keybuy_title"
+msgstr "keyBuy"
+
+msgid "UI.keys"
+msgstr "Nøkler: %d"
+
+msgid "UI.level"
+msgstr "Nivå: %d"
+
+msgid "UI.level_up"
+msgstr "Nytt nivå!"
+
+msgid "UI.login_confirm_remove"
+msgstr "Klikk igjen for å fjerne"
+
+msgid "UI.login_demo_name"
+msgstr "Demolagring"
+
+msgid "UI.login_logged_in"
+msgstr "Logget på"
+
+msgid "UI.login_new_user"
+msgstr "Ny bruker"
+
+msgid "UI.login_new_user_detail"
+msgstr "Opprett en profil"
+
+msgid "UI.login_profile_detail"
+msgstr "%d Beanz"
+
+msgid "UI.login_prompt"
+msgstr ""
+"Klikk på brukernavnet ditt for å begynne.\n"
+"Når du har logget på, kan du bytte profil.\n"
+"Bare klikk på navnet ditt øverst i menyen."
+
+msgid "UI.login_turn_off"
+msgstr "Slå av datamaskinen"
+
+msgid "UI.menu_action"
+msgstr "Handling"
+
+msgid "UI.menu_edit"
+msgstr "Rediger"
+
+msgid "UI.menu_favorites"
+msgstr "Favoritter"
+
+msgid "UI.menu_file"
+msgstr "Fil"
+
+msgid "UI.menu_help"
+msgstr "Hjelp"
+
+msgid "UI.menu_view"
+msgstr "Vis"
+
+msgid "UI.next"
+msgstr "Neste"
+
+msgid "UI.notif_coin_magnet"
+msgstr "Samler inn mynter"
+
+msgid "UI.notif_cracked_installer"
+msgstr "%s fjernet, %s sluppet."
+
+msgid "UI.notif_elites_count"
+msgstr "%d Plus!-fiender"
+
+msgid "UI.notif_elites_named"
+msgstr "%d %s"
+
+msgid "UI.notif_investment_withdrawn"
+msgstr "Investering tatt ut (%.2f)"
+
+msgid "UI.notif_not_enough_keys"
+msgstr "Ikke nok nøkler :("
+
+msgid "UI.notif_side_objective_complete"
+msgstr "Sideoppgave fullført"
+
+msgid "UI.notif_vapidshare_complete"
+msgstr "Knekt installasjonsprogram opprettet"
+
+msgid "UI.notif_vapidshare_part"
+msgstr "%s fullført"
+
+msgid "UI.pause_menu_title"
+msgstr "Pausemeny"
+
+msgid "UI.personalise_apply"
+msgstr "Bruk"
+
+msgid "UI.personalise_group_background"
+msgstr "Bakgrunnsbilde"
+
+msgid "UI.personalise_group_name"
+msgstr "Brukernavn"
+
+msgid "UI.personalise_group_picture"
+msgstr "Profilbilde"
+
+msgid "UI.personalise_group_theme"
+msgstr "Tema"
+
+msgid "UI.personalise_hide_locked"
+msgstr "Skjul låste"
+
+msgid "UI.personalise_locked_avatar"
+msgstr "Åpne .png-filer i en runde for å låse opp flere bilder."
+
+msgid "UI.personalise_name_prompt"
+msgstr "Skriv inn et navn"
+
+msgid "UI.personalise_preview_active_window"
+msgstr "Aktivt vindu"
+
+msgid "UI.personalise_preview_message"
+msgstr "Meldingsboks"
+
+msgid "UI.personalise_preview_window_text"
+msgstr "Vindustekst"
+
+msgid "UI.personalise_tab_desktop"
+msgstr "Skrivebord"
+
+msgid "UI.personalise_tab_profile"
+msgstr "Profil"
+
+msgid "UI.personalise_tab_theme"
+msgstr "Tema"
+
+msgid "UI.personalise_themes_unlocked"
+msgstr "%d/%d låst opp"
+
+msgid "UI.personalise_title"
+msgstr "Egenskaper for Skjerm"
+
+msgid "UI.personalise_use_steam_profile"
+msgstr "Bruk Steam-profil"
+
+msgid "UI.policies_beanz_multiplier"
+msgstr "Runde-Beanz: x%.2f"
+
+msgid "UI.policies_col_beanz"
+msgstr "Beanz"
+
+msgid "UI.policies_col_completed"
+msgstr "Fullføringer"
+
+msgid "UI.policies_col_policy"
+msgstr "Policy"
+
+msgid "UI.policies_col_setting"
+msgstr "Sikkerhetsinnstilling"
+
+msgid "UI.policies_disabled"
+msgstr "Deaktivert"
+
+msgid "UI.policies_enabled"
+msgstr "Aktivert"
+
+msgid "UI.policies_header"
+msgstr "Ekstra vanskelighet"
+
+msgid "UI.policies_header_progress"
+msgstr "Ekstra vanskelighet - %d/%d fullført"
+
+msgid "UI.policies_icon"
+msgstr "Policyer"
+
+msgid "UI.policies_locked"
+msgstr "Fullfør %s eller høyere én gang for å aktivere policyer."
+
+msgid "UI.policies_select_protocol"
+msgstr "Velg en mappevanskelighet først."
+
+msgid "UI.policies_setting_locked"
+msgstr "Låst"
+
+msgid "UI.policies_status_incomplete"
+msgstr "Ufullført"
+
+msgid "UI.rar_actions"
+msgstr "Handlinger"
+
+msgid "UI.rar_clears"
+msgstr "Fjernet"
+
+msgid "UI.rar_plugin_title"
+msgstr "Clearzone - Velg utvidelse"
+
+msgid "UI.rar_progress"
+msgstr "%d / %d"
+
+msgid "UI.rar_size_kb"
+msgstr "%d KB"
+
+msgid "UI.rar_time"
+msgstr "Tid"
+
+msgid "UI.rar_title"
+msgstr "Clearzone-arkiv"
+
+msgid "UI.refresher"
+msgstr "Veiledning"
+
+msgid "UI.reroll_coin"
+msgstr "Trekk på nytt: %.2f mynter"
+
+msgid "UI.reroll_disabled"
+msgstr "Ny trekning låst"
+
+msgid "UI.safe_hub_battle_folder"
+msgstr "Kampmappe %d"
+
+msgid "UI.safe_hub_folders"
+msgstr "Mapper"
+
+msgid "UI.safe_hub_last_round"
+msgstr "Forrige omgang"
+
+msgid "UI.safe_hub_round_xls"
+msgstr "BattleFolder%d.xls"
+
+msgid "UI.safe_hub_tasks_empty"
+msgstr "Ingen nye oppgaver denne omgangen"
+
+msgid "UI.select_driver"
+msgstr "Velg en driver for %s."
+
+msgid "UI.select_driver_level"
+msgstr "%s nådde nivå %d. Velg en driver."
+
+msgid "UI.select_upgrade"
+msgstr "Velg en oppgradering for å fortsette."
+
+msgid "UI.select_weapon"
+msgstr "Velg et våpen for å fortsette."
+
+msgid "UI.sheet_tab"
+msgstr "Ark %d"
+
+msgid "UI.shop_speech"
+msgstr "Kjøp noen oppgraderinger! Vær så snill, jeg trenger mynter..."
+
+msgid "UI.shop_title"
+msgstr "Butikk"
+
+msgid "UI.side_objective_open"
+msgstr "Åpne %d/%d .%s-filer"
+
+msgid "UI.stalled_count"
+msgstr "Stoppet (%d)"
+
+msgid "UI.start_menu_tasks_stats"
+msgstr "Oppgaver og statistikk"
+
+msgid "UI.starter_folder"
+msgstr "Startmappe"
+
+msgid "UI.starter_help_cursor"
+msgstr "Pekerklasser bestemmer grunnverdiene dine. Alle oppgraderinger ganges med disse."
+
+msgid "UI.starter_help_difficulty"
+msgstr "Mappevanskelighet bestemmer reglene for runden: fiendepress, belønninger og hva du kan låse opp."
+
+msgid "UI.starter_help_policies"
+msgstr "Valgfrie ekstraregler i tillegg til protokollen. Fullfører du dem, får du flere Beanz."
+
+msgid "UI.starter_help_weapons"
+msgstr "Ditt første av fire våpen i runden. Du velger flere etter hvert som du går opp i nivå."
+
+msgid "UI.starter_weapon"
+msgstr "Startvåpen"
+
+msgid "UI.stat_class_row_desc"
+msgstr "Runder fullført med denne pekerklassen."
+
+msgid "UI.stat_coins_collected"
+msgstr "Mynter samlet"
+
+msgid "UI.stat_coins_collected_desc"
+msgstr "Mynter plukket opp på tvers av alle runder."
+
+msgid "UI.stat_crits"
+msgstr "Kritiske treff"
+
+msgid "UI.stat_crits_desc"
+msgstr "Kritiske treff på tvers av alle runder."
+
+msgid "UI.stat_damage_dealt"
+msgstr "Skade gjort"
+
+msgid "UI.stat_damage_dealt_desc"
+msgstr "Total skade gjort mot fiender på tvers av alle runder."
+
+msgid "UI.stat_damage_taken"
+msgstr "Skade mottatt"
+
+msgid "UI.stat_damage_taken_desc"
+msgstr "Total skade mottatt på tvers av alle runder."
+
+msgid "UI.stat_deaths"
+msgstr "Dødsfall"
+
+msgid "UI.stat_deaths_desc"
+msgstr "Antall ganger denne profilen har fått blåskjerm."
+
+msgid "UI.stat_enemy_row_desc"
+msgstr "Antall ganger denne fiendetypen har blitt fjernet."
+
+msgid "UI.stat_ext_opened"
+msgstr ".%s-filer åpnet"
+
+msgid "UI.stat_ext_opened_desc"
+msgstr "%s-filer åpnet uten feil."
+
+msgid "UI.stat_failed_files"
+msgstr "Spamreklameangrep"
+
+msgid "UI.stat_failed_files_desc"
+msgstr "Spam-popupvinduer fra mislykkede åpninger av Zip eller Last ned mer RAM."
+
+msgid "UI.stat_favourite_weapon"
+msgstr "Favorittvåpen"
+
+msgid "UI.stat_favourite_weapon_desc"
+msgstr "Våpenet du har brukt mest tid i kamp med."
+
+msgid "UI.stat_files_opened"
+msgstr "Filer åpnet"
+
+msgid "UI.stat_files_opened_desc"
+msgstr "Alle mapper og filer dobbeltklikket på tvers av runder."
+
+msgid "UI.stat_headshots"
+msgstr "Headshots"
+
+msgid "UI.stat_headshots_desc"
+msgstr "HaD: DoCK-headshots med henrettelse."
+
+msgid "UI.stat_highest_hit"
+msgstr "Største treff"
+
+msgid "UI.stat_highest_hit_desc"
+msgstr "Største skade gjort i ett enkelt treff."
+
+msgid "UI.stat_highest_score"
+msgstr "Høyeste poengsum"
+
+msgid "UI.stat_highest_score_desc"
+msgstr "Beste rundepoengsum registrert på denne profilen."
+
+msgid "UI.stat_hp_healed"
+msgstr "HP helbredet"
+
+msgid "UI.stat_hp_healed_desc"
+msgstr "Total HP gjenopprettet på tvers av alle runder."
+
+msgid "UI.stat_installer_skipped"
+msgstr "Utvidelser hoppet over"
+
+msgid "UI.stat_installer_skipped_desc"
+msgstr "Antall ganger Hopp over eller Slett ble brukt i et installasjonsprogram."
+
+msgid "UI.stat_keys_collected"
+msgstr "Nøkler samlet"
+
+msgid "UI.stat_keys_collected_desc"
+msgstr "Nøkler samlet på tvers av alle runder."
+
+msgid "UI.stat_kills"
+msgstr "Fiender fjernet"
+
+msgid "UI.stat_kills_desc"
+msgstr "Fiender fjernet på tvers av alle runder."
+
+msgid "UI.stat_max_level"
+msgstr "Høyeste nivå"
+
+msgid "UI.stat_max_level_desc"
+msgstr "Høyeste spillernivå nådd i én runde."
+
+msgid "UI.stat_named_clears"
+msgstr "%s fjernet"
+
+msgid "UI.stat_named_enemy_clears"
+msgstr "%s-fiender fjernet"
+
+msgid "UI.stat_named_opened"
+msgstr "%s åpnet"
+
+msgid "UI.stat_named_wins"
+msgstr "%s fullføringer"
+
+msgid "UI.stat_plugins"
+msgstr "Utvidelser installert"
+
+msgid "UI.stat_plugins_desc"
+msgstr "Utvidelser installert på tvers av alle runder."
+
+msgid "UI.stat_policy_row_desc"
+msgstr "Runder fullført med denne policyen."
+
+msgid "UI.stat_protocol_wins_desc"
+msgstr "Runder fullført på denne protokollen."
+
+msgid "UI.stat_rars_desc"
+msgstr "Rar-arkiver fullført."
+
+msgid "UI.stat_runs"
+msgstr "Runder"
+
+msgid "UI.stat_runs_desc"
+msgstr "Runder startet og avsluttet på denne profilen."
+
+msgid "UI.stat_runs_won"
+msgstr "Fullføringer"
+
+msgid "UI.stat_runs_won_desc"
+msgstr "Runder der en protokoll ble fullført."
+
+msgid "UI.stat_safe_folders"
+msgstr "Trygge mapper"
+
+msgid "UI.stat_safe_folders_desc"
+msgstr "Trygge mapper åpnet på tvers av alle runder."
+
+msgid "UI.stat_sheet_battle"
+msgstr "Filer 2"
+
+msgid "UI.stat_sheet_classes"
+msgstr "Pekere"
+
+msgid "UI.stat_sheet_enemies"
+msgstr "Fiender"
+
+msgid "UI.stat_sheet_files"
+msgstr "Filer 1"
+
+msgid "UI.stat_sheet_overall"
+msgstr "Totalt"
+
+msgid "UI.stat_sheet_policies"
+msgstr "Policyer"
+
+msgid "UI.stat_sheet_weapons"
+msgstr "Våpen"
+
+msgid "UI.stat_shop_purchases"
+msgstr "Butikkjøp"
+
+msgid "UI.stat_shop_purchases_desc"
+msgstr "Oppgraderinger kjøpt i butikken."
+
+msgid "UI.stat_tasks"
+msgstr "Oppgaver fullført"
+
+msgid "UI.stat_tasks_desc"
+msgstr "Opplåsingsoppgaver fullført på denne profilen."
+
+msgid "UI.stat_time_played"
+msgstr "Spilletid"
+
+msgid "UI.stat_time_played_desc"
+msgstr "Tid brukt i kampmapper på tvers av alle runder."
+
+msgid "UI.stat_weapon_level"
+msgstr "Høyeste våpennivå"
+
+msgid "UI.stat_weapon_level_desc"
+msgstr "Høyeste våpennivå nådd i én runde."
+
+msgid "UI.stat_weapon_row_desc"
+msgstr "Fiender fjernet med dette våpenet."
+
+msgid "UI.stat_zips_desc"
+msgstr "Zip-arkiver pakket ut uten feil."
+
+msgid "UI.stats_tab"
+msgstr "Statistikk"
+
+msgid "UI.stats_window_title_xls"
+msgstr "Profil.xls - Antivirus Survivors"
+
+msgid "UI.stock_trader_all_in"
+msgstr "Alt inn"
+
+msgid "UI.stock_trader_all_in_tooltip"
+msgstr "Sett ventende innskudd til alle mynter du har."
+
+msgid "UI.stock_trader_confirm_tooltip"
+msgstr "Invester ventende mynter."
+
+msgid "UI.stock_trader_group_history"
+msgstr "Utvikling"
+
+msgid "UI.stock_trader_group_position"
+msgstr "Posisjon"
+
+msgid "UI.stock_trader_group_run"
+msgstr "Rundestatistikk"
+
+msgid "UI.stock_trader_group_trade"
+msgstr "Handel"
+
+msgid "UI.stock_trader_group_wallet"
+msgstr "Lommebok"
+
+msgid "UI.stock_trader_invest"
+msgstr "Invester"
+
+msgid "UI.stock_trader_label_change"
+msgstr "Endring"
+
+msgid "UI.stock_trader_label_now"
+msgstr "Saldo"
+
+msgid "UI.stock_trader_label_on_hand"
+msgstr "Tilgjengelig"
+
+msgid "UI.stock_trader_label_pending"
+msgstr "Ventende"
+
+msgid "UI.stock_trader_label_put_in"
+msgstr "Investert"
+
+msgid "UI.stock_trader_label_return"
+msgstr "Fortjeneste"
+
+msgid "UI.stock_trader_label_roll"
+msgstr "Denne mappen"
+
+msgid "UI.stock_trader_label_run"
+msgstr "Nettofortjeneste"
+
+msgid "UI.stock_trader_minus_tooltip"
+msgstr "Reduser ventende innskudd."
+
+msgid "UI.stock_trader_plus_tooltip"
+msgstr "Legg mynter til ventende innskudd."
+
+msgid "UI.stock_trader_title"
+msgstr "Finance Manager"
+
+msgid "UI.stock_trader_warning"
+msgstr "Siste mappe: ta ut før siste kamp!"
+
+msgid "UI.stock_trader_withdraw"
+msgstr "Ta ut"
+
+msgid "UI.stock_trader_withdraw_tooltip"
+msgstr "Ta ut nåværende investering som mynter."
+
+msgid "UI.store_group_battle_files"
+msgstr "Kampfiler"
+
+msgid "UI.store_group_cursors"
+msgstr "Pekere"
+
+msgid "UI.store_group_other"
+msgstr "Annet"
+
+msgid "UI.store_group_plugins"
+msgstr "Utvidelser"
+
+msgid "UI.store_group_safe_files"
+msgstr "Trygge filer"
+
+msgid "UI.store_group_weapons"
+msgstr "Våpen"
+
+msgid "UI.store_group_widgets"
+msgstr "Spesialfiler"
+
+msgid "UI.store_state_available"
+msgstr "Tilgjengelig"
+
+msgid "UI.store_state_disabled"
+msgstr "Deaktivert"
+
+msgid "UI.store_state_owned"
+msgstr "Installert"
+
+msgid "UI.store_state_unavailable"
+msgstr "Utilgjengelig"
+
+msgid "UI.store_tooltip_buy"
+msgstr "Klikk for å kjøpe for %d Beanz"
+
+msgid "UI.store_tooltip_disabled"
+msgstr "Klikk for å la den dukke opp"
+
+msgid "UI.store_tooltip_locked"
+msgstr "Fremdrift: %d / %d"
+
+msgid "UI.store_tooltip_owned_toggle"
+msgstr "Klikk for å hindre at den dukker opp"
+
+msgid "UI.switch_user"
+msgstr "Bytt bruker"
+
+msgid "UI.task_category_beanz"
+msgstr "%s +%d Beanz"
+
+msgid "UI.task_claim_reward"
+msgstr "Klikk for å hente %d Beanz"
+
+msgid "UI.task_complete"
+msgstr "Oppgave fullført"
+
+msgid "UI.task_group_classes"
+msgstr "Pekere"
+
+msgid "UI.task_group_drivers"
+msgstr "Drivere"
+
+msgid "UI.task_group_files"
+msgstr "Filer"
+
+msgid "UI.task_group_general"
+msgstr "Generelt"
+
+msgid "UI.task_group_policies"
+msgstr "Policyer"
+
+msgid "UI.task_group_singular_class"
+msgstr "Pekerklasse"
+
+msgid "UI.task_group_singular_file"
+msgstr "Boss-fil"
+
+msgid "UI.task_group_singular_other"
+msgstr "Annet"
+
+msgid "UI.task_group_singular_plugin"
+msgstr "Utvidelse"
+
+msgid "UI.task_group_singular_protocol"
+msgstr "Protokoll"
+
+msgid "UI.task_group_singular_theme"
+msgstr "Tema"
+
+msgid "UI.task_group_singular_weapon"
+msgstr "Våpen"
+
+msgid "UI.task_group_themes"
+msgstr "Temaer"
+
+msgid "UI.task_hint_categories"
+msgstr "Kategorier"
+
+msgid "UI.task_sort_completed"
+msgstr "Sorter etter fullført"
+
+msgid "UI.task_unlocks_category"
+msgstr "%s låst opp"
+
+msgid "UI.task_virry_claimable"
+msgstr "Godt jobbet! Hent Beanz-belønningene dine ved å klikke på en blå rad."
+
+msgid "UI.task_virry_classes"
+msgstr "Pekerklasser endrer hvordan du kjemper. Lås opp en, og kjøp den så i Legg til/fjern opplåsinger."
+
+msgid "UI.task_virry_drivers"
+msgstr "Våpendrivere oppgraderer et våpen med unike tillegg. Når de er låst opp, nå nivå 8, 16 og 24 for å få dem."
+
+msgid "UI.task_virry_files"
+msgstr "Trygge filer, kampfiler og spesialfiler. Lås dem opp, og kjøp dem så i Legg til/fjern opplåsinger."
+
+msgid "UI.task_virry_general"
+msgstr "Generelle milepæler. Stort sett Beanz-belønninger."
+
+msgid "UI.task_virry_other"
+msgstr "Diverse som ikke hører hjemme på de andre oppgavearkene."
+
+msgid "UI.task_virry_plugins"
+msgstr "Utvidelser gir passiv styrke og kan skaffes ved å åpne installasjonsprogrammer. Fullfør oppgaven, og kjøp dem så i Legg til/fjern opplåsinger."
+
+msgid "UI.task_virry_policies"
+msgstr "Fullfør en protokoll med hver policy, deretter domenepolicyer. Protokoll V er det vanskelige settet."
+
+msgid "UI.task_virry_stats"
+msgstr "Rundeoversiktene dine ligger i disse arkene. Bytt til Oppgaver for opplåsinger."
+
+msgid "UI.task_virry_themes"
+msgstr "Temaer pynter opp skrivebordet. Når de er låst opp kan de tas i bruk via menyen for tilpassing."
+
+msgid "UI.task_virry_weapons"
+msgstr "Fullfør en våpenoppgave, og kjøp våpenet så i Legg til/fjern opplåsinger."
+
+msgid "UI.tasks_tab"
+msgstr "Oppgaver"
+
+msgid "UI.theme_classic"
+msgstr "Klassisk"
+
+msgid "UI.theme_dark"
+msgstr "Mørk"
+
+msgid "UI.theme_gold"
+msgstr "Gull"
+
+msgid "UI.theme_media"
+msgstr "Media"
+
+msgid "UI.theme_modern"
+msgstr "Moderne"
+
+msgid "UI.theme_olive"
+msgstr "Oliven"
+
+msgid "UI.theme_pink"
+msgstr "Rosa"
+
+msgid "UI.theme_silver"
+msgstr "Sølv"
+
+msgid "UI.theme_vapor"
+msgstr "Vapor"
+
+msgid "UI.torrent_title"
+msgstr "BigWave 2003 Edition"
+
+msgid "UI.tutorial_1_body"
+msgstr ""
+"Velkommen til {game}!\n"
+"\n"
+"Jeg er Virry, og jeg skal vise deg det grunnleggende om hvordan du spiller."
+
+msgid "UI.tutorial_2_body"
+msgstr ""
+"Først, la oss komme i gang.\n"
+"\n"
+"Bruk {move} for å bevege deg rundt på skjermen.\n"
+"\n"
+"Klikk med {click}, og ikke glem å dobbeltklikke for å åpne filer.\n"
+"\n"
+"Du kan også holde inne {drag} for å dra filer og flytte dem rundt i mappen."
+
+msgid "UI.tutorial_3_body"
+msgstr ""
+"For å komme i gang kan du velge en {class} og en {difficulty}.\n"
+"\n"
+"Foreløpig velger vi {default}-pekeren, flere låses opp etter hvert som du spiller.\n"
+"\n"
+"Velg Protokoll I-III som {difficulty}.\n"
+"\n"
+"Når du fullfører en protokoll, låses {policies} opp, som gir deg ekstra utfordringer.\n"
+"\n"
+"Velg {class} og {difficulty} nå!"
+
+msgid "UI.tutorial_4_body"
+msgstr ""
+"Du kan velge ett startvåpen til å begynne med.\n"
+"\n"
+"Kom deg gjennom runden og gå opp i nivå for å legge flere våpen til oppsettet ditt.\n"
+"\n"
+"Når du går opp i nivå, kan du også velge mellom våpen- og spilleroppgraderinger for å øke verdiene dine.\n"
+"\n"
+"Når våpenet ditt når visse nivåer, låser du opp {drivers}, som gir skreddersydde oppgraderinger."
+
+msgid "UI.tutorial_5_body"
+msgstr ""
+"Målet med spillet er å overleve.\n"
+"\n"
+"Det er 5 omganger på 5 minutter. Kom deg til {safe} på slutten av hver omgang for å gå videre."
+
+msgid "UI.tutorial_6_body"
+msgstr ""
+"For å overleve:\n"
+"Unngå fiender, samle EXP og mynter, skaff oppgraderinger og åpne filer.\n"
+"\n"
+"Noen filer har risiko, noen krever nøkler, og noen gir bare garanterte belønninger.\n"
+"\n"
+"Du får også en sideoppgave øverst til høyre i hver omgang som gir bonuser."
+
+msgid "UI.tutorial_7_body"
+msgstr ""
+"Tjen Beanz ved å fjerne fiender og komme deg til {safe} i tide.\n"
+"\n"
+"Få ekstra Beanz ved å fullføre oppgaver.\n"
+"\n"
+"Bruk Beanz på nye pekerklasser, våpen, verdioppgraderinger, utvidelser, filer, {vapor}-gjenstander og mer!"
+
+msgid "UI.tutorial_8_body"
+msgstr ""
+"Det var alt for nå!\n"
+"\n"
+"Velg ditt første våpen, spill, overlev og ha det gøy :)"
+
+msgid "UI.tutorial_title"
+msgstr "Hurtigveiledning"
+
+msgid "UI.unlock_apply_heat"
+msgstr "Påfør {amount} varmestabler på fiender"
+
+msgid "UI.unlock_boss_choice_desc"
+msgstr "Lar deg velge {boss} på slutten av en runde i stedet for bare Tilfeldig boss."
+
+msgid "UI.unlock_boss_choice_reward"
+msgstr "{boss}-fil"
+
+msgid "UI.unlock_class_null"
+msgstr "Dø 10 ganger"
+
+msgid "UI.unlock_clear_enemies"
+msgstr "Fjern {amount} fiender"
+
+msgid "UI.unlock_clear_enemy"
+msgstr "Fjern {amount} {enemy}-fiender"
+
+msgid "UI.unlock_clear_with_weapon"
+msgstr "Fjern {amount} fiender med {weapon}"
+
+msgid "UI.unlock_collect_coin"
+msgstr "Samle {amount} mynter"
+
+msgid "UI.unlock_collect_keys"
+msgstr "Samle {amount} nøkler"
+
+msgid "UI.unlock_collect_keys_run"
+msgstr "Samle {amount} nøkler i én runde"
+
+msgid "UI.unlock_complete_protocol"
+msgstr "Fullfør {protocol}"
+
+msgid "UI.unlock_complete_side_tasks"
+msgstr "Fullfør {amount} sideoppgaver"
+
+msgid "UI.unlock_complete_tasks"
+msgstr "Fullfør {amount} oppgaver"
+
+msgid "UI.unlock_corner_windows"
+msgstr "Ha vinduer i alle 4 hjørner samtidig"
+
+msgid "UI.unlock_corner_windows_desc"
+msgstr "Åpne filer til vinduene fyller alle hjørnene av skjermen."
+
+msgid "UI.unlock_crit_times"
+msgstr "Få {amount} kritiske treff"
+
+msgid "UI.unlock_deal_damage"
+msgstr "Gjør {amount} skade"
+
+msgid "UI.unlock_defeat_any_boss"
+msgstr "Beseir en hvilken som helst boss"
+
+msgid "UI.unlock_defeat_boss"
+msgstr "Beseir {boss}"
+
+msgid "UI.unlock_die_times"
+msgstr "Dø {amount} ganger"
+
+msgid "UI.unlock_driver_desc"
+msgstr "Låser opp våpendrivere for {weapon}."
+
+msgid "UI.unlock_driver_req"
+msgstr "Nå nivå {amount} med {weapon} i én runde"
+
+msgid "UI.unlock_driver_reward"
+msgstr "{weapon}-drivere"
+
+msgid "UI.unlock_extract_zips"
+msgstr "Pakk ut {amount} zip-filer uten feil"
+
+msgid "UI.unlock_file_cracked_installer_desc"
+msgstr "Installer utvidelser uten å bruke en nøkkel."
+
+msgid "UI.unlock_file_cracked_installer_reward"
+msgstr "Knekt installasjonsprogram"
+
+msgid "UI.unlock_file_ethanol_desc"
+msgstr "Betal mynter for å kopiere en tilfeldig utvidelse du allerede har installert."
+
+msgid "UI.unlock_file_ethanol_reward"
+msgstr "Ethanol 130%"
+
+msgid "UI.unlock_file_health_check_pro_desc"
+msgstr "Helbred nå, eller oppgrader helsesjekk-filer til senere kamper."
+
+msgid "UI.unlock_file_health_check_pro_reward"
+msgstr "Helsesjekk Plus"
+
+msgid "UI.unlock_file_keybuy_desc"
+msgstr "Kjøp og selg nøkler for mynter i trygge mapper."
+
+msgid "UI.unlock_file_keybuy_reward"
+msgstr "KeyBuy"
+
+msgid "UI.unlock_file_killzone_desc"
+msgstr "Fjern fiendene i en sone for å velge mellom tre utvidelser."
+
+msgid "UI.unlock_file_killzone_reward"
+msgstr "Clearzone"
+
+msgid "UI.unlock_file_legendary_installer"
+msgstr "Installer 3 legendariske utvidelser"
+
+msgid "UI.unlock_file_legendary_installer_desc"
+msgstr "Bruk 3 nøkler på en legendarisk utvidelse."
+
+msgid "UI.unlock_file_legendary_installer_reward"
+msgstr "Legendarisk installasjonsprogram"
+
+msgid "UI.unlock_file_morgan_av"
+msgstr "Beseir en Plus!-fiende på 10 sekunder"
+
+msgid "UI.unlock_file_morgan_av_desc"
+msgstr "Installer Morgan Antivirus for å øke vanskelighetsgraden og få flere Plus!-fiender."
+
+msgid "UI.unlock_file_stock_trader_desc"
+msgstr "Invester mynter mellom kampene og ta ut senere."
+
+msgid "UI.unlock_file_stock_trader_reward"
+msgstr "Finance Manager"
+
+msgid "UI.unlock_file_vapidshare_desc"
+msgstr "Last ned flerdelte arkiver som slipper knekte installasjonsprogrammer."
+
+msgid "UI.unlock_file_vapidshare_reward"
+msgstr "Vapidshare"
+
+msgid "UI.unlock_general_crits_desc"
+msgstr "Milepæl for kritiske treff totalt."
+
+msgid "UI.unlock_general_damage_desc"
+msgstr "Milepæl for skade gjort totalt."
+
+msgid "UI.unlock_general_download_ram_desc"
+msgstr "Last ned mer RAM fullført på tvers av alle runder."
+
+msgid "UI.unlock_general_enemy_desc"
+msgstr "{enemy}-fiender fjernet på tvers av alle runder."
+
+msgid "UI.unlock_general_file_type_desc"
+msgstr "{file}-filer åpnet på tvers av alle runder."
+
+msgid "UI.unlock_general_files_desc"
+msgstr "Milepæl for filer åpnet totalt."
+
+msgid "UI.unlock_general_highest_hit_desc"
+msgstr "Milepæl for største treff."
+
+msgid "UI.unlock_general_kills_desc"
+msgstr "Milepæl for fiender fjernet totalt."
+
+msgid "UI.unlock_general_level_desc"
+msgstr "Milepæl for nivå i én runde."
+
+msgid "UI.unlock_general_quests_desc"
+msgstr "Oppgaver fullført fra listen."
+
+msgid "UI.unlock_general_reward"
+msgstr "Bonus-Beanz"
+
+msgid "UI.unlock_general_side_tasks_desc"
+msgstr "Sideoppgaver fullført på tvers av alle runder."
+
+msgid "UI.unlock_general_wins_desc"
+msgstr "Runder fullført."
+
+msgid "UI.unlock_headshots"
+msgstr "Få {amount} headshots"
+
+msgid "UI.unlock_heal_hp"
+msgstr "Helbred {amount} HP"
+
+msgid "UI.unlock_hit"
+msgstr "Gjør {amount} skade i ett enkelt treff"
+
+msgid "UI.unlock_install_plugins"
+msgstr "Installer {amount} utvidelser"
+
+msgid "UI.unlock_installer_skip"
+msgstr "Hopp over eller slett {amount} utvidelser i et installasjonsprogram"
+
+msgid "UI.unlock_open_download_ram"
+msgstr "Last ned mer RAM {amount} ganger"
+
+msgid "UI.unlock_open_file_type"
+msgstr "Åpne {amount} {file}-filer"
+
+msgid "UI.unlock_open_files"
+msgstr "Åpne {amount} filer"
+
+msgid "UI.unlock_open_health_check"
+msgstr "Åpne {amount} helsesjekker"
+
+msgid "UI.unlock_open_lemwire"
+msgstr "Åpne {amount} LemWire-filer"
+
+msgid "UI.unlock_open_vapor"
+msgstr "Åpne vapor.exe {amount} ganger"
+
+msgid "UI.unlock_plugin_big_hp_regen_boost"
+msgstr "Helbred {amount} HP totalt"
+
+msgid "UI.unlock_policy_v5"
+msgstr "Fullfør Protokoll V med {policy}"
+
+msgid "UI.unlock_policy_v5_desc"
+msgstr "Fullfør Protokoll V med {policy} aktivert."
+
+msgid "UI.unlock_policy_win"
+msgstr "Fullfør en protokoll med {policy}"
+
+msgid "UI.unlock_policy_win_desc"
+msgstr "Fullfør en protokoll med {policy} aktivert."
+
+msgid "UI.unlock_protocol_unlocks"
+msgstr "Låser opp {reward}."
+
+msgid "UI.unlock_reach_cursor_2x"
+msgstr "Nå 2.00× pekerhastighet"
+
+msgid "UI.unlock_reach_level"
+msgstr "Nå nivå {amount} i én runde"
+
+msgid "UI.unlock_reach_proc_2x"
+msgstr "Nå 2.00× prosesshastighet"
+
+msgid "UI.unlock_round_protocol"
+msgstr "Nå omgang {amount} på {protocol} eller høyere"
+
+msgid "UI.unlock_shop_purchases"
+msgstr "Kjøp {amount} oppgraderinger i butikken"
+
+msgid "UI.unlock_spam_popups"
+msgstr "Utløs {amount} spamreklameangrep"
+
+msgid "UI.unlock_spend_coin"
+msgstr "Bruk {amount} mynter i butikker"
+
+msgid "UI.unlock_take_damage"
+msgstr "Ta {amount} skade"
+
+msgid "UI.unlock_toast"
+msgstr "Låst opp: %s"
+
+msgid "UI.unlock_weapon_level"
+msgstr "Få {weapon} til nivå {amount}"
+
+msgid "UI.unlock_widget_bullet_time_desc"
+msgstr "Senk farten på verden rundt deg for å fjerne fiender lettere."
+
+msgid "UI.unlock_widget_bullet_time_reward"
+msgstr "Heaps of Pain"
+
+msgid "UI.unlock_widget_crime_desc"
+msgstr "Begå forbrytelser for mynter mens du unngår politiet."
+
+msgid "UI.unlock_widget_crime_reward"
+msgstr "Kriminell"
+
+msgid "UI.unlock_widget_nos"
+msgstr "Samle {amount} mynter i én runde"
+
+msgid "UI.unlock_widget_nos_desc"
+msgstr "Gi pekerhastigheten et kort, midlertidig løft."
+
+msgid "UI.unlock_widget_nos_reward"
+msgstr "N2O"
+
+msgid "UI.unlock_win_runs"
+msgstr "Fullfør {amount} runder"
+
+msgid "UI.vapidshare_done"
+msgstr "Ferdig"
+
+msgid "UI.vapidshare_extracting"
+msgstr "Pakker ut..."
+
+msgid "UI.vapidshare_extras"
+msgstr "Ekstra"
+
+msgid "UI.vapidshare_hoster"
+msgstr "vapidshare.com"
+
+msgid "UI.vapidshare_hoster_column"
+msgstr "Vert"
+
+msgid "UI.vapidshare_part_complete"
+msgstr "Fullført"
+
+msgid "UI.vapidshare_parts"
+msgstr "Deler %d / %d"
+
+msgid "UI.vapidshare_title_pro"
+msgstr "Vapidshare Pro"
+
+msgid "UI.vapor_cache"
+msgstr "Validerer hurtigbufferfiler..."
+
+msgid "UI.vapor_store_brand"
+msgstr "VAPOR"
+
+msgid "UI.vapor_store_download"
+msgstr "Last ned"
+
+msgid "UI.vapor_store_featured"
+msgstr "Utvalgt våpen"
+
+msgid "UI.vapor_store_intro"
+msgstr "Spesialfiler dukker opp i kamp. Når en er aktiv, hold {special} for å bruke den."
+
+msgid "UI.vapor_store_title"
+msgstr "Vapor-butikk"
+
+msgid "UI.vapor_store_top_sellers"
+msgstr "Spesialfiler"
+
+msgid "UI.vapor_validating"
+msgstr "Vapor - Validerer filer - {0}% fullført"
+
+msgid "UI.weapon_drivers"
+msgstr "Våpendrivere"
+
+msgid "UI.weapon_drivers_window"
+msgstr "drivers.doc - SH Docs 2003"
+
+msgid "UI.weapon_slot_bonus"
+msgstr "Bonus"
+
+msgid "UI.win_tasks_empty"
+msgstr "Ingen nye oppgaver denne runden"
+
+msgid "UI.win_tasks_title"
+msgstr "Oppgaver fullført - %d"
+
+msgid "UI.window_title"
+msgstr "nivå%d.doc - SH Docs 2003"
+
+msgid "UI.you_won"
+msgstr "Du vant!"
+
+msgid "UPGRADE.upgrade_player_armor.description"
+msgstr "Øker skademotstanden med +{percent}%."
+
+msgid "UPGRADE.upgrade_player_coin_gain.description"
+msgstr "Øker myntinntekten med +{percent}%."
+
+msgid "UPGRADE.upgrade_player_crit_chance.description"
+msgstr "Øker sjansen for kritisk treff med +{percent}%."
+
+msgid "UPGRADE.upgrade_player_crit_damage_multi.description"
+msgstr "Øker skaden fra kritiske treff med +{percent}%."
+
+msgid "UPGRADE.upgrade_player_damage_multi.description"
+msgstr "Øker multiplikatoren for våpenskade med +{percent}%."
+
+msgid "UPGRADE.upgrade_player_dodge.description"
+msgstr "Øker sjansen for å unngå skade med +{percent}%."
+
+msgid "UPGRADE.upgrade_player_exp_gain.description"
+msgstr "Øker EXP-inntekten med +{percent}%."
+
+msgid "UPGRADE.upgrade_player_health_regen.description"
+msgstr "Øker helseregenereringen med +{percent} hvert 20s."
+
+msgid "UPGRADE.upgrade_player_luck.description"
+msgstr "Øker flaks med +{percent}%."
+
+msgid "UPGRADE.upgrade_player_magnetism_multi.description"
+msgstr "Øker spillerens magnetisme med +{percent}%."
+
+msgid "UPGRADE.upgrade_player_max_health.description"
+msgstr "Øker maks HP med +{percent}."
+
+msgid "UPGRADE.upgrade_player_power_multi.description"
+msgstr "Øker styrken på avstøting, varme, infeksjon og hakking fra våpen med +{percent}%."
+
+msgid "UPGRADE.upgrade_player_proc_speed.description"
+msgstr "Øker hastigheten for filåpning med +{percent}%."
+
+msgid "UPGRADE.upgrade_player_refresh_multi.description"
+msgstr "Øker multiplikatoren for våpenoppdatering med +{percent}%."
+
+msgid "UPGRADE.upgrade_player_speed.description"
+msgstr "Øker bevegelseshastigheten med +{percent}%."
+
+msgid "UPGRADE.upgrade_player_weap_amount.description"
+msgstr "Legger til +{percent}% sjanse for ekstra våpen."
+
+msgid "UPGRADE.upgrade_player_weap_size.description"
+msgstr "Øker multiplikatoren for våpenstørrelse med +{percent}%."
+
+msgid "UPGRADE.upgrade_player_weap_speed.description"
+msgstr "Øker multiplikatoren for våpenets angrepshastighet med +{percent}%."
+
+msgid "UPGRADE.weapon_avd.description"
+msgstr "Skyter en gigantisk AVD-logo mot nærmeste fiende."
+
+msgid "UPGRADE.weapon_avd.name"
+msgstr "AVD-logo"
+
+msgid "UPGRADE.weapon_avn.description"
+msgstr "Chatboblestråler i bane skriver ut meldinger og gir fiender hakking."
+
+msgid "UPGRADE.weapon_avn.name"
+msgstr "AVN Chat"
+
+msgid "UPGRADE.weapon_blatand.description"
+msgstr "Lenker sammen fiender med stiplede infeksjonslenker med fast lengde."
+
+msgid "UPGRADE.weapon_blatand.name"
+msgstr "Blåtand"
+
+msgid "UPGRADE.weapon_bubbles.description"
+msgstr "Gigantiske bobler svever rundt og legger infeksjonsstabler på fiender."
+
+msgid "UPGRADE.weapon_bubbles.name"
+msgstr "Bobler"
+
+msgid "UPGRADE.weapon_cdrive.description"
+msgstr "Slipper harddisker tilfeldig på fiender."
+
+msgid "UPGRADE.weapon_cdrive.name"
+msgstr "C: Drive"
+
+msgid "UPGRADE.weapon_cone.description"
+msgstr "Oransje kjegler sitter fast på deg. De steker det de peker på med varme."
+
+msgid "UPGRADE.weapon_cone.name"
+msgstr "Veldig stor kjegle"
+
+msgid "UPGRADE.weapon_cruiser.description"
+msgstr "Åpner en nettleserfane et sted på skjermen. Blir værende og gir kraftig hakking."
+
+msgid "UPGRADE.weapon_cruiser.name"
+msgstr "Internet Cruiser"
+
+msgid "UPGRADE.weapon_cut.description"
+msgstr "Sakser skjærer gjennom nærmeste fiende."
+
+msgid "UPGRADE.weapon_cut.name"
+msgstr "Klipp ut"
+
+msgid "UPGRADE.weapon_email.description"
+msgstr "Konvolutter flyr ut, spretter av vegger og kommer tilbake som en bumerang, og treffer begge veier."
+
+msgid "UPGRADE.weapon_email.name"
+msgstr "E-post"
+
+msgid "UPGRADE.weapon_firewall.description"
+msgstr "Lager en ring av ild rundt spilleren som legger varmestabler på fiender."
+
+msgid "UPGRADE.weapon_firewall.name"
+msgstr "Brannmur"
+
+msgid "UPGRADE.weapon_fontart.description"
+msgstr "Slipper bokstaver på den sterkeste fienden som legger varmestabler på fiender."
+
+msgid "UPGRADE.weapon_fontart.name"
+msgstr "FontArt"
+
+msgid "UPGRADE.weapon_fraps.description"
+msgstr "Skyter flimrende FPS-tall. Tallet som vises, er skaden som gjøres."
+
+msgid "UPGRADE.weapon_fraps.name"
+msgstr "Frames"
+
+msgid "UPGRADE.weapon_hitmarkers.description"
+msgstr "Skudd treffer nærmeste fiende. 3% sjanse for headshot."
+
+msgid "UPGRADE.weapon_hitmarkers.name"
+msgstr "HaD: DoCK"
+
+msgid "UPGRADE.weapon_minesweeper.description"
+msgstr "Kaster miner som planter seg og eksploderer når en fiende berører dem."
+
+msgid "UPGRADE.weapon_minesweeper.name"
+msgstr "Miner"
+
+msgid "UPGRADE.weapon_modem.description"
+msgstr "Sender lydringer utover fra pekeren."
+
+msgid "UPGRADE.weapon_modem.name"
+msgstr "Utgangsenhet"
+
+msgid "UPGRADE.weapon_orchestra.description"
+msgstr "Åpner en nettleserfane på nærmeste fiende på skjermen. Infiserer, og henretter av og til."
+
+msgid "UPGRADE.weapon_orchestra.name"
+msgstr "Orchestra"
+
+msgid "UPGRADE.weapon_paint.description"
+msgstr "Maler sirkler nær spilleren som skader og legger hakkingsstabler på fiender over tid."
+
+msgid "UPGRADE.weapon_paint.name"
+msgstr "Paint"
+
+msgid "UPGRADE.weapon_pinball.description"
+msgstr "Skyter en sprettende ball mot nærmeste fiende."
+
+msgid "UPGRADE.weapon_pinball.name"
+msgstr "Pinball"
+
+msgid "UPGRADE.weapon_quarantine.description"
+msgstr "Skanner et område rundt spilleren og skader fiender."
+
+msgid "UPGRADE.weapon_quarantine.name"
+msgstr "Karantene"
+
+msgid "UPGRADE.weapon_satellite.description"
+msgstr "Plasserer en parabol som pinger fiender i nærheten med hakkingssignaler."
+
+msgid "UPGRADE.weapon_satellite.name"
+msgstr "WLAN"
+
+msgid "UPGRADE.weapon_scimitar.description"
+msgstr "Hugger over og under pekeren. Ekstra antall gir vekslende hugg."
+
+msgid "UPGRADE.weapon_scimitar.name"
+msgstr "Krumsabel"
+
+msgid "UPGRADE.weapon_search.description"
+msgstr "Sender ut et forstørrelsesglass rundt spilleren."
+
+msgid "UPGRADE.weapon_search.name"
+msgstr "Søk"
+
+msgid "UPGRADE.weapon_sniper.description"
+msgstr "Ett tungt skudd mot den sterkeste fienden. Fjernede fiender vises i en drapslogg."
+
+msgid "UPGRADE.weapon_sniper.name"
+msgstr "Sniper 1.6"
+
+msgid "UPGRADE.weapon_solitaire.description"
+msgstr "Skyter et sprettende kort som legger infeksjonsstabler på fiender."
+
+msgid "UPGRADE.weapon_solitaire.name"
+msgstr "Kabal"
+
+msgid "Upgrade Shop"
+msgstr "Oppgraderingsbutikk"
+
+msgid "UpgradeManager 2003 rc2"
+msgstr "UpgradeManager 2003 rc2"
+
+msgid "Upgrades"
+msgstr "Oppgraderinger"
+
+msgid "VAPOR.validate_fail"
+msgstr "{0} filer kunne ikke valideres og vil bli lastet ned på nytt."
+
+msgid "Vapidshare.exe"
+msgstr "Vapidshare.exe"
+
+msgid "Vapor.exe"
+msgstr "Vapor.exe"
+
+msgid "Victory!"
+msgstr "Seier!"
+
+msgid "Volume"
+msgstr "Volum"
+
+msgid "Vsync:"
+msgstr "Vsync:"
+
+msgid "WEAPON.avd.spawn_noun"
+msgstr "logoer"
+
+msgid "WEAPON.avn.spawn_noun"
+msgstr "chatbobler"
+
+msgid "WEAPON.blatand.spawn_noun"
+msgstr "lenker"
+
+msgid "WEAPON.bubbles.spawn_noun"
+msgstr "bobler"
+
+msgid "WEAPON.cdrive.spawn_noun"
+msgstr "harddisker"
+
+msgid "WEAPON.cone.spawn_noun"
+msgstr "kjegler"
+
+msgid "WEAPON.cruiser.spawn_noun"
+msgstr "faner"
+
+msgid "WEAPON.cut.spawn_noun"
+msgstr "sakser"
+
+msgid "WEAPON.email.spawn_noun"
+msgstr "konvolutter"
+
+msgid "WEAPON.firewall.spawn_noun"
+msgstr "ildringer"
+
+msgid "WEAPON.fontart.spawn_noun"
+msgstr "bokstaver"
+
+msgid "WEAPON.fraps.spawn_noun"
+msgstr "FPS-tellere"
+
+msgid "WEAPON.hitmarkers.spawn_noun"
+msgstr "skudd"
+
+msgid "WEAPON.minesweeper.spawn_noun"
+msgstr "miner"
+
+msgid "WEAPON.modem.spawn_noun"
+msgstr "ringer"
+
+msgid "WEAPON.orchestra.spawn_noun"
+msgstr "faner"
+
+msgid "WEAPON.paint.spawn_noun"
+msgstr "sirkler"
+
+msgid "WEAPON.pinball.spawn_noun"
+msgstr "kuler"
+
+msgid "WEAPON.quarantine.spawn_noun"
+msgstr "skanninger"
+
+msgid "WEAPON.satellite.spawn_noun"
+msgstr "paraboler"
+
+msgid "WEAPON.scimitar.spawn_noun"
+msgstr "hugg"
+
+msgid "WEAPON.search.spawn_noun"
+msgstr "forstørrelsesglass"
+
+msgid "WEAPON.sniper.spawn_noun"
+msgstr "skudd"
+
+msgid "WEAPON.solitaire.spawn_noun"
+msgstr "kort"
+
+msgid "WEAPON_UPGRADE.amount.description"
+msgstr "Legger til +{percent}% sjanse for ekstra {spawn_noun}."
+
+msgid "WEAPON_UPGRADE.amount.name"
+msgstr "{weapon}-antall"
+
+msgid "WEAPON_UPGRADE.damage.description"
+msgstr "Øker skaden til {weapon} med +{percent}%."
+
+msgid "WEAPON_UPGRADE.damage.name"
+msgstr "{weapon}-skade"
+
+msgid "WEAPON_UPGRADE.power.heat.description"
+msgstr "Øker varmestablene til {weapon} med +{percent}%."
+
+msgid "WEAPON_UPGRADE.power.infect.description"
+msgstr "Øker infeksjonsstablene til {weapon} med +{percent}%."
+
+msgid "WEAPON_UPGRADE.power.lag.description"
+msgstr "Øker hakkingsstablene til {weapon} med +{percent}%."
+
+msgid "WEAPON_UPGRADE.power.name"
+msgstr "{weapon}-styrke"
+
+msgid "WEAPON_UPGRADE.power.repel.description"
+msgstr "Øker avstøtingseffekten til {weapon} med +{percent}%."
+
+msgid "WEAPON_UPGRADE.refresh.description"
+msgstr "Øker oppdateringen til {weapon} med +{percent}%."
+
+msgid "WEAPON_UPGRADE.refresh.name"
+msgstr "{weapon}-oppdatering"
+
+msgid "WEAPON_UPGRADE.size.description"
+msgstr "Øker størrelsen til {weapon} med +{percent}%."
+
+msgid "WEAPON_UPGRADE.size.name"
+msgstr "{weapon}-størrelse"
+
+msgid "WEAPON_UPGRADE.speed.description"
+msgstr "Øker angrepshastigheten til {weapon} med +{percent}%."
+
+msgid "WEAPON_UPGRADE.speed.name"
+msgstr "{weapon}-hastighet"
+
+msgid "Weapons..."
+msgstr "Våpen..."
+
+msgid "Welcome..."
+msgstr "Velkommen..."
+
+msgid "Window"
+msgstr "Vindu"
+
+msgid "Window Mode:"
+msgstr "Vindusmodus:"
+
+msgid ""
+"You did it! I'm proud of you! I hope you had fun.\n"
+"\n"
+"However I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n"
+"\n"
+"In the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n"
+"\n"
+"If you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
+msgstr ""
+"Du gjorde det! Jeg er stolt av deg! Håper du koste deg.\n"
+"\n"
+"Jeg beklager derimot at seiersskjermen er så kjedelig og uinspirert. Du fortjener bedre, og det skal du få - i fullversjonen.\n"
+"\n"
+"I mellomtiden kan du prøve deg på de vanskeligere nivåene, bruke Beanz-poengene dine på oppgraderinger og teste ut ulike spilloppsett.\n"
+"\n"
+"Om du likte demoen, må du gjerne legge spillet til på ønskelisten eller følge på Steam - det skal komme mye mer!"
+
+msgid "Your RAM is now downloading..."
+msgstr "RAM-en din lastes nå ned..."
+
+msgid "ZIP.extracted_success"
+msgstr "%s pakket ut uten feil."
+
+msgid "ZIP.extracting"
+msgstr ""
+"Pakker ut fil:\n"
+"%s fra /.???"
+
+msgid "ZIP.progress"
+msgstr ""
+"Estimert gjenværende tid: {m}m {s}s ({cur} KB av {max} KB)\n"
+"Behandlingshastighet: {rate} KB/s"
+
+msgid "ZIP.title_licensed"
+msgstr "SHZip v2.03"
+
+msgid "Zip File"
+msgstr "Zip-fil"
+
+msgid "avs03.com"
+msgstr "avs03.com"
+
+msgid ""
+"coming soon\n"
+"- more weapons\n"
+"- more enemies\n"
+"- bosses\n"
+"- classes\n"
+"- wallpapers\n"
+"- weapon evos\n"
+"- and more"
+msgstr ""
+"kommer snart\n"
+"- flere våpen\n"
+"- flere fiender\n"
+"- bosser\n"
+"- klasser\n"
+"- bakgrunnsbilder\n"
+"- våpenoppgraderinger\n"
+"- og mer"
+
+msgid "frenzy.exe"
+msgstr "frenzy.exe"
+
+msgid "keygen.exe"
+msgstr "keygen.exe"
+
+msgid "vapor.exe"
+msgstr "vapor.exe"
