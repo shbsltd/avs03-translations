@@ -1,0 +1,6812 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Antivirus Survivors 2003MIME-Version: 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.10\n"
+
+#. Class select - name (brick)
+#. source: Brick
+msgid "CLASS.brick.name"
+msgstr "磚塊"
+
+#. Class select - description (brick)
+#. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
+msgid "CLASS.brick.description"
+msgstr ""
+"+40最大生命值\n"
+"+12護甲\n"
+"游標移速乘0.8x\n"
+"武器傷害乘0.85x\n"
+"受傷時武器傷害乘1.1x(持續8秒，可堆疊3層)"
+
+#. Class select - name (default)
+#. source: Default
+msgid "CLASS.default.name"
+msgstr "預設"
+
+#. Class select - description (default)
+#. source: No class bonuses or penalties.\nBalanced baseline cursor.
+msgid "CLASS.default.description"
+msgstr ""
+"沒有等級額外獎勵或懲罰\n"
+"就只是個游標"
+
+#. Class select - name (null)
+#. source: Null
+msgid "CLASS.null.name"
+msgstr "無效"
+
+#. Class select - description (null)
+#. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
+msgid "CLASS.null.description"
+msgstr ""
+"-25最大生命值\n"
+"丟包+8\n"
+"幸運乘1.5x\n"
+"傷害乘0.9x"
+
+#. Class select - name (vector)
+#. source: Vector
+msgid "CLASS.vector.name"
+msgstr "向量"
+
+#. Class select - description (vector)
+#. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
+msgid "CLASS.vector.description"
+msgstr ""
+"游標移速乘1.25x\n"
+"丟包+15\n"
+"-25最大生命值\n"
+"武器傷害乘0.9x\n"
+"丟包時游標速度乘1.25x，\n"
+"刷新速度乘1.2x(持續4秒)"
+
+#. Class select - name (breakpoint)
+#. source: Breakpoint
+msgid "CLASS.breakpoint.name"
+msgstr "斷點"
+
+#. Class select - description (breakpoint)
+#. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
+msgid "CLASS.breakpoint.description"
+msgstr ""
+"暴擊機率+12%\n"
+"暴擊傷害乘1.25x\n"
+"-15最大生命值\n"
+"游標移速乘0.9x\n"
+"武器傷害乘0.92x"
+
+#. Class select - name (thread)
+#. source: Thread
+msgid "CLASS.thread.name"
+msgstr "執行緒"
+
+#. Class select - description (thread)
+#. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
+msgid "CLASS.thread.description"
+msgstr ""
+"處理速度乘1.3x\n"
+"刷新速度乘1.12x\n"
+"經驗獲取乘1.08x\n"
+"武器傷害乘0.85x"
+
+#. Class select - name (admin)
+#. source: Admin
+msgid "CLASS.admin.name"
+msgstr "管理員"
+
+#. Class select - description (admin)
+#. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
+msgid "CLASS.admin.description"
+msgstr ""
+"開場+1把金鑰\n"
+"硬幣獲取乘1.3x\n"
+"撿取範圍乘3x\n"
+"商店物品打折+10%\n"
+"最大血量乘0.9x\n"
+"武器傷害乘0.85x"
+
+#. Folder evolution mode - name (chaos)
+#. source: Chaos
+msgid "EVO.chaos.name"
+msgstr "渾沌"
+
+#. Folder evolution mode - description (chaos)
+#. source: A inconsistent unpredictable mess of difficulty. I couldn't tell you what to expect.
+msgid "EVO.chaos.description"
+msgstr "難度前後不一，難以預測，整體亂成一團.我完全不知道下一步會遇到什麼."
+
+#. Folder evolution mode - name (linear)
+#. source: Linear
+msgid "EVO.linear.name"
+msgstr "線性"
+
+#. Folder evolution mode - description (linear)
+#. source: A consistent linear stream of more enemies being added over time.
+msgid "EVO.linear.description"
+msgstr "隨著時間的推移，以穩定的線性方式持續增加敵人"
+
+#. Folder evolution mode - name (variable)
+#. source: Variable
+msgid "EVO.variable.name"
+msgstr "變化"
+
+#. Folder evolution mode - description (variable)
+#. source: A varied level of enemies that ramps up and down to give more moments of peace but harder increases.
+msgid "EVO.variable.description"
+msgstr "敵人數量會隨時間起伏變化，帶來更多喘息時刻，但敵人增加時會更加猛烈"
+
+#. Meta upgrade menu - description (armor)
+#. source: Adds +1 Armo(u)r per Rank.
+msgid "META.armor.description"
+msgstr "每等+1護甲"
+
+#. Meta upgrade menu - description (coin_gain)
+#. source: Multiply Coin Gain by an extra +1% per Rank.
+msgid "META.coin_gain.description"
+msgstr "每級獲取的硬幣額外+1%"
+
+#. Meta upgrade menu - description (crit_chance)
+#. source: Increases Crit Chance +1% per Rank.
+msgid "META.crit_chance.description"
+msgstr "每級的暴擊機率額外+1%"
+
+#. Meta upgrade menu - description (crit_damage)
+#. source: Multiply Crit Damage by an extra +2% per Rank.
+msgid "META.crit_damage.description"
+msgstr "每級的暴擊傷害額外+2%"
+
+#. Meta upgrade menu - name (cursor_speed)
+#. source: Cursor Speed
+msgid "META.cursor_speed.name"
+msgstr "游標移速"
+
+#. Meta upgrade menu - description (cursor_speed)
+#. source: Multiply Cursor Speed by an extra +1% per Rank.
+msgid "META.cursor_speed.description"
+msgstr "每級的游標移動速度額外+1%"
+
+#. Meta upgrade menu - description (exp_gain)
+#. source: Multiply EXP Gain by an extra +2% per Rank.
+msgid "META.exp_gain.description"
+msgstr "每級的經驗額外+2%"
+
+#. Meta upgrade menu - description (health_regen)
+#. source: Adds +1 Health Regen per Rank.
+msgid "META.health_regen.description"
+msgstr "每級額外+1生命再生"
+
+#. Meta upgrade menu - description (luck)
+#. source: Multiply Luck by an extra +1% per Rank.
+msgid "META.luck.description"
+msgstr "每級的幸運額外+1%"
+
+#. Meta upgrade menu - description (magnetism)
+#. source: Multiply Magnetism by an extra +2% per Rank.
+msgid "META.magnetism.description"
+msgstr "每級的磁力額外+2%"
+
+#. Meta upgrade menu - description (max_health)
+#. source: Adds +10 Max HP per Rank.
+msgid "META.max_health.description"
+msgstr "每級的最大生命值額外+10"
+
+#. Meta upgrade menu - name (packet_loss)
+#. source: Packet Loss
+msgid "META.packet_loss.name"
+msgstr "丟包"
+
+#. Meta upgrade menu - description (packet_loss)
+#. source: Adds +1 Packet Loss per Rank.
+msgid "META.packet_loss.description"
+msgstr "每級的丟包額外+1"
+
+#. Meta upgrade menu - description (proc_speed)
+#. source: Multiply Processing Speed by an extra +1% per Rank.
+msgid "META.proc_speed.description"
+msgstr "每級的處理速度額外+1%"
+
+#. Meta upgrade menu - description (weap_amount)
+#. source: Increases Weapon Amount chance +3% per Rank.
+msgid "META.weap_amount.description"
+msgstr "每級的武器數量機率額外+3%"
+
+#. Meta upgrade menu - description (weap_damage)
+#. source: Multiply Weapon Damage by an extra +2% per Rank.
+msgid "META.weap_damage.description"
+msgstr "每級的武器傷害額外+2%"
+
+#. Meta upgrade menu - description (weap_refresh)
+#. source: Multiply Weapon Refresh by an extra +1% per Rank.
+msgid "META.weap_refresh.description"
+msgstr "每級的武器刷新速度額外+1%"
+
+#. Meta upgrade menu - description (weap_repel)
+#. source: Multiply Weapon Repel by an extra +1% per Rank.
+msgid "META.weap_repel.description"
+msgstr "每級的武器效果額外+1%"
+
+#. Meta upgrade menu - description (weap_size)
+#. source: Multiply Weapon Size by an extra +1% per Rank.
+msgid "META.weap_size.description"
+msgstr "每級的武器尺寸額外+1%"
+
+#. Meta upgrade menu - description (weap_speed)
+#. source: Multiply Weapon Speed by an extra +1% per Rank.
+msgid "META.weap_speed.description"
+msgstr "每級的武器速度額外+1%"
+
+#. Plugin - name (armor_boost)
+#. source: Armo(u)r Boost
+msgid "PLUGIN.armor_boost.name"
+msgstr "護甲強化"
+
+#. Plugin - description (armor_boost)
+#. source: Add +5 Armo(u)r.
+msgid "PLUGIN.armor_boost.description"
+msgstr "+5護甲"
+
+#. Plugin - name (armor_damage_trigger)
+#. source: Hardware IRQ
+msgid "PLUGIN.armor_damage_trigger.name"
+msgstr "硬體中斷請求"
+
+#. Plugin - description (armor_damage_trigger)
+#. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
+msgid "PLUGIN.armor_damage_trigger.description"
+msgstr ""
+"+5護甲\n"
+"當受到傷害時+25丟包(持續10秒)"
+
+#. Plugin - name (armor_missing_hp)
+#. source: Last Known Good
+msgid "PLUGIN.armor_missing_hp.name"
+msgstr "最後一次正確的設定"
+
+#. Plugin - description (armor_missing_hp)
+#. source: Add +1 Armo(u)r per 2% missing HP.
+msgid "PLUGIN.armor_missing_hp.description"
+msgstr "每失去2%生命+1護甲"
+
+#. Plugin - name (big_hp_regen_boost)
+#. source: Enterprise Edition
+msgid "PLUGIN.big_hp_regen_boost.name"
+msgstr "企業版"
+
+#. Plugin - description (big_hp_regen_boost)
+#. source: Add +64 Max HP.\nAdd +12 Health Regen.
+msgid "PLUGIN.big_hp_regen_boost.description"
+msgstr ""
+"+64最大生命值\n"
+"+12治療回復"
+
+#. Plugin - name (big_wave_damage)
+#. source: Peak Hours
+msgid "PLUGIN.big_wave_damage.name"
+msgstr "尖峰時段"
+
+#. Plugin - description (big_wave_damage)
+#. source: Increase Weapon Damage Multiplier +10% when opening a Big Wave.
+msgid "PLUGIN.big_wave_damage.description"
+msgstr "當開啟Big Wave後武器傷害倍率+10%"
+
+#. Plugin - name (blast_on_file_open)
+#. source: AutoPlay
+msgid "PLUGIN.blast_on_file_open.name"
+msgstr "自動播放"
+
+#. Plugin - description (blast_on_file_open)
+#. source: 25% Chance to trigger a Blast when opening a File.
+msgid "PLUGIN.blast_on_file_open.description"
+msgstr "當開啟文件時25%機率觸發衝擊波"
+
+#. Plugin - name (chance_defrag)
+#. source: Disk Cleanup
+msgid "PLUGIN.chance_defrag.name"
+msgstr "磁碟清理"
+
+#. Plugin - description (chance_defrag)
+#. source: 10% Chance to perform a Defrag every 30s.
+msgid "PLUGIN.chance_defrag.description"
+msgstr "每30秒有10%機率執行磁碟重組"
+
+#. Plugin - name (coin_boost)
+#. source: Coin Gain Boost
+msgid "PLUGIN.coin_boost.name"
+msgstr "硬幣收益提升"
+
+#. Plugin - description (coin_boost)
+#. source: Multiply Coin Gain 1.1x.
+msgid "PLUGIN.coin_boost.description"
+msgstr "硬幣收益乘1.1x"
+
+#. Plugin - name (coin_drop_boost)
+#. source: Shared Folders
+msgid "PLUGIN.coin_drop_boost.name"
+msgstr "分享資料夾"
+
+#. Plugin - description (coin_drop_boost)
+#. source: Increase enemy Coin Drop Chance +20%.
+msgid "PLUGIN.coin_drop_boost.description"
+msgstr "敵方硬幣掉落機率+20%"
+
+#. Plugin - name (crit_chance_boost)
+#. source: Crit Chance Boost
+msgid "PLUGIN.crit_chance_boost.name"
+msgstr "暴擊機率提升"
+
+#. Plugin - description (crit_chance_boost)
+#. source: Multiply Crit Chance 1.1x.
+msgid "PLUGIN.crit_chance_boost.description"
+msgstr "暴擊機率乘1.1x"
+
+#. Plugin - name (cursor_speed_boost)
+#. source: Cursor Speed Boost
+msgid "PLUGIN.cursor_speed_boost.name"
+msgstr "游標移速提升"
+
+#. Plugin - description (cursor_speed_boost)
+#. source: Multiply Cursor Speed 1.1x
+msgid "PLUGIN.cursor_speed_boost.description"
+msgstr "游標移速乘1.1x"
+
+#. Plugin - name (cursor_speed_damage)
+#. source: Critical Battery
+msgid "PLUGIN.cursor_speed_damage.name"
+msgstr "臨界電量"
+
+#. Plugin - description (cursor_speed_damage)
+#. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
+msgid "PLUGIN.cursor_speed_damage.description"
+msgstr ""
+"游標移速+10%\n"
+"當受傷時游標移速+30%(持續10秒)"
+
+#. Plugin - name (damage_boost)
+#. source: Weapon Damage Boost
+msgid "PLUGIN.damage_boost.name"
+msgstr "武器傷害提升"
+
+#. Plugin - description (damage_boost)
+#. source: Multiply Weapon Damage 1.1x.
+msgid "PLUGIN.damage_boost.description"
+msgstr "武器傷害乘1.1x"
+
+#. Plugin - name (damage_level_scaling)
+#. source: Career Path
+msgid "PLUGIN.damage_level_scaling.name"
+msgstr "職業生涯規劃"
+
+#. Plugin - description (damage_level_scaling)
+#. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
+msgid "PLUGIN.damage_level_scaling.description"
+msgstr ""
+"每升1等武器傷害+3%\n"
+"每升1等最大生命值-1"
+
+#. Plugin - name (damage_missing_hp)
+#. source: Redline
+msgid "PLUGIN.damage_missing_hp.name"
+msgstr "紅線"
+
+#. Plugin - description (damage_missing_hp)
+#. source: Increase Weapon Damage +1% per 1% missing HP.
+msgid "PLUGIN.damage_missing_hp.description"
+msgstr "每損失1%血量，武器傷害+1%"
+
+#. Plugin - name (damage_speed_crit)
+#. source: Performance Options
+msgid "PLUGIN.damage_speed_crit.name"
+msgstr "效能選項"
+
+#. Plugin - description (damage_speed_crit)
+#. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
+msgid "PLUGIN.damage_speed_crit.description"
+msgstr ""
+"武器傷害+10%\n"
+"刷新速度+10%\n"
+"暴擊機率+5%\n"
+"暴擊傷害+15%"
+
+#. Plugin - name (defrag_on_safe_folder)
+#. source: Startup Folder
+msgid "PLUGIN.defrag_on_safe_folder.name"
+msgstr "啟動資料夾"
+
+#. Plugin - description (defrag_on_safe_folder)
+#. source: Perform a Defrag when the Safe Folder spawns.
+msgid "PLUGIN.defrag_on_safe_folder.description"
+msgstr "當安全資料夾產生時執行進行磁碟重組"
+
+#. Plugin - name (dual_core)
+#. source: Dual Core
+msgid "PLUGIN.dual_core.name"
+msgstr "雙核心"
+
+#. Plugin - description (dual_core)
+#. source: Multiply Processing Speed 2.0x.
+msgid "PLUGIN.dual_core.description"
+msgstr "處理速度乘2x"
+
+#. Plugin - name (heal_on_crit)
+#. source: Retry
+msgid "PLUGIN.heal_on_crit.name"
+msgstr "重試"
+
+#. Plugin - description (heal_on_crit)
+#. source: 5% Chance to Heal when landing a Crit.
+msgid "PLUGIN.heal_on_crit.description"
+msgstr "暴擊時5%機率回血"
+
+#. Plugin - name (hp_boost)
+#. source: Max HP Boost
+msgid "PLUGIN.hp_boost.name"
+msgstr "最大生命值提升"
+
+#. Plugin - description (hp_boost)
+#. source: Add +15 Max HP.
+msgid "PLUGIN.hp_boost.description"
+msgstr "+15最大生命值"
+
+#. Plugin - name (hp_on_heal)
+#. source: AutoRecover
+msgid "PLUGIN.hp_on_heal.name"
+msgstr "自動回復"
+
+#. Plugin - description (hp_on_heal)
+#. source: 7% Chance to Add +3 Max HP when Healed. (5s Cooldown).
+msgid "PLUGIN.hp_on_heal.description"
+msgstr "當回血時7%機率+3最大生命值(5秒冷卻)"
+
+#. Plugin - name (locate_pointer)
+#. source: Locate Pointer
+msgid "PLUGIN.locate_pointer.name"
+msgstr "區域指標"
+
+#. Plugin - description (locate_pointer)
+#. source: Trigger a Blast when taking damage (20s cooldown, reduced per stack).
+msgid "PLUGIN.locate_pointer.description"
+msgstr "受傷時觸發衝擊波(冷卻20秒，每層遞減)"
+
+#. Plugin - name (luck_boost)
+#. source: Luck Boost
+msgid "PLUGIN.luck_boost.name"
+msgstr "幸運提升"
+
+#. Plugin - description (luck_boost)
+#. source: Multiply Luck 1.1x.
+msgid "PLUGIN.luck_boost.description"
+msgstr "幸運乘1.1x"
+
+#. Plugin - name (luck_reroll)
+#. source: Lucky Break
+msgid "PLUGIN.luck_reroll.name"
+msgstr "意料之外的好運"
+
+#. Plugin - description (luck_reroll)
+#. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
+msgid "PLUGIN.luck_reroll.description"
+msgstr ""
+"+12%幸運\n"
+"重擲時+25%幸運(持續10秒)"
+
+#. Plugin - name (luck_zip_boost)
+#. source: Compressed Folders
+msgid "PLUGIN.luck_zip_boost.name"
+msgstr "壓縮資料夾"
+
+#. Plugin - description (luck_zip_boost)
+#. source: Increase Luck +3% when successfully opening a Zip File.
+msgid "PLUGIN.luck_zip_boost.description"
+msgstr "成功解壓縮時+3%幸運"
+
+#. Plugin - name (lucky_when_hurt)
+#. source: Lucky When Hurt
+msgid "PLUGIN.lucky_when_hurt.name"
+msgstr "不幸中的大幸"
+
+#. Plugin - description (lucky_when_hurt)
+#. source: Multiply Luck 2.0x when taking Damage (Lasts 6s).
+msgid "PLUGIN.lucky_when_hurt.description"
+msgstr "受傷時幸運乘2x(持續6秒)"
+
+#. Plugin - name (magnetism_boost)
+#. source: Magnetism Boost
+msgid "PLUGIN.magnetism_boost.name"
+msgstr "磁力提升"
+
+#. Plugin - description (magnetism_boost)
+#. source: Multiply Magnetism 1.1x.
+msgid "PLUGIN.magnetism_boost.description"
+msgstr "磁力乘1.1x"
+
+#. Plugin - name (packet_loss_boost)
+#. source: Packet Loss Boost
+msgid "PLUGIN.packet_loss_boost.name"
+msgstr "丟包提升"
+
+#. Plugin - description (packet_loss_boost)
+#. source: Add +6 Packet Loss.
+msgid "PLUGIN.packet_loss_boost.description"
+msgstr "丟包+6"
+
+#. Plugin - name (processing_speed_boost)
+#. source: Processing Speed Boost
+msgid "PLUGIN.processing_speed_boost.name"
+msgstr "處理速度提升"
+
+#. Plugin - description (processing_speed_boost)
+#. source: Multiply Processing Speed 1.1x.
+msgid "PLUGIN.processing_speed_boost.description"
+msgstr "處理速度乘1.1x"
+
+#. Plugin - name (regen_boost)
+#. source: Health Regen Boost
+msgid "PLUGIN.regen_boost.name"
+msgstr "治療回復提升"
+
+#. Plugin - description (regen_boost)
+#. source: Add +5 Health Regen.
+msgid "PLUGIN.regen_boost.description"
+msgstr "治療回復+5"
+
+#. Plugin - name (shop_discount_10)
+#. source: Coupon Code
+msgid "PLUGIN.shop_discount_10.name"
+msgstr "優惠碼"
+
+#. Plugin - description (shop_discount_10)
+#. source: Discount Shop Items +10%.
+msgid "PLUGIN.shop_discount_10.description"
+msgstr "商店物品打折+10%"
+
+#. Plugin - name (shop_discount_25)
+#. source: Volume License
+msgid "PLUGIN.shop_discount_25.name"
+msgstr "批量授權"
+
+#. Plugin - description (shop_discount_25)
+#. source: Discount Shop Items +25%.
+msgid "PLUGIN.shop_discount_25.description"
+msgstr "商店物品打折+25%"
+
+#. Plugin - name (slow_but_strong)
+#. source: Rau und Stark
+msgid "PLUGIN.slow_but_strong.name"
+msgstr "粗獷且強大"
+
+#. Plugin - description (slow_but_strong)
+#. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
+msgid "PLUGIN.slow_but_strong.description"
+msgstr ""
+"武器傷害乘1.2x\n"
+"游標移速-10%"
+
+#. Plugin - name (smart_recovery)
+#. source: Smart Recovery
+msgid "PLUGIN.smart_recovery.name"
+msgstr "智能恢復"
+
+#. Plugin - description (smart_recovery)
+#. source: Add +10 Max HP.\nHeal 25% of Max HP when opening a Safe Folder.
+msgid "PLUGIN.smart_recovery.description"
+msgstr ""
+"+10最大生命值\n"
+"當開啟安全資料夾時回復25%最大生命值"
+
+#. Plugin - name (weapon_speed_boost)
+#. source: Weapon Speed Boost
+msgid "PLUGIN.weapon_speed_boost.name"
+msgstr "武器速度提升"
+
+#. Plugin - description (weapon_speed_boost)
+#. source: Multiply Weapon Speed 1.1x.
+msgid "PLUGIN.weapon_speed_boost.description"
+msgstr "武器速度乘1.1x"
+
+#. Plugin - name (xp_drop_boost)
+#. source: Error Report
+msgid "PLUGIN.xp_drop_boost.name"
+msgstr "錯誤回報"
+
+#. Plugin - description (xp_drop_boost)
+#. source: Increase enemy EXP Drop Chance +20%.
+msgid "PLUGIN.xp_drop_boost.description"
+msgstr "敵人經驗掉落機率+20%"
+
+#. Plugin - name (xp_file_open)
+#. source: Knowledge Base
+msgid "PLUGIN.xp_file_open.name"
+msgstr "知識庫"
+
+#. Plugin - description (xp_file_open)
+#. source: Gain +5 EXP when opening a File.
+msgid "PLUGIN.xp_file_open.description"
+msgstr "當開啟文件時+5經驗"
+
+#. Plugin - name (xp_gain_boost)
+#. source: EXP Gain Boost
+msgid "PLUGIN.xp_gain_boost.name"
+msgstr "經驗獲取提升"
+
+#. Plugin - description (xp_gain_boost)
+#. source: Multiply EXP Gain 1.1x.
+msgid "PLUGIN.xp_gain_boost.description"
+msgstr "經驗獲取乘1.1x"
+
+#. Plugin - name (xp_gain_on_damage)
+#. source: Readme
+msgid "PLUGIN.xp_gain_on_damage.name"
+msgstr "閱讀我"
+
+#. Plugin - description (xp_gain_on_damage)
+#. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
+msgid "PLUGIN.xp_gain_on_damage.description"
+msgstr ""
+"經驗獲取+10%\n"
+"當受傷時+4經驗"
+
+#. Plugin - name (morgan_av)
+#. source: Morgan Antivirus
+msgid "PLUGIN.morgan_av.name"
+msgstr "摩根防毒軟體"
+
+#. Plugin - description (morgan_av)
+#. source: Difficulty is increased for the rest of the run.\n+1 extra Plus! enemy at each midway point.
+msgid "PLUGIN.morgan_av.description"
+msgstr ""
+"接下來的關卡中，難度將會提升\n"
+"在每個中途點將額外+1個plus! 敵人"
+
+#. Plugin - name (popup_blocker)
+#. source: Realtime Protection
+msgid "PLUGIN.popup_blocker.name"
+msgstr "即時保護"
+
+#. Plugin - description (popup_blocker)
+#. source: Enemy projectiles can be destroyed by weapons.
+msgid "PLUGIN.popup_blocker.description"
+msgstr "敵人投射物可以被武器摧毀"
+
+#. Plugin - name (spam_blocker)
+#. source: Popup Blocker
+msgid "PLUGIN.spam_blocker.name"
+msgstr "彈出視窗攔截器"
+
+#. Plugin - description (spam_blocker)
+#. source: Block half of Spam Popups.
+msgid "PLUGIN.spam_blocker.description"
+msgstr "攔截一半的垃圾廣告彈窗"
+
+#. Plugin - name (adsense)
+#. source: Hit Counter
+msgid "PLUGIN.adsense.name"
+msgstr "網頁計數器"
+
+#. Plugin - description (adsense)
+#. source: Gain +1 Coin when opening a File.
+msgid "PLUGIN.adsense.description"
+msgstr "當開啟文件時+1硬幣"
+
+#. Plugin - name (still_frame)
+#. source: Still Frame
+msgid "PLUGIN.still_frame.name"
+msgstr "靜止畫面"
+
+#. Plugin - description (still_frame)
+#. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
+msgid "PLUGIN.still_frame.description"
+msgstr "當你靜止不動時每秒+5%武器傷害，可堆疊到+15%"
+
+#. Plugin - name (shzip_license)
+#. source: SHZip License
+msgid "PLUGIN.shzip_license.name"
+msgstr "SHZip授權"
+
+#. Plugin - description (shzip_license)
+#. source: Increase Zip Processing Speed +50%.
+msgid "PLUGIN.shzip_license.description"
+msgstr "壓縮檔處理速度+50%"
+
+#. Plugin - name (refresh_overclock)
+#. source: Refresh Overclock
+msgid "PLUGIN.refresh_overclock.name"
+msgstr "刷新超頻"
+
+#. Plugin - description (refresh_overclock)
+#. source: Increase Refresh Speed +50%.\nReduce Cursor Speed -15%.
+msgid "PLUGIN.refresh_overclock.description"
+msgstr ""
+"刷新速度+50%\n"
+"游標移速-15%"
+
+#. Plugin - name (wallet_damage)
+#. source: Wallet Damage
+msgid "PLUGIN.wallet_damage.name"
+msgstr "傷荷包"
+
+#. Plugin - description (wallet_damage)
+#. source: Increase Weapon Damage +1% per 10 Coin held.
+msgid "PLUGIN.wallet_damage.description"
+msgstr "每擁有10硬幣提升武器傷害+1%"
+
+#. Plugin - name (first_strike)
+#. source: First Strike
+msgid "PLUGIN.first_strike.name"
+msgstr "先發制人"
+
+#. Plugin - description (first_strike)
+#. source: Increase Damage +25% against enemies above 90% HP.
+msgid "PLUGIN.first_strike.description"
+msgstr "對生命值高於 90% 的敵人造成額外+25%的傷害"
+
+#. Plugin - name (crit_blast)
+#. source: Crit Blast
+msgid "PLUGIN.crit_blast.name"
+msgstr "暴擊衝擊"
+
+#. Plugin - description (crit_blast)
+#. source: 10% Chance for Crits to Blast for 50% Damage.
+msgid "PLUGIN.crit_blast.description"
+msgstr "暴擊有10%的機率造成50%的衝擊傷害"
+
+#. Plugin - name (zip_recover)
+#. source: Zip Recover
+msgid "PLUGIN.zip_recover.name"
+msgstr "壓縮檔修復"
+
+#. Plugin - description (zip_recover)
+#. source: Successful Zips leave a green healing zone.
+msgid "PLUGIN.zip_recover.description"
+msgstr "成功解壓縮時會留下一圈回血區"
+
+#. Plugin - name (vapidshare_pro)
+#. source: Vapidshare Pro
+msgid "PLUGIN.vapidshare_pro.name"
+msgstr "Vapidshare Pro"
+
+#. Plugin - description (vapidshare_pro)
+#. source: Download Vapidshare parts simultaneously and faster.
+msgid "PLUGIN.vapidshare_pro.description"
+msgstr "可同時下載多個Vapidshare分割檔"
+
+#. Plugin - name (megacrit)
+#. source: Megacrit
+msgid "PLUGIN.megacrit.name"
+msgstr "超．暴擊"
+
+#. Plugin - description (megacrit)
+#. source: Increase Crit Chance +40%.\nCrit Chance above 100% can Megacrit for double Crit Damage.
+msgid "PLUGIN.megacrit.description"
+msgstr ""
+"+40%暴擊機率\n"
+"暴擊率超過100%時可觸發超．暴擊，造成雙倍暴擊傷害"
+
+#. Plugin - name (hyperthread)
+#. source: Hyperthreading
+msgid "PLUGIN.hyperthread.name"
+msgstr "超執行緒"
+
+#. Plugin - description (hyperthread)
+#. source: Multiply Weapon Amount 1.5x.\nMultiply Weapon Damage 0.75x.
+msgid "PLUGIN.hyperthread.description"
+msgstr ""
+"武器數量乘1.5x\n"
+"武器傷害乘0.75x"
+
+#. Plugin - name (tank_core)
+#. source: Tank Core
+msgid "PLUGIN.tank_core.name"
+msgstr "坦克核心"
+
+#. Plugin - description (tank_core)
+#. source: Increase Weapon Damage +20% per 100 Max HP.
+msgid "PLUGIN.tank_core.description"
+msgstr "每100最大生命值，武器傷害+20%"
+
+#. Plugin - name (service_pack)
+#. source: Service Pack
+msgid "PLUGIN.service_pack.name"
+msgstr "服務包"
+
+#. Plugin - description (service_pack)
+#. source: Gain 3 levels.
+msgid "PLUGIN.service_pack.description"
+msgstr "提升 3 級"
+
+#. Plugin - name (reward_leak)
+#. source: Reward Leak
+msgid "PLUGIN.reward_leak.name"
+msgstr "獎勵洩漏"
+
+#. Plugin - description (reward_leak)
+#. source: Spawn 4 CLICK-ME or Memory Leak files around you.
+msgid "PLUGIN.reward_leak.description"
+msgstr "生成4個CLICK-ME或Memory Leak在你周圍"
+
+#. Plugin - name (expansion_slot)
+#. source: Expansion Slot
+msgid "PLUGIN.expansion_slot.name"
+msgstr "擴充槽"
+
+#. Plugin - description (expansion_slot)
+#. source: Equip a random extra weapon at level 6.
+msgid "PLUGIN.expansion_slot.description"
+msgstr "在6等時獲得隨機額外武器"
+
+#. Plugin - name (task_manager)
+#. source: Task Manager
+msgid "PLUGIN.task_manager.name"
+msgstr "工作管理員"
+
+#. Plugin - description (task_manager)
+#. source: Multiply Weapon Refresh 2.0x.\nMultiply Weapon Size 0.75x.
+msgid "PLUGIN.task_manager.description"
+msgstr ""
+"武器刷新乘2x\n"
+"武器尺寸乘0.75x"
+
+#. Plugin - name (raid_0)
+#. source: RAID 0
+msgid "PLUGIN.raid_0.name"
+msgstr "磁碟區塊條帶化"
+
+#. Plugin - description (raid_0)
+#. source: Multiply Zip and RAM rewards 2.0x.\nDecrease Zip and RAM success chance.
+msgid "PLUGIN.raid_0.description"
+msgstr ""
+"壓縮檔和記憶體給的獎勵乘2x\n"
+"但降低壓縮檔和記憶體成功機率"
+
+#. Plugin - name (system_restore)
+#. source: System Restore
+msgid "PLUGIN.system_restore.name"
+msgstr "系統還原"
+
+#. Plugin - description (system_restore)
+#. source: On death, heal 50% of Max HP instead of Blue Screen.\nOnce per stack.
+msgid "PLUGIN.system_restore.description"
+msgstr ""
+"死亡時，回復50%最大生命值而不是藍屏\n"
+"每層一次"
+
+#. Plugin - name (power_user)
+#. source: Power User
+msgid "PLUGIN.power_user.name"
+msgstr "進階用戶"
+
+#. Plugin - description (power_user)
+#. source: Special File capacity scales with Weapon Power.
+msgid "PLUGIN.power_user.description"
+msgstr "特殊檔案容量會隨武器效果提升"
+
+#. Plugin - name (extra_shop_offer)
+#. source: Software Catalog
+msgid "PLUGIN.extra_shop_offer.name"
+msgstr "軟體目錄"
+
+#. Plugin - description (extra_shop_offer)
+#. source: Add +1 upgrade to the Shop.
+msgid "PLUGIN.extra_shop_offer.description"
+msgstr "在商店+1格升級選項"
+
+#. Plugin - name (extra_upgrade_choice)
+#. source: Optional Components
+msgid "PLUGIN.extra_upgrade_choice.name"
+msgstr "自選配件"
+
+#. Plugin - description (extra_upgrade_choice)
+#. source: Add +1 upgrade choice on Level Up.
+msgid "PLUGIN.extra_upgrade_choice.description"
+msgstr "在升等時+1格升級選項"
+
+#. Difficulty protocol - name (protocol_1)
+#. source: Protocol I
+msgid "PROTOCOL.protocol_1.name"
+msgstr "第一協定"
+
+#. Difficulty protocol - description (protocol_1)
+#. source: The beginner difficulty. Earn 16 Beanz per Safe Folder opened + cleared enemies.
+msgid "PROTOCOL.protocol_1.description"
+msgstr ""
+"初級難度\n"
+"每開啟一個安全資料夾可獲得 16 Beanz，\n"
+"消滅敵人可獲得額外Beanz."
+
+#. Difficulty protocol - name (protocol_2)
+#. source: Protocol II
+msgid "PROTOCOL.protocol_2.name"
+msgstr "第二協定"
+
+#. Difficulty protocol - description (protocol_2)
+#. source: The sophomore difficulty. Earn 24 Beanz per Safe Folder opened + cleared enemies.
+msgid "PROTOCOL.protocol_2.description"
+msgstr ""
+"中級難度\n"
+"每開啟一個安全資料夾可獲得 24 Beanz，\n"
+"消滅敵人可獲得額外Beanz."
+
+#. Difficulty protocol - name (protocol_3)
+#. source: Protocol III
+msgid "PROTOCOL.protocol_3.name"
+msgstr "第三協定"
+
+#. Difficulty protocol - description (protocol_3)
+#. source: The tertiary difficulty. Earn 32 Beanz per Safe Folder opened + cleared enemies.
+msgid "PROTOCOL.protocol_3.description"
+msgstr ""
+"進階難度\n"
+"每開啟一個安全資料夾可獲得 32 Beanz，\n"
+"消滅敵人可獲得額外Beanz."
+
+#. Difficulty protocol - name (protocol_4)
+#. source: Protocol IV
+msgid "PROTOCOL.protocol_4.name"
+msgstr "第四協定"
+
+#. Difficulty protocol - description (protocol_4)
+#. source: The senior difficulty. Earn 48 Beanz per Safe Folder opened + cleared enemies.
+msgid "PROTOCOL.protocol_4.description"
+msgstr ""
+"高級難度\n"
+"每開啟一個安全資料夾可獲得 48 Beanz，\n"
+"消滅敵人可獲得額外Beanz."
+
+#. Difficulty protocol - name (protocol_5)
+#. source: Protocol V
+msgid "PROTOCOL.protocol_5.name"
+msgstr "第五協定"
+
+#. Difficulty protocol - description (protocol_5)
+#. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
+msgid "PROTOCOL.protocol_5.description"
+msgstr ""
+"你不必挑戰這個難度\n"
+"不過，如果你選擇挑戰，\n"
+"每開啟一個安全資料夾可獲得 64 Beanz."
+
+#. Stat display - name (upgrade_player_armor)
+#. source: Armo(u)r
+msgid "STAT.upgrade_player_armor.name"
+msgstr "護甲"
+
+#. Stat display - description (upgrade_player_armor)
+#. source: Resistence from all incoming Damage. (Exponential)
+msgid "STAT.upgrade_player_armor.description"
+msgstr "抵抗所有受到的傷害(指數級)"
+
+#. Stat display - name (upgrade_player_coin_gain)
+#. source: Coin Gain
+msgid "STAT.upgrade_player_coin_gain.name"
+msgstr "硬幣獲取"
+
+#. Stat display - description (upgrade_player_coin_gain)
+#. source: Multiplies the amount of all Coin received.
+msgid "STAT.upgrade_player_coin_gain.description"
+msgstr "將收到的所有硬幣數量乘以相應的倍數"
+
+#. Stat display - name (upgrade_player_crit_chance)
+#. source: Crit Chance
+msgid "STAT.upgrade_player_crit_chance.name"
+msgstr "暴擊率"
+
+#. Stat display - description (upgrade_player_crit_chance)
+#. source: Chance to cause Crit Hit.
+msgid "STAT.upgrade_player_crit_chance.description"
+msgstr "造成暴擊的機率"
+
+#. Stat display - name (upgrade_player_crit_damage_multi)
+#. source: Crit Damage
+msgid "STAT.upgrade_player_crit_damage_multi.name"
+msgstr "暴擊傷害"
+
+#. Stat display - description (upgrade_player_crit_damage_multi)
+#. source: Multiplies Damage on Crit Hit.
+msgid "STAT.upgrade_player_crit_damage_multi.description"
+msgstr "暴擊時傷害倍增"
+
+#. Stat display - name (upgrade_player_damage_multi)
+#. source: Weapon Damage
+msgid "STAT.upgrade_player_damage_multi.name"
+msgstr "武器傷害"
+
+#. Stat display - description (upgrade_player_damage_multi)
+#. source: Multiplies all Damage output.
+msgid "STAT.upgrade_player_damage_multi.description"
+msgstr "倍增所有傷害輸出"
+
+#. Stat display - name (upgrade_player_dodge)
+#. source: Packet Loss
+msgid "STAT.upgrade_player_dodge.name"
+msgstr "丟包"
+
+#. Stat display - description (upgrade_player_dodge)
+#. source: Chance to dodge all incoming Damage. (Exponential)
+msgid "STAT.upgrade_player_dodge.description"
+msgstr "有機率躲避所有受到的傷害(指數級)"
+
+#. Stat display - name (upgrade_player_exp_gain)
+#. source: EXP Gain
+msgid "STAT.upgrade_player_exp_gain.name"
+msgstr "經驗獲取"
+
+#. Stat display - description (upgrade_player_exp_gain)
+#. source: Multiplies the amount of all EXP received.
+msgid "STAT.upgrade_player_exp_gain.description"
+msgstr "將收到的所有經驗乘以相應的倍數"
+
+#. Stat display - name (upgrade_player_health_regen)
+#. source: Health Regen
+msgid "STAT.upgrade_player_health_regen.name"
+msgstr "生命回復"
+
+#. Stat display - description (upgrade_player_health_regen)
+#. source: Amount of Health Regen every 20s.
+msgid "STAT.upgrade_player_health_regen.description"
+msgstr "每 20 秒恢復的生命值"
+
+#. Stats manager - HP value format
+#. source: {sign}{value} HP
+#. Keep placeholders unchanged: {sign}, {value}
+msgid "STAT.format_hp"
+msgstr "{sign}{value} 生命值"
+
+#. Stat display - name (upgrade_player_luck)
+#. source: Luck
+msgid "STAT.upgrade_player_luck.name"
+msgstr "幸運"
+
+#. Stat display - description (upgrade_player_luck)
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
+msgid "STAT.upgrade_player_luck.description"
+msgstr "提高獲得更佳屬性的機率，從而獲得更高稀有度的物品，以及其他好處"
+
+#. Stat display - name (upgrade_player_magnetism_multi)
+#. source: Magnetism
+msgid "STAT.upgrade_player_magnetism_multi.name"
+msgstr "磁力"
+
+#. Stat display - description (upgrade_player_magnetism_multi)
+#. source: Multiplies the radius that pulls in EXP and other pickup items.
+msgid "STAT.upgrade_player_magnetism_multi.description"
+msgstr "增加拾取經驗值和其他物品的半徑"
+
+#. Stat display - name (upgrade_player_max_health)
+#. source: Max HP
+msgid "STAT.upgrade_player_max_health.name"
+msgstr "最大生命值"
+
+#. Stat display - description (upgrade_player_max_health)
+#. source: Additional Max HP.
+msgid "STAT.upgrade_player_max_health.description"
+msgstr "添加最大生命值"
+
+#. Stat display - name (upgrade_player_power_multi)
+#. source: Weapon Power
+msgid "STAT.upgrade_player_power_multi.name"
+msgstr "武器效果"
+
+#. Stat display - description (upgrade_player_power_multi)
+#. source: Increases power of Repel, Heat, Infect and Lag from all weapons.
+msgid "STAT.upgrade_player_power_multi.description"
+msgstr "增加武器擊退，灼熱，感染，延遲的能力"
+
+#. Stat display - name (upgrade_player_proc_speed)
+#. source: Processing Speed
+msgid "STAT.upgrade_player_proc_speed.name"
+msgstr "處理速度"
+
+#. Stat display - description (upgrade_player_proc_speed)
+#. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
+msgid "STAT.upgrade_player_proc_speed.description"
+msgstr "提高所有文件處理速度，包括.zip，.bat，LemWire etc.(指數級)"
+
+#. Stat display - name (upgrade_player_refresh_multi)
+#. source: Weapon Refresh
+msgid "STAT.upgrade_player_refresh_multi.name"
+msgstr "武器刷新"
+
+#. Stat display - description (upgrade_player_refresh_multi)
+#. source: Multiplies the speed that all weapons cooldown. (Exponential)
+msgid "STAT.upgrade_player_refresh_multi.description"
+msgstr "提高所有武器的冷卻時間(指數級)"
+
+#. Stat display - name (upgrade_player_speed)
+#. source: Cursor Speed
+msgid "STAT.upgrade_player_speed.name"
+msgstr "游標移速"
+
+#. Stat display - description (upgrade_player_speed)
+#. source: Multiplies the player movement speed.
+msgid "STAT.upgrade_player_speed.description"
+msgstr "提高玩家控制游標的移速"
+
+#. Stat display - name (upgrade_player_weap_amount)
+#. source: Weapon Amount
+msgid "STAT.upgrade_player_weap_amount.name"
+msgstr "武器數量"
+
+#. Stat display - description (upgrade_player_weap_amount)
+#. source: Chance of additional weapon spawns on attack. Relative to base amount.
+msgid "STAT.upgrade_player_weap_amount.description"
+msgstr "攻擊時額外生成武器的機率，相對於基礎數"
+
+#. Stat display - name (upgrade_player_weap_size)
+#. source: Weapon Size
+msgid "STAT.upgrade_player_weap_size.name"
+msgstr "武器尺寸"
+
+#. Stat display - description (upgrade_player_weap_size)
+#. source: Multiplies the size of all weapons.
+msgid "STAT.upgrade_player_weap_size.description"
+msgstr "增大所有武器的尺寸"
+
+#. Stat display - name (upgrade_player_weap_speed)
+#. source: Weapon Speed
+msgid "STAT.upgrade_player_weap_speed.name"
+msgstr "武器速度"
+
+#. Stat display - description (upgrade_player_weap_speed)
+#. source: Multiplies the speed that all weapons attack. (Exponential)
+msgid "STAT.upgrade_player_weap_speed.description"
+msgstr "提高所有武器攻擊速度(指數級)"
+
+#. Weapon upgrade card - damage stat title
+#. source: {weapon} Damage
+#. Keep placeholders unchanged: {weapon}
+msgid "WEAPON_UPGRADE.damage.name"
+msgstr "{weapon} 傷害"
+
+#. Weapon upgrade card - damage stat description
+#. source: Increases {weapon} damage by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.damage.description"
+msgstr "使 {weapon} 的傷害提高 +{percent}%"
+
+#. Weapon upgrade card - attack speed stat title
+#. source: {weapon} Speed
+#. Keep placeholders unchanged: {weapon}
+msgid "WEAPON_UPGRADE.speed.name"
+msgstr "{weapon} 速度"
+
+#. Weapon upgrade card - attack speed stat description
+#. source: Increases {weapon} attack speed by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.speed.description"
+msgstr "使 {weapon} 的攻擊速度提升+{percent}%"
+
+#. Weapon upgrade card - refresh/cooldown stat title
+#. source: {weapon} Refresh
+#. Keep placeholders unchanged: {weapon}
+msgid "WEAPON_UPGRADE.refresh.name"
+msgstr "{weapon} 刷新"
+
+#. Weapon upgrade card - refresh/cooldown stat description
+#. source: Increases {weapon} refresh speed by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.refresh.description"
+msgstr "使 {weapon} 的刷新速度提升+{percent}%"
+
+#. Weapon upgrade card - size stat title
+#. source: {weapon} Size
+#. Keep placeholders unchanged: {weapon}
+msgid "WEAPON_UPGRADE.size.name"
+msgstr "{weapon} 大小"
+
+#. Weapon upgrade card - size stat description
+#. source: Increases {weapon} size by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.size.description"
+msgstr "使 {weapon} 的尺寸增加 +{percent}%"
+
+#. Weapon upgrade card - spawn amount stat title
+#. source: {weapon} Amount
+#. Keep placeholders unchanged: {weapon}
+msgid "WEAPON_UPGRADE.amount.name"
+msgstr "{weapon} 數量"
+
+#. Weapon upgrade card - spawn amount stat description
+#. source: Adds +{percent}% chance of additional {spawn_noun}.
+#. Keep placeholders unchanged: {percent}, {spawn_noun}
+msgid "WEAPON_UPGRADE.amount.description"
+msgstr "增加 +{percent}% 額外的 {spawn_noun} 機率"
+
+#. Weapon upgrade card - power stat title
+#. source: {weapon} Power
+#. Keep placeholders unchanged: {weapon}
+msgid "WEAPON_UPGRADE.power.name"
+msgstr "{weapon} 效果"
+
+#. Weapon upgrade card - repel power description
+#. source: Increases {weapon} Repel effect by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.power.repel.description"
+msgstr "使 {weapon} 的擊退效果提升+{percent}%"
+
+#. Weapon upgrade card - heat stacks power description
+#. source: Increases {weapon} Heat Stacks by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.power.heat.description"
+msgstr "使 {weapon} 的灼熱疊加效果增加 +{percent}%"
+
+#. Weapon upgrade card - lag stacks power description
+#. source: Increases {weapon} Lag Stacks by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.power.lag.description"
+msgstr "使 {weapon} 的延遲疊加效果增加 +{percent}%"
+
+#. Weapon upgrade card - infect stacks power description
+#. source: Increases {weapon} Infect Stacks by +{percent}%.
+#. Keep placeholders unchanged: {weapon}, {percent}
+msgid "WEAPON_UPGRADE.power.infect.description"
+msgstr "使 {weapon} 的感染疊加效果增加 +{percent}%"
+
+#. Weapon amount upgrade - phrase after "additional" for AVD
+#. source: logos spawning
+msgid "WEAPON.avd.spawn_noun"
+msgstr "logo生成"
+
+#. Weapon amount upgrade - phrase after "additional" for Bubbles
+#. source: bubbles spawning
+msgid "WEAPON.bubbles.spawn_noun"
+msgstr "泡泡生成"
+
+#. Weapon amount upgrade - phrase after "additional" for C: Drive
+#. source: drives spawning
+msgid "WEAPON.cdrive.spawn_noun"
+msgstr "硬碟生成"
+
+#. Weapon amount upgrade - phrase after "additional" for Cut
+#. source: scissors spawning
+msgid "WEAPON.cut.spawn_noun"
+msgstr "剪刀生成"
+
+#. Weapon amount upgrade - phrase after "additional" for Firewall
+#. source: fire rings spawning
+msgid "WEAPON.firewall.spawn_noun"
+msgstr "火圈生成"
+
+#. Weapon amount upgrade - phrase after "additional" for FontArt
+#. source: letters spawning
+msgid "WEAPON.fontart.spawn_noun"
+msgstr "文字生成"
+
+#. Weapon amount upgrade - phrase after "additional" for HaD: DoCK
+#. source: shots
+msgid "WEAPON.hitmarkers.spawn_noun"
+msgstr "射擊(次數)"
+
+#. Weapon amount upgrade - phrase after "additional" for Paint
+#. source: circles spawning
+msgid "WEAPON.paint.spawn_noun"
+msgstr "圓圈生成"
+
+#. Weapon amount upgrade - phrase after "additional" for Pinball
+#. source: pinballs spawning
+msgid "WEAPON.pinball.spawn_noun"
+msgstr "彈珠生成"
+
+#. Weapon amount upgrade - phrase after "additional" for Quarantine
+#. source: scans
+msgid "WEAPON.quarantine.spawn_noun"
+msgstr "掃描"
+
+#. Weapon amount upgrade - phrase after "additional" for Search
+#. source: magnifying glasses
+msgid "WEAPON.search.spawn_noun"
+msgstr "放大鏡"
+
+#. Weapon amount upgrade - phrase after "additional" for Solitaire
+#. source: cards spawning
+msgid "WEAPON.solitaire.spawn_noun"
+msgstr "卡片生成"
+
+#. Upgrade card - description (upgrade_player_armor)
+#. source: Increases damage resistance by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_armor.description"
+msgstr "提升傷害抗性 +{percent}%"
+
+#. Upgrade card - description (upgrade_player_coin_gain)
+#. source: Increases coin gain by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_coin_gain.description"
+msgstr "增加硬幣獲取量 +{percent}%"
+
+#. Upgrade card - description (upgrade_player_crit_chance)
+#. source: Increases crit hit chance by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_crit_chance.description"
+msgstr "暴擊機率提高 +{percent}%"
+
+#. Upgrade card - description (upgrade_player_crit_damage_multi)
+#. source: Increases crit hit damage by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_crit_damage_multi.description"
+msgstr "暴擊傷害提高 +{percent}%"
+
+#. Upgrade card - description (upgrade_player_damage_multi)
+#. source: Increases weapon damage multiplier by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_damage_multi.description"
+msgstr "武器傷害倍率提升 +{percent}%"
+
+#. Upgrade card - description (upgrade_player_dodge)
+#. source: Increases chance of dodging damage by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_dodge.description"
+msgstr "增加閃避傷害的機率 +{percent}%"
+
+#. Upgrade card - description (upgrade_player_exp_gain)
+#. source: Increases EXP gain by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_exp_gain.description"
+msgstr "經驗獲取量增加 +{percent}%"
+
+#. Upgrade card - description (upgrade_player_health_regen)
+#. source: Increases Health Regen by +{percent} every 20s.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_health_regen.description"
+msgstr "每 20 秒生命值回覆 +{percent}"
+
+#. Upgrade card - description (upgrade_player_luck)
+#. source: Increases luck by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_luck.description"
+msgstr "幸運值提升 +{percent}%"
+
+#. Upgrade card - description (upgrade_player_magnetism_multi)
+#. source: Increases player magnetism by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_magnetism_multi.description"
+msgstr "提升玩家磁力 +{percent}%"
+
+#. Upgrade card - description (upgrade_player_max_health)
+#. source: Increases Max HP by +{percent}.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_max_health.description"
+msgstr "最大生命值值增加 +{percent}"
+
+#. Upgrade card - description (upgrade_player_power_multi)
+#. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_power_multi.description"
+msgstr "武器的擊退、灼熱、感染和延遲效果提升 +{percent}%"
+
+#. Upgrade card - description (upgrade_player_proc_speed)
+#. source: Increases file opening speed by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_proc_speed.description"
+msgstr "檔案開啟速度提升 +{percent}%"
+
+#. Upgrade card - description (upgrade_player_refresh_multi)
+#. source: Increases weapon refresh multiplier by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_refresh_multi.description"
+msgstr "武器刷新倍率提升 +{percent}%"
+
+#. Upgrade card - description (upgrade_player_speed)
+#. source: Increases movement speed by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_speed.description"
+msgstr "移動速度提升 +{percent}%"
+
+#. Upgrade card - description (upgrade_player_weap_amount)
+#. source: Adds +{percent}% chance of additional weapon spawns.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_weap_amount.description"
+msgstr "增加 +{percent}% 武器產生機率"
+
+#. Upgrade card - description (upgrade_player_weap_size)
+#. source: Increases weapon size multiplier by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_weap_size.description"
+msgstr "武器尺寸倍率+{percent}%"
+
+#. Upgrade card - description (upgrade_player_weap_speed)
+#. source: Increases weapon attack speed multiplier by +{percent}%.
+#. Keep placeholders unchanged: {percent}
+msgid "UPGRADE.upgrade_player_weap_speed.description"
+msgstr "提升武器攻擊速度倍率 +{percent}%"
+
+#. Upgrade card - name (weapon_avd)
+#. source: AVD Logo
+msgid "UPGRADE.weapon_avd.name"
+msgstr "AVD Logo"
+
+#. Upgrade card - description (weapon_avd)
+#. source: Shoots a giant AVD logo towards the nearest enemy.
+msgid "UPGRADE.weapon_avd.description"
+msgstr "發射一個巨大的AVD logo朝向最近的敵人"
+
+#. Upgrade card - name (weapon_bubbles)
+#. source: Bubbles
+msgid "UPGRADE.weapon_bubbles.name"
+msgstr "泡泡"
+
+#. Upgrade card - description (weapon_bubbles)
+#. source: Giant bubbles float around that add stacks of Infect to enemies.
+msgid "UPGRADE.weapon_bubbles.description"
+msgstr "巨大的泡泡漂浮在周圍，並為敵人疊加感染層數"
+
+#. Upgrade card - name (weapon_cdrive)
+#. source: C: Drive
+msgid "UPGRADE.weapon_cdrive.name"
+msgstr "C: 本機磁碟"
+
+#. Upgrade card - description (weapon_cdrive)
+#. source: Drops harddrives randomly on enemies.
+msgid "UPGRADE.weapon_cdrive.description"
+msgstr "隨機向敵人掉落硬碟"
+
+#. Upgrade card - name (weapon_cut)
+#. source: Cut
+msgid "UPGRADE.weapon_cut.name"
+msgstr "剪下"
+
+#. Upgrade card - description (weapon_cut)
+#. source: Scissors slice through the nearest enemy.
+msgid "UPGRADE.weapon_cut.description"
+msgstr "剪刀剪下最近的敵人"
+
+#. Upgrade card - name (weapon_firewall)
+#. source: Firewall
+msgid "UPGRADE.weapon_firewall.name"
+msgstr "防火牆"
+
+#. Upgrade card - description (weapon_firewall)
+#. source: Creates a ring of fire around the player that adds stacks of Heat to enemies.
+msgid "UPGRADE.weapon_firewall.description"
+msgstr "在玩家周圍生成一個火焰環，使敵人疊加灼熱層數"
+
+#. Upgrade card - name (weapon_fontart)
+#. source: FontArt
+msgid "UPGRADE.weapon_fontart.name"
+msgstr "文字藝術"
+
+#. Upgrade card - description (weapon_fontart)
+#. source: Drops letters on the strongest enemy that add stacks of Heat to enemies.
+msgid "UPGRADE.weapon_fontart.description"
+msgstr "向最強敵人掉落字母，這些字母會為敵人疊加灼燒層數"
+
+#. Upgrade card - name (weapon_hitmarkers)
+#. source: HaD: DoCK
+msgid "UPGRADE.weapon_hitmarkers.name"
+msgstr "HaD: DoCK"
+
+#. Upgrade card - description (weapon_hitmarkers)
+#. source: Shots land on the nearest enemy. 3% chance of a headshot.
+msgid "UPGRADE.weapon_hitmarkers.description"
+msgstr "射擊最近的敵人，有 3% 的機率爆頭"
+
+#. Upgrade card - name (weapon_paint)
+#. source: Paint
+msgid "UPGRADE.weapon_paint.name"
+msgstr "小畫家"
+
+#. Upgrade card - description (weapon_paint)
+#. source: Paints circles near the player that damage and add stacks of Lag to enemies over time.
+msgid "UPGRADE.weapon_paint.description"
+msgstr "在玩家附近繪製圓圈，持續對敵人造成傷害並疊加延遲效果"
+
+#. Upgrade card - name (weapon_pinball)
+#. source: Pinball
+msgid "UPGRADE.weapon_pinball.name"
+msgstr "彈珠台"
+
+#. Upgrade card - description (weapon_pinball)
+#. source: Shoots a bouncing ball towards the nearest enemy.
+msgid "UPGRADE.weapon_pinball.description"
+msgstr "向最近的敵人發射一個彈跳球"
+
+#. Upgrade card - name (weapon_quarantine)
+#. source: Quarantine
+msgid "UPGRADE.weapon_quarantine.name"
+msgstr "隔離區"
+
+#. Upgrade card - description (weapon_quarantine)
+#. source: Scans an area around the player damaging enemies.
+msgid "UPGRADE.weapon_quarantine.description"
+msgstr "掃描玩家周圍區域，對敵人造成傷害"
+
+#. Upgrade card - name (weapon_search)
+#. source: Search
+msgid "UPGRADE.weapon_search.name"
+msgstr "搜索"
+
+#. Upgrade card - description (weapon_search)
+#. source: Sends out a magnifying glass around the player.
+msgid "UPGRADE.weapon_search.description"
+msgstr "向玩家周圍發射出一個放大鏡"
+
+#. Upgrade card - name (weapon_solitaire)
+#. source: Solitaire
+msgid "UPGRADE.weapon_solitaire.name"
+msgstr "紙牌"
+
+#. Upgrade card - description (weapon_solitaire)
+#. source: Shoots a bouncing card that adds stacks of Infect to enemies.
+msgid "UPGRADE.weapon_solitaire.description"
+msgstr "發射一張彈跳卡牌，為敵人疊加感染層數"
+
+#. Upgrade card - name (weapon_fraps)
+#. source: Frames
+msgid "UPGRADE.weapon_fraps.name"
+msgstr "幀數"
+
+#. Upgrade card - description (weapon_fraps)
+#. source: Fires flickering FPS numbers. The number shown is the damage dealt.
+msgid "UPGRADE.weapon_fraps.description"
+msgstr ""
+"顯示閃爍的幀數數字\n"
+"顯示的數字為能造成的傷害"
+
+#. Upgrade card - name (weapon_scimitar)
+#. source: Scimitar
+msgid "UPGRADE.weapon_scimitar.name"
+msgstr "彎刀"
+
+#. Upgrade card - description (weapon_scimitar)
+#. source: Slashes above and below the cursor. Extra amount adds alternating slashes.
+msgid "UPGRADE.weapon_scimitar.description"
+msgstr ""
+"在游標的上方和下方進行斬擊\n"
+"額外數量會增加交替斬擊"
+
+#. Upgrade card - name (weapon_sniper)
+#. source: Sniper 1.6
+msgid "UPGRADE.weapon_sniper.name"
+msgstr "Sniper 1.6"
+
+#. Upgrade card - description (weapon_sniper)
+#. source: One heavy shot at the strongest enemy. Clears show in a killfeed.
+msgid "UPGRADE.weapon_sniper.description"
+msgstr ""
+"一擊重創最強敵人\n"
+"會顯示擊殺訊息"
+
+#. Upgrade card - name (weapon_minesweeper)
+#. source: Mines
+msgid "UPGRADE.weapon_minesweeper.name"
+msgstr "踩地雷"
+
+#. Upgrade card - description (weapon_minesweeper)
+#. source: Tosses mines that plant, then explode when an enemy touches them.
+msgid "UPGRADE.weapon_minesweeper.description"
+msgstr "投擲地雷，地雷放置後會在敵人碰到後爆炸"
+
+#. Upgrade card - name (weapon_email)
+#. source: Email
+msgid "UPGRADE.weapon_email.name"
+msgstr "Email"
+
+#. Upgrade card - description (weapon_email)
+#. source: Envelopes fly out, bounce off walls, and boomerang home hitting both ways.
+msgid "UPGRADE.weapon_email.description"
+msgstr "信封飛出後會從牆壁反彈，並像迴力鏢一樣飛回，來回都能造成傷害"
+
+#. Upgrade card - name (weapon_cruiser)
+#. source: Internet Cruiser
+msgid "UPGRADE.weapon_cruiser.name"
+msgstr "網路漫遊者"
+
+#. Upgrade card - description (weapon_cruiser)
+#. source: Opens a browser tab somewhere on screen. Lingers and applies heavy Lag.
+msgid "UPGRADE.weapon_cruiser.description"
+msgstr ""
+"在螢幕隨機位置開啟瀏覽器分頁\n"
+"該分頁會持續滯留並引發嚴重的卡頓"
+
+#. Upgrade card - name (weapon_orchestra)
+#. source: Orchestra
+msgid "UPGRADE.weapon_orchestra.name"
+msgstr "Orchestra"
+
+#. Upgrade card - description (weapon_orchestra)
+#. source: Opens a browser tab on the closest enemy on screen. Infects, and sometimes executes.
+msgid "UPGRADE.weapon_orchestra.description"
+msgstr ""
+"在螢幕上最近的敵人處開啟一個瀏覽器分頁\n"
+"感染敵人，有時還會處決敵人"
+
+#. Upgrade card - name (weapon_satellite)
+#. source: WLAN
+msgid "UPGRADE.weapon_satellite.name"
+msgstr "無線網路"
+
+#. Upgrade card - description (weapon_satellite)
+#. source: Deploys a dish that pings nearby enemies with Lag signals.
+msgid "UPGRADE.weapon_satellite.description"
+msgstr "部署一個碟型天線，向附近敵人發出延遲訊號"
+
+#. Upgrade card - name (weapon_avn)
+#. source: AVN Chat
+msgid "UPGRADE.weapon_avn.name"
+msgstr "AVN 對話框"
+
+#. Upgrade card - description (weapon_avn)
+#. source: Orbiting chat-bubble beams type out messages and Lag enemies.
+msgid "UPGRADE.weapon_avn.description"
+msgstr "環繞的對話框會輸入訊息並造成敵人卡頓"
+
+#. Upgrade card - name (weapon_cone)
+#. source: Very Large Cone
+msgid "UPGRADE.weapon_cone.name"
+msgstr "非常大角錐"
+
+#. Upgrade card - description (weapon_cone)
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
+msgid "UPGRADE.weapon_cone.description"
+msgstr "橘色交通錐黏在你身上，它們能灼燒指向的目標"
+
+#. Upgrade card - name (weapon_blatand)
+#. source: Blåtand
+msgid "UPGRADE.weapon_blatand.name"
+msgstr "藍牙"
+
+#. Upgrade card - description (weapon_blatand)
+#. source: Chains dashed Infect links between enemies at a fixed link length.
+msgid "UPGRADE.weapon_blatand.description"
+msgstr "連鎖攻擊，以固定長度在敵人之間建立感染連接"
+
+#. Upgrade card - name (weapon_modem)
+#. source: Output Device
+msgid "UPGRADE.weapon_modem.name"
+msgstr "輸出裝置"
+
+#. Upgrade card - description (weapon_modem)
+#. source: Blasts sound rings outward from the cursor.
+msgid "UPGRADE.weapon_modem.description"
+msgstr "從游標向外發射同心圓狀的衝擊波"
+
+#. Weapon metadata
+#. source: FPS counter
+msgid "WEAPON.fraps.spawn_noun"
+msgstr "FPS計數器"
+
+#. Weapon metadata
+#. source: slash
+msgid "WEAPON.scimitar.spawn_noun"
+msgstr "斬擊"
+
+#. Weapon metadata
+#. source: shot
+msgid "WEAPON.sniper.spawn_noun"
+msgstr "射擊(次數)"
+
+#. Weapon metadata
+#. source: mine
+msgid "WEAPON.minesweeper.spawn_noun"
+msgstr "地雷"
+
+#. Weapon metadata
+#. source: envelope
+msgid "WEAPON.email.spawn_noun"
+msgstr "信封"
+
+#. Weapon metadata
+#. source: tab
+msgid "WEAPON.cruiser.spawn_noun"
+msgstr "分頁"
+
+#. Weapon metadata
+#. source: tab
+msgid "WEAPON.orchestra.spawn_noun"
+msgstr "分頁"
+
+#. Weapon metadata
+#. source: dish
+msgid "WEAPON.satellite.spawn_noun"
+msgstr "碟形天線"
+
+#. Weapon metadata
+#. source: chat bubble
+msgid "WEAPON.avn.spawn_noun"
+msgstr "對話氣泡"
+
+#. Weapon metadata
+#. source: cone
+msgid "WEAPON.cone.spawn_noun"
+msgstr "角錐"
+
+#. Weapon metadata
+#. source: link
+msgid "WEAPON.blatand.spawn_noun"
+msgstr "連結"
+
+#. Weapon metadata
+#. source: ring
+msgid "WEAPON.modem.spawn_noun"
+msgstr "光圈"
+
+#. BOSS - name (recycle_bin)
+#. source: Recycle Bin
+msgid "BOSS.recycle_bin.name"
+msgstr "資源回收桶"
+
+#. BOSS - name (bonzi)
+#. source: Caesar Chimp
+msgid "BOSS.bonzi.name"
+msgstr "凱撒"
+
+#. BOSS - name (beachball)
+#. source: Spinning Beach Ball of Death
+msgid "BOSS.beachball.name"
+msgstr "死亡旋轉海灘球"
+
+#. BOSS - name (random)
+#. source: Random Boss
+msgid "BOSS.random.name"
+msgstr "隨機BOSS"
+
+#. BOSS
+#. source: Fight a boss you have not met yet.
+msgid "BOSS.random.tooltip_unmet"
+msgstr "對決一位你尚未遇過的BOSS"
+
+#. BOSS
+#. source: Fight a random boss.
+msgid "BOSS.random.tooltip_all_met"
+msgstr "隨機迎戰一位BOSS"
+
+#. Elite HUD fallback name
+#. source: Elite
+msgid "ELITE.generic.name"
+msgstr "菁英"
+
+#. ELITE - name (error)
+#. source: Error Plus!
+msgid "ELITE.error.name"
+msgstr "錯誤 Plus!"
+
+#. ELITE - name (question)
+#. source: Question Plus!
+msgid "ELITE.question.name"
+msgstr "問題 Plus!"
+
+#. ELITE - name (crawler)
+#. source: Internet Crawler Plus!
+msgid "ELITE.crawler.name"
+msgstr "網路爬蟲 Plus!"
+
+#. ELITE - name (avn_buddy)
+#. source: AVN Buddy Plus!
+msgid "ELITE.avn_buddy.name"
+msgstr "AVN 夥伴 Plus!"
+
+#. Enemy sniper-feed name - name (error)
+#. source: Error
+msgid "ENEMY.error.name"
+msgstr "錯誤"
+
+#. Enemy sniper-feed name - name (big_error)
+#. source: Big Error
+msgid "ENEMY.big_error.name"
+msgstr "大型錯誤"
+
+#. Enemy sniper-feed name - name (question)
+#. source: Question
+msgid "ENEMY.question.name"
+msgstr "問題"
+
+#. Enemy sniper-feed name - name (critical)
+#. source: Critical
+msgid "ENEMY.critical.name"
+msgstr "警告"
+
+#. Enemy sniper-feed name - name (big_critical)
+#. source: Big Critical
+msgid "ENEMY.big_critical.name"
+msgstr "大型警告"
+
+#. Enemy sniper-feed name - name (crawler)
+#. source: Internet Crawler
+msgid "ENEMY.crawler.name"
+msgstr "網路爬蟲"
+
+#. Enemy sniper-feed name - name (mine)
+#. source: Mine
+msgid "ENEMY.mine.name"
+msgstr "地雷"
+
+#. Enemy sniper-feed name - name (large_mine)
+#. source: Big Mine
+msgid "ENEMY.large_mine.name"
+msgstr "大地雷"
+
+#. Enemy sniper-feed name - name (swarm)
+#. source: Close
+msgid "ENEMY.swarm.name"
+msgstr "關閉"
+
+#. Enemy sniper-feed name - name (bouncer)
+#. source: Beach Ball
+msgid "ENEMY.bouncer.name"
+msgstr "海灘球"
+
+#. Enemy sniper-feed name - name (blocker)
+#. source: Small Shield
+msgid "ENEMY.blocker.name"
+msgstr "小型盾"
+
+#. Enemy sniper-feed name - name (kiter)
+#. source: Recycler
+msgid "ENEMY.kiter.name"
+msgstr "回收者"
+
+#. Enemy sniper-feed name - name (dxdiag)
+#. source: GfxDiag
+msgid "ENEMY.dxdiag.name"
+msgstr "診斷"
+
+#. Enemy sniper-feed name - name (burning_disc)
+#. source: PyroDisc
+msgid "ENEMY.burning_disc.name"
+msgstr "燒碟"
+
+#. Enemy sniper-feed name - name (click_me)
+#. source: CLICK-ME.TXT.vbs
+msgid "ENEMY.click_me.name"
+msgstr "CLICK-ME.TXT.vbs"
+
+#. Enemy sniper-feed name - name (shooter)
+#. source: AVN Buddy
+msgid "ENEMY.shooter.name"
+msgstr "AVN 夥伴"
+
+#. Enemy sniper-feed name - name (big_shield)
+#. source: Big Shield
+msgid "ENEMY.big_shield.name"
+msgstr "大型盾"
+
+#. Enemy sniper-feed name - name (memory_leak)
+#. source: Memory Leak
+msgid "ENEMY.memory_leak.name"
+msgstr "Memory Leak"
+
+#. Enemy sniper-feed name
+#. source: memory_leak.reg
+msgid "ENEMY.memory_leak.filename"
+msgstr "memory_leak.reg"
+
+#. Settings menu
+#. source: Unlimited
+msgid "SETTINGS.fps_unlimited"
+msgstr "無上限"
+
+#. Settings menu
+#. source: Windowed
+msgid "SETTINGS.windowed"
+msgstr "視窗化"
+
+#. Settings menu
+#. source: Full Screen
+msgid "SETTINGS.fullscreen"
+msgstr "全螢幕"
+
+#. Settings menu
+#. source: Unknown
+msgid "SETTINGS.unknown"
+msgstr "未知"
+
+#. Settings menu
+#. source: Standard
+msgid "SETTINGS.zoom_standard"
+msgstr "標準"
+
+#. Settings menu
+#. source: Zoomed Out
+msgid "SETTINGS.zoom_zoomed_out"
+msgstr "縮小"
+
+#. Settings menu
+#. source: Language
+msgid "SETTINGS.language"
+msgstr "語言"
+
+#. Settings menu
+#. source: Control Panel
+msgid "SETTINGS.window_title"
+msgstr "控制面板"
+
+#. Settings menu
+#. source: Display
+msgid "SETTINGS.tab_display"
+msgstr "顯示"
+
+#. Settings menu
+#. source: Audio
+msgid "SETTINGS.tab_audio"
+msgstr "聲音"
+
+#. Settings menu
+#. source: Controls
+msgid "SETTINGS.tab_controls"
+msgstr "控制"
+
+#. Settings menu
+#. source: Game
+msgid "SETTINGS.tab_game"
+msgstr "遊玩"
+
+#. Settings menu
+#. source: External display
+msgid "SETTINGS.group_external_display"
+msgstr "外接顯示器"
+
+#. Settings menu
+#. source: Internal display
+msgid "SETTINGS.group_internal_display"
+msgstr "內部顯示器"
+
+#. Settings menu
+#. source: Audio levels
+msgid "SETTINGS.group_audio_levels"
+msgstr "音量大小"
+
+#. Settings menu
+#. source: Text services
+msgid "SETTINGS.group_text_services"
+msgstr "文字服務"
+
+#. Settings menu
+#. source: Menu controls
+msgid "SETTINGS.group_menu_controls"
+msgstr "選單控制"
+
+#. Settings menu
+#. source: Gameplay
+msgid "SETTINGS.controls_gameplay"
+msgstr "遊戲玩法"
+
+#. Settings menu
+#. source: Menus
+msgid "SETTINGS.controls_menus"
+msgstr "選單"
+
+#. Settings menu
+#. source: Window Mode
+msgid "SETTINGS.window_mode"
+msgstr "視窗模式"
+
+#. Settings menu
+#. source: Display Zoom
+msgid "SETTINGS.display_zoom"
+msgstr "顯示縮放"
+
+#. Settings menu
+#. source: Vsync
+msgid "SETTINGS.vsync"
+msgstr "垂直同步"
+
+#. Settings menu
+#. source: FPS Cap
+msgid "SETTINGS.fps_cap"
+msgstr "幀率上限"
+
+#. Settings menu
+#. source: CRT Filter
+msgid "SETTINGS.crt_filter"
+msgstr "CRT濾鏡"
+
+#. Settings menu
+#. source: Show Monitor Bezel
+msgid "SETTINGS.show_monitor_bezel"
+msgstr "顯示器邊框"
+
+#. Settings menu
+#. source: Master Volume
+msgid "SETTINGS.master_volume"
+msgstr "主音量"
+
+#. Settings menu
+#. source: Music Volume
+msgid "SETTINGS.music_volume"
+msgstr "音樂音量"
+
+#. Settings menu
+#. source: SFX Volume
+msgid "SETTINGS.sfx_volume"
+msgstr "音效音量"
+
+#. Settings menu
+#. source: Keygen Volume
+msgid "SETTINGS.keygen_volume"
+msgstr "金鑰產生器音量"
+
+#. Settings menu
+#. source: Main Menu Computer Sound
+msgid "SETTINGS.menu_computer_sound"
+msgstr "主選單電腦音效"
+
+#. Settings menu
+#. source: Animation Speed
+msgid "SETTINGS.anim_speed"
+msgstr "動畫速度"
+
+#. Settings menu
+#. source: Menu Cursor Speed
+msgid "SETTINGS.menu_cursor_speed"
+msgstr "選單游標速度"
+
+#. Settings menu
+#. source: Run as Administrator
+msgid "SETTINGS.admin_cursor"
+msgstr "以系統管理員身分執行"
+
+#. Settings menu
+#. source: Controller Vibration
+msgid "SETTINGS.controller_vibration"
+msgstr "控制器振動"
+
+#. Settings menu
+#. source: Switch between windowed and fullscreen.
+msgid "SETTINGS.window_mode_tip"
+msgstr "在視窗模式和全螢幕模式之間切換"
+
+#. Settings menu
+#. source: How large the game draws inside the window.
+msgid "SETTINGS.display_zoom_tip"
+msgstr "遊戲畫面在視窗內的大小"
+
+#. Settings menu
+#. source: Lock the frame rate to your display to prevent tearing.
+msgid "SETTINGS.vsync_tip"
+msgstr "將遊戲幀率限制在與螢幕更新率相同，以防止畫面撕裂"
+
+#. Settings menu
+#. source: Maximum frames per second. Unlimited uses your hardware's limit.
+msgid "SETTINGS.fps_cap_tip"
+msgstr "每秒最大幀數. 無上限則受限於你的硬體限制"
+
+#. Settings menu
+#. source: Strength of the CRT scanline filter over the screen.
+msgid "SETTINGS.crt_filter_tip"
+msgstr "調整螢幕 CRT 掃描線效果的強度"
+
+#. Settings menu
+#. source: Show or hide the monitor frame around the desktop.
+msgid "SETTINGS.show_monitor_bezel_tip"
+msgstr "顯示或隱藏桌面周圍的顯示器邊框"
+
+#. Settings menu
+#. source: Overall volume for every sound in the game.
+msgid "SETTINGS.master_volume_tip"
+msgstr "遊戲中所有聲音的整體音量"
+
+#. Settings menu
+#. source: Volume for the soundtrack.
+msgid "SETTINGS.music_volume_tip"
+msgstr "背景音樂音量"
+
+#. Settings menu
+#. source: Volume for sound effects.
+msgid "SETTINGS.sfx_volume_tip"
+msgstr "聲音效果音量"
+
+#. Settings menu
+#. source: Volume for Keygen windows that play their own track.
+msgid "SETTINGS.keygen_volume_tip"
+msgstr "適用於播放自身音軌的金鑰產生器視窗的音量"
+
+#. Settings menu
+#. source: Play the computer humming sound on the main menu.
+msgid "SETTINGS.menu_computer_sound_tip"
+msgstr "播放主選單的電腦環境音"
+
+#. Settings menu
+#. source: Language for menus and in-game text.
+msgid "SETTINGS.language_tip"
+msgstr "選單和遊戲內文本的語言"
+
+#. Settings menu
+#. source: How quickly UI animations and transitions play.
+msgid "SETTINGS.anim_speed_tip"
+msgstr "UI動畫和過渡效果播放速度"
+
+#. Settings menu
+#. source: How fast the cursor moves with the stick or keys in menus.
+msgid "SETTINGS.menu_cursor_speed_tip"
+msgstr "在選單中使用搖桿或鍵盤移動游標的速度"
+
+#. Settings menu
+#. source: Control your cursor with the mouse in Safe Folders. Battle Folders always use WASD or the left stick.
+msgid "SETTINGS.admin_cursor_tip"
+msgstr ""
+"在安全資料夾中，使用滑鼠控制游標 \n"
+"在戰鬥資料夾中，使用 WASD 鍵或左鍵"
+
+#. Settings menu
+#. source: Vibrate the controller when taking damage.
+msgid "SETTINGS.controller_vibration_tip"
+msgstr "受到傷害時震動控制器"
+
+#. Settings menu
+#. source: OK
+msgid "SETTINGS.ok"
+msgstr "確認"
+
+#. Settings menu
+#. source: Restore Defaults
+msgid "SETTINGS.restore_defaults"
+msgstr "恢復默認"
+
+#. Settings menu
+#. source: Rebind %s
+#. Keep placeholders unchanged: %s
+msgid "SETTINGS.rebind_title"
+msgstr "重新綁定 %s"
+
+#. Settings menu
+#. source: Waiting for input...
+msgid "SETTINGS.rebind_prompt"
+msgstr "正在等待輸入..."
+
+#. Settings menu
+#. source: Primary
+msgid "SETTINGS.rebind_primary"
+msgstr "主要"
+
+#. Settings menu
+#. source: Secondary
+msgid "SETTINGS.rebind_secondary"
+msgstr "次要"
+
+#. Settings menu
+#. source: Already bound to %s.
+#. Keep placeholders unchanged: %s
+msgid "SETTINGS.rebind_conflict"
+msgstr "已綁定至%s"
+
+#. Settings menu
+#. source: Replace
+msgid "SETTINGS.rebind_replace"
+msgstr "代替"
+
+#. Settings menu
+#. source: Keep Both
+msgid "SETTINGS.rebind_keep_both"
+msgstr "保留"
+
+#. Settings menu
+#. source: Press to Cancel (Hold to Bind)
+msgid "SETTINGS.rebind_hold_hint"
+msgstr "按下以取消(長按綁定)"
+
+#. Settings menu
+#. source: Current %s:
+#. Keep placeholders unchanged: %s
+msgid "SETTINGS.rebind_current"
+msgstr "目前 %s"
+
+#. Settings menu
+#. source: Unbound
+msgid "SETTINGS.rebind_unbound"
+msgstr "解除綁定"
+
+#. Settings menu
+#. source: Cancel
+msgid "SETTINGS.cancel"
+msgstr "取消"
+
+#. Settings menu
+#. source: Move Up
+msgid "SETTINGS.action_move_up"
+msgstr "向上"
+
+#. Settings menu
+#. source: Move Down
+msgid "SETTINGS.action_move_down"
+msgstr "向下"
+
+#. Settings menu
+#. source: Move Left
+msgid "SETTINGS.action_move_left"
+msgstr "向左"
+
+#. Settings menu
+#. source: Move Right
+msgid "SETTINGS.action_move_right"
+msgstr "向右"
+
+#. Settings menu
+#. source: Movement
+msgid "SETTINGS.action_move"
+msgstr "移動"
+
+#. Settings menu
+#. source: Click / Drag
+msgid "SETTINGS.action_left_click"
+msgstr "點擊/拖曳"
+
+#. Settings menu
+#. source: Special
+msgid "SETTINGS.action_widget_action"
+msgstr "特殊"
+
+#. Settings menu
+#. source: Show Stats
+msgid "SETTINGS.action_tab"
+msgstr "顯示數據"
+
+#. Settings menu
+#. source: Pause
+msgid "SETTINGS.action_pause"
+msgstr "暫停"
+
+#. Settings menu
+#. source: Close
+msgid "SETTINGS.action_close"
+msgstr "關閉"
+
+#. Settings menu
+#. source: Menu Shortcut
+msgid "SETTINGS.action_menu_shortcut"
+msgstr "選單快速鍵"
+
+#. Settings menu
+#. source: Previous Tab
+msgid "SETTINGS.action_menu_tab_prev"
+msgstr "上一個分頁"
+
+#. Settings menu
+#. source: Next Tab
+msgid "SETTINGS.action_menu_tab_next"
+msgstr "下一個分頁"
+
+#. Rarity label
+#. source: Common
+msgid "RARITY.common"
+msgstr "普通"
+
+#. Rarity label
+#. source: Uncommon
+msgid "RARITY.uncommon"
+msgstr "罕見"
+
+#. Rarity label
+#. source: Rare
+msgid "RARITY.rare"
+msgstr "稀有"
+
+#. Rarity label
+#. source: Epic
+msgid "RARITY.epic"
+msgstr "史詩"
+
+#. Rarity label
+#. source: Legendary
+msgid "RARITY.legendary"
+msgstr "傳說"
+
+#. Rarity label
+#. source: Unknown
+msgid "RARITY.unknown"
+msgstr "未知"
+
+#. Torrent window
+#. source: Finished
+msgid "TORRENT.finished"
+msgstr "已完成"
+
+#. Torrent window
+#. source: Stalled
+msgid "TORRENT.stalled"
+msgstr "停滯"
+
+#. Torrent window
+#. source: Downloading
+msgid "TORRENT.downloading"
+msgstr "下載中"
+
+#. Torrent window
+#. source: %d KB/s
+#. Keep placeholders unchanged: %d
+msgid "TORRENT.speed"
+msgstr "%d KB/s"
+
+#. UI (script-driven)
+#. source: Vapor - Validating files - {0}% complete
+msgid "UI.vapor_validating"
+msgstr "Vapor - 檔案驗證中 - 完成度:{0}%"
+
+#. HUD - level label
+#. source: Level: %d
+#. Keep placeholders unchanged: %d
+msgid "UI.level"
+msgstr "等級:%d"
+
+#. Upgrade screen - fake window title
+#. source: level%d.doc - SH Docs 2003
+#. Keep placeholders unchanged: %d
+msgid "UI.window_title"
+msgstr "等級%d.doc - SH Docs 2003"
+
+#. End-of-round timer prompt for the Safe Folder
+#. source: Get to the Safe Folder!
+msgid "UI.get_to_safe_folder"
+msgstr "立即前往安全資料夾 !"
+
+#. End-of-round timer prompt when the boss file drops
+#. source: Get to the Boss File!
+msgid "UI.get_to_boss_file"
+msgstr "立即前往BOSS文件 !"
+
+#. Upgrade screen - title
+#. source: Level Up!
+msgid "UI.level_up"
+msgstr "等級提升 !"
+
+#. UI (script-driven)
+#. source: Collecting any loose Data.
+msgid "UI.collecting_data"
+msgstr "正在收集遺失的數據"
+
+#. Login screen - create profile entry name
+#. source: New user
+msgid "UI.login_new_user"
+msgstr "新使用者"
+
+#. Login screen - create profile entry subtitle
+#. source: Create a profile
+msgid "UI.login_new_user_detail"
+msgstr "建立個人資料"
+
+#. Login screen - imported demo save entry name
+#. source: Demo Save
+msgid "UI.login_demo_name"
+msgstr "Demo保存"
+
+#. Login screen - profile entry subtitle
+#. source: %d Beanz
+#. Keep placeholders unchanged: %d
+msgid "UI.login_profile_detail"
+msgstr ""
+"%d Beanz\n"
+"‪"
+
+#. Login screen - second click confirms removing an entry
+#. source: Click again to remove
+msgid "UI.login_confirm_remove"
+msgstr "再次點擊刪除"
+
+#. Login screen - currently logged in profile subtitle
+#. source: Logged in
+msgid "UI.login_logged_in"
+msgstr "登入"
+
+#. Login screen - click your user name prompt
+#. source: To begin, click your user name.\nAfter you log on, you can change profiles.\nJust click on your name at the top of the menu.
+msgid "UI.login_prompt"
+msgstr ""
+"首先，點擊你的用戶名. \n"
+"登入後，你可以變更個人資料. \n"
+"只需點擊選單頂部的使用者名稱即可."
+
+#. Login screen - turn off computer button
+#. source: Turn off computer
+msgid "UI.login_turn_off"
+msgstr "關機"
+
+#. Start menu - profile header hover / switch user affordance
+#. source: Switch User
+msgid "UI.switch_user"
+msgstr "切換用戶"
+
+#. Personalise window - title
+#. source: Display Properties
+msgid "UI.personalise_title"
+msgstr "顯示屬性"
+
+#. Personalise window - Theme tab
+#. source: Theme
+msgid "UI.personalise_tab_theme"
+msgstr "類型"
+
+#. Personalise window - Desktop tab
+#. source: Desktop
+msgid "UI.personalise_tab_desktop"
+msgstr "桌面"
+
+#. Personalise window - Profile tab
+#. source: Profile
+msgid "UI.personalise_tab_profile"
+msgstr "個人圖示"
+
+#. Personalise window - locked avatar hint
+#. source: Open .png files in a run to unlock more pictures.
+msgid "UI.personalise_locked_avatar"
+msgstr "在運行時開啟.png 檔案以解鎖更多圖片"
+
+#. Personalise window - apply button
+#. source: Apply
+msgid "UI.personalise_apply"
+msgstr "應用"
+
+#. Personalise window - themes unlocked counter
+#. source: %d/%d Unlocked
+#. Keep placeholders unchanged: %d
+msgid "UI.personalise_themes_unlocked"
+msgstr "%d/%d 已解鎖"
+
+#. Personalise window - hide locked themes and wallpapers
+#. source: Hide Locked
+msgid "UI.personalise_hide_locked"
+msgstr "隱藏已鎖定"
+
+#. Personalise theme preview - active window title
+#. source: Active Window
+msgid "UI.personalise_preview_active_window"
+msgstr "目前視窗標題"
+
+#. Personalise theme preview - window body text
+#. source: Window Text
+msgid "UI.personalise_preview_window_text"
+msgstr "視窗文字"
+
+#. Personalise theme preview - message box title
+#. source: Message Box
+msgid "UI.personalise_preview_message"
+msgstr "訊息方塊"
+
+#. Personalise window - use Steam name and picture checkbox
+#. source: Use Steam profile
+msgid "UI.personalise_use_steam_profile"
+msgstr "使用Steam個人圖示"
+
+#. Personalise window - Steam overlay name prompt
+#. source: Enter a name
+msgid "UI.personalise_name_prompt"
+msgstr "輸入名稱"
+
+#. Personalise window - theme group box title
+#. source: Theme
+msgid "UI.personalise_group_theme"
+msgstr "主題"
+
+#. Personalise window - wallpaper group box title
+#. source: Wallpaper
+msgid "UI.personalise_group_background"
+msgstr "桌布"
+
+#. Personalise window - user name group box title
+#. source: User name
+msgid "UI.personalise_group_name"
+msgstr "使用者名稱"
+
+#. Personalise window - profile picture group box title
+#. source: Profile picture
+msgid "UI.personalise_group_picture"
+msgstr "個人資料圖片"
+
+#. Cosmetic unlock - bmp drop requirement
+#. source: Found in a .bmp file
+msgid "UI.cosmetic_found_bmp"
+msgstr "在.bmp文件中找到"
+
+#. Cosmetic unlock - image drop requirement
+#. source: Found in a .jpeg/.png file
+msgid "UI.cosmetic_found_image"
+msgstr "在.jpeg/.png文件找到"
+
+#. Cosmetic unlock - avatar reward blurb
+#. source: Unlocks a new profile picture.
+msgid "UI.cosmetic_avatar_desc"
+msgstr "解鎖新的頭像"
+
+#. Cosmetic unlock - wallpaper reward blurb
+#. source: Unlocks a new desktop wallpaper.
+msgid "UI.cosmetic_wallpaper_desc"
+msgstr "解鎖新的桌布"
+
+#. Cosmetic unlock - theme reward blurb
+#. source: Unlocks a new desktop theme.
+msgid "UI.cosmetic_theme_desc"
+msgstr "解鎖新的桌面類型"
+
+#. Cosmetic unlock - avatar reward name template
+#. source: {avatar} Picture
+#. Keep placeholders unchanged: {avatar}
+msgid "UI.cosmetic_avatar_picture"
+msgstr ""
+"{avatar} 圖片\n"
+"‪"
+
+#. Cosmetic unlock - classic theme name
+#. source: Classic Theme
+msgid "UI.cosmetic_theme_classic"
+msgstr "經典主題"
+
+#. Cosmetic unlock - vapor theme name
+#. source: Vapor Theme
+msgid "UI.cosmetic_theme_vapor"
+msgstr "Vapor主題"
+
+#. Cosmetic unlock - gold theme name
+#. source: Gold Theme
+msgid "UI.cosmetic_theme_gold"
+msgstr "金色主題"
+
+#. Cosmetic unlock - olive theme name
+#. source: Olive Theme
+msgid "UI.cosmetic_theme_olive"
+msgstr "橄欖色主題"
+
+#. Cosmetic unlock - silver theme name
+#. source: Silver Theme
+msgid "UI.cosmetic_theme_silver"
+msgstr "銀色主題"
+
+#. Cosmetic unlock - dark theme name
+#. source: Dark Theme
+msgid "UI.cosmetic_theme_dark"
+msgstr "暗色主題"
+
+#. Cosmetic unlock - media theme name
+#. source: Media Theme
+msgid "UI.cosmetic_theme_media"
+msgstr "媒體主題"
+
+#. Cosmetic unlock - pink theme name
+#. source: Pink Theme
+msgid "UI.cosmetic_theme_pink"
+msgstr "粉色主題"
+
+#. Personalise - avatar name
+#. source: Beanz
+msgid "UI.avatar_beanz"
+msgstr "Beanz"
+
+#. Personalise - avatar name
+#. source: Giraffe
+msgid "UI.avatar_giraffe"
+msgstr "長頸鹿"
+
+#. Personalise - avatar name
+#. source: Piggy
+msgid "UI.avatar_piggy"
+msgstr "小豬"
+
+#. Personalise - avatar name
+#. source: Heart
+msgid "UI.avatar_heart"
+msgstr "心"
+
+#. Personalise - avatar name
+#. source: Computer
+msgid "UI.avatar_computer"
+msgstr "電腦"
+
+#. Personalise - avatar name
+#. source: Printer
+msgid "UI.avatar_printer"
+msgstr "印表機"
+
+#. Personalise - avatar name
+#. source: Paint
+msgid "UI.avatar_paint"
+msgstr "小畫家"
+
+#. Personalise - avatar name
+#. source: Orchestra
+msgid "UI.avatar_orchestra"
+msgstr "Orchestra"
+
+#. Personalise - avatar name
+#. source: Zip
+msgid "UI.avatar_zip"
+msgstr "Zip"
+
+#. Personalise - avatar name
+#. source: Crawler
+msgid "UI.avatar_crawler"
+msgstr "網路爬蟲"
+
+#. Personalise - avatar name
+#. source: Cruiser
+msgid "UI.avatar_cruiser"
+msgstr "漫遊者"
+
+#. Personalise - avatar name
+#. source: Enemy
+msgid "UI.avatar_enemy"
+msgstr "敵人"
+
+#. Personalise - avatar name
+#. source: Lemwire
+msgid "UI.avatar_lemwire"
+msgstr "Lemwire"
+
+#. Personalise - avatar name
+#. source: Coin
+msgid "UI.avatar_coin"
+msgstr "硬幣"
+
+#. Personalise - theme name
+#. source: Modern
+msgid "UI.theme_modern"
+msgstr "現代"
+
+#. Personalise - theme name
+#. source: Classic
+msgid "UI.theme_classic"
+msgstr "經典"
+
+#. Personalise - theme name
+#. source: Vapor
+msgid "UI.theme_vapor"
+msgstr "Vapor"
+
+#. Personalise - theme name
+#. source: Olive
+msgid "UI.theme_olive"
+msgstr "橄欖色"
+
+#. Personalise - theme name
+#. source: Silver
+msgid "UI.theme_silver"
+msgstr "銀色"
+
+#. Personalise - theme name
+#. source: Dark
+msgid "UI.theme_dark"
+msgstr "暗色"
+
+#. Personalise - theme name
+#. source: Media
+msgid "UI.theme_media"
+msgstr "媒體"
+
+#. Personalise - theme name
+#. source: Pink
+msgid "UI.theme_pink"
+msgstr "粉色"
+
+#. Personalise - theme name
+#. source: Gold
+msgid "UI.theme_gold"
+msgstr "金色"
+
+#. Profile stats window - Excel-flavored title
+#. source: Profile.xls - Antivirus Survivors
+msgid "UI.stats_window_title_xls"
+msgstr "設定檔.xls - Antivirus Survivors"
+
+#. Start menu - Tasks and Stats button
+#. source: Tasks and Stats
+msgid "UI.start_menu_tasks_stats"
+msgstr "任務和統計"
+
+#. Credits window - title, also the desktop icon name
+#. source: Credits
+msgid "CREDITS.window_title"
+msgstr "Credits"
+
+#. Credits window - role title
+#. source: Development, Art, Music etc.
+msgid "CREDITS.solo_developer"
+msgstr "開發，美術，音樂 etc."
+
+#. Credits window - role title
+#. source: Producer
+msgid "CREDITS.producer"
+msgstr "製作人"
+
+#. Credits window - role title. Keep the name Virry.
+#. source: Animator (Virry)
+msgid "CREDITS.animation_virry"
+msgstr "動畫(virry)"
+
+#. Credits window - role title
+#. source: Community QA
+msgid "CREDITS.community_qa"
+msgstr "社群品保"
+
+#. Credits window - role title
+#. source: Community Translators
+msgid "CREDITS.community_translators"
+msgstr "社群翻譯"
+
+#. Credits window - role title
+#. source: Special Thanks
+msgid "CREDITS.special_thanks"
+msgstr "特別感謝"
+
+#. Credits window - note under Special Thanks
+#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
+msgid "CREDITS.special_thanks_note"
+msgstr "感謝你們所有人幫助我完成這個夢想.我愛你們 ! -Shaun"
+
+#. Profile stats window - statistics tab
+#. source: Stats
+msgid "UI.stats_tab"
+msgstr "統計數據"
+
+#. Profile stats window - tasks tab label
+#. source: Tasks
+msgid "UI.tasks_tab"
+msgstr "任務"
+
+#. Tasks screen - sort completed toggle
+#. source: Sort by Completed
+msgid "UI.task_sort_completed"
+msgstr "按已完成任務排序"
+
+#. Tasks footer - categories cycle label next to key icons
+#. source: Categories
+msgid "UI.task_hint_categories"
+msgstr "分類"
+
+#. Virry blurb - statistics mode
+#. source: Your run records live in these sheet. Switch to Tasks for unlocks.
+msgid "UI.task_virry_stats"
+msgstr ""
+"你的遊玩記錄保存在此表格中.\n"
+"切換到「任務」頁面可解鎖更多內容."
+
+#. Virry blurb - weapons tasks
+#. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
+msgid "UI.task_virry_weapons"
+msgstr "完成武器任務後，即可在「新增/移除解鎖」中購買"
+
+#. Virry blurb - cursor class tasks
+#. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
+msgid "UI.task_virry_classes"
+msgstr ""
+"游標類型會改變你的戰鬥方式.\n"
+"解鎖一個類型，即可在「新增/移除解鎖」中購買它"
+
+#. Virry blurb - plugin tasks
+#. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
+msgid "UI.task_virry_plugins"
+msgstr ""
+"插件會增加被動能力，可透過開啟安裝程式取得.\n"
+"完成任務後，即可在「新增/移除解鎖」中購買"
+
+#. Virry blurb - weapon driver tasks
+#. source: Weapon Drivers upgrade a weapon's with unique additions. When unlocked reach levels 8, 16 and 24 to obtain them.
+msgid "UI.task_virry_drivers"
+msgstr ""
+"武器驅動模組可以為武器升級獨特的附加組件.\n"
+"解鎖後，分別達到 8 級、16 級和 24 級即可獲得這些組件"
+
+#. Virry blurb - files tasks
+#. source: Safe Files, Battle Files, and Special Files. Unlock them, then purchase them in Add/Remove Unlocks.
+msgid "UI.task_virry_files"
+msgstr ""
+"安全文件、戰鬥文件和特殊檔案.\n"
+"解鎖後，即可在「新增/移除解鎖」中購買"
+
+#. Virry blurb - theme tasks
+#. source: Themes dress up the desktop. When unlocked they can be applied in the Personalise menu.
+msgid "UI.task_virry_themes"
+msgstr ""
+"主題可以美化桌面.\n"
+"解鎖後，即可在「個人化」選單中套用主題."
+
+#. Virry blurb - policy tasks
+#. source: Complete a Protocol with each Policy, then Domain Policies. Protocol V is the hard set.
+msgid "UI.task_virry_policies"
+msgstr ""
+"完成每個原則對應的協定，然後完成網域原則.\n"
+"第五協定則是硬性要求."
+
+#. Virry blurb - general milestones
+#. source: General milestones. Mostly Beanz rewards.
+msgid "UI.task_virry_general"
+msgstr ""
+"一般里程碑.\n"
+"主要獎勵為 Beanz."
+
+#. Virry blurb - claimable rewards waiting
+#. source: Nice work! Claim your Beanz rewards by clicking a blue row.
+msgid "UI.task_virry_claimable"
+msgstr "幹得漂亮 !點擊藍色行即可領取你的 Beanz 獎勵"
+
+#. Virry blurb - leftover task sheet
+#. source: Odds and ends that don't sit on the other task sheets.
+msgid "UI.task_virry_other"
+msgstr "其他任務單上沒有列出的零碎事項"
+
+#. Profile stats - highest score
+#. source: Highest Score
+msgid "UI.stat_highest_score"
+msgstr "最高得分"
+
+#. Profile stats - highest score tooltip
+#. source: Best run score recorded on this profile.
+msgid "UI.stat_highest_score_desc"
+msgstr "此個人資料中記錄的最高單次得分"
+
+#. Profile stats - time played
+#. source: Time Played
+msgid "UI.stat_time_played"
+msgstr "遊戲時長"
+
+#. Profile stats - time played tooltip
+#. source: Time spent inside Battle Folders across all runs.
+msgid "UI.stat_time_played_desc"
+msgstr "所有遊玩中累計在戰鬥資料夾中花費的時間"
+
+#. Profile stats - enemies cleared
+#. source: Enemies Cleared
+msgid "UI.stat_kills"
+msgstr "已清除敵人數"
+
+#. Profile stats - enemies cleared tooltip
+#. source: Enemies cleared across all runs.
+msgid "UI.stat_kills_desc"
+msgstr "所有遊玩中累計清除的敵人數"
+
+#. Profile stats - deaths
+#. source: Deaths
+msgid "UI.stat_deaths"
+msgstr "死亡數"
+
+#. Profile stats - deaths tooltip
+#. source: Times this profile has bluescreened.
+msgid "UI.stat_deaths_desc"
+msgstr "此個人資料藍屏次數"
+
+#. Profile stats - runs finished
+#. source: Runs
+msgid "UI.stat_runs"
+msgstr "運行"
+
+#. Profile stats - runs finished tooltip
+#. source: Runs started and finished on this profile.
+msgid "UI.stat_runs_desc"
+msgstr "此個人資料上開始和完成的次數"
+
+#. Profile stats - runs completed
+#. source: Completions
+msgid "UI.stat_runs_won"
+msgstr "完成次數"
+
+#. Profile stats - runs completed tooltip
+#. source: Runs that completed a Protocol.
+msgid "UI.stat_runs_won_desc"
+msgstr "完成協定的次數"
+
+#. Profile stats - critical hits
+#. source: Critical Hits
+msgid "UI.stat_crits"
+msgstr "暴擊次數"
+
+#. Profile stats - critical hits tooltip
+#. source: Critical hits landed across all runs.
+msgid "UI.stat_crits_desc"
+msgstr "所有遊玩累計命中的暴擊次數"
+
+#. Profile stats - total damage dealt
+#. source: Damage Dealt
+msgid "UI.stat_damage_dealt"
+msgstr "傷害輸出"
+
+#. Profile stats - total damage dealt tooltip
+#. source: Total damage dealt to enemies across all runs.
+msgid "UI.stat_damage_dealt_desc"
+msgstr "所有遊玩累計造成的傷害"
+
+#. Profile stats - total damage taken
+#. source: Damage Taken
+msgid "UI.stat_damage_taken"
+msgstr "承受傷害"
+
+#. Profile stats - total damage taken tooltip
+#. source: Total damage taken across all runs.
+msgid "UI.stat_damage_taken_desc"
+msgstr "所有遊玩累計承受的傷害"
+
+#. Profile stats - biggest single hit
+#. source: Biggest Hit
+msgid "UI.stat_highest_hit"
+msgstr "單次最高傷害"
+
+#. Profile stats - biggest single hit tooltip
+#. source: Largest amount of damage dealt in a single hit.
+msgid "UI.stat_highest_hit_desc"
+msgstr "單次攻擊造成的最大傷害值"
+
+#. Profile stats - files opened
+#. source: Files Opened
+msgid "UI.stat_files_opened"
+msgstr "開啟的檔案數"
+
+#. Profile stats - files opened tooltip
+#. source: All folders and files double-clicked across runs.
+msgid "UI.stat_files_opened_desc"
+msgstr "所有遊玩中累計雙擊的資料夾和檔案數"
+
+#. Profile stats - safe folders
+#. source: Safe Folders
+msgid "UI.stat_safe_folders"
+msgstr "安全資料夾"
+
+#. Profile stats - safe folders tooltip
+#. source: Safe folders opened across all runs.
+msgid "UI.stat_safe_folders_desc"
+msgstr "所有遊玩中累計開啟的安全資料夾"
+
+#. Profile stats - highest level
+#. source: Highest Level
+msgid "UI.stat_max_level"
+msgstr "最高等級"
+
+#. Profile stats - highest level tooltip
+#. source: Highest player level reached in a single run.
+msgid "UI.stat_max_level_desc"
+msgstr "單次遊戲中達到的最高玩家等級"
+
+#. Profile stats - HP healed
+#. source: HP Healed
+msgid "UI.stat_hp_healed"
+msgstr "生命值恢復"
+
+#. Profile stats - HP healed tooltip
+#. source: Total HP restored across all runs.
+msgid "UI.stat_hp_healed_desc"
+msgstr "所有遊玩中累計恢復的總生命值"
+
+#. Profile stats - plugins installed
+#. source: Plugins Installed
+msgid "UI.stat_plugins"
+msgstr "已安裝插件"
+
+#. Profile stats - plugins installed tooltip
+#. source: Plugins installed across all runs.
+msgid "UI.stat_plugins_desc"
+msgstr "所有遊玩中累計安裝的插件數"
+
+#. Profile stats - zip files opened tooltip
+#. source: Zip archives successfully extracted.
+msgid "UI.stat_zips_desc"
+msgstr "成功解壓縮次數"
+
+#. Profile stats - failed file opens
+#. source: Spam Ad Attacks
+msgid "UI.stat_failed_files"
+msgstr "垃圾廣告攻擊"
+
+#. Profile stats - failed file opens tooltip
+#. source: Spam popups spawned from failed Zip or Download More RAM opens.
+msgid "UI.stat_failed_files_desc"
+msgstr "因 Zip 或下載更多記憶體 開啟失敗而產生的垃圾廣告彈窗"
+
+#. Profile stats - rar files opened tooltip
+#. source: Rar archives completed.
+msgid "UI.stat_rars_desc"
+msgstr "rar 壓縮檔案完成數"
+
+#. Profile stats - file extension row title
+#. source: .%s files opened
+#. Keep placeholders unchanged: %s
+msgid "UI.stat_ext_opened"
+msgstr "已開啟的 .%s 檔案"
+
+#. Profile stats - file extension row tooltip
+#. source: %s files successfully opened.
+#. Keep placeholders unchanged: %s
+msgid "UI.stat_ext_opened_desc"
+msgstr "已成功開啟的 %s 檔案"
+
+#. Profile stats - named file opened row title
+#. source: %s opened
+#. Keep placeholders unchanged: %s
+msgid "UI.stat_named_opened"
+msgstr "%s 開啟數"
+
+#. Profile stats - coins collected
+#. source: Coin Collected
+msgid "UI.stat_coins_collected"
+msgstr "硬幣收集數"
+
+#. Profile stats - coins collected tooltip
+#. source: Coin picked up across all runs.
+msgid "UI.stat_coins_collected_desc"
+msgstr "所有遊玩累計收集到的硬幣總數"
+
+#. Profile stats - keys collected
+#. source: Keys Collected
+msgid "UI.stat_keys_collected"
+msgstr "已收集金鑰數"
+
+#. Profile stats - keys collected tooltip
+#. source: Keys collected across all runs.
+msgid "UI.stat_keys_collected_desc"
+msgstr "所有遊玩中累計收集的金鑰數"
+
+#. Profile stats - highest weapon level
+#. source: Highest Weapon Level
+msgid "UI.stat_weapon_level"
+msgstr "最高武器等級"
+
+#. Profile stats - highest weapon level tooltip
+#. source: Highest weapon level reached in a single run.
+msgid "UI.stat_weapon_level_desc"
+msgstr "單次遊戲中達到的最高武器等級"
+
+#. Profile stats - favourite weapon by time used
+#. source: Favourite Weapon
+msgid "UI.stat_favourite_weapon"
+msgstr "最愛的武器"
+
+#. Profile stats - favourite weapon tooltip
+#. source: Weapon you've spent the most battle time using.
+msgid "UI.stat_favourite_weapon_desc"
+msgstr "你在戰鬥中使用時間最長的武器"
+
+#. Profile stats - tasks completed
+#. source: Tasks Completed
+msgid "UI.stat_tasks"
+msgstr "已完成任務"
+
+#. Profile stats - tasks completed tooltip
+#. source: Unlock tasks completed on this profile.
+msgid "UI.stat_tasks_desc"
+msgstr "解鎖此個人資料中已完成的任務"
+
+#. Profile stats - named clears row title
+#. source: %s clears
+#. Keep placeholders unchanged: %s
+msgid "UI.stat_named_clears"
+msgstr "%s 消滅敵人數"
+
+#. Profile stats - named enemy clears row title
+#. source: %s enemy clears
+#. Keep placeholders unchanged: %s
+msgid "UI.stat_named_enemy_clears"
+msgstr "%s 敵人消滅數"
+
+#. Profile stats - named completions row title
+#. source: %s completions
+#. Keep placeholders unchanged: %s
+msgid "UI.stat_named_wins"
+msgstr "%s 完成數"
+
+#. Profile stats - weapon sheet row tooltip
+#. source: Enemies cleared with this weapon.
+msgid "UI.stat_weapon_row_desc"
+msgstr "使用此武器擊殺的敵人數量"
+
+#. Profile stats - class sheet row tooltip
+#. source: Runs completed with this Cursor Class.
+msgid "UI.stat_class_row_desc"
+msgstr "使用此游標類型的通關次數"
+
+#. Profile stats - policy sheet row tooltip
+#. source: Runs completed with this Policy.
+msgid "UI.stat_policy_row_desc"
+msgstr "使用此原則通關的次數"
+
+#. Profile stats - enemy sheet row tooltip
+#. source: Times this enemy type has been cleared.
+msgid "UI.stat_enemy_row_desc"
+msgstr "此類型敵人被清除的數量"
+
+#. Profile stats - protocol completions row tooltip
+#. source: Runs completed on this Protocol.
+msgid "UI.stat_protocol_wins_desc"
+msgstr "此協定的通關次數"
+
+#. Profile stats - overall sheet tab
+#. source: Overall
+msgid "UI.stat_sheet_overall"
+msgstr "整體"
+
+#. Profile stats - files 1 sheet tab
+#. source: Files 1
+msgid "UI.stat_sheet_files"
+msgstr "文件 1"
+
+#. Profile stats - files 2 sheet tab
+#. source: Files 2
+msgid "UI.stat_sheet_battle"
+msgstr "文件 2"
+
+#. Profile stats - weapons sheet tab
+#. source: Weapons
+msgid "UI.stat_sheet_weapons"
+msgstr "武器"
+
+#. Profile stats - enemies sheet tab
+#. source: Enemies
+msgid "UI.stat_sheet_enemies"
+msgstr "敵人"
+
+#. Profile stats - cursor class sheet tab
+#. source: Cursors
+msgid "UI.stat_sheet_classes"
+msgstr "游標"
+
+#. Profile stats - policy completions sheet tab
+#. source: Policies
+msgid "UI.stat_sheet_policies"
+msgstr "原則"
+
+#. Profile stats - HaD: DoCK headshots
+#. source: Headshots
+msgid "UI.stat_headshots"
+msgstr "爆頭"
+
+#. Profile stats - headshots tooltip
+#. source: HaD: DoCK execute headshots landed.
+msgid "UI.stat_headshots_desc"
+msgstr "HaD: DoCK 爆頭命中數"
+
+#. Profile stats - installer skip or delete
+#. source: Plugins Skipped
+msgid "UI.stat_installer_skipped"
+msgstr "已跳過的插件"
+
+#. Profile stats - installer skip tooltip
+#. source: Times Skip or Delete was used in an Installer.
+msgid "UI.stat_installer_skipped_desc"
+msgstr "安裝程式中使用「跳過或刪除」功能的次數"
+
+#. Profile stats - shop upgrades bought
+#. source: Shop Purchases
+msgid "UI.stat_shop_purchases"
+msgstr "商店購買記錄"
+
+#. Profile stats - shop purchases tooltip
+#. source: Upgrades bought from the Shop.
+msgid "UI.stat_shop_purchases_desc"
+msgstr "從商店購買的升級"
+
+#. Profile stats - spreadsheet sheet tab label
+#. source: Sheet %d
+#. Keep placeholders unchanged: %d
+msgid "UI.sheet_tab"
+msgstr "工作表 %d"
+
+#. Vapor store - window title
+#. source: Vapor Store
+msgid "UI.vapor_store_title"
+msgstr "Vapor 商店"
+
+#. Vapor store - black header logo wordmark
+#. source: VAPOR
+msgid "UI.vapor_store_brand"
+msgstr "VAPOR"
+
+#. Vapor store - special files explanation
+#. source: Special Files spawn during battle. While one is active, hold {special} to use it.
+#. Keep placeholders unchanged: {special}
+msgid "UI.vapor_store_intro"
+msgstr ""
+"特殊檔案會在戰鬥中產生，當特殊檔案處於啟動狀態時，按住{special}即可使用"
+
+#. Vapor store - featured weapon heading
+#. source: Featured Weapon
+msgid "UI.vapor_store_featured"
+msgstr "特殊武器"
+
+#. Vapor store - special files list heading
+#. source: Special Files
+msgid "UI.vapor_store_top_sellers"
+msgstr "特殊檔案"
+
+#. Vapor store - status chip when not installed
+#. source: Download
+msgid "UI.vapor_store_download"
+msgstr "下載"
+
+#. Add/Remove Unlocks - window title
+#. source: Add/Remove Unlocks
+msgid "UI.features_store_title"
+msgstr "新增/移除解鎖"
+
+#. Add/Remove Unlocks - weapons tab intro
+#. source: Unlock new weapons to start with and choose during runs.
+msgid "UI.features_store_intro_weapons"
+msgstr "解鎖新武器，即可在遊戲開始時使用，並在遊戲過程中選擇使用"
+
+#. Add/Remove Unlocks - cursors tab intro
+#. source: Unlock new Cursor Classes to start with.
+msgid "UI.features_store_intro_cursors"
+msgstr "解鎖新的游標類型以開始遊戲"
+
+#. Add/Remove Unlocks - plugins tab intro
+#. source: Unlock new Plugins to install during runs.
+msgid "UI.features_store_intro_plugins"
+msgstr "解鎖可在每輪遊玩中安裝的新插件"
+
+#. Add/Remove Unlocks - safe files tab intro
+#. source: Unlock new file types to use in Safe Folders.
+msgid "UI.features_store_intro_safe_files"
+msgstr "解鎖可在安全資料夾中使用的新文件類型"
+
+#. Add/Remove Unlocks - battle files tab intro
+#. source: Unlock new file types to spawn during battle rounds.
+msgid "UI.features_store_intro_battle_files"
+msgstr "解鎖可在戰鬥回合中產生的新文件類型"
+
+#. UI (script-driven)
+#. source: Weapons
+msgid "UI.store_group_weapons"
+msgstr "武器"
+
+#. UI (script-driven)
+#. source: Cursors
+msgid "UI.store_group_cursors"
+msgstr "游標"
+
+#. UI (script-driven)
+#. source: Plugins
+msgid "UI.store_group_plugins"
+msgstr "插件"
+
+#. UI (script-driven)
+#. source: Safe Files
+msgid "UI.store_group_safe_files"
+msgstr "安全文件檔"
+
+#. UI (script-driven)
+#. source: Battle Files
+msgid "UI.store_group_battle_files"
+msgstr "戰鬥文件檔"
+
+#. UI (script-driven)
+#. source: Special Files
+msgid "UI.store_group_widgets"
+msgstr "特殊檔案"
+
+#. UI (script-driven)
+#. source: Other
+msgid "UI.store_group_other"
+msgstr "其他"
+
+#. Tasks screen - cursor class unlock category
+#. source: Cursors
+msgid "UI.task_group_classes"
+msgstr "游標"
+
+#. Tasks screen - weapon driver unlock category
+#. source: Drivers
+msgid "UI.task_group_drivers"
+msgstr "驅動模組"
+
+#. Tasks screen - files category (special, safe, battle)
+#. source: Files
+msgid "UI.task_group_files"
+msgstr "文件"
+
+#. Tasks screen - theme unlock category
+#. source: Themes
+msgid "UI.task_group_themes"
+msgstr "主題"
+
+#. Tasks screen - policy Beanz category
+#. source: Policies
+msgid "UI.task_group_policies"
+msgstr "原則"
+
+#. Tasks screen - general Beanz milestone category
+#. source: General
+msgid "UI.task_group_general"
+msgstr "通用"
+
+#. Task tooltip type - singular
+#. source: Weapon
+msgid "UI.task_group_singular_weapon"
+msgstr "武器"
+
+#. Task tooltip type - singular
+#. source: Cursor Class
+msgid "UI.task_group_singular_class"
+msgstr "游標類型"
+
+#. Task tooltip type - singular
+#. source: Plugin
+msgid "UI.task_group_singular_plugin"
+msgstr "插件"
+
+#. Task tooltip type - singular
+#. source: Protocol
+msgid "UI.task_group_singular_protocol"
+msgstr "通訊協定"
+
+#. Task tooltip type - boss file
+#. source: Boss File
+msgid "UI.task_group_singular_file"
+msgstr "BOSS文件檔"
+
+#. Task tooltip type - singular
+#. source: Theme
+msgid "UI.task_group_singular_theme"
+msgstr "主題"
+
+#. Task tooltip type - singular
+#. source: Other
+msgid "UI.task_group_singular_other"
+msgstr "其他"
+
+#. Store row - available label
+#. source: Available
+msgid "UI.store_state_available"
+msgstr "可用"
+
+#. Store row - unavailable label
+#. source: Unavailable
+msgid "UI.store_state_unavailable"
+msgstr "不可用"
+
+#. Store row - owned label
+#. source: Installed
+msgid "UI.store_state_owned"
+msgstr "已安裝"
+
+#. Store row - disabled label
+#. source: Disabled
+msgid "UI.store_state_disabled"
+msgstr "已停用"
+
+#. UI (script-driven)
+#. source: Progress: %d / %d
+#. Keep placeholders unchanged: %d
+msgid "UI.store_tooltip_locked"
+msgstr "進度:%d / %d"
+
+#. UI (script-driven)
+#. source: Click to purchase for %d Beanz
+#. Keep placeholders unchanged: %d
+msgid "UI.store_tooltip_buy"
+msgstr "點擊花費%d Beanz"
+
+#. UI (script-driven)
+#. source: Click to disable spawning
+msgid "UI.store_tooltip_owned_toggle"
+msgstr "點擊禁用生成"
+
+#. UI (script-driven)
+#. source: Click to enable spawning
+msgid "UI.store_tooltip_disabled"
+msgstr "點擊啟用生成"
+
+#. Policies locked until the chosen protocol or higher is completed once
+#. source: Complete %s or higher once to enable Policies.
+#. Keep placeholders unchanged: %s
+msgid "UI.policies_locked"
+msgstr "完成 %s 或更高難度一次即可啟用原則"
+
+#. Domain Policies locked until 3 distinct policies completed on the chosen protocol or higher
+#. source: Complete 3 different Policies on %s or higher to enable Domain Policies.
+#. Keep placeholders unchanged: %s
+msgid "UI.domain_policies_locked"
+msgstr "通關3種原則在 %s 或 更高難度 解鎖網域原則"
+
+#. UI (script-driven)
+#. source: Run Beanz: x%.2f
+#. Keep placeholders unchanged: %.2f
+msgid "UI.policies_beanz_multiplier"
+msgstr "本輪Beanz:%.2f倍"
+
+#. UI (script-driven)
+#. source: Policies
+msgid "UI.policies_icon"
+msgstr "原則"
+
+#. Domain Policies MMC tree and starter file name
+#. source: Domain Policies
+msgid "UI.domain_policies_icon"
+msgstr "網域原則"
+
+#. UI (script-driven)
+#. source: Extra Difficulty
+msgid "UI.policies_header"
+msgstr "額外難度"
+
+#. UI (script-driven)
+#. source: Extra Difficulty - %d/%d Complete
+#. Keep placeholders unchanged: %d
+msgid "UI.policies_header_progress"
+msgstr "額外難度 - %d/%d 已完成"
+
+#. UI (script-driven)
+#. source: Select a Folder Difficulty first.
+msgid "UI.policies_select_protocol"
+msgstr "先選擇資料夾難度"
+
+#. Policies menu / starter folder tree root
+#. source: Starter Folder
+msgid "UI.starter_folder"
+msgstr "起始資料夾"
+
+#. Policies list column - policy name
+#. source: Policy
+msgid "UI.policies_col_policy"
+msgstr "原則"
+
+#. Policies list column - Beanz
+#. source: Beanz
+msgid "UI.policies_col_beanz"
+msgstr "Beanz"
+
+#. Policies list column - enabled/disabled
+#. source: Security Setting
+msgid "UI.policies_col_setting"
+msgstr "安全性設定"
+
+#. Policies list column - completion count
+#. source: Completions
+msgid "UI.policies_col_completed"
+msgstr "完成數"
+
+#. Policies list - security setting when enabled
+#. source: Enabled
+msgid "UI.policies_enabled"
+msgstr "已啟用"
+
+#. Policies list - security setting when disabled
+#. source: Disabled
+msgid "UI.policies_disabled"
+msgstr "已停用"
+
+#. Policies list - security setting when locked
+#. source: Locked
+msgid "UI.policies_setting_locked"
+msgstr "已鎖定"
+
+#. Policies list and protocol tooltip - no completions yet
+#. source: Incomplete
+msgid "UI.policies_status_incomplete"
+msgstr "未完成"
+
+#. UI (script-driven)
+#. source: Control your cursor with the mouse in Safe Folders.[br]Battle Folders always use WASD or the left stick.
+msgid "UI.admin_mouse_tooltip"
+msgstr ""
+"在安全性資料夾中，可使用滑鼠控制游標. [br]但在戰鬥資料夾中，請務必使用 "
+"WASD 或左類比搖桿."
+
+#. UI (script-driven)
+#. source: Reroll Locked
+msgid "UI.reroll_disabled"
+msgstr "重擲已鎖定"
+
+#. Toast shown when something is unlocked
+#. source: Unlocked: %s
+#. Keep placeholders unchanged: %s
+msgid "UI.unlock_toast"
+msgstr "解鎖:%s"
+
+#. Task reward claim prompt
+#. source: Click to claim %d Beanz
+#. Keep placeholders unchanged: %d
+msgid "UI.task_claim_reward"
+msgstr "點擊領取 %d Beanz"
+
+#. Tasks screen - completed and claimed status
+#. source: Task complete
+msgid "UI.task_complete"
+msgstr "任務完成"
+
+#. Task tooltip - category unlock label
+#. source: %s Unlock
+#. Keep placeholders unchanged: %s
+msgid "UI.task_unlocks_category"
+msgstr "解鎖 %s"
+
+#. Task tooltip - category line with Beanz amount
+#. source: %s +%d Beanz
+#. Keep placeholders unchanged: %s, %d
+msgid "UI.task_category_beanz"
+msgstr "%s +%d Beanz"
+
+#. Weapon driver unlock requirement template
+#. source: Reach level {amount} with {weapon} in a single run
+#. Keep placeholders unchanged: {amount}, {weapon}
+msgid "UI.unlock_driver_req"
+msgstr "單次遊戲使用 {weapon} 達到 {amount} 級"
+
+#. Weapon driver unlock reward template
+#. source: {weapon} Drivers
+#. Keep placeholders unchanged: {weapon}
+msgid "UI.unlock_driver_reward"
+msgstr "{weapon} 驅動模組"
+
+#. Weapon driver unlock description template
+#. source: Unlocks Weapon Drivers for {weapon}.
+#. Keep placeholders unchanged: {weapon}
+msgid "UI.unlock_driver_desc"
+msgstr "解鎖 {weapon} 的武器驅動模組"
+
+#. Shop screen - title
+#. source: Shop
+msgid "UI.shop_title"
+msgstr "商店"
+
+#. Shop screen - speech
+#. source: Purchase some upgrades! Please, I need Coin...
+msgid "UI.shop_speech"
+msgstr ""
+"購買一些升級!\n"
+"拜託，我需要硬幣…"
+
+#. UI (script-driven)
+#. source: Defragmented
+msgid "UI.defragmented"
+msgstr "磁碟重組"
+
+#. UI (script-driven)
+#. source: %2.2f KB
+msgid "UI.defrag_capacity"
+msgstr "%2.2f KB"
+
+#. Upgrade screen - speech prompt
+#. source: Select an upgrade to continue.
+msgid "UI.select_upgrade"
+msgstr "請選擇升級以繼續"
+
+#. Upgrade screen - weapon pick prompt
+#. source: Select a weapon to continue.
+msgid "UI.select_weapon"
+msgstr "選擇武器以繼續"
+
+#. Weapon Drivers screen - title
+#. source: Weapon Drivers
+msgid "UI.weapon_drivers"
+msgstr "武器驅動模組"
+
+#. Weapon Drivers screen - fake window title
+#. source: drivers.doc - SH Docs 2003
+msgid "UI.weapon_drivers_window"
+msgstr "驅動模組.doc - SH Docs 2003"
+
+#. Weapon Drivers screen - speech prompt with weapon name
+#. source: Select a driver for %s.
+#. Keep placeholders unchanged: %s
+msgid "UI.select_driver"
+msgstr "為 %s 選擇一項驅動模組"
+
+#. Weapon Drivers screen - speech when a weapon hits a driver level
+#. source: %s reached level %d. Pick a driver.
+#. Keep placeholders unchanged: %s, %d
+msgid "UI.select_driver_level"
+msgstr ""
+"%s已達到%d 級\n"
+"請選擇一項驅動模組"
+
+#. Coin Collector notification
+#. source: Collecting coins
+msgid "UI.notif_coin_magnet"
+msgstr "正在收集硬幣"
+
+#. Stock auto-cashout notification with amount
+#. source: Investment withdrawn (%.2f)
+#. Keep placeholders unchanged: %.2f
+msgid "UI.notif_investment_withdrawn"
+msgstr "投資已撤回(%.2f)"
+
+#. Side Task complete toast
+#. source: Side Task complete
+msgid "UI.notif_side_objective_complete"
+msgstr "支線任務完成"
+
+#. Vapidshare cracked installer spawned toast
+#. source: Cracked Installer created
+msgid "UI.notif_vapidshare_complete"
+msgstr "破解版安裝程式已建立"
+
+#. Vapidshare part finished toast. %s is the part filename
+#. source: %s complete
+#. Keep placeholders unchanged: %s
+msgid "UI.notif_vapidshare_part"
+msgstr "%s 已完成"
+
+#. Not enough keys toast
+#. source: Not Enough Keys :(
+msgid "UI.notif_not_enough_keys"
+msgstr "金鑰不足:("
+
+#. Starter folder weapons category help
+#. source: Your first of four weapons for the run. You'll pick more as you level up.
+msgid "UI.starter_help_weapons"
+msgstr ""
+"這是你本次冒險中獲得的四件武器中的第一件\n"
+"隨著等級提升，你可以獲得更多武器"
+
+#. Starter folder cursor class category help
+#. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
+msgid "UI.starter_help_cursor"
+msgstr ""
+"游標類型決定你的基礎屬性\n"
+"所有升級都會在此基礎上進行倍率加成"
+
+#. Starter folder difficulty category help
+#. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
+msgid "UI.starter_help_difficulty"
+msgstr "資料夾難度決定了遊戲規則:敵人攻勢、獎勵豐富度以及可解鎖的內容"
+
+#. Starter folder policies category help
+#. source: Optional extra rules on top of the protocol. Completing them earns more Beanz.
+msgid "UI.starter_help_policies"
+msgstr ""
+"協定之外的可選額外規則\n"
+"完成這些規則可獲得更多 Beanz"
+
+#. Starter folder button that reopens the tutorial guide
+#. source: Guide
+msgid "UI.refresher"
+msgstr "指南"
+
+#. Tutorial next-page button
+#. source: Next
+msgid "UI.next"
+msgstr "下一個"
+
+#. Tutorial window title
+#. source: Quick Start Guide
+msgid "UI.tutorial_title"
+msgstr "快速入門指南"
+
+#. Tutorial page 1 - {game}
+#. source: Welcome to {game}!\n\nI'm Virry, and I'm going to take you through some basics of how to play.
+#. Keep placeholders unchanged: {game}
+msgid "UI.tutorial_1_body"
+msgstr ""
+"歡迎來到 {game}  ! \n"
+"\n"
+"我是 Virry，我將帶你了解一些遊戲的基本玩法."
+
+#. Tutorial page 2 - {move} {click} {drag} become input icons
+#. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
+#. Keep placeholders unchanged: {move}, {click}, {drag}
+msgid "UI.tutorial_2_body"
+msgstr ""
+"首先，讓我們開始移動. \n"
+"\n"
+"使用 {move} 在螢幕上移動. \n"
+"\n"
+"使用 {click} 點擊，不要忘記雙擊以開啟檔案. \n"
+"\n"
+"你也可以按住 {drag} 拖曳檔案並在資料夾中移動它們."
+
+#. Tutorial page 3 - class, protocol, policies
+#. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
+#. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
+msgid "UI.tutorial_3_body"
+msgstr ""
+"首先，你可以選擇一個類型 (class) 和一個難度 (difficulty). \n"
+"\n"
+"現在，我們選擇預設游標 (default Cursor)，隨著遊戲的進行，更多游標將會解"
+"鎖. \n"
+"\n"
+"選擇協定一到三 作為你的難度 (difficulty). \n"
+"\n"
+"完成協定將解鎖原則 (policies)，這些原則會為你帶來額外的挑戰. \n"
+"\n"
+"現在就選擇你的類型 (class) 和難度 (difficulty) 吧  !"
+
+#. Tutorial page 4 - {drivers}
+#. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
+#. Keep placeholders unchanged: {drivers}
+msgid "UI.tutorial_4_body"
+msgstr ""
+"你可以選擇一把初始武器開始遊戲.\n"
+"\n"
+"在遊戲過程中不斷升級，即可為你的裝備添加更多武器. \n"
+"\n"
+"升級時，你也可以選擇武器或角色升級來提升你的屬性. \n"
+"\n"
+"當你的武器達到特定等級時，你將解鎖 {drivers}，獲得專屬升級."
+
+#. Tutorial page 5 - {safe}
+#. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
+#. Keep placeholders unchanged: {safe}
+msgid "UI.tutorial_5_body"
+msgstr ""
+"遊戲目標是生存. \n"
+"\n"
+"遊戲共 5 輪，每輪 5 分鐘，每回合結束時到達{safe}即可進入下一輪."
+
+#. Tutorial page 6
+#. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
+msgid "UI.tutorial_6_body"
+msgstr ""
+"生存之道:躲避敵人，收集經驗值和硬幣，獲得升級，並開啟文件. \n"
+"\n"
+"有些文件有風險，有些需要金鑰，有些則直接提供獎勵.\n"
+"\n"
+"每輪遊戲右上角還會有一個支線任務，完成該任務可以獲得額外獎勵."
+
+#. Tutorial page 7 - {safe} {vapor}
+#. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
+#. Keep placeholders unchanged: {safe}, {vapor}
+msgid "UI.tutorial_7_body"
+msgstr ""
+"消滅敵人並及時到達 {safe} 即可獲得 Beanz. \n"
+"\n"
+"完成任務可獲得額外 Beanz. \n"
+"\n"
+"使用 Beanz 購買新的遊標類型、武器、屬性升級、插件、檔案、{vapor} 物品等"
+"等  !"
+
+#. Tutorial page 8
+#. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
+msgid "UI.tutorial_8_body"
+msgstr ""
+"目前就這些  ! \n"
+"\n"
+"選擇你的第一件武器，開始遊戲，努力生存，盡情享受吧 :)"
+
+#. Plus! cleared. %s is the elite name, %s is the dropped filename
+#. source: %s cleared, %s dropped.
+#. Keep placeholders unchanged: %s
+msgid "UI.notif_cracked_installer"
+msgstr "%s 已清除，%s 已掉落"
+
+#. Multi Plus! toast when they share a name. %d is count, %s is Error Plus! etc
+#. source: %d %s
+#. Keep placeholders unchanged: %d, %s
+msgid "UI.notif_elites_named"
+msgstr "%d %s"
+
+#. Multi Plus! toast when types are mixed. %d is how many spawned together
+#. source: %d Plus! enemies
+#. Keep placeholders unchanged: %d
+msgid "UI.notif_elites_count"
+msgstr "%d Plus!敵人"
+
+#. Normal installer window title
+#. source: Plugin Suite Installation
+msgid "UI.installer_title"
+msgstr "外掛套件安裝"
+
+#. Installer splash wait label
+#. source: Please wait...
+msgid "UI.installer_please_wait"
+msgstr "請稍後..."
+
+#. Cracked installer window title
+#. source: Cracked Plugin Setup
+msgid "UI.installer_title_cracked"
+msgstr "破解版外掛安裝程式"
+
+#. Legendary installer window title
+#. source: PluginInstaller LEGENDARY
+msgid "UI.installer_title_legendary"
+msgstr "插件安裝器【傳奇】"
+
+#. Morgan AV installer window title
+#. source: Morgan Antivirus Setup
+msgid "UI.installer_title_morgan"
+msgstr "摩根防毒軟體"
+
+#. Installer skip tooltip when no Key was spent
+#. source: Skip installing.
+msgid "UI.installer_skip_no_key"
+msgstr "跳過安裝"
+
+#. Installer skip tooltip when a Key is refunded
+#. source: Skips installing plugin and refunds Key.
+msgid "UI.installer_skip"
+msgstr "跳過插件安裝並退還金鑰"
+
+#. Side Task HUD progress line
+#. source: Open %d/%d .%s files
+#. Keep placeholders unchanged: %d, %s
+msgid "UI.side_objective_open"
+msgstr "開啟%d/%d. %s 檔案."
+
+#. Vapidshare window title when Vapidshare Pro plugin is equipped
+#. source: Vapidshare Pro
+msgid "UI.vapidshare_title_pro"
+msgstr "Vapidshare Pro"
+
+#. Vapidshare window parts progress
+#. source: Parts %d / %d
+#. Keep placeholders unchanged: %d
+msgid "UI.vapidshare_parts"
+msgstr "分割檔%d / %d"
+
+#. Vapidshare window extracting status
+#. source: Extracting...
+msgid "UI.vapidshare_extracting"
+msgstr "正在解壓縮..."
+
+#. Vapidshare window extract finished status
+#. source: Done
+msgid "UI.vapidshare_done"
+msgstr "完成"
+
+#. Vapidshare part row complete status
+#. source: Complete
+msgid "UI.vapidshare_part_complete"
+msgstr "完成"
+
+#. Vapidshare list hoster column
+#. source: vapidshare.com
+msgid "UI.vapidshare_hoster"
+msgstr "vapidshare.com"
+
+#. Vapidshare list Hoster header
+#. source: Hoster
+msgid "UI.vapidshare_hoster_column"
+msgstr "檔案託管商"
+
+#. Vapidshare toolbar Extras
+#. source: Extras
+msgid "UI.vapidshare_extras"
+msgstr "額外內容"
+
+#. Window menu File
+#. source: File
+msgid "UI.menu_file"
+msgstr "文件"
+
+#. Window menu Edit
+#. source: Edit
+msgid "UI.menu_edit"
+msgstr "編輯"
+
+#. Window menu View
+#. source: View
+msgid "UI.menu_view"
+msgstr "檢視"
+
+#. Window menu Favorites
+#. source: Favorites
+msgid "UI.menu_favorites"
+msgstr "我的最愛"
+
+#. Window menu Help
+#. source: Help
+msgid "UI.menu_help"
+msgstr "幫助"
+
+#. Window menu Action
+#. source: Action
+msgid "UI.menu_action"
+msgstr "操作"
+
+#. Starter folder / policies tree - difficulty row
+#. source: Folder Difficulty
+msgid "UI.folder_difficulty"
+msgstr "文件難度"
+
+#. Starter folder / policies tree - weapon row
+#. source: Starter Weapon
+msgid "UI.starter_weapon"
+msgstr "初始武器"
+
+#. Installer Remove button tooltip
+#. source: Skips installing plugin and removes it from selection pool.
+msgid "UI.installer_remove_tooltip"
+msgstr "跳過插件安裝並將其從選擇池中移除"
+
+#. Installer Install button tooltip
+#. source: Installs plugin.
+msgid "UI.installer_install_tooltip"
+msgstr "安裝插件"
+
+#. Finance Manager all-in button
+#. source: All In
+msgid "UI.stock_trader_all_in"
+msgstr "全部投入"
+
+#. Finance Manager withdraw button
+#. source: Withdraw
+msgid "UI.stock_trader_withdraw"
+msgstr "提領"
+
+#. AVN Buddy Plus! shield file name
+#. source: Send Message
+msgid "UI.elite_send_message"
+msgstr "傳送訊息"
+
+#. Pause menu title
+#. source: Pause menu
+msgid "UI.pause_menu_title"
+msgstr "暫停選單"
+
+#. Victory screen title
+#. source: You Won!
+msgid "UI.you_won"
+msgstr "你贏了 !"
+
+#. Bluescreen body. {click} and {tab} are input icons
+#. source: A fatal exception has occurred and the system has been terminated to prevent corruption.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nIf this is the first time you've seen this termination screen, restart your system.\nIf this screen appears again, internal modules may have been compromised.\n\nPlease verify the integrity of your installed components. Unexpected behavior may\nindicate corrupted memory, invalid packet injection, or unauthorized script execution.\n\nIf the issue persists, perform a secure reboot or contact your system's internal administrator.\n\nTechnical Dump:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nBeginning forced shutdown...\nMemory cache flushed.\n\nPress {click} to continue. {tab} for stats
+#. Keep placeholders unchanged: {click}, {tab}
+msgid "UI.bluescreen_text"
+msgstr ""
+"發生嚴重例外錯誤，系統已終止以防止資料損毀.\n"
+"\n"
+"CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
+"\n"
+"如果這是你第一次看到此終止畫面，請重新啟動系統.\n"
+"如果此畫面再次出現，內部模組可能已遭到破壞.\n"
+"異常行為可能表示記憶體損毀、\n"
+"封包注入無效，或未經授權的腳本正在執行.\n"
+"如果問題持續存在，請執行安全重新啟動，或聯絡系統內部管理員.\n"
+"\n"
+"技術傾印：\n"
+"STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n"
+"\n"
+"正在強制關機...\n"
+"記憶體快取已清除.\n"
+"\n"
+"按下 {click}以繼續. {tab} 查看統計"
+
+#. Browser address-bar caption
+#. source: Address
+msgid "UI.browser_address"
+msgstr "位址"
+
+#. Browser Go button
+#. source: Go
+msgid "UI.browser_go"
+msgstr "執行"
+
+#. Installer Remove button
+#. source: Remove
+msgid "UI.installer_remove"
+msgstr "移除"
+
+#. Installer Skip button
+#. source: Skip
+msgid "UI.installer_skip_button"
+msgstr "跳過"
+
+#. Vapor window cache-validation status
+#. source: Validating cache files...
+msgid "UI.vapor_cache"
+msgstr "正在驗證快取檔案..."
+
+#. Clearzone archive window title
+#. source: Clearzone Archive
+msgid "UI.rar_title"
+msgstr "清除區域封存庫"
+
+#. Clearzone plugin pick window title
+#. source: Clearzone - Pick Your Plugin
+msgid "UI.rar_plugin_title"
+msgstr "清除區域 - 選擇你的插件"
+
+#. Clearzone archive clear count
+#. source: %d / %d
+#. Keep placeholders unchanged: %d
+msgid "UI.rar_progress"
+msgstr "%d/%d"
+
+#. Clearzone archive clears label
+#. source: Clears
+msgid "UI.rar_clears"
+msgstr "已清除"
+
+#. Clearzone menu - Actions
+#. source: Actions
+msgid "UI.rar_actions"
+msgstr "操作"
+
+#. Clearzone list column - Time
+#. source: Time
+msgid "UI.rar_time"
+msgstr "耗時"
+
+#. Clearzone list size with KB unit
+#. source: %d KB
+#. Keep placeholders unchanged: %d
+msgid "UI.rar_size_kb"
+msgstr "%d KB"
+
+#. Torrent window title
+#. source: BigWave 2003 Edition
+msgid "UI.torrent_title"
+msgstr "BigWave 2003版"
+
+#. Browser chrome - Search toolbar label
+#. source: Search
+msgid "UI.browser_search"
+msgstr "搜索"
+
+#. RAM downloader splash verb
+#. source: Download
+msgid "UI.download_ram_action"
+msgstr "下載"
+
+#. Vapidshare part tooltip while another part is downloading
+#. source: Another part is downloading. Get Vapidshare Pro for simultaneous downloads.
+msgid "CLICKABLE.vapid_part_busy"
+msgstr "另一部分正在下載，取得 Vapidshare Pro 以實現同時下載"
+
+#. Shop / upgrade screen - reroll button
+#. source: Reroll: %.2f Coin
+#. Keep placeholders unchanged: %.2f
+msgid "UI.reroll_coin"
+msgstr "重擲:%.2f 硬幣"
+
+#. HUD - Beanz label
+#. source: Beanz: %d
+#. Keep placeholders unchanged: %d
+msgid "UI.beanz"
+msgstr "Beanz: %d"
+
+#. HUD - Coin label
+#. source: Coin: %.2f
+#. Keep placeholders unchanged: %.2f
+msgid "UI.coin"
+msgstr "硬幣數:%.2f"
+
+#. HUD - Keys label
+#. source: Keys: %d
+#. Keep placeholders unchanged: %d
+msgid "UI.keys"
+msgstr "金鑰:%d"
+
+#. Torrent window - tab
+#. source: All (%d)
+#. Keep placeholders unchanged: %d
+msgid "UI.all_count"
+msgstr "全部(%d)"
+
+#. Torrent window - tab
+#. source: Downloading (%d)
+#. Keep placeholders unchanged: %d
+msgid "UI.downloading_count"
+msgstr "正在下載(%d)"
+
+#. Torrent window - tab
+#. source: Completed (%d)
+#. Keep placeholders unchanged: %d
+msgid "UI.completed_count"
+msgstr "已完成(%d)"
+
+#. Torrent window - tab
+#. source: Stalled (%d)
+#. Keep placeholders unchanged: %d
+msgid "UI.stalled_count"
+msgstr "已停止 (%d)"
+
+#. End screen exit bar close prompt
+#. source: Press {close} to reboot to main menu...
+#. Keep placeholders unchanged: {close}
+msgid "UI.end_screen_exit_prompt"
+msgstr "按下 {close} 重新啟動至主選單"
+
+#. HUD - health label
+#. source: HP: %d/%d
+#. Keep placeholders unchanged: %d
+msgid "UI.hp"
+msgstr "生命值: %d/%d"
+
+#. Unlock requirement - clear N enemies
+#. source: Clear {amount} enemies
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_clear_enemies"
+msgstr "消滅 {amount} 個敵人"
+
+#. Unlock requirement - clear N enemies with a weapon
+#. source: Clear {amount} enemies with {weapon}
+#. Keep placeholders unchanged: {amount}, {weapon}
+msgid "UI.unlock_clear_with_weapon"
+msgstr "使用 {weapon} 消滅 {amount} 個敵人"
+
+#. Unlock requirement - get a weapon to a level
+#. source: Get {weapon} to level {amount}
+#. Keep placeholders unchanged: {weapon}, {amount}
+msgid "UI.unlock_weapon_level"
+msgstr "將 {weapon} 提升至 {amount} 等級"
+
+#. Unlock requirement - reach a player level in one run
+#. source: Reach level {amount} in a single run
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_reach_level"
+msgstr "單次遊玩達到等級 {amount}"
+
+#. Unlock requirement - deal N damage
+#. source: Deal {amount} damage
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_deal_damage"
+msgstr "造成 {amount} 點傷害"
+
+#. Unlock requirement - open N files lifetime
+#. source: Open {amount} files
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_open_files"
+msgstr "開啟 {amount} 次文件"
+
+#. Unlock requirement - open N files of a type
+#. source: Open {amount} {file} files
+#. Keep placeholders unchanged: {amount}, {file}
+msgid "UI.unlock_open_file_type"
+msgstr "開啟 {amount} 個 {file} 文件"
+
+#. Unlock requirement - Download More RAM N times
+#. source: Download More RAM {amount} times
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_open_download_ram"
+msgstr "下載更多記憶體 {amount} 次"
+
+#. Unlock requirement - successfully extract N Zip files
+#. source: Successfully extract {amount} Zip files
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_extract_zips"
+msgstr "成功提取 {amount} 個 Zip 文件"
+
+#. Unlock requirement - open vapor.exe N times
+#. source: Open vapor.exe {amount} times
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_open_vapor"
+msgstr "開啟 {amount} 次vapor.exe"
+
+#. Unlock requirement - clear N of an enemy type
+#. source: Clear {amount} {enemy} enemies
+#. Keep placeholders unchanged: {amount}, {enemy}
+msgid "UI.unlock_clear_enemy"
+msgstr "清除 {amount} 個 {enemy} 敵人"
+
+#. Unlock requirement - complete N runs
+#. source: Complete {amount} runs
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_win_runs"
+msgstr "通關 {amount} 次"
+
+#. Unlock requirement - have overlay windows in all 4 corners at once
+#. source: Have windows in all 4 corners at once
+msgid "UI.unlock_corner_windows"
+msgstr "同時在四個角落都有視窗"
+
+#. Unlock description - overlay windows in all 4 corners
+#. source: Open files until their windows fill every corner of the screen.
+msgid "UI.unlock_corner_windows_desc"
+msgstr "開啟文件，直到視窗填滿螢幕的每個角落"
+
+#. Unlock requirement - complete N tasks
+#. source: Complete {amount} tasks
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_complete_tasks"
+msgstr "完成 {amount} 個任務"
+
+#. Unlock requirement - complete N Side Tasks
+#. source: Complete {amount} Side Tasks
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_complete_side_tasks"
+msgstr "完成 {amount} 個支線任務"
+
+#. Lifetime Side Tasks completed milestone description
+#. source: Side Tasks completed across all runs.
+msgid "UI.unlock_general_side_tasks_desc"
+msgstr "所有遊玩累計完成支線任務"
+
+#. Unlock requirement - crit N times
+#. source: Crit {amount} times
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_crit_times"
+msgstr "暴擊 {amount} 次"
+
+#. Unlock requirement - spend N Coin in shops
+#. source: Spend {amount} Coin in shops
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_spend_coin"
+msgstr "在商店花費 {amount} 硬幣"
+
+#. Unlock requirement - install N plugins
+#. source: Install {amount} plugins
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_install_plugins"
+msgstr "安裝 {amount} 個插件"
+
+#. Unlock requirement - collect N Keys in one run
+#. source: Collect {amount} Keys in a single run
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_collect_keys_run"
+msgstr "一輪中收集 {amount} 把金鑰"
+
+#. Unlock requirement - collect N Keys lifetime
+#. source: Collect {amount} Keys
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_collect_keys"
+msgstr "收集 {amount} 把金鑰"
+
+#. Unlock requirement - collect N Coin lifetime
+#. source: Collect {amount} Coin
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_collect_coin"
+msgstr "收集 {amount} 枚硬幣"
+
+#. Unlock requirement - take N damage lifetime
+#. source: Take {amount} damage
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_take_damage"
+msgstr "承受 {amount} 點傷害"
+
+#. Unlock requirement - land N HaD: DoCK headshots
+#. source: Land {amount} headshots
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_headshots"
+msgstr "達成 {amount} 次爆頭"
+
+#. Unlock requirement - apply N Heat stacks
+#. source: Apply {amount} Heat stacks to enemies
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_apply_heat"
+msgstr "對敵人施加 {amount} 層灼熱層數"
+
+#. Unlock requirement - reach 2x Processing Speed
+#. source: Reach 2.00× Processing Speed
+msgid "UI.unlock_reach_proc_2x"
+msgstr "處理速度達到 2.00×"
+
+#. Unlock requirement - reach 2x Cursor Speed
+#. source: Reach 2.00× Cursor Speed
+msgid "UI.unlock_reach_cursor_2x"
+msgstr "游標移速達到 2.00×"
+
+#. Unlock requirement - skip or delete N installers
+#. source: Skip or delete {amount} plugins in an Installer
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_installer_skip"
+msgstr "跳過或刪除安裝程式中的 {amount} 個插件"
+
+#. Unlock requirement - buy N shop upgrades
+#. source: Buy {amount} upgrades from the Shop
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_shop_purchases"
+msgstr "從商店購買 {amount} 個升級"
+
+#. Unlock requirement - open N Health Checks
+#. source: Open {amount} Health Checks
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_open_health_check"
+msgstr "開啟 {amount} 次健康檢查"
+
+#. Unlock requirement - heal N HP lifetime
+#. source: Heal {amount} HP
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_heal_hp"
+msgstr "恢復 {amount} 點生命值"
+
+#. Unlock requirement - die N times
+#. source: Die {amount} times
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_die_times"
+msgstr "藍屏 {amount} 次"
+
+#. Hidden 5th weapon slot label
+#. source: Bonus
+msgid "UI.weapon_slot_bonus"
+msgstr "額外獎勵"
+
+#. Unlock requirement - open N LemWire files
+#. source: Open {amount} LemWire files
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_open_lemwire"
+msgstr "開啟 {amount} 個 LemWire 檔案"
+
+#. Unlock requirement - trigger N spam ad attacks
+#. source: Trigger {amount} Spam Ad Attacks
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_spam_popups"
+msgstr "觸發 {amount} 次垃圾廣告攻擊"
+
+#. Unlock requirement - defeat a boss
+#. source: Defeat {boss}
+#. Keep placeholders unchanged: {boss}
+msgid "UI.unlock_defeat_boss"
+msgstr "擊敗 {boss}"
+
+#. Unlock requirement - defeat any boss
+#. source: Defeat any boss
+msgid "UI.unlock_defeat_any_boss"
+msgstr "擊敗任意首領"
+
+#. Unlock reward - boss choice file
+#. source: {boss} File
+#. Keep placeholders unchanged: {boss}
+msgid "UI.unlock_boss_choice_reward"
+msgstr "{boss} 文件"
+
+#. Unlock description - boss choice file
+#. source: Lets you choose {boss} at the end of a run instead of only Random Boss.
+#. Keep placeholders unchanged: {boss}
+msgid "UI.unlock_boss_choice_desc"
+msgstr "允許你在遊戲結束時選擇 {boss}，而不是只能選擇隨機首領"
+
+#. Unlock requirement - land a hit of N damage
+#. source: Land a single hit of {amount} damage
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_hit"
+msgstr "單次造成 {amount} 點傷害"
+
+#. Unlock requirement - complete a protocol
+#. source: Complete {protocol}
+#. Keep placeholders unchanged: {protocol}
+msgid "UI.unlock_complete_protocol"
+msgstr "完成 {protocol}"
+
+#. Unlock description - unlocks a protocol
+#. source: Unlocks {reward}.
+#. Keep placeholders unchanged: {reward}
+msgid "UI.unlock_protocol_unlocks"
+msgstr "解鎖{reward}"
+
+#. Unlock requirement - reach a round on a protocol or higher
+#. source: Reach round {amount} on {protocol} or higher
+#. Keep placeholders unchanged: {amount}, {protocol}
+msgid "UI.unlock_round_protocol"
+msgstr "在 {protocol} 或更高難度的協定中達到第 {amount} 回合"
+
+#. UI (script-driven)
+#. source: Heal {amount} HP total
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_plugin_big_hp_regen_boost"
+msgstr "恢復 {amount} 點生命值"
+
+#. UI (script-driven)
+#. source: Die 10 times
+msgid "UI.unlock_class_null"
+msgstr "藍屏 10 次"
+
+#. UI (script-driven)
+#. source: Collect {amount} Coin in a single run
+#. Keep placeholders unchanged: {amount}
+msgid "UI.unlock_widget_nos"
+msgstr "單輪收集 {amount} 枚硬幣"
+
+#. UI (script-driven)
+#. source: Temporarily boost cursor speed for a short burst.
+msgid "UI.unlock_widget_nos_desc"
+msgstr "暫時提升游標速度"
+
+#. UI (script-driven)
+#. source: N2O
+msgid "UI.unlock_widget_nos_reward"
+msgstr "N2O"
+
+#. UI (script-driven)
+#. source: Commit crimes for coin while dodging the heat.
+msgid "UI.unlock_widget_crime_desc"
+msgstr "一邊犯罪撈錢，一邊躲避風頭"
+
+#. UI (script-driven)
+#. source: Criminal
+msgid "UI.unlock_widget_crime_reward"
+msgstr "罪犯"
+
+#. UI (script-driven)
+#. source: Slow the world around you to clear enemies more easily.
+msgid "UI.unlock_widget_bullet_time_desc"
+msgstr "減慢周圍環境的速度，以便更輕鬆地清除敵人"
+
+#. UI (script-driven)
+#. source: Heaps of Pain
+msgid "UI.unlock_widget_bullet_time_reward"
+msgstr "無盡痛苦"
+
+#. UI (script-driven)
+#. source: Buy and sell Keys for Coin in Safe Folders.
+msgid "UI.unlock_file_keybuy_desc"
+msgstr "在安全文件夾中用硬幣買賣金鑰"
+
+#. UI (script-driven)
+#. source: KeyBuy
+msgid "UI.unlock_file_keybuy_reward"
+msgstr "KeyBuy"
+
+#. UI (script-driven)
+#. source: Heal now, or upgrade Health Check files for later battles.
+msgid "UI.unlock_file_health_check_pro_desc"
+msgstr "立即治療，或升級 生命檢查 以備後續戰鬥使用"
+
+#. UI (script-driven)
+#. source: Health Check Plus
+msgid "UI.unlock_file_health_check_pro_reward"
+msgstr "健康檢查 Plus"
+
+#. UI (script-driven)
+#. source: Invest Coin between battles and cash out later.
+msgid "UI.unlock_file_stock_trader_desc"
+msgstr "在戰鬥間隙投資硬幣，並在稍後兌現"
+
+#. UI (script-driven)
+#. source: Finance Manager
+msgid "UI.unlock_file_stock_trader_reward"
+msgstr "財務經理"
+
+#. Unlock description - Ethanol 130% safe file
+#. source: Pay Coin to copy a random plugin you already have installed.
+msgid "UI.unlock_file_ethanol_desc"
+msgstr "支付硬幣複製一個你已安裝的隨機插件"
+
+#. Unlock reward - Ethanol 130% name
+#. source: Ethanol 130%
+msgid "UI.unlock_file_ethanol_reward"
+msgstr "Ethanol 130%"
+
+#. UI (script-driven)
+#. source: Download multi-part archives that drop Cracked Installers.
+msgid "UI.unlock_file_vapidshare_desc"
+msgstr "下載多個分割檔，以取得破解版安裝程式"
+
+#. UI (script-driven)
+#. source: Vapidshare
+msgid "UI.unlock_file_vapidshare_reward"
+msgstr "Vapidshare"
+
+#. UI (script-driven)
+#. source: Install plugins without spending a Key.
+msgid "UI.unlock_file_cracked_installer_desc"
+msgstr "無需花費密鑰即可安裝插件"
+
+#. UI (script-driven)
+#. source: Cracked Installer
+msgid "UI.unlock_file_cracked_installer_reward"
+msgstr "破解版安裝程式"
+
+#. UI (script-driven)
+#. source: Clear a zone of enemies to choose from three plugins.
+msgid "UI.unlock_file_killzone_desc"
+msgstr "清除區域內的敵人後，即可從三個插件中選擇一個"
+
+#. UI (script-driven)
+#. source: Clearzone
+msgid "UI.unlock_file_killzone_reward"
+msgstr "區域清除"
+
+#. UI (script-driven)
+#. source: Install 3 legendary plugins
+msgid "UI.unlock_file_legendary_installer"
+msgstr "安裝 3 款傳奇插件"
+
+#. UI (script-driven)
+#. source: Spend 3 Keys for a legendary plugin install.
+msgid "UI.unlock_file_legendary_installer_desc"
+msgstr "花費 3 把金鑰即可安裝一款傳奇插件"
+
+#. UI (script-driven)
+#. source: Legendary Installer
+msgid "UI.unlock_file_legendary_installer_reward"
+msgstr "傳奇安裝程式"
+
+#. UI (script-driven)
+#. source: Defeat a Plus! enemy in 10 seconds
+msgid "UI.unlock_file_morgan_av"
+msgstr "10 秒內擊敗 Plus! 敵人"
+
+#. UI (script-driven)
+#. source: Install Morgan Antivirus to raise difficulty and spawn extra Plus! enemies.
+msgid "UI.unlock_file_morgan_av_desc"
+msgstr "安裝摩根防毒軟體以提高難度並產生額外的 Plus! 敵人"
+
+#. UI (script-driven)
+#. source: Bonus Beanz
+msgid "UI.unlock_general_reward"
+msgstr "額外獎勵 Beanz"
+
+#. Lifetime clears milestone description
+#. source: Lifetime enemy clears milestone.
+msgid "UI.unlock_general_kills_desc"
+msgstr "生涯敵人清除里程碑"
+
+#. Lifetime files milestone description
+#. source: Lifetime files opened milestone.
+msgid "UI.unlock_general_files_desc"
+msgstr "生涯已開啟文件里程碑"
+
+#. Lifetime file-type opens milestone description
+#. source: {file} files opened across all runs.
+#. Keep placeholders unchanged: {file}
+msgid "UI.unlock_general_file_type_desc"
+msgstr "所有遊玩累計 {file} 個開啟的檔案"
+
+#. Lifetime Download More RAM milestone description
+#. source: Download More RAM completed across all runs.
+msgid "UI.unlock_general_download_ram_desc"
+msgstr "所有遊玩累計成功 下載更多記憶體 次數"
+
+#. Lifetime enemy-type clears milestone description
+#. source: {enemy} enemies cleared across all runs.
+#. Keep placeholders unchanged: {enemy}
+msgid "UI.unlock_general_enemy_desc"
+msgstr "所有遊玩過程中擊殺的 {enemy} 種敵人"
+
+#. Lifetime critical hits milestone description
+#. source: Lifetime critical hits milestone.
+msgid "UI.unlock_general_crits_desc"
+msgstr "生涯暴擊里程碑"
+
+#. Lifetime damage milestone description
+#. source: Lifetime damage dealt milestone.
+msgid "UI.unlock_general_damage_desc"
+msgstr "生涯傷害里程碑"
+
+#. Biggest hit milestone description
+#. source: Biggest hit milestone.
+msgid "UI.unlock_general_highest_hit_desc"
+msgstr "最高單擊傷害里程碑"
+
+#. Lifetime run completions milestone description
+#. source: Runs completed successfully.
+msgid "UI.unlock_general_wins_desc"
+msgstr "成功通關次數"
+
+#. Lifetime tasks completed milestone description
+#. source: Tasks completed from the list.
+msgid "UI.unlock_general_quests_desc"
+msgstr "已完成的任務清單"
+
+#. Single-run level milestone description
+#. source: Single-run level milestone.
+msgid "UI.unlock_general_level_desc"
+msgstr "單輪等級里程碑"
+
+#. Optional extra difficulty policy - name (legacy_hardware)
+#. source: Legacy Hardware
+msgid "POLICY.legacy_hardware.name"
+msgstr "傳統硬體"
+
+#. Optional extra difficulty policy - description (legacy_hardware)
+#. source: Enemies move 40% faster and deal 20% more damage.
+msgid "POLICY.legacy_hardware.description"
+msgstr "敵人移速加快40%，傷害增加20%"
+
+#. Optional extra difficulty policy - name (bloatware)
+#. source: Bloatware
+msgid "POLICY.bloatware.name"
+msgstr "膨脹軟體"
+
+#. Optional extra difficulty policy - description (bloatware)
+#. source: 40% more enemies spawn, and enemies have 20% more health.
+msgid "POLICY.bloatware.description"
+msgstr "多產生40%敵人，且多20%生命"
+
+#. Optional extra difficulty policy - name (void_breach)
+#. source: Void Breach
+msgid "POLICY.void_breach.name"
+msgstr "虛空裂隙"
+
+#. Optional extra difficulty policy - description (void_breach)
+#. source: The void deals 2x damage and applies 2x Lag.
+msgid "POLICY.void_breach.description"
+msgstr "虛空造成的傷害翻倍，延遲也翻倍"
+
+#. Optional extra difficulty policy - name (bad_sector)
+#. source: Bad Sector
+msgid "POLICY.bad_sector.name"
+msgstr "不良區域"
+
+#. Optional extra difficulty policy - description (bad_sector)
+#. source: Halve current HP each Battle Folder.
+msgid "POLICY.bad_sector.description"
+msgstr "每場戰鬥生命值減半"
+
+#. Optional extra difficulty policy - name (low_memory)
+#. source: Low Memory
+msgid "POLICY.low_memory.name"
+msgstr "記憶體不足"
+
+#. Optional extra difficulty policy - description (low_memory)
+#. source: No new weapons at level 8, 16, or 24.
+msgid "POLICY.low_memory.description"
+msgstr "不會在等級8，16和24出現新武器"
+
+#. Optional extra difficulty policy - name (unsigned_driver)
+#. source: Activation Required
+msgid "POLICY.unsigned_driver.name"
+msgstr "需要啟用"
+
+#. Optional extra difficulty policy - description (unsigned_driver)
+#. source: Keygen files do not spawn. Get plugins from cracked installers, or buy Keys at the Key Shop.
+msgid "POLICY.unsigned_driver.description"
+msgstr "不會生成金鑰產生器只能在商店買金鑰或從破解版安裝程式取得插件"
+
+#. Optional extra difficulty policy - name (read_only)
+#. source: Read Only
+msgid "POLICY.read_only.name"
+msgstr "唯讀"
+
+#. Optional extra difficulty policy - description (read_only)
+#. source: Rerolls are disabled.
+msgid "POLICY.read_only.description"
+msgstr "取消重骰功能"
+
+#. Optional extra difficulty policy - name (blue_screen_imminent)
+#. source: Blue Screen Imminent
+msgid "POLICY.blue_screen_imminent.name"
+msgstr "即將藍屏"
+
+#. Optional extra difficulty policy - description (blue_screen_imminent)
+#. source: The post-round escape timer is halved.
+msgid "POLICY.blue_screen_imminent.description"
+msgstr "回合結束後的逃脫計時減半"
+
+#. Optional extra difficulty policy - name (trial_version)
+#. source: Trial Version
+msgid "POLICY.trial_version.name"
+msgstr "試用版"
+
+#. Optional extra difficulty policy - description (trial_version)
+#. source: Battle rounds last 2.5 minutes.
+msgid "POLICY.trial_version.description"
+msgstr "每場戰鬥只有2.5分鐘"
+
+#. Optional extra difficulty policy - name (extended_support)
+#. source: Extended Support
+msgid "POLICY.extended_support.name"
+msgstr "延長支援"
+
+#. Optional extra difficulty policy - description (extended_support)
+#. source: Battle rounds last 10 minutes.
+msgid "POLICY.extended_support.description"
+msgstr "每場戰鬥時間為 10 分鐘"
+
+#. Optional extra difficulty policy - name (kiosk_mode)
+#. source: Kiosk Mode
+msgid "POLICY.kiosk_mode.name"
+msgstr "Kiosk 模式"
+
+#. Optional extra difficulty policy - description (kiosk_mode)
+#. source: No weapons for the whole round.
+msgid "POLICY.kiosk_mode.description"
+msgstr "本輪禁用武器"
+
+#. Optional extra difficulty policy - name (fatal_exception)
+#. source: Fatal Exception
+msgid "POLICY.fatal_exception.name"
+msgstr "致命異常"
+
+#. Optional extra difficulty policy - description (fatal_exception)
+#. source: Touching the void ends the run.
+msgid "POLICY.fatal_exception.description"
+msgstr "觸碰到虛空時結束戰鬥"
+
+#. Optional extra difficulty policy - name (redirected_folders)
+#. source: Redirected Folders
+msgid "POLICY.redirected_folders.name"
+msgstr "重新導向資料夾"
+
+#. Optional extra difficulty policy - description (redirected_folders)
+#. source: No files spawn in the rounds.
+msgid "POLICY.redirected_folders.description"
+msgstr "本輪不會產生任何文件"
+
+#. Optional extra difficulty policy - name (open_relay)
+#. source: Open Relay
+msgid "POLICY.open_relay.name"
+msgstr "開放式轉寄"
+
+#. Optional extra difficulty policy - description (open_relay)
+#. source: Every battle file includes spam.
+msgid "POLICY.open_relay.description"
+msgstr "本輪戰鬥中會出現垃圾廣告"
+
+#. Optional extra difficulty policy - name (default_domain_policy)
+#. source: Natasha's Wrath
+msgid "POLICY.default_domain_policy.name"
+msgstr "Natasha的憤怒"
+
+#. Optional extra difficulty policy - description (default_domain_policy)
+#. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
+msgid "POLICY.default_domain_policy.description"
+msgstr ""
+"一次套用所有標準原則.\n"
+"敵人速度更快、更強韌，數量也更多.\n"
+"每場戰鬥都會使目前生命值減半.\n"
+"不提供額外武器、金鑰產生器或重骰.\n"
+"虛空傷害效果為 2 倍.\n"
+"逃脫計時器縮短為一半."
+
+#. Policy complete unlock requirement template
+#. source: Complete any protocol using {policy}
+#. Keep placeholders unchanged: {policy}
+msgid "UI.unlock_policy_win"
+msgstr "以 {policy} 完成任意協定"
+
+#. Policy complete unlock description template
+#. source: Complete any protocol with {policy} enabled.
+#. Keep placeholders unchanged: {policy}
+msgid "UI.unlock_policy_win_desc"
+msgstr "在啟用 {policy} 的情況下完成任意協定"
+
+#. Protocol V policy unlock requirement template
+#. source: Complete Protocol V with {policy}
+#. Keep placeholders unchanged: {policy}
+msgid "UI.unlock_policy_v5"
+msgstr "以 {policy} 完成第五協定"
+
+#. Protocol V policy unlock description template
+#. source: Complete Protocol V with {policy} enabled.
+#. Keep placeholders unchanged: {policy}
+msgid "UI.unlock_policy_v5_desc"
+msgstr "在啟用 {policy} 的情況下完成第五通訊協定"
+
+#. KeyBuy window and desktop icon title
+#. source: keyBuy
+msgid "UI.keybuy_title"
+msgstr "keyBuy"
+
+#. KeyBuy buy button
+#. source: Buy a Key
+msgid "UI.keybuy_buy"
+msgstr "購買金鑰"
+
+#. KeyBuy sell button
+#. source: Sell a Key
+msgid "UI.keybuy_sell"
+msgstr "售出 1 把金鑰"
+
+#. KeyBuy listing price
+#. source: {cost} Coin
+#. Keep placeholders unchanged: {cost}
+msgid "UI.keybuy_cost"
+msgstr "{cost} 硬幣"
+
+#. KeyBuy header slogan
+#. source: The World's Biggest Key Marketplace
+msgid "UI.keybuy_tagline"
+msgstr "全球最大的金鑰交易平台"
+
+#. KeyBuy buy tooltip
+#. source: Spend {cost} Coin for 1 Key.
+#. Keep placeholders unchanged: {cost}
+msgid "UI.keybuy_buy_tooltip"
+msgstr "花費 {cost} 硬幣購買 1 把金鑰"
+
+#. KeyBuy sell tooltip
+#. source: Sell 1 Key for {cost} Coin.\nMarketplace fee keeps {fee} Coin.
+#. Keep placeholders unchanged: {cost}, {fee}
+msgid "UI.keybuy_sell_tooltip"
+msgstr ""
+"出售 1 把金鑰，獲得 {cost} 硬幣. \n"
+"市場手續費保留 {fee} 硬幣"
+
+#. KeyBuy nav links under the logo
+#. source: home | buy | sell | my keys | help
+msgid "UI.keybuy_nav"
+msgstr "首頁 | 購買 | 售出 | 我的金鑰 | 幫助"
+
+#. KeyBuy buy column heading
+#. source: Buy
+msgid "UI.keybuy_heading_buy"
+msgstr "購買"
+
+#. KeyBuy sell column heading
+#. source: Sell
+msgid "UI.keybuy_heading_sell"
+msgstr "售出"
+
+#. Health Check Pro heal button
+#. source: Heal Now
+msgid "UI.health_check_pro_heal"
+msgstr "立即治療"
+
+#. Health Check Pro upgrade-files button
+#. source: Upgrade Files
+msgid "UI.health_check_pro_boost"
+msgstr "升級文件"
+
+#. Health Check Pro upgrade-files button after purchase
+#. source: Upgraded
+msgid "UI.health_check_pro_boost_bought"
+msgstr "已升級"
+
+#. Health Check Pro upgrade-files tooltip
+#. source: Health Check files in the next battles drop more hearts this run.
+msgid "UI.health_check_pro_boost_tooltip"
+msgstr "健康檢查檔案將在接下來的戰鬥中掉落更多生命值"
+
+#. Health Check Pro heal tooltip
+#. source: Restore 50% of your Max HP right now.
+msgid "UI.health_check_pro_heal_tooltip"
+msgstr "立即恢復50%最大生命值"
+
+#. Health Check Pro program subtitle
+#. source: Help protect your PC
+msgid "UI.health_check_pro_banner"
+msgstr "幫助保護你的電腦"
+
+#. Health Check Pro file-upgrade card title
+#. source: Health Check Files
+msgid "UI.health_check_pro_file_head"
+msgstr "健康檢查檔案"
+
+#. Health Check Pro heal card title
+#. source: Instant Repair
+msgid "UI.health_check_pro_heal_head"
+msgstr "即時修復"
+
+#. Health Check Pro file-upgrade explanation
+#. source: Upgrading makes Health Check files in battle drop more hearts.
+msgid "UI.health_check_pro_file_blurb"
+msgstr "升級後，戰鬥中健康檢查檔案掉落更多生命值"
+
+#. Health Check Pro current heart range
+#. source: Now: {min}–{max} HP
+#. Keep placeholders unchanged: {min}, {max}
+msgid "UI.health_check_pro_range_now"
+msgstr "現在: {min}–{max} 生命值"
+
+#. Health Check Pro range after upgrade
+#. source: After upgrade: {min}–{max} HP
+#. Keep placeholders unchanged: {min}, {max}
+msgid "UI.health_check_pro_range_next"
+msgstr "升級後: {min}–{max} 生命值"
+
+#. Health Check Pro range after purchase
+#. source: Upgraded: {min}–{max} HP
+#. Keep placeholders unchanged: {min}, {max}
+msgid "UI.health_check_pro_range_done"
+msgstr ""
+"已升級: {min}–{max} 生命值\n"
+"‪"
+
+#. Health Check Pro heal explanation
+#. source: Restore 50% of Max HP right now.
+msgid "UI.health_check_pro_heal_blurb"
+msgstr "立即恢復50%最大生命值"
+
+#. Health Check Pro heal amount preview
+#. source: +{amount} HP
+#. Keep placeholders unchanged: {amount}
+msgid "UI.health_check_pro_heal_preview"
+msgstr "+{amount} 生命值"
+
+#. Health Check Pro coin cost
+#. source: {cost} Coin
+#. Keep placeholders unchanged: {cost}
+msgid "UI.health_check_pro_cost"
+msgstr "{cost} 硬幣"
+
+#. Finance Manager window and desktop icon title
+#. source: Finance Manager
+msgid "UI.stock_trader_title"
+msgstr "財務管理器"
+
+#. Finance Manager last-folder warning
+#. source: Last folder: withdraw before the last battle!
+msgid "UI.stock_trader_warning"
+msgstr "最後一個資料夾:請在最終戰鬥前提領 !"
+
+#. Finance Manager performance group
+#. source: Performance
+msgid "UI.stock_trader_group_history"
+msgstr "績效"
+
+#. Finance Manager position group
+#. source: Position
+msgid "UI.stock_trader_group_position"
+msgstr "持倉"
+
+#. Finance Manager run-stats group
+#. source: Run Stats
+msgid "UI.stock_trader_group_run"
+msgstr "運行統計"
+
+#. Finance Manager wallet group
+#. source: Wallet
+msgid "UI.stock_trader_group_wallet"
+msgstr "錢包"
+
+#. Finance Manager trade group
+#. source: Trade
+msgid "UI.stock_trader_group_trade"
+msgstr "交易"
+
+#. Finance Manager invested row
+#. source: Invested
+msgid "UI.stock_trader_label_put_in"
+msgstr "已投資"
+
+#. Finance Manager balance row
+#. source: Balance
+msgid "UI.stock_trader_label_now"
+msgstr "餘額"
+
+#. Finance Manager open-profit row
+#. source: Profit
+msgid "UI.stock_trader_label_return"
+msgstr "利潤"
+
+#. Finance Manager this-folder row
+#. source: This Folder
+msgid "UI.stock_trader_label_roll"
+msgstr "此資料夾"
+
+#. Finance Manager folder-change row
+#. source: Change
+msgid "UI.stock_trader_label_change"
+msgstr "漲跌"
+
+#. Finance Manager net-profit row
+#. source: Net Profit
+msgid "UI.stock_trader_label_run"
+msgstr "淨利潤"
+
+#. Finance Manager on-hand row
+#. source: On hand
+msgid "UI.stock_trader_label_on_hand"
+msgstr "持有的"
+
+#. Finance Manager pending row
+#. source: Pending
+msgid "UI.stock_trader_label_pending"
+msgstr "待處理"
+
+#. Finance Manager plus button tooltip
+#. source: Add Coin to your pending deposit.
+msgid "UI.stock_trader_plus_tooltip"
+msgstr "將硬幣加到你的待存款項中"
+
+#. Finance Manager minus button tooltip
+#. source: Reduce your pending deposit.
+msgid "UI.stock_trader_minus_tooltip"
+msgstr "減少你的待存款項"
+
+#. Finance Manager all-in button tooltip
+#. source: Set pending deposit to all Coin on hand.
+msgid "UI.stock_trader_all_in_tooltip"
+msgstr "將所有持有的硬幣設為待存入金額"
+
+#. Finance Manager invest button
+#. source: Invest
+msgid "UI.stock_trader_invest"
+msgstr "投資"
+
+#. Finance Manager invest button tooltip
+#. source: Invest pending Coin.
+msgid "UI.stock_trader_confirm_tooltip"
+msgstr "待確認的硬幣交易"
+
+#. Finance Manager withdraw button tooltip
+#. source: Cash out your current investment to Coin.
+msgid "UI.stock_trader_withdraw_tooltip"
+msgstr "將你目前的投資全兌現成硬幣"
+
+#. Ethanol 130% window explanation
+#. source: Pay Coin to roll a copy of a random plugin you already have installed.
+msgid "UI.ethanol_body"
+msgstr "支付硬幣來複製隨機一項你已安裝的插件"
+
+#. Ethanol 130% copy button
+#. source: Copy: {cost} Coin
+#. Keep placeholders unchanged: {cost}
+msgid "UI.ethanol_copy"
+msgstr "複製: {cost} 硬幣"
+
+#. Ethanol 130% install button
+#. source: Install
+msgid "UI.ethanol_install"
+msgstr "安裝"
+
+#. Ethanol 130% window text when no plugins installed
+#. source: No plugins installed.
+msgid "UI.ethanol_no_plugins"
+msgstr "未安裝插件"
+
+#. Ethanol 130% window text when installed plugins cannot stack
+#. source: Installed plugins cannot be copied.
+msgid "UI.ethanol_none_copyable"
+msgstr "此安裝的插件無法被複製"
+
+#. Ethanol 130% tooltip after the copy was used
+#. source: Already used in this folder.
+msgid "UI.ethanol_used"
+msgstr "此檔案已使用"
+
+#. Ethanol 130% idle panel title
+#. source: Ready to Distill...
+msgid "UI.ethanol_ready"
+msgstr "準備蒸餾..."
+
+#. Ethanol 130% copying panel title
+#. source: Copying Plugin...
+msgid "UI.ethanol_copying"
+msgstr "複製插件中..."
+
+#. Desktop icon tooltip when another Special File is already open
+#. source: Another Special File is open
+msgid "CLICKABLE.widget_busy"
+msgstr "另一個特殊檔案已開啟"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Open
+msgid "CLICKABLE.double_click_open"
+msgstr "雙擊開啟"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Run
+msgid "CLICKABLE.double_click_run"
+msgstr "雙擊運行"
+
+#. Desktop icon tooltip
+#. source: Downloads 1-5 Weapon Upgrades
+msgid "CLICKABLE.torrent_downloads"
+msgstr "下載1-5個武器升級"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Purchase
+msgid "CLICKABLE.double_click_purchase"
+msgstr "雙擊購買"
+
+#. Meta upgrade shop - refund hovered upgrade
+#. source: %s to Refund
+#. Keep placeholders unchanged: %s
+msgid "CLICKABLE.menu_shortcut_refund"
+msgstr "%s返還"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Fight
+msgid "CLICKABLE.double_click_fight"
+msgstr "雙擊戰鬥"
+
+#. Desktop icon tooltip
+#. source: Double-Click to collect all coins
+msgid "CLICKABLE.double_click_collect_coins"
+msgstr "雙擊獲取硬幣"
+
+#. Desktop icon tooltip
+#. source: Double-Click to collect all data
+msgid "CLICKABLE.double_click_collect_data"
+msgstr "雙擊獲取數據"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Install Plugin
+msgid "CLICKABLE.double_click_install"
+msgstr "雙擊下載插件"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Generate Key
+msgid "CLICKABLE.double_click_keygen"
+msgstr "雙擊產生金鑰"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Play
+msgid "CLICKABLE.double_click_play"
+msgstr "雙擊遊玩"
+
+#. Desktop icon tooltip
+#. source: Double-Click to skip track
+msgid "CLICKABLE.double_click_shuffle"
+msgstr "雙擊切換曲目"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Open Shop
+msgid "CLICKABLE.double_click_shop"
+msgstr "雙擊開啟商店"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Unarchive
+msgid "CLICKABLE.double_click_unarchive"
+msgstr "雙擊解壓縮"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Equip
+msgid "CLICKABLE.double_click_equip"
+msgstr "雙擊裝備"
+
+#. Desktop icon tooltip
+#. source: Double-Click to apply
+msgid "CLICKABLE.double_click_apply"
+msgstr "雙擊以應用"
+
+#. Starter folder buy prompt
+#. source: Double-Click to purchase for %d Beanz
+#. Keep placeholders unchanged: %d
+msgid "CLICKABLE.double_click_buy"
+msgstr "雙擊以 %d Beanz 購買"
+
+#. Desktop icon tooltip
+#. source: Need %d Beanz to purchase
+#. Keep placeholders unchanged: %d
+msgid "CLICKABLE.cant_afford_beanz"
+msgstr "需要 %d Beanz購買"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Open Link
+msgid "CLICKABLE.double_click_open_link"
+msgstr "雙擊開啟連結"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Change Language
+msgid "CLICKABLE.double_click_cycle_language"
+msgstr "雙擊更改語言"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
+msgid "CLICKABLE.github_translations"
+msgstr "開啟連結[br]遊戲中的翻譯均由社群成員慷慨貢獻"
+
+#. Desktop icon tooltip
+#. source: %.0f%% chance of Success
+#. Keep placeholders unchanged: %.0f, %%
+msgid "CLICKABLE.success_chance"
+msgstr "%.0f%%機率成功"
+
+#. Desktop icon tooltip
+#. source: Uses 1 Key
+msgid "CLICKABLE.uses_one_key"
+msgstr "使用1金鑰"
+
+#. Cracked installer tooltip
+#. source: No key required
+msgid "CLICKABLE.no_key_required"
+msgstr "無需金鑰"
+
+#. Legendary installer tooltip
+#. source: Uses 3 keys · Always Legendary
+msgid "CLICKABLE.legendary_installer_hint"
+msgstr "使用3把金鑰 · 保證傳奇"
+
+#. Desktop icon tooltip
+#. source: Destroys everything on-screen!
+msgid "CLICKABLE.vapor_destroys"
+msgstr "摧毀螢幕上的一切  !"
+
+#. Desktop icon tooltip
+#. source: Harder run. Extra Plus! enemies.
+msgid "CLICKABLE.morgan_av_warning"
+msgstr "難度更高.額外的Plus!敵人"
+
+#. Stat tooltip
+#. source: Level %d
+#. Keep placeholders unchanged: %d
+msgid "TOOLTIP.level"
+msgstr "等級%d"
+
+#. Stat tooltip
+#. source: Damage: %.1f
+#. Keep placeholders unchanged: %.1f
+msgid "TOOLTIP.damage"
+msgstr "傷害:%.1f"
+
+#. Stat tooltip
+#. source: Amount: %.1f
+#. Keep placeholders unchanged: %.1f
+msgid "TOOLTIP.amount"
+msgstr "數量:%.1f"
+
+#. Stat tooltip
+#. source: Speed: %.2fs
+#. Keep placeholders unchanged: %.2f
+msgid "TOOLTIP.speed"
+msgstr "速度:%.2f 每秒"
+
+#. Stat tooltip
+#. source: Refresh: %.2fs
+#. Keep placeholders unchanged: %.2f
+msgid "TOOLTIP.refresh"
+msgstr "刷新:%.2f 秒"
+
+#. Stat tooltip
+#. source: Size: %.2fx
+#. Keep placeholders unchanged: %.2f
+msgid "TOOLTIP.size"
+msgstr ""
+"尺寸:%.2fx\n"
+"‪"
+
+#. Stat tooltip
+#. source: Power: %.1f
+#. Keep placeholders unchanged: %.1f
+msgid "TOOLTIP.power"
+msgstr "效果:%.1f"
+
+#. Stat tooltip
+#. source: Damage this run: %.0f
+#. Keep placeholders unchanged: %.0f
+msgid "TOOLTIP.run_damage"
+msgstr "本輪造成傷害:%.0f"
+
+#. Stat tooltip
+#. source: DPS: %.1f
+#. Keep placeholders unchanged: %.1f
+msgid "TOOLTIP.run_dps"
+msgstr "每秒傷害:%.1f"
+
+#. Stat tooltip
+#. source: Hits: %d
+#. Keep placeholders unchanged: %d
+msgid "TOOLTIP.run_hits"
+msgstr "傷害:%d"
+
+#. Stat tooltip
+#. source: Crit rate: %.0f%%
+#. Keep placeholders unchanged: %.0f, %%
+msgid "TOOLTIP.run_crit_rate"
+msgstr "暴擊率:%.0f%%"
+
+#. Stat tooltip
+#. source: Clears: %d
+#. Keep placeholders unchanged: %d
+msgid "TOOLTIP.run_clears"
+msgstr "消滅數:%d"
+
+#. Stat tooltip
+#. source: Biggest hit: %.0f
+#. Keep placeholders unchanged: %.0f
+msgid "TOOLTIP.run_highest_hit"
+msgstr "最高傷害:%.0f"
+
+#. Stat tooltip
+#. source: Completions: %d
+#. Keep placeholders unchanged: %d
+msgid "TOOLTIP.completions"
+msgstr "完成數:%d"
+
+#. Stat tooltip
+#. source: Drivers
+msgid "TOOLTIP.drivers"
+msgstr "驅動模組"
+
+#. Meta upgrade menu
+#. source: Rank: %d/%d
+#. Keep placeholders unchanged: %d
+msgid "META.rank"
+msgstr "階級:%d/%d"
+
+#. Meta upgrade menu
+#. source: MAX RANK
+msgid "META.rank_max"
+msgstr "最高階級"
+
+#. Meta upgrade menu
+#. source: Cost: %d Beanz
+#. Keep placeholders unchanged: %d
+msgid "META.cost_beanz"
+msgstr "花費:%d Beanz"
+
+#. Zip window titlebar when SHZip License is equipped
+#. source: SHZip v2.03
+msgid "ZIP.title_licensed"
+msgstr "SHZip v2.03"
+
+#. Zip extractor window
+#. source: Extracting file: \n%s from /.???
+#. Keep placeholders unchanged: %s
+msgid "ZIP.extracting"
+msgstr ""
+"正在從 /.??? 解壓縮檔案:\n"
+"%s"
+
+#. Zip extractor window
+#. source: Estimated time left: {m}m {s}s ({cur} KB of {max} KB) \nProcessing rate: {rate} KB/Sec
+#. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
+msgid "ZIP.progress"
+msgstr ""
+"預計剩餘時間:{m}m {s}s（目前處理 {cur} KB，最大處理 {max} KB）\n"
+"處理速度：{rate} KB/秒"
+
+#. Zip extractor window
+#. source: %s extracted successfully.
+#. Keep placeholders unchanged: %s
+msgid "ZIP.extracted_success"
+msgstr "%s 提取成功"
+
+#. DLL
+#. source: Missing dynamic link library %s located.
+#. Keep placeholders unchanged: %s
+msgid "DLL.missing_library"
+msgstr "未找到指定的動態連結庫 %s"
+
+#. Desktop icon tooltip
+#. source: BigWave.exe
+msgid "CLICKABLE.filename.torrent"
+msgstr "BigWave.exe"
+
+#. Desktop icon tooltip
+#. source: LemWire.exe
+msgid "CLICKABLE.filename.lemwire"
+msgstr "LemWire.exe"
+
+#. Desktop icon tooltip
+#. source: Installer.pgi
+msgid "CLICKABLE.filename.installer"
+msgstr "安裝程式.pgi"
+
+#. Desktop icon tooltip
+#. source: cracked_installer.pgi
+msgid "CLICKABLE.filename.cracked_installer"
+msgstr "破解版安裝程式.pgi"
+
+#. Desktop icon tooltip
+#. source: LEGENDARY_SETUP.exe
+msgid "CLICKABLE.filename.legendary_installer"
+msgstr "傳奇安裝程式.exe"
+
+#. Desktop icon tooltip
+#. source: MorganAV.pgi
+msgid "CLICKABLE.filename.morgan_av"
+msgstr "摩根防毒軟體.pgi"
+
+#. Run stats panel row
+#. source: Difficulty
+msgid "RUNSTAT.difficulty"
+msgstr "難度"
+
+#. Run stats panel row
+#. source: Current protocol difficulty for this run.
+msgid "RUNSTAT.difficulty_desc"
+msgstr "本次運行的當前協定難度"
+
+#. Run stats panel row
+#. source: Levels Gained
+msgid "RUNSTAT.levels_gained"
+msgstr "等級提升"
+
+#. Run stats panel row
+#. source: Levels gained from experience this run.
+msgid "RUNSTAT.levels_gained_desc"
+msgstr "本輪獲得的等級提升"
+
+#. Run stats panel row
+#. source: EXP Gained
+msgid "RUNSTAT.exp_gained"
+msgstr "獲得的經驗"
+
+#. Run stats panel row
+#. source: Total experience collected this run.
+msgid "RUNSTAT.exp_gained_desc"
+msgstr "本輪獲得的經驗"
+
+#. Run stats panel row
+#. source: Safe Folders Opened
+msgid "RUNSTAT.safe_folders"
+msgstr "開啟過的安全資料夾"
+
+#. Run stats panel row
+#. source: Safe folders opened this run.
+msgid "RUNSTAT.safe_folders_desc"
+msgstr "本輪開啟過的安全資料夾"
+
+#. Run stats panel row
+#. source: Folders and files opened this run.
+msgid "RUNSTAT.files_opened_desc"
+msgstr "本輪開啟的資料夾跟文件數"
+
+#. Run stats panel row
+#. source: Enemies cleared this run.
+msgid "RUNSTAT.enemies_cleared_desc"
+msgstr "本輪清除的敵人數"
+
+#. Run stats panel row
+#. source: Coins collected this run.
+msgid "RUNSTAT.coin_collected_desc"
+msgstr "本輪獲得的硬幣數"
+
+#. Run stats panel row
+#. source: Keys collected this run.
+msgid "RUNSTAT.keys_collected_desc"
+msgstr "本輪獲得的金鑰數"
+
+#. Run stats panel row
+#. source: Beanz Collected
+msgid "RUNSTAT.beanz_collected"
+msgstr "Beanz獲得數"
+
+#. Run stats panel row
+#. source: Beanz earned this run.
+msgid "RUNSTAT.beanz_collected_desc"
+msgstr "本輪獲得的Beanz數"
+
+#. Run stats panel row
+#. source: Score
+msgid "RUNSTAT.score"
+msgstr "分數"
+
+#. Run stats panel row
+#. source: Run score from clears, levels, safe folders, and a completion bonus.
+msgid "RUNSTAT.score_desc"
+msgstr "通關分數、關卡分數、安全資料夾分數和完成額外獎勵分數"
+
+#. Run stats panel row
+#. source: Class
+msgid "RUNSTAT.class"
+msgstr "類型"
+
+#. Run stats panel row
+#. source: Cursor class chosen for this run.
+msgid "RUNSTAT.class_desc"
+msgstr "本輪選擇的游標類型"
+
+#. Run stats panel row
+#. source: Policy
+msgid "RUNSTAT.policy"
+msgstr "原則"
+
+#. Run stats panel row
+#. source: Extra difficulty policy enabled for this run.
+msgid "RUNSTAT.policy_desc"
+msgstr "本輪啟用了額外的難度原則"
+
+#. Run stats panel row
+#. source: None
+msgid "RUNSTAT.policy_none"
+msgstr "無"
+
+#. End-of-run stats - tasks completed header with count
+#. source: Tasks Completed - %d
+#. Keep placeholders unchanged: %d
+msgid "UI.win_tasks_title"
+msgstr "任務已完成 - %d"
+
+#. UI (script-driven)
+#. source: No new tasks this run
+msgid "UI.win_tasks_empty"
+msgstr "本輪沒有新任務"
+
+#. Safe Folder explorer - tree pane header
+#. source: Folders
+msgid "UI.safe_hub_folders"
+msgstr "資料夾"
+
+#. Safe Folder explorer - battle folder tree row
+#. source: Battle Folder %d
+#. Keep placeholders unchanged: %d
+msgid "UI.safe_hub_battle_folder"
+msgstr "戰鬥資料夾 %d"
+
+#. Safe Folder explorer - previous round stats header
+#. source: Previous Round
+msgid "UI.safe_hub_last_round"
+msgstr "上一輪"
+
+#. Safe Folder explorer - previous round window title
+#. source: BattleFolder%d.xls
+#. Keep placeholders unchanged: %d
+msgid "UI.safe_hub_round_xls"
+msgstr "戰鬥資料夾 %d.xls"
+
+#. Safe Folder explorer - no tasks completed last round
+#. source: No new tasks this round
+msgid "UI.safe_hub_tasks_empty"
+msgstr "本回合沒有新任務"
+
+#. Safe Folder explorer - last round kills tooltip
+#. source: Enemies cleared in the last Battle Folder.
+msgid "RUNSTAT.last_round_kills_desc"
+msgstr "上次在戰鬥中清除的敵人數"
+
+#. Safe Folder explorer - last round files tooltip
+#. source: Files opened in the last Battle Folder.
+msgid "RUNSTAT.last_round_files_desc"
+msgstr "上次在戰鬥中開啟的文件數"
+
+#. Safe Folder explorer - last round coin tooltip
+#. source: Coin collected in the last Battle Folder.
+msgid "RUNSTAT.last_round_coin_desc"
+msgstr "上次在戰鬥中獲得的硬幣數"
+
+#. Safe Folder explorer - last round keys tooltip
+#. source: Keys collected in the last Battle Folder.
+msgid "RUNSTAT.last_round_keys_desc"
+msgstr "上次在戰鬥中獲得的金鑰數"
+
+#. Safe Folder explorer - last round Beanz tooltip
+#. source: Beanz earned in the last Battle Folder, including the Safe Folder award.
+msgid "RUNSTAT.last_round_beanz_desc"
+msgstr "上次在戰鬥中獲得的Beanz數"
+
+#. Run and last-round DPS label
+#. source: DPS
+msgid "RUNSTAT.dps"
+msgstr "每秒傷害"
+
+#. Run DPS tooltip
+#. source: Damage per second this run, during Battle Folders only.
+msgid "RUNSTAT.dps_desc"
+msgstr "在戰鬥資料夾中每秒造成的傷害"
+
+#. Run damage dealt tooltip
+#. source: Total damage dealt this run.
+msgid "RUNSTAT.damage_dealt_desc"
+msgstr "本輪造成總傷害"
+
+#. Run biggest hit tooltip
+#. source: Highest single hit this run.
+msgid "RUNSTAT.biggest_hit_desc"
+msgstr "本輪最高單擊傷害"
+
+#. Run Side Tasks completed label
+#. source: Side Tasks
+msgid "RUNSTAT.side_tasks"
+msgstr "支線任務"
+
+#. Run Side Tasks completed tooltip
+#. source: Side Tasks completed this run.
+msgid "RUNSTAT.side_tasks_desc"
+msgstr "本輪完成的支線任務"
+
+#. Last round DPS tooltip
+#. source: Damage per second in the last Battle Folder.
+msgid "RUNSTAT.last_round_dps_desc"
+msgstr "上次在戰鬥中造成的每秒傷害"
+
+#. Last round damage dealt tooltip
+#. source: Damage dealt in the last Battle Folder.
+msgid "RUNSTAT.last_round_damage_desc"
+msgstr "上次在戰鬥中造成的傷害"
+
+#. Scene label
+msgid "Packet Loss"
+msgstr "丟包"
+
+#. Scene label
+#. source: Memory Leak!
+msgid "Memory Leak"
+msgstr "記憶體洩漏!"
+
+#. Scene label
+msgid "Zip File"
+msgstr "壓縮檔"
+
+#. Scene label
+msgid "Shop"
+msgstr "商店"
+
+#. Scene label
+msgid "Safe Folder"
+msgstr "安全資料夾"
+
+#. Scene label
+msgid "Next Folder"
+msgstr "下個資料夾"
+
+#. Scene label
+msgid "Coin Collector"
+msgstr "硬幣收集器"
+
+#. Scene label
+#. screens: defrag_window.tscn
+msgid "Defrag Collector"
+msgstr "重組資訊收集器"
+
+#. Scene label
+msgid "Health Check"
+msgstr "健康檢查"
+
+#. Scene label
+msgid "Pointer Trails"
+msgstr "游標特效"
+
+#. Scene label
+msgid "Download More RAM"
+msgstr "下載更多記憶體"
+
+#. RAM download complete
+msgid "RAM download complete."
+msgstr "記憶體下載完成."
+
+#. keygen
+msgid "keygen.exe"
+msgstr "金鑰產生器.exe"
+
+#. vapor
+msgid "vapor.exe"
+msgstr "vapor"
+
+#. frenzy
+msgid "frenzy.exe"
+msgstr "狂熱.exe"
+
+#. Vapidshare
+msgid "Vapidshare.exe"
+msgstr "Vapidshare"
+
+#. Scene label
+msgid "Feedback"
+msgstr "反饋"
+
+#. Scene label
+msgid "Steam"
+msgstr "Steam"
+
+#. Scene label
+msgid "Discord"
+msgstr "Discord"
+
+#. Scene label
+msgid "Translations GitHub"
+msgstr "GitHub 翻譯"
+
+#. avs03
+msgid "avs03.com"
+msgstr "avs03.com"
+
+#. Scene label
+msgid "Level 8"
+msgstr "等級 8"
+
+#. Scene label
+msgid "Level 16"
+msgstr "等級 16"
+
+#. Scene label
+msgid "Level 24 "
+msgstr "等級 24 "
+
+#. Scene label
+msgid "Empty"
+msgstr "空"
+
+#. Vapor window
+#. source: {0} files failed to validate and will be reaquired.
+msgid "VAPOR.validate_fail"
+msgstr "{0}個檔案驗證失敗，將重新取得"
+
+#. Weapon driver / overclock card - name (overclocked)
+#. source: Overclocked
+msgid "DRIVER.overclocked.name"
+msgstr "超頻"
+
+#. Weapon driver / overclock card - description (overclocked)
+#. source: Multiply Damage 1.6x.\nReduce Refresh -15%.
+msgid "DRIVER.overclocked.description"
+msgstr ""
+"傷害乘1.6x\n"
+"刷新速度-15%"
+
+#. Weapon driver / overclock card - name (hyperthreaded)
+#. source: Hyperthreaded
+msgid "DRIVER.hyperthreaded.name"
+msgstr "超執行緒"
+
+#. Weapon driver / overclock card - description (hyperthreaded)
+#. source: Add +2 Amount.\nReduce Damage -20%.
+msgid "DRIVER.hyperthreaded.description"
+msgstr ""
+"+2武器數量 \n"
+"傷害-20%"
+
+#. Weapon driver / overclock card - name (turbo_clock)
+#. source: Turbo Clock
+msgid "DRIVER.turbo_clock.name"
+msgstr "渦輪加速"
+
+#. Weapon driver / overclock card - description (turbo_clock)
+#. source: Increase Speed +50%.\nReduce Power -15%.
+msgid "DRIVER.turbo_clock.description"
+msgstr ""
+"速度+50%\n"
+"-15%效果"
+
+#. Weapon driver / overclock card - name (bloated_cache)
+#. source: Bloated Cache
+msgid "DRIVER.bloated_cache.name"
+msgstr "緩存過大"
+
+#. Weapon driver / overclock card - description (bloated_cache)
+#. source: Multiply Size 1.5x.
+msgid "DRIVER.bloated_cache.description"
+msgstr "尺寸增大1.5x"
+
+#. Weapon driver / overclock card - name (extended_table)
+#. source: Extended Table
+msgid "DRIVER.extended_table.name"
+msgstr "擴充表"
+
+#. Weapon driver / overclock card - description (extended_table)
+#. source: Attack Speed no longer makes this weapon expire sooner.
+msgid "DRIVER.extended_table.description"
+msgstr "攻擊速度不再縮短此武器的持續時間"
+
+#. Weapon driver / overclock card - name (bumper)
+#. source: Bumper
+msgid "DRIVER.bumper.name"
+msgstr "彈力碰撞器"
+
+#. Weapon driver / overclock card - description (bumper)
+#. source: On wall bounce: Increase Damage +50% and trigger a Blast.
+msgid "DRIVER.bumper.description"
+msgstr "牆壁反彈:傷害+50%並引發衝擊波"
+
+#. Weapon driver / overclock card - name (avd_fragmented)
+#. source: Fragmented
+msgid "DRIVER.avd_fragmented.name"
+msgstr "碎片化"
+
+#. Weapon driver / overclock card - description (avd_fragmented)
+#. source: On wall bounce: split into two half-size copies.\nCopies can split once.
+msgid "DRIVER.avd_fragmented.description"
+msgstr ""
+"牆壁反彈:分裂成兩個一半尺寸的複製體\n"
+"複製體可以分裂一次"
+
+#. Weapon driver / overclock card - name (avn_away)
+#. source: Away Message
+msgid "DRIVER.avn_away.name"
+msgstr "離開訊息"
+
+#. Weapon driver / overclock card - description (avn_away)
+#. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
+msgid "DRIVER.avn_away.description"
+msgstr ""
+"+1武器數量 速度+20%\n"
+"尺寸+15%"
+
+#. Weapon driver / overclock card - name (avn_buddy)
+#. source: Buddy List
+msgid "DRIVER.avn_buddy.name"
+msgstr "好友列表"
+
+#. Weapon driver / overclock card - description (avn_buddy)
+#. source: Add +2 Amount.\nIncrease Power +15%.
+msgid "DRIVER.avn_buddy.description"
+msgstr ""
+"+2武器數量\n"
+"+15%效果"
+
+#. Weapon driver / overclock card - name (blatand_pair)
+#. source: Paired Devices
+msgid "DRIVER.blatand_pair.name"
+msgstr "配對裝置"
+
+#. Weapon driver / overclock card - description (blatand_pair)
+#. source: Add +1 Amount. Increase Power +25%.\nIncrease Speed +20%.
+msgid "DRIVER.blatand_pair.description"
+msgstr ""
+"+1武器數量 +25%效果\n"
+"速度+20%"
+
+#. Weapon driver / overclock card - name (bubbles_soap)
+#. source: Soap
+msgid "DRIVER.bubbles_soap.name"
+msgstr "肥皂"
+
+#. Weapon driver / overclock card - description (bubbles_soap)
+#. source: Add +1 Amount.\nIncrease Size +40%.
+msgid "DRIVER.bubbles_soap.description"
+msgstr ""
+"+1武器數量\n"
+"尺寸+40%"
+
+#. Weapon driver / overclock card - name (bubbles_suds)
+#. source: Suds
+msgid "DRIVER.bubbles_suds.name"
+msgstr "肥皂泡沫"
+
+#. Weapon driver / overclock card - description (bubbles_suds)
+#. source: On wall bounce: split into two half-size copies.\nCopies can split once.
+msgid "DRIVER.bubbles_suds.description"
+msgstr ""
+"牆壁反彈:分裂成兩個一半尺寸的複製體\n"
+"複製體可以分裂一次"
+
+#. Weapon driver / overclock card - name (cdrive_seek)
+#. source: Seek
+msgid "DRIVER.cdrive_seek.name"
+msgstr "尋找"
+
+#. Weapon driver / overclock card - description (cdrive_seek)
+#. source: Converts Repel to Lag.\nIncrease Speed +60%.
+msgid "DRIVER.cdrive_seek.description"
+msgstr ""
+"將擊退轉為延遲\n"
+"速度+60%"
+
+#. Weapon driver / overclock card - name (cdrive_cleanup)
+#. source: Disk Cleanup
+msgid "DRIVER.cdrive_cleanup.name"
+msgstr "磁碟清理"
+
+#. Weapon driver / overclock card - description (cdrive_cleanup)
+#. source: Slams target enemies on screen.
+msgid "DRIVER.cdrive_cleanup.description"
+msgstr "猛擊螢幕上的目標敵人"
+
+#. Weapon driver / overclock card - name (cone_detour)
+#. source: Detour
+msgid "DRIVER.cone_detour.name"
+msgstr "改道"
+
+#. Weapon driver / overclock card - description (cone_detour)
+#. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
+msgid "DRIVER.cone_detour.description"
+msgstr ""
+"將灼熱轉為延遲 尺寸+35%\n"
+"傷害+15%"
+
+#. Weapon driver / overclock card - name (cone_workzone)
+#. source: Work Zone
+msgid "DRIVER.cone_workzone.name"
+msgstr "施工區域"
+
+#. Weapon driver / overclock card - description (cone_workzone)
+#. source: Add +1 Amount.\nIncrease Power +30%.
+msgid "DRIVER.cone_workzone.description"
+msgstr ""
+"+1武器數量\n"
+"+30%效果"
+
+#. Weapon driver / overclock card - name (cruiser_multitab)
+#. source: Browser Hijack
+msgid "DRIVER.cruiser_multitab.name"
+msgstr "瀏覽器劫持"
+
+#. Weapon driver / overclock card - description (cruiser_multitab)
+#. source: Converts Lag to Infect. Add +1 Amount.\nIncrease Power +25%.
+msgid "DRIVER.cruiser_multitab.description"
+msgstr ""
+"將延遲轉為感染 +1武器數量\n"
+"+25%效果"
+
+#. Weapon driver / overclock card - name (cruiser_popup)
+#. source: Popup Storm
+msgid "DRIVER.cruiser_popup.name"
+msgstr "彈出式視窗風暴"
+
+#. Weapon driver / overclock card - description (cruiser_popup)
+#. source: Tabs chase enemies until the attack ends.
+msgid "DRIVER.cruiser_popup.description"
+msgstr "分頁會追擊敵人直到攻擊時間結束"
+
+#. Weapon driver / overclock card - name (cut_cleave)
+#. source: Cleave
+msgid "DRIVER.cut_cleave.name"
+msgstr "劈開"
+
+#. Weapon driver / overclock card - description (cut_cleave)
+#. source: Converts Repel to Infect. Increase Size +80%.\nAdd -0.5 Amount.
+msgid "DRIVER.cut_cleave.description"
+msgstr ""
+"將擊退轉為感染 尺寸+80%\n"
+"-0.5武器數量"
+
+#. Weapon driver / overclock card - name (cut_papercut)
+#. source: Paper Cut
+msgid "DRIVER.cut_papercut.name"
+msgstr "紙割傷"
+
+#. Weapon driver / overclock card - description (cut_papercut)
+#. source: Add +2 Amount.\nIncrease Speed +25%.
+msgid "DRIVER.cut_papercut.description"
+msgstr ""
+"+2武器數量\n"
+"速度+25%"
+
+#. Weapon driver / overclock card - name (email_cc)
+#. source: Flame Mail
+msgid "DRIVER.email_cc.name"
+msgstr "急件"
+
+#. Weapon driver / overclock card - description (email_cc)
+#. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
+msgid "DRIVER.email_cc.description"
+msgstr ""
+"將感染轉為灼熱 +1武器數量\n"
+"速度+35%"
+
+#. Weapon driver / overclock card - name (email_bounce)
+#. source: Undeliverable
+msgid "DRIVER.email_bounce.name"
+msgstr "無法投遞"
+
+#. Weapon driver / overclock card - description (email_bounce)
+#. source: When the last envelope bounces, start Refresh.
+msgid "DRIVER.email_bounce.description"
+msgstr "當最後一封信封返回時，立即刷新"
+
+#. Weapon driver / overclock card - name (firewall_deny)
+#. source: Deny
+msgid "DRIVER.firewall_deny.name"
+msgstr "拒絕訪問"
+
+#. Weapon driver / overclock card - description (firewall_deny)
+#. source: Increase Power +50%. Add +1 Amount.
+msgid "DRIVER.firewall_deny.description"
+msgstr "+50%效果 +1武器數量"
+
+#. Weapon driver / overclock card - name (firewall_stealth)
+#. source: Flameout
+msgid "DRIVER.firewall_stealth.name"
+msgstr "熄火"
+
+#. Weapon driver / overclock card - description (firewall_stealth)
+#. source: When the last flame dies, start Refresh.
+msgid "DRIVER.firewall_stealth.description"
+msgstr "當最後的火焰消失，立即刷新"
+
+#. Weapon driver / overclock card - name (fontart_bold)
+#. source: Bold
+msgid "DRIVER.fontart_bold.name"
+msgstr "粗體"
+
+#. Weapon driver / overclock card - description (fontart_bold)
+#. source: Increase Size +60%. Increase Power +60%.\nReduce Amount -25%.
+msgid "DRIVER.fontart_bold.description"
+msgstr ""
+"尺寸+60% +60%效果\n"
+"傷害-25%"
+
+#. Weapon driver / overclock card - name (fontart_wordart)
+#. source: Outline
+msgid "DRIVER.fontart_wordart.name"
+msgstr "外框字"
+
+#. Weapon driver / overclock card - description (fontart_wordart)
+#. source: Increase Size +40%.\nAdd +1 Amount.
+msgid "DRIVER.fontart_wordart.description"
+msgstr ""
+"尺寸+40%\n"
+"+1武器數量"
+
+#. Weapon driver / overclock card - name (fraps_benchmark)
+#. source: Benchmark
+msgid "DRIVER.fraps_benchmark.name"
+msgstr "基準測試"
+
+#. Weapon driver / overclock card - description (fraps_benchmark)
+#. source: Converts Repel to Heat. Increase Damage +25%.\nIncrease Speed +20%.
+msgid "DRIVER.fraps_benchmark.description"
+msgstr ""
+"將擊退轉換成灼熱，傷害+25%\n"
+"速度+20%"
+
+#. Weapon driver / overclock card - name (fraps_vsync)
+#. source: VSync
+msgid "DRIVER.fraps_vsync.name"
+msgstr "垂直同步"
+
+#. Weapon driver / overclock card - description (fraps_vsync)
+#. source: FPS numbers bounce off walls.\nIncrease Size +20%.
+msgid "DRIVER.fraps_vsync.description"
+msgstr ""
+"幀率會在牆壁反彈\n"
+"尺寸+20%"
+
+#. Weapon driver / overclock card - name (hitmarkers_headhunter)
+#. source: Headhunter
+msgid "DRIVER.hitmarkers_headhunter.name"
+msgstr "獵頭者"
+
+#. Weapon driver / overclock card - description (hitmarkers_headhunter)
+#. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
+msgid "DRIVER.hitmarkers_headhunter.description"
+msgstr ""
+"增加處決機率，將擊退轉為灼熱\n"
+"傷害-15%"
+
+#. Weapon driver / overclock card - name (hitmarkers_killstreak)
+#. source: Killstreak
+msgid "DRIVER.hitmarkers_killstreak.name"
+msgstr "連殺"
+
+#. Weapon driver / overclock card - description (hitmarkers_killstreak)
+#. source: Cleared enemies increase attack Speed in the next attack.
+msgid "DRIVER.hitmarkers_killstreak.description"
+msgstr "擊殺敵人後，提高下一次攻擊的攻擊速度"
+
+#. Weapon driver / overclock card - name (minesweeper_flag)
+#. source: Incendiary Charge
+msgid "DRIVER.minesweeper_flag.name"
+msgstr "燃燒炸藥"
+
+#. Weapon driver / overclock card - description (minesweeper_flag)
+#. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
+msgid "DRIVER.minesweeper_flag.description"
+msgstr ""
+"將擊退轉換成灼熱 +1武器數量\n"
+"+20%效果"
+
+#. Weapon driver / overclock card - name (minesweeper_chord)
+#. source: Chord
+msgid "DRIVER.minesweeper_chord.name"
+msgstr "和音"
+
+#. Weapon driver / overclock card - description (minesweeper_chord)
+#. source: Mines stay until triggered.
+msgid "DRIVER.minesweeper_chord.description"
+msgstr "地雷會持續存在直到被觸發"
+
+#. Weapon driver / overclock card - name (modem_handshake)
+#. source: Feedback
+msgid "DRIVER.modem_handshake.name"
+msgstr "高頻訊號回授"
+
+#. Weapon driver / overclock card - description (modem_handshake)
+#. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
+msgid "DRIVER.modem_handshake.description"
+msgstr ""
+"將擊退轉換成延遲 +1武器數量\n"
+"尺寸+25%"
+
+#. Weapon driver / overclock card - name (modem_broadband)
+#. source: Gain
+msgid "DRIVER.modem_broadband.name"
+msgstr "寬頻"
+
+#. Weapon driver / overclock card - description (modem_broadband)
+#. source: Increase Speed +50%.\nIncrease Damage +20%.
+msgid "DRIVER.modem_broadband.description"
+msgstr ""
+"速度+50%\n"
+"傷害+20%"
+
+#. Weapon driver / overclock card - name (orchestra_fortissimo)
+#. source: Tab Overload
+msgid "DRIVER.orchestra_fortissimo.name"
+msgstr "分頁超載"
+
+#. Weapon driver / overclock card - description (orchestra_fortissimo)
+#. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
+msgid "DRIVER.orchestra_fortissimo.description"
+msgstr ""
+"將感染轉換成灼熱，傷害+35%\n"
+"+35%效果"
+
+#. Weapon driver / overclock card - name (orchestra_taskkill)
+#. source: End Process
+msgid "DRIVER.orchestra_taskkill.name"
+msgstr "結束程序"
+
+#. Weapon driver / overclock card - description (orchestra_taskkill)
+#. source: Increase execute chance.
+msgid "DRIVER.orchestra_taskkill.description"
+msgstr "增加處決機率"
+
+#. Weapon driver / overclock card - name (paint_spill)
+#. source: Spill
+msgid "DRIVER.paint_spill.name"
+msgstr "潑灑"
+
+#. Weapon driver / overclock card - description (paint_spill)
+#. source: Increase Size +100%.\nReduce Damage -20%.
+msgid "DRIVER.paint_spill.description"
+msgstr ""
+"尺寸+100%\n"
+"傷害-20%"
+
+#. Weapon driver / overclock card - name (paint_fill)
+#. source: Fill Bucket
+msgid "DRIVER.paint_fill.name"
+msgstr "油漆桶"
+
+#. Weapon driver / overclock card - description (paint_fill)
+#. source: Add +1 Amount.\nIncrease Power +40%.
+msgid "DRIVER.paint_fill.description"
+msgstr ""
+"+1武器數量\n"
+"傷害+40%"
+
+#. Weapon driver / overclock card - name (pinball_tilted)
+#. source: Tilted
+msgid "DRIVER.pinball_tilted.name"
+msgstr "觸發傾斜鎖死"
+
+#. Weapon driver / overclock card - description (pinball_tilted)
+#. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
+msgid "DRIVER.pinball_tilted.description"
+msgstr ""
+"牆壁反彈:尺寸增大.最多觸發兩次\n"
+"尺寸-30%"
+
+#. Weapon driver / overclock card - name (quarantine_strict)
+#. source: Strict
+msgid "DRIVER.quarantine_strict.name"
+msgstr "嚴格模式"
+
+#. Weapon driver / overclock card - description (quarantine_strict)
+#. source: Converts Repel to Infect.\nIncrease Power +70%.
+msgid "DRIVER.quarantine_strict.description"
+msgstr ""
+"將擊退轉換成感染\n"
+"+70%效果"
+
+#. Weapon driver / overclock card - name (quarantine_heuristic)
+#. source: Heuristic
+msgid "DRIVER.quarantine_heuristic.name"
+msgstr "啟發式偵測"
+
+#. Weapon driver / overclock card - description (quarantine_heuristic)
+#. source: Increase Damage +40%.\nIncrease Speed +20%.
+msgid "DRIVER.quarantine_heuristic.description"
+msgstr ""
+"傷害+40%\n"
+"速度+20%"
+
+#. Weapon driver / overclock card - name (satellite_dish)
+#. source: Microwave Dish
+msgid "DRIVER.satellite_dish.name"
+msgstr "微波碟型天線"
+
+#. Weapon driver / overclock card - description (satellite_dish)
+#. source: Converts Lag to Heat. Increase Size +30%.\nIncrease Speed +15%.
+msgid "DRIVER.satellite_dish.description"
+msgstr ""
+"將延遲轉換成灼熱 尺寸+30%\n"
+"速度+15%"
+
+#. Weapon driver / overclock card - name (satellite_uplink)
+#. source: Uplink
+msgid "DRIVER.satellite_uplink.name"
+msgstr "上行鏈路"
+
+#. Weapon driver / overclock card - description (satellite_uplink)
+#. source: Dishes follow you for their lifetime.
+msgid "DRIVER.satellite_uplink.description"
+msgstr "碟型天線將會跟著你"
+
+#. Weapon driver / overclock card - name (scimitar_dragon)
+#. source: Weapon Poison
+msgid "DRIVER.scimitar_dragon.name"
+msgstr "武器塗毒"
+
+#. Weapon driver / overclock card - description (scimitar_dragon)
+#. source: Converts Repel to Infect. Increase Size +50%.\nAdd +1 Amount.
+msgid "DRIVER.scimitar_dragon.description"
+msgstr ""
+"將擊退轉換成感染 尺寸+50%\n"
+"+1武器數量"
+
+#. Weapon driver / overclock card - name (scimitar_dual)
+#. source: Dual Wield
+msgid "DRIVER.scimitar_dual.name"
+msgstr "雙持"
+
+#. Weapon driver / overclock card - description (scimitar_dual)
+#. source: Add +2 Amount.
+msgid "DRIVER.scimitar_dual.description"
+msgstr "+2武器數量"
+
+#. Weapon driver / overclock card - name (search_deep)
+#. source: Deep Search
+msgid "DRIVER.search_deep.name"
+msgstr "深度搜索"
+
+#. Weapon driver / overclock card - description (search_deep)
+#. source: Converts Repel to Lag. Add +2 Amount.\nReduce Damage -20%.
+msgid "DRIVER.search_deep.description"
+msgstr ""
+"將擊退轉換成延遲，+2武器數量\n"
+"傷害-20%"
+
+#. Weapon driver / overclock card - name (search_indexed)
+#. source: Find Next
+msgid "DRIVER.search_indexed.name"
+msgstr "尋找下一個"
+
+#. Weapon driver / overclock card - description (search_indexed)
+#. source: Increase Speed +30%.\nIncrease Refresh +20%.
+msgid "DRIVER.search_indexed.description"
+msgstr ""
+"速度+30%\n"
+"刷新速度+20%"
+
+#. Weapon driver / overclock card - name (sniper_scope)
+#. source: High Caliber
+msgid "DRIVER.sniper_scope.name"
+msgstr "大口徑"
+
+#. Weapon driver / overclock card - description (sniper_scope)
+#. source: Multiply Damage 1.5x. Increase Power +30%.\nIncrease Refresh +25%.
+msgid "DRIVER.sniper_scope.description"
+msgstr ""
+"傷害乘1.5x，+30%效果\n"
+"刷新速度+25%"
+
+#. Weapon driver / overclock card - name (sniper_oneshot)
+#. source: One Shot
+msgid "DRIVER.sniper_oneshot.name"
+msgstr "一擊斃命"
+
+#. Weapon driver / overclock card - description (sniper_oneshot)
+#. source: Adds +7% execute chance.\nIncrease Damage +25%.
+msgid "DRIVER.sniper_oneshot.description"
+msgstr ""
+"+7%處決機率\n"
+"傷害+25%"
+
+#. Weapon driver / overclock card - name (solitaire_cheat)
+#. source: Cheat
+msgid "DRIVER.solitaire_cheat.name"
+msgstr "作弊"
+
+#. Weapon driver / overclock card - description (solitaire_cheat)
+#. source: Increase Damage +50%. Add +1 Amount.\nReduce Refresh -15%.
+msgid "DRIVER.solitaire_cheat.description"
+msgstr ""
+"傷害+50%.+1武器數量\n"
+"刷新速度-15%"
+
+#. Scene label
+#. screens: spam_ad.tscn; trailer_ad.tscn
+msgid "(1) Alert!!! CRITICAL"
+msgstr "(1)警告 ! ! !危急"
+
+#. Scene label
+#. screens: headshot_text.tscn
+msgid "Headshot!"
+msgstr "爆頭 !"
+
+#. Scene label
+#. screens: defrag_window.tscn
+msgid "Volume"
+msgstr "音量"
+
+#. Scene label
+#. screens: defrag_window.tscn
+msgid "Session Status"
+msgstr "會話狀態"
+
+#. Scene label
+#. screens: defrag_window.tscn
+msgid "Capacity"
+msgstr "容量"
+
+#. Scene label
+#. screens: defrag_window.tscn
+msgid "LOCAL DISK (C:)"
+msgstr "本機磁碟 (C:)"
+
+#. Scene label
+#. screens: defrag_window.tscn
+msgid "Defragmenting"
+msgstr "正在進行磁碟重組"
+
+#. Scene label
+#. screens: defrag_window.tscn
+msgid "Estimated exp before defragmentation:"
+msgstr "重組前的預估效能:"
+
+#. Scene label
+#. screens: dll_window.tscn
+msgid "Missing dynamic link library scd.dll located."
+msgstr "未找到的動態連結庫 scd.dll."
+
+#. Scene label
+#. screens: dll_window.tscn
+msgid "Procedure can now resume."
+msgstr "程式現在可以繼續進行."
+
+#. Scene label
+#. screens: download_ram_window.tscn
+msgid "RAM Downloader Professional (Legal)"
+msgstr "記憶體下載器專業版(合法)"
+
+#. Scene label
+#. screens: download_ram_window.tscn
+msgid "Your RAM is now downloading..."
+msgstr "你的記憶體正在下載…"
+
+#. Scene label
+#. screens: keygen_window.tscn
+msgid "Serial:"
+msgstr "序號:"
+
+#. Scene label
+#. screens: keygen_window.tscn
+msgid "Generate Key"
+msgstr "產生金鑰"
+
+#. Scene label
+#. screens: lem_upgrade_screen.tscn
+msgid "LemWire 4.7 - Pick Your Download"
+msgstr "LemWire 4.7 - 選擇你想下載的"
+
+#. Scene label
+#. screens: lem_window.tscn
+msgid "LemWire 4.7"
+msgstr "LemWire 4.7"
+
+#. Scene label
+#. screens: lem_window.tscn
+msgid "Searching: cursor upgrades"
+msgstr "搜尋:游標升級"
+
+#. Scene label
+#. screens: lem_window.tscn
+msgid "Quality"
+msgstr "品質"
+
+#. Scene label
+#. screens: lem_window.tscn; torrent_window.tscn
+msgid "Name"
+msgstr "名稱"
+
+#. Scene label
+#. screens: lem_window.tscn
+msgid "Type"
+msgstr "類型"
+
+#. Scene label
+#. screens: lem_window.tscn
+msgid "Bitrate"
+msgstr "位元率"
+
+#. Scene label
+#. screens: spam_ad_2.tscn
+msgid "(3) \"hey x \"  HOT!!! Singles"
+msgstr "\"嘿 你\"超火辣單身男女"
+
+#. Scene label
+#. screens: spam_ad_3.tscn
+msgid "!!! !!  WINNER WINNER WINER!!! !!!"
+msgstr "! ! !  ! ! 贏家出現了 ! !  ! ! !"
+
+#. Scene label
+#. screens: spam_ad_4.tscn
+msgid "FREE AVDs CLI..."
+msgstr "免費AVDs..."
+
+#. Scene label
+#. screens: spam_ad_5.tscn
+msgid "BIG BIG WINNER THATS YOU!!!"
+msgstr "贏家就是你 ! ! !"
+
+#. Scene label
+#. screens: spam_ad_6.tscn
+msgid "CHEAP PRINTER ONE CLICK AWAY"
+msgstr "一鍵即可獲得便宜印表機"
+
+#. Scene label
+#. screens: spam_ad_7.tscn
+msgid "Before you go, did you kno.."
+msgstr "在你離開前，你知道.."
+
+#. Scene label
+#. screens: spam_ad_8.tscn
+msgid "Hey DUMBY!!"
+msgstr "嘿 笨蛋 ! !"
+
+#. Scene label
+#. screens: spam_ad_9.tscn
+msgid "UH OHHHHHHHHH WARNING YOU MIG..."
+msgstr "呃喔喔喔喔喔——警告，你可能會……"
+
+#. Scene label
+#. screens: spam_ad_10.tscn
+msgid "1,000,0000 th VISTOR this WEEK!!! PRIZE WON!"
+msgstr "本週第1,000,0000位訪客 ! ! !中獎啦 ! ! !"
+
+#. Scene label
+#. screens: vapor_exe.tscn
+msgid "Vapor.exe"
+msgstr ""
+"Scene label\n"
+"‪screens: vapor_exe.tscn"
+
+#. Scene label
+#. screens: zip_window.tscn
+msgid "SHZip v2.03 (evaluation copy)"
+msgstr "SHZip v2.03 (試用版)"
+
+#. Scene label
+#. screens: zip_window.tscn
+msgid ""
+"Extracting file:\n"
+"temp_file_649743.zip from /.???"
+msgstr ""
+"正在提取文件:\n"
+"temp_file_649743.zip from /.???"
+
+#. Scene label
+#. screens: zip_window.tscn
+msgid ""
+"Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
+"Processing rate: 0.00 KB/Sec"
+msgstr ""
+"剩餘時間: 0m 00s (0.00 KB of 0.00 KB)\n"
+"處理速度: 0.00 KB/Sec"
+
+#. Scene label
+#. screens: zip_window.tscn
+msgid "Progress will reset if area is abandoned"
+msgstr "如果該區域被放棄，進度將重置"
+
+#. Scene label
+#. screens: main.tscn
+msgid "All data has been collected."
+msgstr "所有數據均已收集完畢."
+
+#. Scene label
+#. screens: main.tscn
+msgid "Collecting any loose Coin."
+msgstr "收集散落的硬幣."
+
+#. Scene label
+#. screens: main.tscn
+msgid "Critical Health!"
+msgstr "健康狀況危急 !"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Welcome..."
+msgstr "歡迎..."
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Let's get started with Double-Clicking some settings."
+msgstr "讓我們先從雙擊一些設定開始."
+
+#. Scene label
+#. screens: starter_folder.tscn; window.tscn
+msgid "/"
+msgstr "/"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Weapons..."
+msgstr "武器..."
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Great, now just pick a weapon you want to start with."
+msgstr "很好，現在選擇一樣你想要的武器."
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Folder Evolution"
+msgstr "資料夾演進"
+
+#. Scene label
+#. screens: starter_folder.tscn
+msgid "Locked Weapons - Coming Soon"
+msgstr "武器上鎖 - 即將推出"
+
+#. Scene label
+#. screens: stat_list.tscn
+msgid "StatsManager V0.1b"
+msgstr "統計管理器 V0.1b"
+
+#. Scene label
+#. screens: stat_list.tscn
+msgid "A"
+msgstr "A"
+
+#. Scene label
+#. screens: stat_list.tscn
+msgid "B"
+msgstr "B"
+
+#. Scene label
+#. screens: stat_list.tscn
+msgid "Installed Plugins"
+msgstr "已安裝插件"
+
+#. Scene label
+#. screens: stat_upgrade_item.tscn
+msgid "Firewall Size"
+msgstr "防火牆大小"
+
+#. Scene label
+#. screens: basic_window.tscn; window.tscn
+msgid "Antivirus Survivors 2003 Professional ©"
+msgstr "Antivirus Survivors 2003 Professional ©"
+
+#. Scene label
+#. screens: end_screen.tscn
+msgid "Victory!"
+msgstr "勝利 !"
+
+#. Scene label
+#. screens: end_screen.tscn
+msgid ""
+"You did it! I'm proud of you! I hope you had fun.\n"
+"\n"
+"However I am very sorry that this is such a boring and uninspired win "
+"screen. You deserve better and you will get better - in the full release.\n"
+"\n"
+"In the meantime, enjoy trying some of the harder difficulties, go spend "
+"those Beanz on some upgrades and try out some different builds.\n"
+"\n"
+"If you had fun during this demo be sure to give it a wishlist or follow on "
+"Steam - there's so much more to come!"
+msgstr ""
+"你做到了 ! 我為你感到驕傲 !我希望你玩得開心.\n"
+"\n"
+"然而，我很遺憾，這個勝利畫面如此乏味且毫無新意. 你值得更好的，你也會得到更"
+"好的- 在完整版裡.\n"
+"\n"
+"同時， 盡情嘗試一些更高難度的模式吧， 去使用那些Beanz升級並嘗試不同的組"
+"合.\n"
+"\n"
+"如果你喜歡這次試玩，記得把它加入願望單或在Steam上關注它 - 還有更多精彩內容"
+"即將呈現 !"
+
+#. Scene label
+#. screens: end_screen.tscn
+msgid "Open Steam Page"
+msgstr "開啟 Steam 頁面"
+
+#. Scene label
+#. screens: end_screen.tscn
+msgid "Exit to Menu"
+msgstr "退至選單"
+
+#. Scene label
+#. screens: installer_window.tscn
+msgid "PluginInstaller v2.03 r2"
+msgstr "插件安裝程式 v2.03 r2"
+
+#. Scene label
+#. screens: installer_window.tscn
+msgid "Preparing to Install..."
+msgstr "準備安裝…"
+
+#. Scene label
+#. screens: installer_window.tscn
+msgid ""
+"PluginInstaller is preparing to find all appropriate plugins for this "
+"application."
+msgstr ""
+"插件安裝程式正在準備尋找\n"
+"此應用程式的所有適用插件."
+
+#. Scene label
+#. screens: installer_window.tscn
+msgid "Checking Plugin Compatibility Layer..."
+msgstr "檢查插件相容性..."
+
+#. Scene label
+#. screens: installer_window.tscn
+msgid ""
+"Add +10 Max HP.\n"
+"Heal 20% of Max HP when opening a Safe Folder."
+msgstr ""
+"+10點最大血量.\n"
+"當開啟安全資料夾時治療20%最大生命值."
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid "Exit to Desktop"
+msgstr "離開至桌面"
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid "Start Exploring"
+msgstr "開始探索"
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid "Upgrades"
+msgstr "升級"
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid "Statistics"
+msgstr "統計數據"
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid "Personalise"
+msgstr "個人化"
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid "Settings"
+msgstr "設定"
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid ""
+"coming soon\n"
+"- more weapons\n"
+"- more enemies\n"
+"- bosses\n"
+"- classes\n"
+"- wallpapers\n"
+"- weapon evos\n"
+"- and more"
+msgstr ""
+"即將加入\n"
+"- 更多武器\n"
+"- 更多敵人\n"
+"- 更多BOSS\n"
+"- 更多游標類型\n"
+"- 桌布\n"
+"- 武器進化\n"
+"- 還有更多"
+
+#. Scene label
+#. screens: main_menu.tscn
+msgid ""
+"Thank you so much for playing. It means the world to me.\n"
+"enjoy and have a great day <3\n"
+"shaun"
+msgstr ""
+"非常感謝你的參與 這對我來說很重要\n"
+"享受遊戲\n"
+"祝你有個美好的一天\n"
+"<3\n"
+"shaun"
+
+#. Scene label
+#. screens: meta_upgrades_menu.tscn
+msgid "UpgradeManager 2003 rc2"
+msgstr "永久升級選單.tscn"
+
+#. Scene label
+#. screens: meta_upgrades_menu.tscn
+msgid "Refund All"
+msgstr "全部返還"
+
+#. Scene label
+#. screens: notif_bubble.tscn
+msgid "This is"
+msgstr "這是"
+
+#. Scene label
+#. screens: options_menu.tscn; pause_menu.tscn; torrent_window.tscn
+msgid "Options"
+msgstr "選項"
+
+#. Scene label
+#. screens: options_menu.tscn
+msgid "SFX Volume"
+msgstr "音效音量"
+
+#. Scene label
+#. screens: options_menu.tscn
+msgid "Back"
+msgstr "返回"
+
+#. Scene label
+#. screens: pause_menu.tscn
+msgid "Resume"
+msgstr "繼續"
+
+#. Scene label
+#. screens: pause_menu.tscn
+msgid "Exit"
+msgstr "離開"
+
+#. Scene label
+#. screens: pause_menu.tscn
+msgid ""
+"Antivirus Survivors 2003 Professional\n"
+"Shaun Hammond Business Solutions Ltd"
+msgstr ""
+"Antivirus Survivors 2003 Professional\n"
+"Shaun Hammond Business Solutions Ltd"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Vsync:"
+msgstr "垂直同步:"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Toggle"
+msgstr "切換"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "FPS Cap:"
+msgstr "FPS上限："
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Cycle"
+msgstr "切換"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Language:"
+msgstr "語言:"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Window Mode:"
+msgstr "視窗模式:"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Display Zoom:"
+msgstr "顯示縮放:"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "-"
+msgstr "-"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "+"
+msgstr "+"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Animation Speed:"
+msgstr "動畫速度:"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Master Volume:"
+msgstr "主音量:"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Music Volume:"
+msgstr "音樂音量:"
+
+#. Scene label
+#. screens: settings_menu.tscn
+msgid "Keygen Volume:"
+msgstr "金鑰產生器音量:"
+
+#. Scene label
+#. screens: shop_screen.tscn
+msgid "Upgrade Shop"
+msgstr "升級商店"
+
+#. Scene label
+#. screens: sound_button.tscn
+msgid "Sound Button"
+msgstr "音量按鈕"
+
+#. Scene label
+#. screens: upgrade_button.tscn
+msgid "Search Refresh"
+msgstr "搜尋刷新"
+
+#. Scene label
+#. screens: upgrade_button.tscn
+msgid ""
+"Increases Refresh Rate for Search by 20%.\n"
+"But here's a second line also."
+msgstr ""
+"搜尋刷新率提升 20%\n"
+"\n"
+"但這裡還有第二行."
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Sources"
+msgstr "來源"
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Rarity"
+msgstr "稀有度"
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Size"
+msgstr "大小"
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Progress"
+msgstr "進度"
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Status"
+msgstr "狀態"
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Seeds"
+msgstr "種子"
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Speed"
+msgstr "速度"
+
+#. Scene label
+#. screens: torrent_window.tscn
+msgid "Downloads complete, click to continue..."
+msgstr "下載完成.點擊繼續..."
+
+#. Scene label
+#. screens: upgrade_screen.tscn
+msgid "Insert"
+msgstr "插入"
+
+#. Scene label
+#. screens: upgrade_screen.tscn
+msgid "Format"
+msgstr "格式"
+
+#. Scene label
+#. screens: upgrade_screen.tscn
+msgid "Tools"
+msgstr "工具"
+
+#. Scene label
+#. screens: upgrade_screen.tscn
+msgid "Window"
+msgstr "視窗"
+
+#. Scene label
+msgid "Antivirus Survivors 2003 Professional"
+msgstr "Antivirus Survivors 2003 Professional"
