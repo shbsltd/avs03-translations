@@ -1916,9 +1916,19 @@ msgid "SETTINGS.music_volume"
 msgstr "Müzik Sesi"
 
 #. Settings menu
+#. source: SFX Volume
+msgid "SETTINGS.sfx_volume"
+msgstr "Ses Efektleri Sesi"
+
+#. Settings menu
 #. source: Keygen Volume
 msgid "SETTINGS.keygen_volume"
 msgstr "Keygen Sesi"
+
+#. Settings menu
+#. source: Main Menu Computer Sound
+msgid "SETTINGS.menu_computer_sound"
+msgstr "Ana Menü Bilgisayar Sesi"
 
 #. Settings menu
 #. source: Animation Speed
@@ -1981,9 +1991,19 @@ msgid "SETTINGS.music_volume_tip"
 msgstr "Oyun müziklerinin ses seviyesi."
 
 #. Settings menu
+#. source: Volume for sound effects.
+msgid "SETTINGS.sfx_volume_tip"
+msgstr "Ses efektlerinin ses seviyesi."
+
+#. Settings menu
 #. source: Volume for Keygen windows that play their own track.
 msgid "SETTINGS.keygen_volume_tip"
 msgstr "Keygen pencerelerinin çaldığı müziğin ses seviyesi."
+
+#. Settings menu
+#. source: Play the computer humming sound on the main menu.
+msgid "SETTINGS.menu_computer_sound_tip"
+msgstr "Ana menüde bilgisayarın uğultu sesini oynatın."
 
 #. Settings menu
 #. source: Language for menus and in-game text.
@@ -5644,7 +5664,7 @@ msgstr "Son alev söndüğünde, Yenileme başlat."
 #. Weapon driver / overclock card - name (fontart_bold)
 #. source: Bold
 msgid "DRIVER.fontart_bold.name"
-msgstr "Cüretkâr"
+msgstr "Kalın"
 
 #. Weapon driver / overclock card - description (fontart_bold)
 #. source: Increase Size +60%. Increase Power +60%.\nReduce Amount -25%.
@@ -6264,7 +6284,7 @@ msgstr "Seçenekler"
 #. Scene label
 #. screens: options_menu.tscn
 msgid "SFX Volume"
-msgstr "Özel Efekt Sesi"
+msgstr "Ses Efektleri Sesi"
 
 #. Scene label
 #. screens: options_menu.tscn
