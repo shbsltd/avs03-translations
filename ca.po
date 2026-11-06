@@ -81,7 +81,7 @@ msgstr ""
 "Incrementa la probabilitat de crític 12%.\n"
 "Multiplica el dany crític 1,25x.\n"
 "Redueix 15 PV màxims.\n"
-"Multiplica la velocitat del cursos 0,9x.\n"
+"Multiplica la velocitat del cursor 0,9x.\n"
 "Multiplica el dany de armes 0,92x."
 
 #. Class select - name (thread)
@@ -94,7 +94,7 @@ msgstr "Fil"
 msgid "CLASS.thread.description"
 msgstr ""
 "Multiplica la velocitat de processament 1,3x.\n"
-"Multiplica la velocitat d'actualització 1x12x.\n"
+"Multiplica la velocitat d'actualització 1,12x.\n"
 "Multiplica l'obtenció d'EXP 1,08x.\n"
 "Multiplica el dany d'armes 0,85x."
 
@@ -110,7 +110,7 @@ msgstr ""
 "Comença amb una clau.\n"
 "Multiplica les ganançes de monedes 1,3x.\n"
 "Multiplica el rang d'obtenció 1,3x.\n"
-"Descompte als objectes de la botiga 10%.\n"
+"Descompte als objectes de la botiga un 10%.\n"
 "Multiplica PV màxims 0,9x.\n"
 "Multiplica el dany de armes 0,85x."
 
@@ -374,7 +374,7 @@ msgstr "Bateria Crítica"
 msgid "PLUGIN.cursor_speed_damage.description"
 msgstr ""
 "Incrementa la velocitat del cursor un 10%.\n"
-"Incrementa la velocitat del cursor un 20% quan reps dany (Dura 10s)."
+"Incrementa la velocitat del cursor un 30% quan reps dany (Dura 10s)."
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -516,7 +516,7 @@ msgstr "Carpetes Comprimides"
 #. Plugin - description (luck_zip_boost)
 #. source: Increase Luck +3% when successfully opening a Zip File.
 msgid "PLUGIN.luck_zip_boost.description"
-msgstr "Incrementa la sort 3% quan sobre un arxiu Zip exitòsament."
+msgstr "Incrementa la sort 3% quan s'obre un arxiu Zip exitosament."
 
 #. Plugin - name (lucky_when_hurt)
 #. source: Lucky When Hurt
@@ -890,7 +890,7 @@ msgstr "Restauració del sistema"
 msgid "PLUGIN.system_restore.description"
 msgstr ""
 "Al morir, et cures un 50% dels teus PV màxims en comptes de una Pantalla "
-"Blau.\n"
+"Blava.\n"
 "Un per acumulació."
 
 #. Plugin - name (power_user)
@@ -1104,7 +1104,7 @@ msgstr "PV Màxims adicionals."
 #. Stat display - name (upgrade_player_power_multi)
 #. source: Weapon Power
 msgid "STAT.upgrade_player_power_multi.name"
-msgstr "Power d'Arma"
+msgstr "Poder d'Arma"
 
 #. Stat display - description (upgrade_player_power_multi)
 #. source: Increases power of Repel, Heat, Infect and Lag from all weapons.
@@ -1457,13 +1457,13 @@ msgstr "Bombolles"
 #. source: Giant bubbles float around that add stacks of Infect to enemies.
 msgid "UPGRADE.weapon_bubbles.description"
 msgstr ""
-"Bombolles gegant floten al voltant que afegeixen acumulacions d'Infecció "
+"Bombolles gegants floten al voltant que afegeixen acumulacions d'Infecció "
 "als enemics."
 
 #. Upgrade card - name (weapon_cdrive)
 #. source: C: Drive
 msgid "UPGRADE.weapon_cdrive.name"
-msgstr "C: Drive"
+msgstr "Disc C:"
 
 #. Upgrade card - description (weapon_cdrive)
 #. source: Drops harddrives randomly on enemies.
@@ -2054,7 +2054,7 @@ msgstr "Volum de la Música"
 #. Settings menu
 #. source: Keygen Volume
 msgid "SETTINGS.keygen_volume"
-msgstr "Volum Keygen"
+msgstr "Volum Generaclau"
 
 #. Settings menu
 #. source: Animation Speed
@@ -2259,7 +2259,7 @@ msgstr "Especial"
 #. Settings menu
 #. source: Show Stats
 msgid "SETTINGS.action_tab"
-msgstr "Mostrar Estadístiques\v"
+msgstr "Mostrar Estad."
 
 #. Settings menu
 #. source: Pause
@@ -2309,7 +2309,7 @@ msgstr "Èpic"
 #. Rarity label
 #. source: Legendary
 msgid "RARITY.legendary"
-msgstr "Llègendari"
+msgstr "Llegendari"
 
 #. Rarity label
 #. source: Unknown
@@ -2750,7 +2750,7 @@ msgstr ""
 #. Profile stats window - statistics tab
 #. source: Stats
 msgid "UI.stats_tab"
-msgstr "Estadístiques"
+msgstr "Estad."
 
 #. Profile stats window - tasks tab label
 #. source: Tasks
@@ -2879,7 +2879,7 @@ msgstr "Morts"
 #. Profile stats - deaths tooltip
 #. source: Times this profile has bluescreened.
 msgid "UI.stat_deaths_desc"
-msgstr "Vegades a les que a aquest perfil li ha sortit una pantalla blau."
+msgstr "Vegades a les que a aquest perfil li ha sortit una pantalla blava."
 
 #. Profile stats - runs finished
 #. source: Runs
@@ -3019,7 +3019,7 @@ msgstr "Arxius Rar completats."
 #. source: .%s files opened
 #. Keep placeholders unchanged: %s
 msgid "UI.stat_ext_opened"
-msgstr ".%s arxius oberts"
+msgstr "Arxius .%s oberts"
 
 #. Profile stats - file extension row tooltip
 #. source: %s files successfully opened.
@@ -3087,13 +3087,13 @@ msgstr "Desbloqueja tasques completades a aquest perfil"
 #. source: %s clears
 #. Keep placeholders unchanged: %s
 msgid "UI.stat_named_clears"
-msgstr "%s completats"
+msgstr "Eliminacions amb %s"
 
 #. Profile stats - named enemy clears row title
 #. source: %s enemy clears
 #. Keep placeholders unchanged: %s
 msgid "UI.stat_named_enemy_clears"
-msgstr "%s enemics eliminats"
+msgstr "Enemic %s eliminats"
 
 #. Profile stats - named completions row title
 #. source: %s completions
@@ -3745,8 +3745,8 @@ msgid "UI.tutorial_5_body"
 msgstr ""
 "L'objectiu del joc és sobreviure.\n"
 "\n"
-"Hi ha 5 rondes de 5 minuts. Arribar a la {segur} al final de cada ronda "
-"per continuar."
+"Hi ha 5 rondes de 5 minuts. Arriba a la {safe} al final de cada ronda per "
+"continuar."
 
 #. Tutorial page 6
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
@@ -3932,7 +3932,7 @@ msgstr ""
 #. Installer Install button tooltip
 #. source: Installs plugin.
 msgid "UI.installer_install_tooltip"
-msgstr "Instal·la el(s) complements."
+msgstr "Instal·la el complement."
 
 #. Finance Manager all-in button
 #. source: All In
@@ -3952,7 +3952,7 @@ msgstr "Enviar Missatge"
 #. Pause menu title
 #. source: Pause menu
 msgid "UI.pause_menu_title"
-msgstr "Menú de Pausa"
+msgstr "Pausa"
 
 #. Victory screen title
 #. source: You Won!
@@ -3964,8 +3964,8 @@ msgstr "Has Guanyat!"
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
 msgstr ""
-"Pantalla blava. {click} i {tab} són icones d'entrada font: S'ha produït "
-"una excepció fatal i el sistema s'ha aturat per evitar la corrupció.\n"
+"S'ha produït una excepció fatal i el sistema s'ha aturat per evitar la "
+"corrupció.\n"
 "\n"
 "CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
 "\n"
@@ -4049,7 +4049,7 @@ msgstr "Temps"
 #. source: %d KB
 #. Keep placeholders unchanged: %d
 msgid "UI.rar_size_kb"
-msgstr "%D KB"
+msgstr "%d KB"
 
 #. Torrent window title
 #. source: BigWave 2003 Edition
@@ -4280,7 +4280,7 @@ msgstr "Rep {amount} de dany"
 #. source: Land {amount} headshots
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_headshots"
-msgstr "Provoca {armount} cops al cap"
+msgstr "Provoca {amount} cops al cap"
 
 #. Unlock requirement - apply N Heat stacks
 #. source: Apply {amount} Heat stacks to enemies
@@ -4528,7 +4528,7 @@ msgstr "Gasta 3 Clau per a una instal·lació de complement llegendari."
 #. UI (script-driven)
 #. source: Legendary Installer
 msgid "UI.unlock_file_legendary_installer_reward"
-msgstr "Instal·lador Llègendari"
+msgstr "Instal·lador Llegendari"
 
 #. UI (script-driven)
 #. source: Defeat a Plus! enemy in 10 seconds
@@ -4561,7 +4561,7 @@ msgstr "Objectiu de fitxer oberts de per vida."
 #. source: {file} files opened across all runs.
 #. Keep placeholders unchanged: {file}
 msgid "UI.unlock_general_file_type_desc"
-msgstr "{files} fitxers oberts a través de totes les partides."
+msgstr "{file} fitxers oberts a través de totes les partides."
 
 #. Lifetime Download More RAM milestone description
 #. source: Download More RAM completed across all runs.
@@ -4966,7 +4966,7 @@ msgstr "Invertit"
 #. Finance Manager balance row
 #. source: Balance
 msgid "UI.stock_trader_label_now"
-msgstr "Equilibrar"
+msgstr "Balanç"
 
 #. Finance Manager open-profit row
 #. source: Profit
@@ -5650,15 +5650,15 @@ msgstr "Descàrrega de RAM completa."
 
 #. keygen
 msgid "keygen.exe"
-msgstr "generaclau"
+msgstr "generaclau.exe"
 
 #. vapor
 msgid "vapor.exe"
-msgstr "evapor.exe"
+msgstr "vapor.exe"
 
 #. frenzy
 msgid "frenzy.exe"
-msgstr "frenesí"
+msgstr "frenesí.exe"
 
 #. Vapidshare
 msgid "Vapidshare.exe"
@@ -5946,7 +5946,7 @@ msgstr "Correu en Flames"
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
 msgid "DRIVER.email_cc.description"
 msgstr ""
-"Converteix Infecció en Calor. Afegeix una quantitat de 1\n"
+"Converteix Infecció en Calor. Afegeix una quantitat de 1.\n"
 "Incrementa velocitat un 35%."
 
 #. Weapon driver / overclock card - name (email_bounce)
@@ -5957,7 +5957,7 @@ msgstr "No Lliurable"
 #. Weapon driver / overclock card - description (email_bounce)
 #. source: When the last envelope bounces, start Refresh.
 msgid "DRIVER.email_bounce.description"
-msgstr "Quan l'últim sobre rebota, comença Actualització."
+msgstr "Quan l'últim sobre rebota, comença a actualitzar."
 
 #. Weapon driver / overclock card - name (firewall_deny)
 #. source: Deny
@@ -5992,9 +5992,9 @@ msgstr ""
 "Redueix la quantitat un 25%."
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
 msgid "DRIVER.fontart_wordart.name"
-msgstr "Art de Paraules"
+msgstr "Contorn"
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
@@ -6073,9 +6073,9 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr "Les mines es queden fins que s'activin."
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
 msgid "DRIVER.modem_handshake.name"
-msgstr "Congestió de la Línia d'Accés"
+msgstr "Acoblament"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
@@ -6085,9 +6085,9 @@ msgstr ""
 "Incrementa la mida un 25%"
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
 msgid "DRIVER.modem_broadband.name"
-msgstr "Amplada de Banda"
+msgstr "Guany"
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
@@ -6139,7 +6139,7 @@ msgstr "Omplir la Galleda"
 #. source: Add +1 Amount.\nIncrease Power +40%.
 msgid "DRIVER.paint_fill.description"
 msgstr ""
-"Afegeix 1 Quantitat.\n"
+"Afegeix una quantitat de 1.\n"
 "Incrementa el Poder 40%."
 
 #. Weapon driver / overclock card - name (pinball_tilted)
@@ -6441,7 +6441,7 @@ msgstr "Vapor.exe"
 #. Scene label
 #. screens: zip_window.tscn
 msgid "SHZip v2.03 (evaluation copy)"
-msgstr "SHZip v2.03 (evaluation copy)"
+msgstr "SHZip v2.03 (copia de evaluació)"
 
 #. Scene label
 #. screens: zip_window.tscn
