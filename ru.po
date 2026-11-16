@@ -6222,7 +6222,7 @@ msgstr "Высокий калибр"
 msgid "DRIVER.sniper_scope.description"
 msgstr ""
 "Умножает урон на 1.5x. Увеличивает силу на +30%.\n"
-"Увеличивает перезврядку на +25%."
+"Увеличивает перезарядку на +25%."
 
 #. Weapon driver / overclock card - name (sniper_oneshot)
 #. source: One Shot
