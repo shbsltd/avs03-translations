@@ -1,15 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Antivirus Survivors 2003MIME-Version: 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"Project-Id-Version: Antivirus Survivors 2003\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #. Class select - name (brick)
 #. source: Brick
@@ -19,13 +14,7 @@ msgstr "Cihla"
 #. Class select - description (brick)
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 msgid "CLASS.brick.description"
-msgstr ""
-"Přidej +40 Maximálního Zdraví.\n"
-"Přidej +12 Brnění.\n"
-"Vynásob Rychlost Kurzoru 0.8x.\n"
-"Vynásob Poškození Zbraní 0.85x\n"
-"Vynásob Poškození Zbraní 1.1x když utrpíš poškození (Trvá 8s, stupňuje se "
-"to až na 3)."
+msgstr "Přidej +40 Maximálního Zdraví.\nPřidej +12 Brnění.\nVynásob Rychlost Kurzoru 0.8x.\nVynásob Poškození Zbraní 0.85x\nVynásob Poškození Zbraní 1.1x když utrpíš poškození (Trvá 8s, stupňuje se to až na 3)."
 
 #. Class select - name (default)
 #. source: Default
@@ -35,9 +24,7 @@ msgstr "Základní"
 #. Class select - description (default)
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 msgid "CLASS.default.description"
-msgstr ""
-"Žádné druhové bonusy nebo postižení.\n"
-"Balancovaný základní kurzor."
+msgstr "Žádné druhové bonusy nebo postižení.\nBalancovaný základní kurzor."
 
 #. Class select - name (null)
 #. source: Null
@@ -47,11 +34,7 @@ msgstr "Nic"
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
-msgstr ""
-"Zmenši Maximální Zdraví -25.\n"
-"Přidej +8 Ztráty Packetů.\n"
-"Vynásob si Štěstí 1.5x.\n"
-"Vynásob Poškození Zbraní 0.9x."
+msgstr "Zmenši Maximální Zdraví -25.\nPřidej +8 Ztráty Packetů.\nVynásob si Štěstí 1.5x.\nVynásob Poškození Zbraní 0.9x."
 
 #. Class select - name (vector)
 #. source: Vector
@@ -61,13 +44,7 @@ msgstr "Vektor"
 #. Class select - description (vector)
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 msgid "CLASS.vector.description"
-msgstr ""
-"Vynásob Rychlost Kurzoru 1.25x.\n"
-"Přidej +15 Ztráty Packetů.\n"
-"Zmenši Maximální Zdraví -25.\n"
-"Vynásob Poškození Zbraní 0.9x\n"
-"Vynásob Rychlost Kurzoru 1.25x a Přebíjecí dobu 1.2x na Ztrátu Packetů "
-"(Trvá 4s)."
+msgstr "Vynásob Rychlost Kurzoru 1.25x.\nPřidej +15 Ztráty Packetů.\nZmenši Maximální Zdraví -25.\nVynásob Poškození Zbraní 0.9x\nVynásob Rychlost Kurzoru 1.25x a Přebíjecí dobu 1.2x na Ztrátu Packetů (Trvá 4s)."
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -77,12 +54,7 @@ msgstr "Zastavovací Bod"
 #. Class select - description (breakpoint)
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
 msgid "CLASS.breakpoint.description"
-msgstr ""
-"Zvyš si svou Šanci na Kritický Zásah +12%.\n"
-"Vynásob si Poškození Kritických Zásahů 1.25x.\n"
-"Zmenši Maximální Zdraví -15.\n"
-"Vynásob Rychlost Kurzoru 0.9x.\n"
-"Vynásob Poškození Zbraní 0.92x."
+msgstr "Zvyš si svou Šanci na Kritický Zásah +12%.\nVynásob si Poškození Kritických Zásahů 1.25x.\nZmenši Maximální Zdraví -15.\nVynásob Rychlost Kurzoru 0.9x.\nVynásob Poškození Zbraní 0.92x."
 
 #. Class select - name (thread)
 #. source: Thread
@@ -92,11 +64,7 @@ msgstr "Vlákno"
 #. Class select - description (thread)
 #. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.thread.description"
-msgstr ""
-"Vynásob Rychlost Zpracování 1.3x.\n"
-"Vynásob si Rychlost Přebíjecí Doby 1.12x.\n"
-"Vynásob si Příjem Zkušeností 1.08x.\n"
-"Vynásob Poškození Zbraní 0.85x."
+msgstr "Vynásob Rychlost Zpracování 1.3x.\nVynásob si Rychlost Přebíjecí Doby 1.12x.\nVynásob si Příjem Zkušeností 1.08x.\nVynásob Poškození Zbraní 0.85x."
 
 #. Class select - name (admin)
 #. source: Admin
@@ -106,25 +74,17 @@ msgstr "Administrátor"
 #. Class select - description (admin)
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
-msgstr ""
-"Začni s +1 Klíčem.\n"
-"Vynásob si Příjem Mincí 1.3x.\n"
-"Vynásob si Dosah vyzvednutí 1.3x.\n"
-"Máš slevu na předměty v obchodě +10%.\n"
-"Vynásob si Maximální Zdraví 0.9x\n"
-"Vynásob si Poškození Zbraní 0.58x."
+msgstr "Začni s +1 Klíčem.\nVynásob si Příjem Mincí 1.3x.\nVynásob si Dosah vyzvednutí 1.3x.\nMáš slevu na předměty v obchodě +10%.\nVynásob si Maximální Zdraví 0.9x\nVynásob si Poškození Zbraní 0.58x."
 
 #. Folder evolution mode - name (chaos)
 #. source: Chaos
 msgid "EVO.chaos.name"
-msgstr "Chaos"
+msgstr ""
 
 #. Folder evolution mode - description (chaos)
 #. source: A inconsistent unpredictable mess of difficulty. I couldn't tell you what to expect.
 msgid "EVO.chaos.description"
-msgstr ""
-"Inkonzistentní nepředvídatelný chaos obtížností. Nedokázal bych ti říct co "
-"očekávat."
+msgstr "Inkonzistentní nepředvídatelný chaos obtížností. Nedokázal bych ti říct co očekávat."
 
 #. Folder evolution mode - name (linear)
 #. source: Linear
@@ -144,9 +104,7 @@ msgstr "Různá"
 #. Folder evolution mode - description (variable)
 #. source: A varied level of enemies that ramps up and down to give more moments of peace but harder increases.
 msgid "EVO.variable.description"
-msgstr ""
-"Různá úroveň nepřátel která se zvyšuje a zmenšuje, aby to dávalo více "
-"okamžiků míru ale těžší zvýšení."
+msgstr "Různá úroveň nepřátel která se zvyšuje a zmenšuje, aby to dávalo více okamžiků míru ale těžší zvýšení."
 
 #. Meta upgrade menu - description (armor)
 #. source: Adds +1 Armo(u)r per Rank.
@@ -266,9 +224,7 @@ msgstr "IRQ Hardwaru"
 #. Plugin - description (armor_damage_trigger)
 #. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
 msgid "PLUGIN.armor_damage_trigger.description"
-msgstr ""
-"Přidej +5 Brnění.\n"
-"Přidej +25 Ztráty Packetů když utrpíš Poškození (Trvá 10s)."
+msgstr "Přidej +5 Brnění.\nPřidej +25 Ztráty Packetů když utrpíš Poškození (Trvá 10s)."
 
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
@@ -288,9 +244,7 @@ msgstr "Edice Enterprise"
 #. Plugin - description (big_hp_regen_boost)
 #. source: Add +64 Max HP.\nAdd +12 Health Regen.
 msgid "PLUGIN.big_hp_regen_boost.description"
-msgstr ""
-"Přidej +64 Maximálního Zdraví.\n"
-"Přidej +12 Regeneraci Zdraví."
+msgstr "Přidej +64 Maximálního Zdraví.\nPřidej +12 Regeneraci Zdraví."
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -370,9 +324,7 @@ msgstr "Baterie na Kritické Úrovni"
 #. Plugin - description (cursor_speed_damage)
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
-msgstr ""
-"Zvyš si Rychlost Kurzoru +10%.\n"
-"Zvyš si Rychlost Kurzoru o +30% když utrpíš Poškození (Trvá 10s)."
+msgstr "Zvyš si Rychlost Kurzoru +10%.\nZvyš si Rychlost Kurzoru o +30% když utrpíš Poškození (Trvá 10s)."
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -392,9 +344,7 @@ msgstr "Kariérní Cesta"
 #. Plugin - description (damage_level_scaling)
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
 msgid "PLUGIN.damage_level_scaling.description"
-msgstr ""
-"Zvyš si Poškození Zbraní o +3% za každou Úroveň Hráče.\n"
-"Zmenši si Maximální Zdraví -1 za Každou Úroveň Hráče."
+msgstr "Zvyš si Poškození Zbraní o +3% za každou Úroveň Hráče.\nZmenši si Maximální Zdraví -1 za Každou Úroveň Hráče."
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
@@ -414,11 +364,7 @@ msgstr "Možnosti Výkonu"
 #. Plugin - description (damage_speed_crit)
 #. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
 msgid "PLUGIN.damage_speed_crit.description"
-msgstr ""
-"Zvyš si Poškození Zbraní +10%.\n"
-"Zvyš si rychlost Přebíjecí Doby +10%.\n"
-"Zvyš si Šanci na Kritický Zásah o +5%.\n"
-"Zvyš si Poškození Kritických Zásahů +15%."
+msgstr "Zvyš si Poškození Zbraní +10%.\nZvyš si rychlost Přebíjecí Doby +10%.\nZvyš si Šanci na Kritický Zásah o +5%.\nZvyš si Poškození Kritických Zásahů +15%."
 
 #. Plugin - name (defrag_on_safe_folder)
 #. source: Startup Folder
@@ -468,8 +414,7 @@ msgstr "AutoObnova"
 #. Plugin - description (hp_on_heal)
 #. source: 7% Chance to Add +3 Max HP when Healed. (5s Cooldown).
 msgid "PLUGIN.hp_on_heal.description"
-msgstr ""
-"Získáš 7% Šanci aby jsi si Přidal +3 Maximálního Zdraví když se Vyléčíš."
+msgstr "Získáš 7% Šanci aby jsi si Přidal +3 Maximálního Zdraví když se Vyléčíš."
 
 #. Plugin - name (locate_pointer)
 #. source: Locate Pointer
@@ -479,9 +424,7 @@ msgstr "Najít Kurzor"
 #. Plugin - description (locate_pointer)
 #. source: Trigger a Blast when taking damage (20s cooldown, reduced per stack).
 msgid "PLUGIN.locate_pointer.description"
-msgstr ""
-"Vytvoří to Výbuch Když utrpíš Poškození (Přebíjecí Doba je 20s, Zmenšuje "
-"se za každou Hodnost)."
+msgstr "Vytvoří to Výbuch Když utrpíš Poškození (Přebíjecí Doba je 20s, Zmenšuje se za každou Hodnost)."
 
 #. Plugin - name (luck_boost)
 #. source: Luck Boost
@@ -501,9 +444,7 @@ msgstr "Pauza Štěstí"
 #. Plugin - description (luck_reroll)
 #. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
 msgid "PLUGIN.luck_reroll.description"
-msgstr ""
-"Zvyš si Štěstí o +12%.\n"
-"Zvyš si Štěstí o +25% při Obnovení."
+msgstr "Zvyš si Štěstí o +12%.\nZvyš si Štěstí o +25% při Obnovení."
 
 #. Plugin - name (luck_zip_boost)
 #. source: Compressed Folders
@@ -588,14 +529,12 @@ msgstr "Získáš +25% Slevu na Předměty v Obchodě."
 #. Plugin - name (slow_but_strong)
 #. source: Rau und Stark
 msgid "PLUGIN.slow_but_strong.name"
-msgstr "Rau und Stark"
+msgstr ""
 
 #. Plugin - description (slow_but_strong)
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
-msgstr ""
-"Vynásob si Poškození Zbraní 1.25x.\n"
-"Zmenší si Rychlost Kurzoru o -10%."
+msgstr "Vynásob si Poškození Zbraní 1.25x.\nZmenší si Rychlost Kurzoru o -10%."
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -605,9 +544,7 @@ msgstr "Chytré Obnovení"
 #. Plugin - description (smart_recovery)
 #. source: Add +10 Max HP.\nHeal 25% of Max HP when opening a Safe Folder.
 msgid "PLUGIN.smart_recovery.description"
-msgstr ""
-"Přidej +10 k Maximálnímu Zdraví.\n"
-"Vyléčíš si 25% svého Maximálního Zdraví když otevřeš Bezpečnou Složku."
+msgstr "Přidej +10 k Maximálnímu Zdraví.\nVyléčíš si 25% svého Maximálního Zdraví když otevřeš Bezpečnou Složku."
 
 #. Plugin - name (weapon_speed_boost)
 #. source: Weapon Speed Boost
@@ -657,9 +594,7 @@ msgstr "PřečtiSiMě"
 #. Plugin - description (xp_gain_on_damage)
 #. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
 msgid "PLUGIN.xp_gain_on_damage.description"
-msgstr ""
-"Zvyš si Příjem Zkušeností +10%.\n"
-"Získej +4 Zkušenosti vždy když utrpíš Poškození."
+msgstr "Zvyš si Příjem Zkušeností +10%.\nZískej +4 Zkušenosti vždy když utrpíš Poškození."
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
@@ -669,9 +604,7 @@ msgstr "Antivir Morgan"
 #. Plugin - description (morgan_av)
 #. source: Difficulty is increased for the rest of the run.\n+1 extra Plus! enemy at each midway point.
 msgid "PLUGIN.morgan_av.description"
-msgstr ""
-"Obtížnost je zvýšená po zbytek relace.\n"
-"+1 Plus! Nepřítel na každé polovině cesty."
+msgstr "Obtížnost je zvýšená po zbytek relace.\n+1 Plus! Nepřítel na každé polovině cesty."
 
 #. Plugin - name (popup_blocker)
 #. source: Realtime Protection
@@ -711,9 +644,7 @@ msgstr "Stálý Snímek"
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
 msgid "PLUGIN.still_frame.description"
-msgstr ""
-"Zvyš si Poškození Zbraní o +5% za sekundu když se nehýbeš, až na +15% za "
-"stupeň."
+msgstr "Zvyš si Poškození Zbraní o +5% za sekundu když se nehýbeš, až na +15% za stupeň."
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
@@ -733,9 +664,7 @@ msgstr "Obnovení Overclocku"
 #. Plugin - description (refresh_overclock)
 #. source: Increase Refresh Speed +50%.\nReduce Cursor Speed -15%.
 msgid "PLUGIN.refresh_overclock.description"
-msgstr ""
-"Zvyš si Rychlost Přebíjecí Doby +50%.\n"
-"Zmenši si Rychlost Kurzoru o -15%."
+msgstr "Zvyš si Rychlost Přebíjecí Doby +50%.\nZmenši si Rychlost Kurzoru o -15%."
 
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
@@ -765,9 +694,7 @@ msgstr "Kritický Výstřel"
 #. Plugin - description (crit_blast)
 #. source: 10% Chance for Crits to Blast for 50% Damage.
 msgid "PLUGIN.crit_blast.description"
-msgstr ""
-"Získáš 10% Šanci pro Kritické Zásahy aby vytvořili výbuch pro 50% "
-"Poškození."
+msgstr "Získáš 10% Šanci pro Kritické Zásahy aby vytvořili výbuch pro 50% Poškození."
 
 #. Plugin - name (zip_recover)
 #. source: Zip Recover
@@ -782,7 +709,7 @@ msgstr "Úspěšné Zipy nechávají zelenou léčící oblast."
 #. Plugin - name (vapidshare_pro)
 #. source: Vapidshare Pro
 msgid "PLUGIN.vapidshare_pro.name"
-msgstr "Vapidshare Pro"
+msgstr ""
 
 #. Plugin - description (vapidshare_pro)
 #. source: Download Vapidshare parts simultaneously and faster.
@@ -792,15 +719,12 @@ msgstr "Stáhni si části Vapidshare zároveň a rychleji."
 #. Plugin - name (megacrit)
 #. source: Megacrit
 msgid "PLUGIN.megacrit.name"
-msgstr "Megacrit"
+msgstr ""
 
 #. Plugin - description (megacrit)
 #. source: Increase Crit Chance +40%.\nCrit Chance above 100% can Megacrit for double Crit Damage.
 msgid "PLUGIN.megacrit.description"
-msgstr ""
-"Zvyš si Šanci na Kritický Zásah o +40%.\n"
-"Když máš Kritickou Šanci nad 100%, Kritické Zásahy můžou vyvolat Megacrit "
-"pro dvojnásobek Poškození."
+msgstr "Zvyš si Šanci na Kritický Zásah o +40%.\nKdyž máš Kritickou Šanci nad 100%, Kritické Zásahy můžou vyvolat Megacrit pro dvojnásobek Poškození."
 
 #. Plugin - name (hyperthread)
 #. source: Hyperthreading
@@ -810,9 +734,7 @@ msgstr "Hypervláknování"
 #. Plugin - description (hyperthread)
 #. source: Multiply Weapon Amount 1.5x.\nMultiply Weapon Damage 0.75x.
 msgid "PLUGIN.hyperthread.description"
-msgstr ""
-"Vynásob si Počet Zbraní 1.5x.\n"
-"Vynásob si Poškození Zbraní 0.75x."
+msgstr "Vynásob si Počet Zbraní 1.5x.\nVynásob si Poškození Zbraní 0.75x."
 
 #. Plugin - name (tank_core)
 #. source: Tank Core
@@ -862,9 +784,7 @@ msgstr "Správce Úloh"
 #. Plugin - description (task_manager)
 #. source: Multiply Weapon Refresh 2.0x.\nMultiply Weapon Size 0.75x.
 msgid "PLUGIN.task_manager.description"
-msgstr ""
-"Vynásob si Přebíjecí Dobu Zbraní 2.0x.\n"
-"Vynásob si Velikost Zbraní 0.75x."
+msgstr "Vynásob si Přebíjecí Dobu Zbraní 2.0x.\nVynásob si Velikost Zbraní 0.75x."
 
 #. Plugin - name (raid_0)
 #. source: RAID 0
@@ -874,9 +794,7 @@ msgstr "NÁJEZD 0"
 #. Plugin - description (raid_0)
 #. source: Multiply Zip and RAM rewards 2.0x.\nDecrease Zip and RAM success chance.
 msgid "PLUGIN.raid_0.description"
-msgstr ""
-"Vynásob si Odměny za Zip a Paměť 2.0x.\n"
-"Zmenši si Zip a Paměť šanci na úspěch."
+msgstr "Vynásob si Odměny za Zip a Paměť 2.0x.\nZmenši si Zip a Paměť šanci na úspěch."
 
 #. Plugin - name (system_restore)
 #. source: System Restore
@@ -886,9 +804,7 @@ msgstr "Obnovení Systému"
 #. Plugin - description (system_restore)
 #. source: On death, heal 50% of Max HP instead of Blue Screen.\nOnce per stack.
 msgid "PLUGIN.system_restore.description"
-msgstr ""
-"Když zemřeš, vyléčíš si 50% Maximálního Zdraví místo Modré Obrazovky.\n"
-"Jednou za stupeň."
+msgstr "Když zemřeš, vyléčíš si 50% Maximálního Zdraví místo Modré Obrazovky.\nJednou za stupeň."
 
 #. Plugin - name (power_user)
 #. source: Power User
@@ -928,9 +844,7 @@ msgstr "Protokol I"
 #. Difficulty protocol - description (protocol_1)
 #. source: The beginner difficulty. Earn 16 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_1.description"
-msgstr ""
-"Začátečnická obtížnost. Dostaň 16 Beanz po každé otevřené Bezpečné Složce "
-"+ zabité nepřátele."
+msgstr "Začátečnická obtížnost. Dostaň 16 Beanz po každé otevřené Bezpečné Složce + zabité nepřátele."
 
 #. Difficulty protocol - name (protocol_2)
 #. source: Protocol II
@@ -940,9 +854,7 @@ msgstr "Protokol II"
 #. Difficulty protocol - description (protocol_2)
 #. source: The sophomore difficulty. Earn 24 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_2.description"
-msgstr ""
-"Normální obtížnost. Dostaň 24 Beanz po každé otevřené Bezpečné Složce + "
-"zabité nepřátele."
+msgstr "Normální obtížnost. Dostaň 24 Beanz po každé otevřené Bezpečné Složce + zabité nepřátele."
 
 #. Difficulty protocol - name (protocol_3)
 #. source: Protocol III
@@ -952,9 +864,7 @@ msgstr "Protokol III"
 #. Difficulty protocol - description (protocol_3)
 #. source: The tertiary difficulty. Earn 32 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_3.description"
-msgstr ""
-"Těžká obtížnost. Dostaň 32 Beanz po každé otevřené Bezpečné Složce + "
-"zabité nepřátele."
+msgstr "Těžká obtížnost. Dostaň 32 Beanz po každé otevřené Bezpečné Složce + zabité nepřátele."
 
 #. Difficulty protocol - name (protocol_4)
 #. source: Protocol IV
@@ -964,9 +874,7 @@ msgstr "Protokol IV"
 #. Difficulty protocol - description (protocol_4)
 #. source: The senior difficulty. Earn 48 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_4.description"
-msgstr ""
-"Seniorní obtížnost. Dostaň 48 Beanz po každé otevřené Bezpečné Složce + "
-"zabité nepřátele."
+msgstr "Seniorní obtížnost. Dostaň 48 Beanz po každé otevřené Bezpečné Složce + zabité nepřátele."
 
 #. Difficulty protocol - name (protocol_5)
 #. source: Protocol V
@@ -976,8 +884,7 @@ msgstr "Protokol V"
 #. Difficulty protocol - description (protocol_5)
 #. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
 msgid "PROTOCOL.protocol_5.description"
-msgstr ""
-"Nemusíš tohle dělat. 64 Beanz po každé otevřené Bezpečné Složce pokud ano."
+msgstr "Nemusíš tohle dělat. 64 Beanz po každé otevřené Bezpečné Složce pokud ano."
 
 #. Stat display - name (upgrade_player_armor)
 #. source: Armo(u)r
@@ -1035,7 +942,8 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr "Ztráta Packetů"
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
+#, fuzzy
 msgid "STAT.upgrade_player_dodge.description"
 msgstr "Šance se vyhnout všemu Poškození. (Exponenciální)"
 
@@ -1071,11 +979,10 @@ msgid "STAT.upgrade_player_luck.name"
 msgstr "Štěstí"
 
 #. Stat display - description (upgrade_player_luck)
-#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
+#, fuzzy
 msgid "STAT.upgrade_player_luck.description"
-msgstr ""
-"Zvyšuje šanci pro lepší obnovení, což znamená vyšší vzácnosti společně s "
-"jinými benefity."
+msgstr "Zvyšuje šanci pro lepší obnovení, což znamená vyšší vzácnosti společně s jinými benefity."
 
 #. Stat display - name (upgrade_player_magnetism_multi)
 #. source: Magnetism
@@ -1115,9 +1022,7 @@ msgstr "Rychlost Zpracování"
 #. Stat display - description (upgrade_player_proc_speed)
 #. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
 msgid "STAT.upgrade_player_proc_speed.description"
-msgstr ""
-"Násobí rychlost zpracování souborů, včetně .zip, .bat, LemWire atd. "
-"(Exponenciální)"
+msgstr "Násobí rychlost zpracování souborů, včetně .zip, .bat, LemWire atd. (Exponenciální)"
 
 #. Stat display - name (upgrade_player_refresh_multi)
 #. source: Weapon Refresh
@@ -1389,9 +1294,7 @@ msgstr "Zvyšuje Maximální Zdraví o +{percent}."
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_power_multi.description"
-msgstr ""
-"Zvyšuje sílu Odpuzování, Horka, Nákazy a Lagu ze všech zbraní o +{percent}"
-"%."
+msgstr "Zvyšuje sílu Odpuzování, Horka, Nákazy a Lagu ze všech zbraní o +{percent}%."
 
 #. Upgrade card - description (upgrade_player_proc_speed)
 #. source: Increases file opening speed by +{percent}%.
@@ -1447,9 +1350,7 @@ msgstr "Bubliny"
 #. Upgrade card - description (weapon_bubbles)
 #. source: Giant bubbles float around that add stacks of Infect to enemies.
 msgid "UPGRADE.weapon_bubbles.description"
-msgstr ""
-"Obrovské bubliny lítají kolem tebe, které přidávají stupně které nakazují "
-"nepřátele."
+msgstr "Obrovské bubliny lítají kolem tebe, které přidávají stupně které nakazují nepřátele."
 
 #. Upgrade card - name (weapon_cdrive)
 #. source: C: Drive
@@ -1474,36 +1375,32 @@ msgstr "Nůžky se prořežou nejbližším nepřítelem."
 #. Upgrade card - name (weapon_firewall)
 #. source: Firewall
 msgid "UPGRADE.weapon_firewall.name"
-msgstr "Firewall"
+msgstr ""
 
 #. Upgrade card - description (weapon_firewall)
 #. source: Creates a ring of fire around the player that adds stacks of Heat to enemies.
 msgid "UPGRADE.weapon_firewall.description"
-msgstr ""
-"Vytvoří prsten ohně kolem hráče, který přidává stupně horka nepřátelům."
+msgstr "Vytvoří prsten ohně kolem hráče, který přidává stupně horka nepřátelům."
 
 #. Upgrade card - name (weapon_fontart)
 #. source: FontArt
 msgid "UPGRADE.weapon_fontart.name"
-msgstr "FontArt"
+msgstr ""
 
 #. Upgrade card - description (weapon_fontart)
 #. source: Drops letters on the strongest enemy that add stacks of Heat to enemies.
 msgid "UPGRADE.weapon_fontart.description"
-msgstr ""
-"Shodí to písmena na nejsilnějšího nepřítele, které přidávají stupně horka "
-"nepřátelům."
+msgstr "Shodí to písmena na nejsilnějšího nepřítele, které přidávají stupně horka nepřátelům."
 
 #. Upgrade card - name (weapon_hitmarkers)
 #. source: HaD: DoCK
 msgid "UPGRADE.weapon_hitmarkers.name"
-msgstr "HaD: DoCK"
+msgstr ""
 
 #. Upgrade card - description (weapon_hitmarkers)
 #. source: Shots land on the nearest enemy. 3% chance of a headshot.
 msgid "UPGRADE.weapon_hitmarkers.description"
-msgstr ""
-"Střely přistávají na nejbližšího nepřítele. Má to 3% být střela do hlavy."
+msgstr "Střely přistávají na nejbližšího nepřítele. Má to 3% být střela do hlavy."
 
 #. Upgrade card - name (weapon_paint)
 #. source: Paint
@@ -1513,14 +1410,12 @@ msgstr "Malování"
 #. Upgrade card - description (weapon_paint)
 #. source: Paints circles near the player that damage and add stacks of Lag to enemies over time.
 msgid "UPGRADE.weapon_paint.description"
-msgstr ""
-"Nakreslí kruhy blízko k hráči, které poškozují a přidávají stupně lagu "
-"nepřátelům po čase."
+msgstr "Nakreslí kruhy blízko k hráči, které poškozují a přidávají stupně lagu nepřátelům po čase."
 
 #. Upgrade card - name (weapon_pinball)
 #. source: Pinball
 msgid "UPGRADE.weapon_pinball.name"
-msgstr "Pinball"
+msgstr ""
 
 #. Upgrade card - description (weapon_pinball)
 #. source: Shoots a bouncing ball towards the nearest enemy.
@@ -1550,7 +1445,7 @@ msgstr "Vyšle to lupu kolem hráče."
 #. Upgrade card - name (weapon_solitaire)
 #. source: Solitaire
 msgid "UPGRADE.weapon_solitaire.name"
-msgstr "Solitaire"
+msgstr ""
 
 #. Upgrade card - description (weapon_solitaire)
 #. source: Shoots a bouncing card that adds stacks of Infect to enemies.
@@ -1565,14 +1460,12 @@ msgstr "Snímky"
 #. Upgrade card - description (weapon_fraps)
 #. source: Fires flickering FPS numbers. The number shown is the damage dealt.
 msgid "UPGRADE.weapon_fraps.description"
-msgstr ""
-"Střílí blikající číslovky FPS. Číslo které zobrazují je poškození které "
-"zpusobí."
+msgstr "Střílí blikající číslovky FPS. Číslo které zobrazují je poškození které zpusobí."
 
 #. Upgrade card - name (weapon_scimitar)
 #. source: Scimitar
 msgid "UPGRADE.weapon_scimitar.name"
-msgstr "Scimitar"
+msgstr ""
 
 #. Upgrade card - description (weapon_scimitar)
 #. source: Slashes above and below the cursor. Extra amount adds alternating slashes.
@@ -1587,9 +1480,7 @@ msgstr "Odstřelovač 1.6"
 #. Upgrade card - description (weapon_sniper)
 #. source: One heavy shot at the strongest enemy. Clears show in a killfeed.
 msgid "UPGRADE.weapon_sniper.description"
-msgstr ""
-"Jeden silný výstřel na nejsilnějšího nepřítele. Zabití se ukazují v "
-"killfeedu."
+msgstr "Jeden silný výstřel na nejsilnějšího nepřítele. Zabití se ukazují v killfeedu."
 
 #. Upgrade card - name (weapon_minesweeper)
 #. source: Mines
@@ -1599,32 +1490,27 @@ msgstr "Miny"
 #. Upgrade card - description (weapon_minesweeper)
 #. source: Tosses mines that plant, then explode when an enemy touches them.
 msgid "UPGRADE.weapon_minesweeper.description"
-msgstr ""
-"Vyhazuje to miny které se usadí, pak explodují když se jich nepřítel "
-"dotkne."
+msgstr "Vyhazuje to miny které se usadí, pak explodují když se jich nepřítel dotkne."
 
 #. Upgrade card - name (weapon_email)
 #. source: Email
 msgid "UPGRADE.weapon_email.name"
-msgstr "Email"
+msgstr ""
 
 #. Upgrade card - description (weapon_email)
 #. source: Envelopes fly out, bounce off walls, and boomerang home hitting both ways.
 msgid "UPGRADE.weapon_email.description"
-msgstr ""
-"Dopisy vyletí, které skákají od zdí, a odbumerangují se domů, udeří dvěma "
-"směry."
+msgstr "Dopisy vyletí, které skákají od zdí, a odbumerangují se domů, udeří dvěma směry."
 
 #. Upgrade card - name (weapon_cruiser)
 #. source: Internet Cruiser
 msgid "UPGRADE.weapon_cruiser.name"
-msgstr "Internet Cruiser"
+msgstr ""
 
 #. Upgrade card - description (weapon_cruiser)
 #. source: Opens a browser tab somewhere on screen. Lingers and applies heavy Lag.
 msgid "UPGRADE.weapon_cruiser.description"
-msgstr ""
-"Otevře to okno prohlížeče na obrazovce. Zůstávají a přidávají hodně lagu."
+msgstr "Otevře to okno prohlížeče na obrazovce. Zůstávají a přidávají hodně lagu."
 
 #. Upgrade card - name (weapon_orchestra)
 #. source: Orchestra
@@ -1634,14 +1520,12 @@ msgstr "Orchestr"
 #. Upgrade card - description (weapon_orchestra)
 #. source: Opens a browser tab on the closest enemy on screen. Infects, and sometimes executes.
 msgid "UPGRADE.weapon_orchestra.description"
-msgstr ""
-"Otevře to okno prohlížeče na nejbližšího nepřítele na obrazovce. Infikují, "
-"a někdy popravují."
+msgstr "Otevře to okno prohlížeče na nejbližšího nepřítele na obrazovce. Infikují, a někdy popravují."
 
 #. Upgrade card - name (weapon_satellite)
 #. source: WLAN
 msgid "UPGRADE.weapon_satellite.name"
-msgstr "WLAN"
+msgstr ""
 
 #. Upgrade card - description (weapon_satellite)
 #. source: Deploys a dish that pings nearby enemies with Lag signals.
@@ -1651,14 +1535,12 @@ msgstr "Vyšle to talíř, které vysílají pingy na nepřátele se signály la
 #. Upgrade card - name (weapon_avn)
 #. source: AVN Chat
 msgid "UPGRADE.weapon_avn.name"
-msgstr "AVN Chat"
+msgstr ""
 
 #. Upgrade card - description (weapon_avn)
 #. source: Orbiting chat-bubble beams type out messages and Lag enemies.
 msgid "UPGRADE.weapon_avn.description"
-msgstr ""
-"Obíhající paprsky v podobě chatových bublin, které píšou zprávy a lagují "
-"nepřátele."
+msgstr "Obíhající paprsky v podobě chatových bublin, které píšou zprávy a lagují nepřátele."
 
 #. Upgrade card - name (weapon_cone)
 #. source: Very Large Cone
@@ -1666,10 +1548,10 @@ msgid "UPGRADE.weapon_cone.name"
 msgstr "Velmi Velký Kužel"
 
 #. Upgrade card - description (weapon_cone)
-#. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
+#, fuzzy
 msgid "UPGRADE.weapon_cone.description"
-msgstr ""
-"Oranžové kuželi jsou k tobě připojené. Uvaří vše na co jsou namířené."
+msgstr "Oranžové kuželi jsou k tobě připojené. Uvaří vše na co jsou namířené."
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
@@ -1679,8 +1561,7 @@ msgstr "ModrýZub"
 #. Upgrade card - description (weapon_blatand)
 #. source: Chains dashed Infect links between enemies at a fixed link length.
 msgid "UPGRADE.weapon_blatand.description"
-msgstr ""
-"Řetězy přerušují spojení mezi nepřáteli při pevně stanovené délce spojení."
+msgstr "Řetězy přerušují spojení mezi nepřáteli při pevně stanovené délce spojení."
 
 #. Upgrade card - name (weapon_modem)
 #. source: Output Device
@@ -1688,7 +1569,8 @@ msgid "UPGRADE.weapon_modem.name"
 msgstr "Výstupové Zařízení"
 
 #. Upgrade card - description (weapon_modem)
-#. source: Blasts concentric handshake rings outward from the cursor.
+#. source: Blasts sound rings outward from the cursor.
+#, fuzzy
 msgid "UPGRADE.weapon_modem.description"
 msgstr "Vystřelí to koncentrické prsteny pryč od kurzoru."
 
@@ -1720,10 +1602,11 @@ msgstr "dopis"
 #. Weapon metadata
 #. source: tab
 msgid "WEAPON.cruiser.spawn_noun"
-msgstr "tab"
+msgstr "past"
 
 #. Weapon metadata
-#. source: trap
+#. source: tab
+#, fuzzy
 msgid "WEAPON.orchestra.spawn_noun"
 msgstr "past"
 
@@ -1800,7 +1683,7 @@ msgstr "Otázka Plus!"
 #. ELITE - name (crawler)
 #. source: Internet Crawler Plus!
 msgid "ELITE.crawler.name"
-msgstr "Internet Crawler Plus!"
+msgstr ""
 
 #. ELITE - name (avn_buddy)
 #. source: AVN Buddy Plus!
@@ -1835,7 +1718,7 @@ msgstr "Velký Kritikální"
 #. Enemy sniper-feed name - name (crawler)
 #. source: Internet Crawler
 msgid "ENEMY.crawler.name"
-msgstr "Internet Crawler"
+msgstr ""
 
 #. Enemy sniper-feed name - name (mine)
 #. source: Mine
@@ -1870,7 +1753,7 @@ msgstr "Recykler"
 #. Enemy sniper-feed name - name (dxdiag)
 #. source: GfxDiag
 msgid "ENEMY.dxdiag.name"
-msgstr "GfxDiag"
+msgstr ""
 
 #. Enemy sniper-feed name - name (burning_disc)
 #. source: PyroDisc
@@ -2010,7 +1893,7 @@ msgstr "Zoom Displeje"
 #. Settings menu
 #. source: Vsync
 msgid "SETTINGS.vsync"
-msgstr "Vsync"
+msgstr ""
 
 #. Settings menu
 #. source: FPS Cap
@@ -2020,7 +1903,7 @@ msgstr "Limit FPS"
 #. Settings menu
 #. source: CRT Filter
 msgid "SETTINGS.crt_filter"
-msgstr "CRT Filter"
+msgstr ""
 
 #. Settings menu
 #. source: Show Monitor Bezel
@@ -2038,9 +1921,19 @@ msgid "SETTINGS.music_volume"
 msgstr "Hlasitost Hudby"
 
 #. Settings menu
+#. source: SFX Volume
+msgid "SETTINGS.sfx_volume"
+msgstr "Hlasitost SFX"
+
+#. Settings menu
 #. source: Keygen Volume
 msgid "SETTINGS.keygen_volume"
 msgstr "Hlasitost GenerátorKlíčů"
+
+#. Settings menu
+#. source: Main Menu Computer Sound
+msgid "SETTINGS.menu_computer_sound"
+msgstr ""
 
 #. Settings menu
 #. source: Animation Speed
@@ -2103,9 +1996,19 @@ msgid "SETTINGS.music_volume_tip"
 msgstr "Hlasitost pro hudbu"
 
 #. Settings menu
+#. source: Volume for sound effects.
+msgid "SETTINGS.sfx_volume_tip"
+msgstr ""
+
+#. Settings menu
 #. source: Volume for Keygen windows that play their own track.
 msgid "SETTINGS.keygen_volume_tip"
 msgstr "Hlasitost pro okno GenerátorKlíčů které hraje svoji vlastní hudbu."
+
+#. Settings menu
+#. source: Play the computer humming sound on the main menu.
+msgid "SETTINGS.menu_computer_sound_tip"
+msgstr ""
 
 #. Settings menu
 #. source: Language for menus and in-game text.
@@ -2125,9 +2028,7 @@ msgstr "Jak rychle se hýbe kurzor s klávesy nebo Joystickem v nabídkách."
 #. Settings menu
 #. source: Control your cursor with the mouse in Safe Folders. Battle Folders always use WASD or the left stick.
 msgid "SETTINGS.admin_cursor_tip"
-msgstr ""
-"Ovládej svůj kurzor s myší v Bezpečných Složkách. V Bitevních Složkách "
-"vždy používáš WASD nebo levý Joystick."
+msgstr "Ovládej svůj kurzor s myší v Bezpečných Složkách. V Bitevních Složkách vždy používáš WASD nebo levý Joystick."
 
 #. Settings menu
 #. source: Vibrate the controller when taking damage.
@@ -2137,7 +2038,7 @@ msgstr "Vibruje ovladač když utrpíš požkození."
 #. Settings menu
 #. source: OK
 msgid "SETTINGS.ok"
-msgstr "OK"
+msgstr ""
 
 #. Settings menu
 #. source: Restore Defaults
@@ -2316,7 +2217,7 @@ msgstr "Stahování"
 #. source: %d KB/s
 #. Keep placeholders unchanged: %d
 msgid "TORRENT.speed"
-msgstr "%d KB/s"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Vapor - Validating files - {0}% complete
@@ -2374,7 +2275,7 @@ msgstr "Ukládání Dema"
 #. source: %d Beanz
 #. Keep placeholders unchanged: %d
 msgid "UI.login_profile_detail"
-msgstr "%d Beanz"
+msgstr ""
 
 #. Login screen - second click confirms removing an entry
 #. source: Click again to remove
@@ -2389,10 +2290,7 @@ msgstr "Přihlášen"
 #. Login screen - click your user name prompt
 #. source: To begin, click your user name.\nAfter you log on, you can change profiles.\nJust click on your name at the top of the menu.
 msgid "UI.login_prompt"
-msgstr ""
-"Abychom začali, klikni na své uživatelské jméno.\n"
-"Potom co se přihlásíš, můžeš změnit profily.\n"
-"Jenom klikni na své jméno na horní straně nabídky."
+msgstr "Abychom začali, klikni na své uživatelské jméno.\nPotom co se přihlásíš, můžeš změnit profily.\nJenom klikni na své jméno na horní straně nabídky."
 
 #. Login screen - turn off computer button
 #. source: Turn off computer
@@ -2417,7 +2315,7 @@ msgstr "Téma"
 #. Personalise window - Desktop tab
 #. source: Desktop
 msgid "UI.personalise_tab_desktop"
-msgstr "Desktop"
+msgstr ""
 
 #. Personalise window - Profile tab
 #. source: Profile
@@ -2564,7 +2462,7 @@ msgstr "Růžové Téma"
 #. Personalise - avatar name
 #. source: Beanz
 msgid "UI.avatar_beanz"
-msgstr "Beanz"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Giraffe
@@ -2604,17 +2502,17 @@ msgstr "Orchestr"
 #. Personalise - avatar name
 #. source: Zip
 msgid "UI.avatar_zip"
-msgstr "Zip"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Crawler
 msgid "UI.avatar_crawler"
-msgstr "Crawler"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Cruiser
 msgid "UI.avatar_cruiser"
-msgstr "Cruiser"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Enemy
@@ -2624,7 +2522,7 @@ msgstr "Nepřítel"
 #. Personalise - avatar name
 #. source: Lemwire
 msgid "UI.avatar_lemwire"
-msgstr "Lemwire"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Coin
@@ -2724,9 +2622,7 @@ msgstr "Speciální Poděkování"
 #. Credits window - note under Special Thanks
 #. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
 msgid "CREDITS.special_thanks_note"
-msgstr ""
-"Děkuji vám všem hodně za to, že jste mi pomohly dosáhnout tento sen. "
-"Všechny vás miluji! - Shaun"
+msgstr "Děkuji vám všem hodně za to, že jste mi pomohly dosáhnout tento sen. Všechny vás miluji! - Shaun"
 
 #. Profile stats window - statistics tab
 #. source: Stats
@@ -2751,9 +2647,7 @@ msgstr "Kategorie"
 #. Virry blurb - statistics mode
 #. source: Your run records live in these sheet. Switch to Tasks for unlocks.
 msgid "UI.task_virry_stats"
-msgstr ""
-"V těchto tabulkách vedeš záznamy v reálném čase. Přejdi na úkoly k "
-"odemčení věcí."
+msgstr "V těchto tabulkách vedeš záznamy v reálném čase. Přejdi na úkoly k odemčení věcí."
 
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
@@ -2763,44 +2657,32 @@ msgstr "Dokonči úlohu pro zbraň, pak si jí kup v Přidej/Odstraň Věci."
 #. Virry blurb - cursor class tasks
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_classes"
-msgstr ""
-"Druhy Kurzoru mění jak bojuješ. Odemkni jednoho, pak si ho kup v Přidej/"
-"Odstraň věci."
+msgstr "Druhy Kurzoru mění jak bojuješ. Odemkni jednoho, pak si ho kup v Přidej/Odstraň věci."
 
 #. Virry blurb - plugin tasks
 #. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_plugins"
-msgstr ""
-"Pluginy přidávají pasivní schopnost, která může být odemčená Stahovači. "
-"Dokonči úlohu pak si je kup v Přidej/Odstraň věci."
+msgstr "Pluginy přidávají pasivní schopnost, která může být odemčená Stahovači. Dokonči úlohu pak si je kup v Přidej/Odstraň věci."
 
 #. Virry blurb - weapon driver tasks
 #. source: Weapon Drivers upgrade a weapon's with unique additions. When unlocked reach levels 8, 16 and 24 to obtain them.
 msgid "UI.task_virry_drivers"
-msgstr ""
-"Drivery Zbraní vylepšují jedinečné přídavky zbraní. Když odemčené, dostaň "
-"se na úroveň 8, 16 a 24 aby jsi je získal."
+msgstr "Drivery Zbraní vylepšují jedinečné přídavky zbraní. Když odemčené, dostaň se na úroveň 8, 16 a 24 aby jsi je získal."
 
 #. Virry blurb - files tasks
 #. source: Safe Files, Battle Files, and Special Files. Unlock them, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_files"
-msgstr ""
-"Bezpečné Složky, Bitevní Složky, a Speciální Složky. Odemkni je, a kup si "
-"je v Přidej/Odstraň Věci."
+msgstr "Bezpečné Složky, Bitevní Složky, a Speciální Složky. Odemkni je, a kup si je v Přidej/Odstraň Věci."
 
 #. Virry blurb - theme tasks
 #. source: Themes dress up the desktop. When unlocked they can be applied in the Personalise menu.
 msgid "UI.task_virry_themes"
-msgstr ""
-"Téma oblékají desktop. Když je otevřeš můžeš je aplikovat v nabídce "
-"přizpůsobit."
+msgstr "Téma oblékají desktop. Když je otevřeš můžeš je aplikovat v nabídce přizpůsobit."
 
 #. Virry blurb - policy tasks
 #. source: Complete a Protocol with each Policy, then Domain Policies. Protocol V is the hard set.
 msgid "UI.task_virry_policies"
-msgstr ""
-"Dokonči Protokol s každou zásadou, pak Zásady Domén. Protokol V je "
-"nejtěžší."
+msgstr "Dokonči Protokol s každou zásadou, pak Zásady Domén. Protokol V je nejtěžší."
 
 #. Virry blurb - general milestones
 #. source: General milestones. Mostly Beanz rewards.
@@ -2810,8 +2692,7 @@ msgstr "Normální milníky. Většinou Odměny pro Beanz."
 #. Virry blurb - claimable rewards waiting
 #. source: Nice work! Claim your Beanz rewards by clicking a blue row.
 msgid "UI.task_virry_claimable"
-msgstr ""
-"Dobrá práce! Vyzvedni si odměny pro Beanz tím že klikneš na modrou linku."
+msgstr "Dobrá práce! Vyzvedni si odměny pro Beanz tím že klikneš na modrou linku."
 
 #. Virry blurb - leftover task sheet
 #. source: Odds and ends that don't sit on the other task sheets.
@@ -2981,9 +2862,7 @@ msgstr "Útoky Spam Reklam"
 #. Profile stats - failed file opens tooltip
 #. source: Spam popups spawned from failed Zip or Download More RAM opens.
 msgid "UI.stat_failed_files_desc"
-msgstr ""
-"Celkem Spam Popupů zrozených z neúspěšně otevřených Zip souborů nebo "
-"Stáhnout si víc Paměti souborů."
+msgstr "Celkem Spam Popupů zrozených z neúspěšně otevřených Zip souborů nebo Stáhnout si víc Paměti souborů."
 
 #. Profile stats - rar files opened tooltip
 #. source: Rar archives completed.
@@ -3186,9 +3065,7 @@ msgstr "VÝPAR"
 #. source: Special Files spawn during battle. While one is active, hold {special} to use it.
 #. Keep placeholders unchanged: {special}
 msgid "UI.vapor_store_intro"
-msgstr ""
-"Speciální Soubory které se zrodí v bitvě. Když je jeden aktivní, drž "
-"{special} abys je použil."
+msgstr "Speciální Soubory které se zrodí v bitvě. Když je jeden aktivní, drž {special} abys je použil."
 
 #. Vapor store - featured weapon heading
 #. source: Featured Weapon
@@ -3313,7 +3190,7 @@ msgstr "Druh Kurzoru"
 #. Task tooltip type - singular
 #. source: Plugin
 msgid "UI.task_group_singular_plugin"
-msgstr "Plugin"
+msgstr ""
 
 #. Task tooltip type - singular
 #. source: Protocol
@@ -3387,8 +3264,7 @@ msgstr "Dokonči %s nebo vyšší jednou nebo vyšší abys zapnul Zásady."
 #. source: Complete 3 different Policies on %s or higher to enable Domain Policies.
 #. Keep placeholders unchanged: %s
 msgid "UI.domain_policies_locked"
-msgstr ""
-"Dokonči 3 jiné Zásady na %s nebo výše abys mohl odemknout Zásady Domén."
+msgstr "Dokonči 3 jiné Zásady na %s nebo výše abys mohl odemknout Zásady Domén."
 
 #. UI (script-driven)
 #. source: Run Beanz: x%.2f
@@ -3435,7 +3311,7 @@ msgstr "Zásada"
 #. Policies list column - Beanz
 #. source: Beanz
 msgid "UI.policies_col_beanz"
-msgstr "Beanz"
+msgstr ""
 
 #. Policies list column - enabled/disabled
 #. source: Security Setting
@@ -3470,9 +3346,7 @@ msgstr "Nedokončeno"
 #. UI (script-driven)
 #. source: Control your cursor with the mouse in Safe Folders.[br]Battle Folders always use WASD or the left stick.
 msgid "UI.admin_mouse_tooltip"
-msgstr ""
-"Ovládej svůj kurzor s myší v Bezpečných Složkách.[br]V Bitevních Složkách "
-"se vždy používá WASD nebo levý Joystick."
+msgstr "Ovládej svůj kurzor s myší v Bezpečných Složkách.[br]V Bitevních Složkách se vždy používá WASD nebo levý Joystick."
 
 #. UI (script-driven)
 #. source: Reroll Locked
@@ -3544,7 +3418,7 @@ msgstr "Defragmentované"
 #. UI (script-driven)
 #. source: %2.2f KB
 msgid "UI.defrag_capacity"
-msgstr "%2.2f KB"
+msgstr ""
 
 #. Upgrade screen - speech prompt
 #. source: Select an upgrade to continue.
@@ -3613,30 +3487,22 @@ msgstr "Nedostatek Klíčů :("
 #. Starter folder weapons category help
 #. source: Your first of four weapons for the run. You'll pick more as you level up.
 msgid "UI.starter_help_weapons"
-msgstr ""
-"Tvoje první ze čtyř zbraní pro relaci. Vybereš si víc čím víc úrovní "
-"dosáhneš."
+msgstr "Tvoje první ze čtyř zbraní pro relaci. Vybereš si víc čím víc úrovní dosáhneš."
 
 #. Starter folder cursor class category help
 #. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
 msgid "UI.starter_help_cursor"
-msgstr ""
-"Druhy Kurzoru nastaví základní statistiky. Všechny vylepšení vynásobí "
-"hodně z nich."
+msgstr "Druhy Kurzoru nastaví základní statistiky. Všechny vylepšení vynásobí hodně z nich."
 
 #. Starter folder difficulty category help
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
 msgid "UI.starter_help_difficulty"
-msgstr ""
-"Obtížnost Složky nastaví pravidla hry pro relaci: tlak nepřátel, odměny, a "
-"co můžeš odemknout."
+msgstr "Obtížnost Složky nastaví pravidla hry pro relaci: tlak nepřátel, odměny, a co můžeš odemknout."
 
 #. Starter folder policies category help
 #. source: Optional extra rules on top of the protocol. Completing them earns more Beanz.
 msgid "UI.starter_help_policies"
-msgstr ""
-"Volitelné bonusové pravidla navíc k protokolu. Dokončení těchto ti dostane "
-"víc Beanz."
+msgstr "Volitelné bonusové pravidla navíc k protokolu. Dokončení těchto ti dostane víc Beanz."
 
 #. Starter folder button that reopens the tutorial guide
 #. source: Guide
@@ -3657,95 +3523,47 @@ msgstr "Rychlá Příručka pro Začátečníky"
 #. source: Welcome to {game}!\n\nI'm Virry, and I'm going to take you through some basics of how to play.
 #. Keep placeholders unchanged: {game}
 msgid "UI.tutorial_1_body"
-msgstr ""
-"Vítej do {game}!\n"
-"\n"
-"Jsem Virry, a ukážu ti nějaké základy o hraní."
+msgstr "Vítej do {game}!\n\nJsem Virry, a ukážu ti nějaké základy o hraní."
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
 #. Keep placeholders unchanged: {move}, {click}, {drag}
 msgid "UI.tutorial_2_body"
-msgstr ""
-"Za prvé, začneme se hýbat.\n"
-"\n"
-"Použij {move} abys ses hýbal na obrazovce.\n"
-"\n"
-"Klikuj s {click}, a nezapomeň Dvoj-Klikovat aby jsi otevřel soubory.\n"
-"\n"
-"Můžeš také držet {drag} aby jsi tahal soubory a hýbal po složce."
+msgstr "Za prvé, začneme se hýbat.\n\nPoužij {move} abys ses hýbal na obrazovce.\n\nKlikuj s {click}, a nezapomeň Dvoj-Klikovat aby jsi otevřel soubory.\n\nMůžeš také držet {drag} aby jsi tahal soubory a hýbal po složce."
 
 #. Tutorial page 3 - class, protocol, policies
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
-msgstr ""
-"Abychom začali můžeš si vybrat {class} a {difficulty}.\n"
-"\n"
-"Pro teď si vyber {default} Kurzor, více Kurzorů se odemkne čím víc "
-"hraješ.\n"
-"\n"
-"Vyber si Protokol I-III jako tvoji {difficulty}.\n"
-"\n"
-"Dokončení Protokolu ti odemkne {policies} které ti dávají bonusové výzvy.\n"
-"\n"
-"Tak pojď vyber si {class} a {difficulty} teď!"
+msgstr "Abychom začali můžeš si vybrat {class} a {difficulty}.\n\nPro teď si vyber {default} Kurzor, více Kurzorů se odemkne čím víc hraješ.\n\nVyber si Protokol I-III jako tvoji {difficulty}.\n\nDokončení Protokolu ti odemkne {policies} které ti dávají bonusové výzvy.\n\nTak pojď vyber si {class} a {difficulty} teď!"
 
 #. Tutorial page 4 - {drivers}
 #. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
 #. Keep placeholders unchanged: {drivers}
 msgid "UI.tutorial_4_body"
-msgstr ""
-"Můžeš si vybrat jednu Zbraň na začátek.\n"
-"\n"
-"Pokračuj přes relaci a zvyš si úroveň aby sis přidal nové Zbraně do své "
-"sestavy.\n"
-"\n"
-"Když tvoje zbraň dosáhne určité úrovně, odemkneš si {drivers} které ti "
-"dávají vylepšení na míru."
+msgstr "Můžeš si vybrat jednu Zbraň na začátek.\n\nPokračuj přes relaci a zvyš si úroveň aby sis přidal nové Zbraně do své sestavy.\n\nKdyž tvoje zbraň dosáhne určité úrovně, odemkneš si {drivers} které ti dávají vylepšení na míru."
 
 #. Tutorial page 5 - {safe}
 #. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
 #. Keep placeholders unchanged: {safe}
 msgid "UI.tutorial_5_body"
-msgstr ""
-"Úkol hry je přežít.\n"
-"\n"
-"Je 5 kol po 5 minutách. Dostaň se do {safe} na konci kola abys pokračoval."
+msgstr "Úkol hry je přežít.\n\nJe 5 kol po 5 minutách. Dostaň se do {safe} na konci kola abys pokračoval."
 
 #. Tutorial page 6
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
-msgstr ""
-"Abys přežil:\n"
-"Vyhýbej se nepřátelům, sbírej Zkušenosti a Mince, získej vylepšení, a "
-"otevírej soubory.\n"
-"\n"
-"Některé soubory jsou rizikové, některé potřebují klíče, a některé mají "
-"garantované odměny.\n"
-"\n"
-"Budeš také mít Vedlejší Úlohu v pravém horním rohu pro každé kolo které "
-"dávají bonusové odměny."
+msgstr "Abys přežil:\nVyhýbej se nepřátelům, sbírej Zkušenosti a Mince, získej vylepšení, a otevírej soubory.\n\nNěkteré soubory jsou rizikové, některé potřebují klíče, a některé mají garantované odměny.\n\nBudeš také mít Vedlejší Úlohu v pravém horním rohu pro každé kolo které dávají bonusové odměny."
 
 #. Tutorial page 7 - {safe} {vapor}
 #. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
 #. Keep placeholders unchanged: {safe}, {vapor}
 msgid "UI.tutorial_7_body"
-msgstr ""
-"Získávej Beanz za zabití nepřátel a to že se dostaneš do {safe} včas.\n"
-"\n"
-"Získávej bonusové Beanz za dokončování Úloh.\n"
-"\n"
-"Utrať svoje Beanz na nové Druhy Kurzoru, Zbraně, Vylepšení Statistik, "
-"Pluginy, Soubory, předměti z obchodu {vapor} a více!"
+msgstr "Získávej Beanz za zabití nepřátel a to že se dostaneš do {safe} včas.\n\nZískávej bonusové Beanz za dokončování Úloh.\n\nUtrať svoje Beanz na nové Druhy Kurzoru, Zbraně, Vylepšení Statistik, Pluginy, Soubory, předměti z obchodu {vapor} a více!"
 
 #. Tutorial page 8
 #. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
 msgid "UI.tutorial_8_body"
-msgstr ""
-"To je pro zatím vše!\n"
-"\n"
-"Vyber si svou první zbraň, hraj, přežij, a bav se :)"
+msgstr "To je pro zatím vše!\n\nVyber si svou první zbraň, hraj, přežij, a bav se :)"
 
 #. Plus! cleared. %s is the elite name, %s is the dropped filename
 #. source: %s cleared, %s dropped.
@@ -3757,7 +3575,7 @@ msgstr "%s zabito, %s padnuto."
 #. source: %d %s
 #. Keep placeholders unchanged: %d, %s
 msgid "UI.notif_elites_named"
-msgstr "%d %s"
+msgstr ""
 
 #. Multi Plus! toast when types are mixed. %d is how many spawned together
 #. source: %d Plus! enemies
@@ -3809,7 +3627,7 @@ msgstr "Otevřeno %d/%d .%s souborů."
 #. Vapidshare window title when Vapidshare Pro plugin is equipped
 #. source: Vapidshare Pro
 msgid "UI.vapidshare_title_pro"
-msgstr "Vapidshare Pro"
+msgstr ""
 
 #. Vapidshare window parts progress
 #. source: Parts %d / %d
@@ -3835,7 +3653,7 @@ msgstr "Dokončeno"
 #. Vapidshare list hoster column
 #. source: vapidshare.com
 msgid "UI.vapidshare_hoster"
-msgstr "vapidshare.com"
+msgstr ""
 
 #. Vapidshare list Hoster header
 #. source: Hoster
@@ -3926,32 +3744,7 @@ msgstr "Vyhrál jsi!"
 #. source: A fatal exception has occurred and the system has been terminated to prevent corruption.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nIf this is the first time you've seen this termination screen, restart your system.\nIf this screen appears again, internal modules may have been compromised.\n\nPlease verify the integrity of your installed components. Unexpected behavior may\nindicate corrupted memory, invalid packet injection, or unauthorized script execution.\n\nIf the issue persists, perform a secure reboot or contact your system's internal administrator.\n\nTechnical Dump:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nBeginning forced shutdown...\nMemory cache flushed.\n\nPress {click} to continue. {tab} for stats
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
-msgstr ""
-"Došlo k fatální výjimce a systém byl vypnutý aby bylo zabráněno "
-"poškození.\n"
-"\n"
-"ZASTAVENY_KOD: SELHANI_SOUDRZNOSTI_SYSTEMU\n"
-"\n"
-"Pokud je toto poprvé co vidíte terminační obrazovku, restartujte svůj "
-"systém.\n"
-"Pokud tuto obrazovku vidíte po několikáté, vnitřní komponenty možná byly "
-"narušeny.\n"
-"\n"
-"Prosím ověřte integritu nainstalovaných komponentů. Nepředvídatelné "
-"chování možná\n"
-"ukazuje narušenou paměť, vkládání neplatných paketů nebo neoprávněné "
-"spuštění skriptu.\n"
-"\n"
-"Pokud tento problém přetrvá, bezpečně restartujte svůj počítač nebo "
-"kontaktujte vnitřního administrátora systému.\n"
-"\n"
-"Technické informace:\n"
-"STOP: 0x000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0sx820ea23b)\n"
-"\n"
-"Začínám vynucené vypnutí... \n"
-"Vyprázdnění mezipaměti.\n"
-"\n"
-"Zmáčkněte {click} abyste pokračovali. {tab} pro statistiky"
+msgstr "Došlo k fatální výjimce a systém byl vypnutý aby bylo zabráněno poškození.\n\nZASTAVENY_KOD: SELHANI_SOUDRZNOSTI_SYSTEMU\n\nPokud je toto poprvé co vidíte terminační obrazovku, restartujte svůj systém.\nPokud tuto obrazovku vidíte po několikáté, vnitřní komponenty možná byly narušeny.\n\nProsím ověřte integritu nainstalovaných komponentů. Nepředvídatelné chování možná\nukazuje narušenou paměť, vkládání neplatných paketů nebo neoprávněné spuštění skriptu.\n\nPokud tento problém přetrvá, bezpečně restartujte svůj počítač nebo kontaktujte vnitřního administrátora systému.\n\nTechnické informace:\nSTOP: 0x000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0sx820ea23b)\n\nZačínám vynucené vypnutí... \nVyprázdnění mezipaměti.\n\nZmáčkněte {click} abyste pokračovali. {tab} pro statistiky"
 
 #. Browser address-bar caption
 #. source: Address
@@ -3992,7 +3785,7 @@ msgstr "ČistáZóna - vyber si svůj plugin"
 #. source: %d / %d
 #. Keep placeholders unchanged: %d
 msgid "UI.rar_progress"
-msgstr "%d / %d"
+msgstr ""
 
 #. Clearzone archive clears label
 #. source: Clears
@@ -4033,8 +3826,7 @@ msgstr "Stáhnout"
 #. Vapidshare part tooltip while another part is downloading
 #. source: Another part is downloading. Get Vapidshare Pro for simultaneous downloads.
 msgid "CLICKABLE.vapid_part_busy"
-msgstr ""
-"Další část se stahuje. Dostaň Vapidshare Pro pro stahování věcí zároveň."
+msgstr "Další část se stahuje. Dostaň Vapidshare Pro pro stahování věcí zároveň."
 
 #. Shop / upgrade screen - reroll button
 #. source: Reroll: %.2f Coin
@@ -4046,7 +3838,7 @@ msgstr "Znovu hodit: %.2f mincí"
 #. source: Beanz: %d
 #. Keep placeholders unchanged: %d
 msgid "UI.beanz"
-msgstr "Beanz: %d"
+msgstr ""
 
 #. HUD - Coin label
 #. source: Coin: %.2f
@@ -4292,7 +4084,7 @@ msgstr "Zemři {amount} krát"
 #. Hidden 5th weapon slot label
 #. source: Bonus
 msgid "UI.weapon_slot_bonus"
-msgstr "Bonus"
+msgstr ""
 
 #. Unlock requirement - open N LemWire files
 #. source: Open {amount} LemWire files
@@ -4378,7 +4170,7 @@ msgstr "Dočasně zvýší rychlost kurzoru na krátkou dobu."
 #. UI (script-driven)
 #. source: N2O
 msgid "UI.unlock_widget_nos_reward"
-msgstr "N2O"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Commit crimes for coin while dodging the heat.
@@ -4433,25 +4225,22 @@ msgstr "Manažér Financí"
 #. Unlock description - Ethanol 130% safe file
 #. source: Pay Coin to copy a random plugin you already have installed.
 msgid "UI.unlock_file_ethanol_desc"
-msgstr ""
-"Zaplať Mincí abys okopíroval náhodný plugin který sis už nainstaloval."
+msgstr "Zaplať Mincí abys okopíroval náhodný plugin který sis už nainstaloval."
 
 #. Unlock reward - Ethanol 130% name
 #. source: Ethanol 130%
 msgid "UI.unlock_file_ethanol_reward"
-msgstr "Ethanol 130%"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Download multi-part archives that drop Cracked Installers.
 msgid "UI.unlock_file_vapidshare_desc"
-msgstr ""
-"Stáhni si vícedílné archivy ze kterých můžou vypadnout Cracknuté "
-"Instalovače."
+msgstr "Stáhni si vícedílné archivy ze kterých můžou vypadnout Cracknuté Instalovače."
 
 #. UI (script-driven)
 #. source: Vapidshare
 msgid "UI.unlock_file_vapidshare_reward"
-msgstr "Vapidshare"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Install plugins without spending a Key.
@@ -4496,9 +4285,7 @@ msgstr "Zabij Plus! nepřítele za 10 sekund"
 #. UI (script-driven)
 #. source: Install Morgan Antivirus to raise difficulty and spawn extra Plus! enemies.
 msgid "UI.unlock_file_morgan_av_desc"
-msgstr ""
-"Nainstaluj si Antivir Morgan abys zvýšil obtížnost a aby se zrodilo více "
-"Plus! nepřátel."
+msgstr "Nainstaluj si Antivir Morgan abys zvýšil obtížnost a aby se zrodilo více Plus! nepřátel."
 
 #. UI (script-driven)
 #. source: Bonus Beanz
@@ -4575,7 +4362,7 @@ msgstr "Nepřátelé se pohybují o 40% rychleji a dávají 20% více poškozen�
 #. Optional extra difficulty policy - name (bloatware)
 #. source: Bloatware
 msgid "POLICY.bloatware.name"
-msgstr "Bloatware"
+msgstr ""
 
 #. Optional extra difficulty policy - description (bloatware)
 #. source: 40% more enemies spawn, and enemies have 20% more health.
@@ -4620,9 +4407,7 @@ msgstr "Potřeba Aktivace"
 #. Optional extra difficulty policy - description (unsigned_driver)
 #. source: Keygen files do not spawn. Get plugins from cracked installers, or buy Keys at the Key Shop.
 msgid "POLICY.unsigned_driver.description"
-msgstr ""
-"GenerátorKlíčů soubory se nezrozují. Dostaň pluginy s cracknutýmy "
-"instalery, nebo si kup klíče v Obchodě pro Klíče."
+msgstr "GenerátorKlíčů soubory se nezrozují. Dostaň pluginy s cracknutýmy instalery, nebo si kup klíče v Obchodě pro Klíče."
 
 #. Optional extra difficulty policy - name (read_only)
 #. source: Read Only
@@ -4712,10 +4497,7 @@ msgstr "Natašiin Hněv"
 #. Optional extra difficulty policy - description (default_domain_policy)
 #. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
 msgid "POLICY.default_domain_policy.description"
-msgstr ""
-"Všechny Zásady najednou. Nepřátele jsou rychlejší, tvrdší, a je jich víc. "
-"Máš o polovinu míň zdraví v Bitevní Složkách. Žádné přídavné zbraně, "
-"GenerátorKlíču, nebo Obnovení. Časovač na útěk je o polovinu kratší."
+msgstr "Všechny Zásady najednou. Nepřátele jsou rychlejší, tvrdší, a je jich víc. Máš o polovinu míň zdraví v Bitevní Složkách. Žádné přídavné zbraně, GenerátorKlíču, nebo Obnovení. Časovač na útěk je o polovinu kratší."
 
 #. Policy complete unlock requirement template
 #. source: Complete any protocol using {policy}
@@ -4777,9 +4559,7 @@ msgstr "Utrať {cost} Mincí za 1 Klíč."
 #. source: Sell 1 Key for {cost} Coin.\nMarketplace fee keeps {fee} Coin.
 #. Keep placeholders unchanged: {cost}, {fee}
 msgid "UI.keybuy_sell_tooltip"
-msgstr ""
-"Prodej 1 Klíč za {cost} Mincí.\n"
-"Poplatek obchodu si nechává {fee} Mincí."
+msgstr "Prodej 1 Klíč za {cost} Mincí.\nPoplatek obchodu si nechává {fee} Mincí."
 
 #. KeyBuy nav links under the logo
 #. source: home | buy | sell | my keys | help
@@ -4814,8 +4594,7 @@ msgstr "Vylepšeno"
 #. Health Check Pro upgrade-files tooltip
 #. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
-msgstr ""
-"Soubory Kontrola Zdraví v další bitvě dávají více srdcí v této relaci."
+msgstr "Soubory Kontrola Zdraví v další bitvě dávají více srdcí v této relaci."
 
 #. Health Check Pro heal tooltip
 #. source: Restore 50% of your Max HP right now.
@@ -4840,9 +4619,7 @@ msgstr "Okamžitá Oprava"
 #. Health Check Pro file-upgrade explanation
 #. source: Upgrading makes Health Check files in battle drop more hearts.
 msgid "UI.health_check_pro_file_blurb"
-msgstr ""
-"Vylepšování způsobuje aby soubory Kontrola Zdraví dávaly více srdcí v "
-"bitvě."
+msgstr "Vylepšování způsobuje aby soubory Kontrola Zdraví dávaly více srdcí v bitvě."
 
 #. Health Check Pro current heart range
 #. source: Now: {min}–{max} HP
@@ -4987,9 +4764,7 @@ msgstr "Vyber si svůj investici do Mincí."
 #. Ethanol 130% window explanation
 #. source: Pay Coin to roll a copy of a random plugin you already have installed.
 msgid "UI.ethanol_body"
-msgstr ""
-"Zaplať Mince aby sis obnovil kopii náhodného pluginu který sis už "
-"nainstaloval."
+msgstr "Zaplať Mince aby sis obnovil kopii náhodného pluginu který sis už nainstaloval."
 
 #. Ethanol 130% copy button
 #. source: Copy: {cost} Coin
@@ -5138,8 +4913,7 @@ msgstr "Změň Jazyk Dvoj-Klikem"
 #. Desktop icon tooltip
 #. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
 msgid "CLICKABLE.github_translations"
-msgstr ""
-"Otevři Link Dvoj-Klikem[br]Překlady hry jsou velkoryse vytvořeny komunitou."
+msgstr "Otevři Link Dvoj-Klikem[br]Překlady hry jsou velkoryse vytvořeny komunitou."
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
@@ -5224,25 +4998,25 @@ msgstr "Požkození tuto relaci: %.0f"
 #. source: DPS: %.1f
 #. Keep placeholders unchanged: %.1f
 msgid "TOOLTIP.run_dps"
-msgstr "DPS: %.1f"
+msgstr ""
 
 #. Stat tooltip
 #. source: Hits: %d
 #. Keep placeholders unchanged: %d
 msgid "TOOLTIP.run_hits"
-msgstr "Zásahů: %.d"
+msgstr "Zásahů: %d"
 
 #. Stat tooltip
 #. source: Crit rate: %.0f%%
 #. Keep placeholders unchanged: %.0f, %%
 msgid "TOOLTIP.run_crit_rate"
-msgstr "Kritická míra: %.05%%"
+msgstr "Kritická míra: %.0f%%"
 
 #. Stat tooltip
 #. source: Clears: %d
 #. Keep placeholders unchanged: %d
 msgid "TOOLTIP.run_clears"
-msgstr "Zabití: %.d"
+msgstr "Zabití: %d"
 
 #. Stat tooltip
 #. source: Biggest hit: %.0f
@@ -5281,23 +5055,19 @@ msgstr "Cena: %d Beanz"
 #. Zip window titlebar when SHZip License is equipped
 #. source: SHZip v2.03
 msgid "ZIP.title_licensed"
-msgstr "SHZip v2.03"
+msgstr ""
 
 #. Zip extractor window
 #. source: Extracting file: \n%s from /.???
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracting"
-msgstr ""
-"Extrahování souboru: \n"
-"%s z /.???"
+msgstr "Extrahování souboru: \n%s z /.???"
 
 #. Zip extractor window
 #. source: Estimated time left: {m}m {s}s ({cur} KB of {max} KB) \nProcessing rate: {rate} KB/Sec
 #. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
 msgid "ZIP.progress"
-msgstr ""
-"Předpoklad zbývajícího času: {m}m {s}s ({cur} KB z {max} KB) \n"
-"Rychlost zpracování: {rate} KB/Sek"
+msgstr "Předpoklad zbývajícího času: {m}m {s}s ({cur} KB z {max} KB) \nRychlost zpracování: {rate} KB/Sek"
 
 #. Zip extractor window
 #. source: %s extracted successfully.
@@ -5314,12 +5084,12 @@ msgstr "Ztracený dynamický spoj knihovny %s byl nalezen."
 #. Desktop icon tooltip
 #. source: BigWave.exe
 msgid "CLICKABLE.filename.torrent"
-msgstr "BigWave.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: LemWire.exe
 msgid "CLICKABLE.filename.lemwire"
-msgstr "LemWire.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: Installer.pgi
@@ -5419,8 +5189,7 @@ msgstr "Skoré"
 #. Run stats panel row
 #. source: Run score from clears, levels, safe folders, and a completion bonus.
 msgid "RUNSTAT.score_desc"
-msgstr ""
-"Skoré relace ze zabití, úrovní, bezpečných složek, a bonusů dokončení."
+msgstr "Skoré relace ze zabití, úrovní, bezpečných složek, a bonusů dokončení."
 
 #. Run stats panel row
 #. source: Class
@@ -5508,14 +5277,12 @@ msgstr "Nasbírané Klíče z předešlé Bitevní Složky."
 #. Safe Folder explorer - last round Beanz tooltip
 #. source: Beanz earned in the last Battle Folder, including the Safe Folder award.
 msgid "RUNSTAT.last_round_beanz_desc"
-msgstr ""
-"Nasbírané Beanz z předešlé Bitevní Složky, včetně odměny za Bezpečnou "
-"Složku."
+msgstr "Nasbírané Beanz z předešlé Bitevní Složky, včetně odměny za Bezpečnou Složku."
 
 #. Run and last-round DPS label
 #. source: DPS
 msgid "RUNSTAT.dps"
-msgstr "DPS"
+msgstr ""
 
 #. Run DPS tooltip
 #. source: Damage per second this run, during Battle Folders only.
@@ -5616,7 +5383,7 @@ msgstr "silenstvi.exe"
 
 #. Vapidshare
 msgid "Vapidshare.exe"
-msgstr "Vapidshare.exe"
+msgstr ""
 
 #. Scene label
 msgid "Feedback"
@@ -5624,11 +5391,11 @@ msgstr "Zpětná Vazba"
 
 #. Scene label
 msgid "Steam"
-msgstr "Steam"
+msgstr ""
 
 #. Scene label
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #. Scene label
 msgid "Translations GitHub"
@@ -5636,7 +5403,7 @@ msgstr "GitHub na Překlady"
 
 #. avs03
 msgid "avs03.com"
-msgstr "avs03.com"
+msgstr ""
 
 #. Scene label
 msgid "Level 8"
@@ -5667,9 +5434,7 @@ msgstr "Overclock"
 #. Weapon driver / overclock card - description (overclocked)
 #. source: Multiply Damage 1.6x.\nReduce Refresh -15%.
 msgid "DRIVER.overclocked.description"
-msgstr ""
-"Vynásob si Poškození 1.6x.\n"
-"Zmenši si Přebíjecí Dobu -15%."
+msgstr "Vynásob si Poškození 1.6x.\nZmenši si Přebíjecí Dobu -15%."
 
 #. Weapon driver / overclock card - name (hyperthreaded)
 #. source: Hyperthreaded
@@ -5679,21 +5444,17 @@ msgstr "Hypervlákna"
 #. Weapon driver / overclock card - description (hyperthreaded)
 #. source: Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.hyperthreaded.description"
-msgstr ""
-"Přidej si +2 k Počtu.\n"
-"Zmenši si Poškození o -20%."
+msgstr "Přidej si +2 k Počtu.\nZmenši si Poškození o -20%."
 
 #. Weapon driver / overclock card - name (turbo_clock)
 #. source: Turbo Clock
 msgid "DRIVER.turbo_clock.name"
-msgstr "Turbo Clock"
+msgstr ""
 
 #. Weapon driver / overclock card - description (turbo_clock)
 #. source: Increase Speed +50%.\nReduce Power -15%.
 msgid "DRIVER.turbo_clock.description"
-msgstr ""
-"Zvyš si Rychlost o +50%.\n"
-"Zmenši si Sílu o -15%."
+msgstr "Zvyš si Rychlost o +50%.\nZmenši si Sílu o -15%."
 
 #. Weapon driver / overclock card - name (bloated_cache)
 #. source: Bloated Cache
@@ -5733,9 +5494,7 @@ msgstr "Fragmentovaný"
 #. Weapon driver / overclock card - description (avd_fragmented)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.avd_fragmented.description"
-msgstr ""
-"Když se odrazí o zeď: rozdělí se na kopie které jsou o polovinu menší.\n"
-"Kopie se můžou rozdělit jen jednou."
+msgstr "Když se odrazí o zeď: rozdělí se na kopie které jsou o polovinu menší.\nKopie se můžou rozdělit jen jednou."
 
 #. Weapon driver / overclock card - name (avn_away)
 #. source: Away Message
@@ -5745,9 +5504,7 @@ msgstr "Vzdálená Zpráva"
 #. Weapon driver / overclock card - description (avn_away)
 #. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
 msgid "DRIVER.avn_away.description"
-msgstr ""
-"Přidej +1 k Počtu. Zvyš si Rychlost o +20%.\n"
-"Zvyš si Velikost o +15%."
+msgstr "Přidej +1 k Počtu. Zvyš si Rychlost o +20%.\nZvyš si Velikost o +15%."
 
 #. Weapon driver / overclock card - name (avn_buddy)
 #. source: Buddy List
@@ -5757,9 +5514,7 @@ msgstr "Seznam Kámošů"
 #. Weapon driver / overclock card - description (avn_buddy)
 #. source: Add +2 Amount.\nIncrease Power +15%.
 msgid "DRIVER.avn_buddy.description"
-msgstr ""
-"Přidej si +2 k Počtu.\n"
-"Zvyš si Sílu o +15%."
+msgstr "Přidej si +2 k Počtu.\nZvyš si Sílu o +15%."
 
 #. Weapon driver / overclock card - name (blatand_pair)
 #. source: Paired Devices
@@ -5769,9 +5524,7 @@ msgstr "Párované Zařízení"
 #. Weapon driver / overclock card - description (blatand_pair)
 #. source: Add +1 Amount. Increase Power +25%.\nIncrease Speed +20%.
 msgid "DRIVER.blatand_pair.description"
-msgstr ""
-"Přidej +1 k Počtu. Zvyš si Sílu o +25%.\n"
-"Zvyš si Rychlost o +20%."
+msgstr "Přidej +1 k Počtu. Zvyš si Sílu o +25%.\nZvyš si Rychlost o +20%."
 
 #. Weapon driver / overclock card - name (bubbles_soap)
 #. source: Soap
@@ -5781,9 +5534,7 @@ msgstr "Mýdlo"
 #. Weapon driver / overclock card - description (bubbles_soap)
 #. source: Add +1 Amount.\nIncrease Size +40%.
 msgid "DRIVER.bubbles_soap.description"
-msgstr ""
-"Přidej +1 k Počtu.\n"
-"Zvyš si Velikost +40%."
+msgstr "Přidej +1 k Počtu.\nZvyš si Velikost +40%."
 
 #. Weapon driver / overclock card - name (bubbles_suds)
 #. source: Suds
@@ -5793,9 +5544,7 @@ msgstr "Pěna"
 #. Weapon driver / overclock card - description (bubbles_suds)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.bubbles_suds.description"
-msgstr ""
-"Když se odrazí o zeď: rozdělí se na kopie které jsou o polovinu menší.\n"
-"Kopie se můžou rozdělit jen jednou."
+msgstr "Když se odrazí o zeď: rozdělí se na kopie které jsou o polovinu menší.\nKopie se můžou rozdělit jen jednou."
 
 #. Weapon driver / overclock card - name (cdrive_seek)
 #. source: Seek
@@ -5805,9 +5554,7 @@ msgstr "Hledat"
 #. Weapon driver / overclock card - description (cdrive_seek)
 #. source: Converts Repel to Lag.\nIncrease Speed +60%.
 msgid "DRIVER.cdrive_seek.description"
-msgstr ""
-"Převádí Odpuzovat na Lag.\n"
-"Zvyš si rychlost o +60%."
+msgstr "Převádí Odpuzovat na Lag.\nZvyš si rychlost o +60%."
 
 #. Weapon driver / overclock card - name (cdrive_cleanup)
 #. source: Disk Cleanup
@@ -5827,9 +5574,7 @@ msgstr "Objížďka"
 #. Weapon driver / overclock card - description (cone_detour)
 #. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
 msgid "DRIVER.cone_detour.description"
-msgstr ""
-"Převádí Horko na Lag. Zvyš si Velikost o +35%.\n"
-"Zvyš si Poškození o +15%."
+msgstr "Převádí Horko na Lag. Zvyš si Velikost o +35%.\nZvyš si Poškození o +15%."
 
 #. Weapon driver / overclock card - name (cone_workzone)
 #. source: Work Zone
@@ -5839,9 +5584,7 @@ msgstr "Oblast Práce"
 #. Weapon driver / overclock card - description (cone_workzone)
 #. source: Add +1 Amount.\nIncrease Power +30%.
 msgid "DRIVER.cone_workzone.description"
-msgstr ""
-"Přidej +1 k Počtu.\n"
-"Zvyš si Sílu o +30%."
+msgstr "Přidej +1 k Počtu.\nZvyš si Sílu o +30%."
 
 #. Weapon driver / overclock card - name (cruiser_multitab)
 #. source: Browser Hijack
@@ -5851,9 +5594,7 @@ msgstr "Únos Prohlížeče"
 #. Weapon driver / overclock card - description (cruiser_multitab)
 #. source: Converts Lag to Infect. Add +1 Amount.\nIncrease Power +25%.
 msgid "DRIVER.cruiser_multitab.description"
-msgstr ""
-"Převádí Lag na Nákazu. Přidej +1 Počet.\n"
-"Zvyš si Sílu o +25%."
+msgstr "Převádí Lag na Nákazu. Přidej +1 Počet.\nZvyš si Sílu o +25%."
 
 #. Weapon driver / overclock card - name (cruiser_popup)
 #. source: Popup Storm
@@ -5873,9 +5614,7 @@ msgstr "Rozříznout"
 #. Weapon driver / overclock card - description (cut_cleave)
 #. source: Converts Repel to Infect. Increase Size +80%.\nAdd -0.5 Amount.
 msgid "DRIVER.cut_cleave.description"
-msgstr ""
-"Převádí Odpuzování na Nákazu. Zvyš si Velikost +80%.\n"
-"Přidej -0.5 k Počtu."
+msgstr "Převádí Odpuzování na Nákazu. Zvyš si Velikost +80%.\nPřidej -0.5 k Počtu."
 
 #. Weapon driver / overclock card - name (cut_papercut)
 #. source: Paper Cut
@@ -5885,9 +5624,7 @@ msgstr "Stříhaní Papíru"
 #. Weapon driver / overclock card - description (cut_papercut)
 #. source: Add +2 Amount.\nIncrease Speed +25%.
 msgid "DRIVER.cut_papercut.description"
-msgstr ""
-"Přidej +2 k Počtu.\n"
-"Zvyš si Rychlost +25%."
+msgstr "Přidej +2 k Počtu.\nZvyš si Rychlost +25%."
 
 #. Weapon driver / overclock card - name (email_cc)
 #. source: Flame Mail
@@ -5897,9 +5634,7 @@ msgstr "Ohnivá Pošta"
 #. Weapon driver / overclock card - description (email_cc)
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
 msgid "DRIVER.email_cc.description"
-msgstr ""
-"Převádí Nákazu na Horko. Přidej +1 k Počtu.\n"
-"Zvyš si Rychlost o +35%."
+msgstr "Převádí Nákazu na Horko. Přidej +1 k Počtu.\nZvyš si Rychlost o +35%."
 
 #. Weapon driver / overclock card - name (email_bounce)
 #. source: Undeliverable
@@ -5934,26 +5669,23 @@ msgstr "Když se poslední plamínek uhasí, začne Přebíjecí Doba."
 #. Weapon driver / overclock card - name (fontart_bold)
 #. source: Bold
 msgid "DRIVER.fontart_bold.name"
-msgstr "Bold"
+msgstr ""
 
 #. Weapon driver / overclock card - description (fontart_bold)
 #. source: Increase Size +60%. Increase Power +60%.\nReduce Amount -25%.
 msgid "DRIVER.fontart_bold.description"
-msgstr ""
-"Zvyš si Velikost o +60%. Zvyš si Sílu o +60%.\n"
-"Zmenši si Počet o -25%."
+msgstr "Zvyš si Velikost o +60%. Zvyš si Sílu o +60%.\nZmenši si Počet o -25%."
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
+#, fuzzy
 msgid "DRIVER.fontart_wordart.name"
 msgstr "WordArt"
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
 msgid "DRIVER.fontart_wordart.description"
-msgstr ""
-"Zvyš si Velikost o +40%.\n"
-"Přidej +1 k Počtu."
+msgstr "Zvyš si Velikost o +40%.\nPřidej +1 k Počtu."
 
 #. Weapon driver / overclock card - name (fraps_benchmark)
 #. source: Benchmark
@@ -5963,21 +5695,17 @@ msgstr "Srovnávací test"
 #. Weapon driver / overclock card - description (fraps_benchmark)
 #. source: Converts Repel to Heat. Increase Damage +25%.\nIncrease Speed +20%.
 msgid "DRIVER.fraps_benchmark.description"
-msgstr ""
-"Převádí Odpuzování na Horko. Zvyš si Poškození o +25%.\n"
-"Zvyš si Rychlost o +20%."
+msgstr "Převádí Odpuzování na Horko. Zvyš si Poškození o +25%.\nZvyš si Rychlost o +20%."
 
 #. Weapon driver / overclock card - name (fraps_vsync)
 #. source: VSync
 msgid "DRIVER.fraps_vsync.name"
-msgstr "VSync"
+msgstr ""
 
 #. Weapon driver / overclock card - description (fraps_vsync)
 #. source: FPS numbers bounce off walls.\nIncrease Size +20%.
 msgid "DRIVER.fraps_vsync.description"
-msgstr ""
-"Snímky se odráží od zdí.\n"
-"Zvyš si Velikost o +20%."
+msgstr "Snímky se odráží od zdí.\nZvyš si Velikost o +20%."
 
 #. Weapon driver / overclock card - name (hitmarkers_headhunter)
 #. source: Headhunter
@@ -5987,9 +5715,7 @@ msgstr "Lovec Hlav"
 #. Weapon driver / overclock card - description (hitmarkers_headhunter)
 #. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
 msgid "DRIVER.hitmarkers_headhunter.description"
-msgstr ""
-"Zvýší šanci popravy. Převádí Odpuzování na Horko.\n"
-"Zmenši si Poškození o -15%."
+msgstr "Zvýší šanci popravy. Převádí Odpuzování na Horko.\nZmenši si Poškození o -15%."
 
 #. Weapon driver / overclock card - name (hitmarkers_killstreak)
 #. source: Killstreak
@@ -6009,9 +5735,7 @@ msgstr "Zápalná Bomba"
 #. Weapon driver / overclock card - description (minesweeper_flag)
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
 msgid "DRIVER.minesweeper_flag.description"
-msgstr ""
-"Převádí Odpuzování na Horko. Přidej +1 k Počtu.\n"
-"Zvyš si Sílu o +20%."
+msgstr "Převádí Odpuzování na Horko. Přidej +1 k Počtu.\nZvyš si Sílu o +20%."
 
 #. Weapon driver / overclock card - name (minesweeper_chord)
 #. source: Chord
@@ -6024,28 +5748,26 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr "Miny zůstávají dokud nejsou spuštěny."
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
+#, fuzzy
 msgid "DRIVER.modem_handshake.name"
 msgstr "Ucpání Vyzvánění"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
 msgid "DRIVER.modem_handshake.description"
-msgstr ""
-"Převádí Odpuzování na Lag. Přidej +1 k Počtu.\n"
-"Zvyš si Velikost o +25%."
+msgstr "Převádí Odpuzování na Lag. Přidej +1 k Počtu.\nZvyš si Velikost o +25%."
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
+#, fuzzy
 msgid "DRIVER.modem_broadband.name"
 msgstr "Širokopásmové připojení"
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
 msgid "DRIVER.modem_broadband.description"
-msgstr ""
-"Zvyš si Rychlost o +50%.,\n"
-"Zvyš si Poškození o +20%."
+msgstr "Zvyš si Rychlost o +50%.,\nZvyš si Poškození o +20%."
 
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
 #. source: Tab Overload
@@ -6055,9 +5777,7 @@ msgstr "Přetížení Oken"
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
 msgid "DRIVER.orchestra_fortissimo.description"
-msgstr ""
-"Převádí Nákazu na Horko. Zvyš si Poškození +35%.\n"
-"Zvyš si Sílu o +35%."
+msgstr "Převádí Nákazu na Horko. Zvyš si Poškození +35%.\nZvyš si Sílu o +35%."
 
 #. Weapon driver / overclock card - name (orchestra_taskkill)
 #. source: End Process
@@ -6077,9 +5797,7 @@ msgstr "Rozlít"
 #. Weapon driver / overclock card - description (paint_spill)
 #. source: Increase Size +100%.\nReduce Damage -20%.
 msgid "DRIVER.paint_spill.description"
-msgstr ""
-"Zvyš si Velikost o +100%.\n"
-"Zmenši si Poškození o -20%."
+msgstr "Zvyš si Velikost o +100%.\nZmenši si Poškození o -20%."
 
 #. Weapon driver / overclock card - name (paint_fill)
 #. source: Fill Bucket
@@ -6099,9 +5817,7 @@ msgstr "Nakloněný"
 #. Weapon driver / overclock card - description (pinball_tilted)
 #. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
 msgid "DRIVER.pinball_tilted.description"
-msgstr ""
-"Když se odrazí o zeď: Zvyš si Velikost. Stane se až dvakrát.\n"
-"Zmenši si Velikost o -30%."
+msgstr "Když se odrazí o zeď: Zvyš si Velikost. Stane se až dvakrát.\nZmenši si Velikost o -30%."
 
 #. Weapon driver / overclock card - name (quarantine_strict)
 #. source: Strict
@@ -6111,9 +5827,7 @@ msgstr "Přísný"
 #. Weapon driver / overclock card - description (quarantine_strict)
 #. source: Converts Repel to Infect.\nIncrease Power +70%.
 msgid "DRIVER.quarantine_strict.description"
-msgstr ""
-"Převádí Odpuzování na Nákazu.\n"
-"Zvyš si Sílu o +70%."
+msgstr "Převádí Odpuzování na Nákazu.\nZvyš si Sílu o +70%."
 
 #. Weapon driver / overclock card - name (quarantine_heuristic)
 #. source: Heuristic
@@ -6123,9 +5837,7 @@ msgstr "Heuristik"
 #. Weapon driver / overclock card - description (quarantine_heuristic)
 #. source: Increase Damage +40%.\nIncrease Speed +20%.
 msgid "DRIVER.quarantine_heuristic.description"
-msgstr ""
-"Zvyš si Poškození o +40%.\n"
-"Zvyš si Rychlost o +20%."
+msgstr "Zvyš si Poškození o +40%.\nZvyš si Rychlost o +20%."
 
 #. Weapon driver / overclock card - name (satellite_dish)
 #. source: Microwave Dish
@@ -6135,14 +5847,12 @@ msgstr "Jídlo z Mikrovlnky"
 #. Weapon driver / overclock card - description (satellite_dish)
 #. source: Converts Lag to Heat. Increase Size +30%.\nIncrease Speed +15%.
 msgid "DRIVER.satellite_dish.description"
-msgstr ""
-"Převádí Lag na Horko. Zvyš si Velikost o +30%.\n"
-"Zvyš si Rychlost o +15%."
+msgstr "Převádí Lag na Horko. Zvyš si Velikost o +30%.\nZvyš si Rychlost o +15%."
 
 #. Weapon driver / overclock card - name (satellite_uplink)
 #. source: Uplink
 msgid "DRIVER.satellite_uplink.name"
-msgstr "Uplink"
+msgstr ""
 
 #. Weapon driver / overclock card - description (satellite_uplink)
 #. source: Dishes follow you for their lifetime.
@@ -6157,9 +5867,7 @@ msgstr "Jed Zbraní"
 #. Weapon driver / overclock card - description (scimitar_dragon)
 #. source: Converts Repel to Infect. Increase Size +50%.\nAdd +1 Amount.
 msgid "DRIVER.scimitar_dragon.description"
-msgstr ""
-"Převádí Odpuzování na Nákazu. Zvyš si velikost o +50%.\n"
-"Přidej +1 k Počtu."
+msgstr "Převádí Odpuzování na Nákazu. Zvyš si velikost o +50%.\nPřidej +1 k Počtu."
 
 #. Weapon driver / overclock card - name (scimitar_dual)
 #. source: Dual Wield
@@ -6179,9 +5887,7 @@ msgstr "Hluboké Prohledání"
 #. Weapon driver / overclock card - description (search_deep)
 #. source: Converts Repel to Lag. Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.search_deep.description"
-msgstr ""
-"Převádí Odpuzování na Lag. Přidej +2 k Počtu.\n"
-"Zmenši si Poškození o -20%."
+msgstr "Převádí Odpuzování na Lag. Přidej +2 k Počtu.\nZmenši si Poškození o -20%."
 
 #. Weapon driver / overclock card - name (search_indexed)
 #. source: Find Next
@@ -6191,9 +5897,7 @@ msgstr "Najdi Příští"
 #. Weapon driver / overclock card - description (search_indexed)
 #. source: Increase Speed +30%.\nIncrease Refresh +20%.
 msgid "DRIVER.search_indexed.description"
-msgstr ""
-"Zvyš si Rychlost o +30%.\n"
-"Zvyš si Rychlost Přebíjecí Doby o +20%."
+msgstr "Zvyš si Rychlost o +30%.\nZvyš si Rychlost Přebíjecí Doby o +20%."
 
 #. Weapon driver / overclock card - name (sniper_scope)
 #. source: High Caliber
@@ -6203,9 +5907,7 @@ msgstr "Vysoký Kaliber"
 #. Weapon driver / overclock card - description (sniper_scope)
 #. source: Multiply Damage 1.5x. Increase Power +30%.\nIncrease Refresh +25%.
 msgid "DRIVER.sniper_scope.description"
-msgstr ""
-"Vynásob si Poškození 1.5x. Zvyš si Sílu o +30%.\n"
-"Zvyš si rychlost Přebíjecí Doby o +25%."
+msgstr "Vynásob si Poškození 1.5x. Zvyš si Sílu o +30%.\nZvyš si rychlost Přebíjecí Doby o +25%."
 
 #. Weapon driver / overclock card - name (sniper_oneshot)
 #. source: One Shot
@@ -6215,9 +5917,7 @@ msgstr "Jedna Střela"
 #. Weapon driver / overclock card - description (sniper_oneshot)
 #. source: Adds +7% execute chance.\nIncrease Damage +25%.
 msgid "DRIVER.sniper_oneshot.description"
-msgstr ""
-"Přidává +7% na šanci na popravu.\n"
-"Zvyš si Poškození o +25%."
+msgstr "Přidává +7% na šanci na popravu.\nZvyš si Poškození o +25%."
 
 #. Weapon driver / overclock card - name (solitaire_cheat)
 #. source: Cheat
@@ -6227,9 +5927,7 @@ msgstr "Podvádění"
 #. Weapon driver / overclock card - description (solitaire_cheat)
 #. source: Increase Damage +50%. Add +1 Amount.\nReduce Refresh -15%.
 msgid "DRIVER.solitaire_cheat.description"
-msgstr ""
-"Zvyš si Poškození o +50%. Přidej +1 k Počtu.\n"
-"Zmenši si Přebíjecí Dobu o -15%."
+msgstr "Zvyš si Poškození o +50%. Přidej +1 k Počtu.\nZmenši si Přebíjecí Dobu o -15%."
 
 #. Scene label
 #. screens: spam_ad.tscn; trailer_ad.tscn
@@ -6309,7 +6007,7 @@ msgstr "LemWire 4.7 - Vyber si co si stáhnout"
 #. Scene label
 #. screens: lem_window.tscn
 msgid "LemWire 4.7"
-msgstr "LemWire 4.7"
+msgstr ""
 
 #. Scene label
 #. screens: lem_window.tscn
@@ -6393,21 +6091,13 @@ msgstr "SHZip v.2 03 (kopie vyhodnocení)"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid ""
-"Extracting file:\n"
-"temp_file_649743.zip from /.???"
-msgstr ""
-"Extrahuji soubor:\n"
-"temp_file_649743.zip from /.???"
+msgid "Extracting file:\ntemp_file_649743.zip from /.???"
+msgstr "Extrahuji soubor:\ntemp_file_649743.zip from /.???"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid ""
-"Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
-"Processing rate: 0.00 KB/Sec"
-msgstr ""
-"Předpoklad zbývajícího času: 0m 00s (0.00 KB of 0.00 KB)\n"
-"Rychlost zpracování: 0.00 KB/Sec"
+msgid "Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\nProcessing rate: 0.00 KB/Sec"
+msgstr "Předpoklad zbývajícího času: 0m 00s (0.00 KB of 0.00 KB)\nRychlost zpracování: 0.00 KB/Sec"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6442,7 +6132,7 @@ msgstr "Začneme s Dvoj-Klikováním na nějaké nastavení."
 #. Scene label
 #. screens: starter_folder.tscn; window.tscn
 msgid "/"
-msgstr "/"
+msgstr ""
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -6472,12 +6162,12 @@ msgstr "ManažerStatistik V0.1b"
 #. Scene label
 #. screens: stat_list.tscn
 msgid "A"
-msgstr "A"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
 msgid "B"
-msgstr "B"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
@@ -6501,28 +6191,8 @@ msgstr "Vítězství!"
 
 #. Scene label
 #. screens: end_screen.tscn
-msgid ""
-"You did it! I'm proud of you! I hope you had fun.\n"
-"\n"
-"However I am very sorry that this is such a boring and uninspired win "
-"screen. You deserve better and you will get better - in the full release.\n"
-"\n"
-"In the meantime, enjoy trying some of the harder difficulties, go spend "
-"those Beanz on some upgrades and try out some different builds.\n"
-"\n"
-"If you had fun during this demo be sure to give it a wishlist or follow on "
-"Steam - there's so much more to come!"
-msgstr ""
-"Zvládl jsi to! Jsem na tebe pyšný! Doufám že tě to bavilo.\n"
-"\n"
-"Ale, moc mě mrzí že je tohle tak nezajímavá obrazovka po vítězství. "
-"Zasloužíš jsi lepší a dostaneš lepší - v plném vydání.\n"
-"\n"
-"Zatím, ať tě baví těžší obtížnosti, běž utratit nějaké ty Beanz na "
-"vylepšení a vyzkoušej nové sestavy.\n"
-"\n"
-"Jestli ses bavil při tomto demu určitě si tuto hru přidej do seznamu přání "
-"na Steamu - Přijde toho o dost víc!"
+msgid "You did it! I'm proud of you! I hope you had fun.\n\nHowever I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n\nIn the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n\nIf you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
+msgstr "Zvládl jsi to! Jsem na tebe pyšný! Doufám že tě to bavilo.\n\nAle, moc mě mrzí že je tohle tak nezajímavá obrazovka po vítězství. Zasloužíš jsi lepší a dostaneš lepší - v plném vydání.\n\nZatím, ať tě baví těžší obtížnosti, běž utratit nějaké ty Beanz na vylepšení a vyzkoušej nové sestavy.\n\nJestli ses bavil při tomto demu určitě si tuto hru přidej do seznamu přání na Steamu - Přijde toho o dost víc!"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6546,12 +6216,8 @@ msgstr "Připravuji se to Instalovat..."
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid ""
-"PluginInstaller is preparing to find all appropriate plugins for this "
-"application."
-msgstr ""
-"InstalovačPluginů se připravuje najít všechny vhodné pluginy pro tuto "
-"aplikaci."
+msgid "PluginInstaller is preparing to find all appropriate plugins for this application."
+msgstr "InstalovačPluginů se připravuje najít všechny vhodné pluginy pro tuto aplikaci."
 
 #. Scene label
 #. screens: installer_window.tscn
@@ -6560,12 +6226,8 @@ msgstr "Kontroluji Kompatibilní Vrstvu Pluginu..."
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid ""
-"Add +10 Max HP.\n"
-"Heal 20% of Max HP when opening a Safe Folder."
-msgstr ""
-"Přidej +10 Maximálního Zdraví.\n"
-"Obnov si 20% svého Maximálního Zdraví když otevíráš Bezpečnou Složku."
+msgid "Add +10 Max HP.\nHeal 20% of Max HP when opening a Safe Folder."
+msgstr "Přidej +10 Maximálního Zdraví.\nObnov si 20% svého Maximálního Zdraví když otevíráš Bezpečnou Složku."
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -6599,35 +6261,13 @@ msgstr "Nastavení"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid ""
-"coming soon\n"
-"- more weapons\n"
-"- more enemies\n"
-"- bosses\n"
-"- classes\n"
-"- wallpapers\n"
-"- weapon evos\n"
-"- and more"
-msgstr ""
-"brzo přichází\n"
-"- více zbraní\n"
-"- více nepřátel\n"
-"- bossy\n"
-"- druhy\n"
-"- pozadí\n"
-"- evoluce zbraní\n"
-"- a více"
+msgid "coming soon\n- more weapons\n- more enemies\n- bosses\n- classes\n- wallpapers\n- weapon evos\n- and more"
+msgstr "brzo přichází\n- více zbraní\n- více nepřátel\n- bossy\n- druhy\n- pozadí\n- evoluce zbraní\n- a více"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid ""
-"Thank you so much for playing. It means the world to me.\n"
-"enjoy and have a great day <3\n"
-"shaun"
-msgstr ""
-"Moc ti děkuji ze hraní. Znamená to pro mě vše.\n"
-"bav se a přeji hezký den <3\n"
-"shaun"
+msgid "Thank you so much for playing. It means the world to me.\nenjoy and have a great day <3\nshaun"
+msgstr "Moc ti děkuji ze hraní. Znamená to pro mě vše.\nbav se a přeji hezký den <3\nshaun"
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
@@ -6651,11 +6291,6 @@ msgstr "Možnosti"
 
 #. Scene label
 #. screens: options_menu.tscn
-msgid "SFX Volume"
-msgstr "Hlasitost SFX"
-
-#. Scene label
-#. screens: options_menu.tscn
 msgid "Back"
 msgstr "Zpět"
 
@@ -6671,17 +6306,13 @@ msgstr "Ukončit"
 
 #. Scene label
 #. screens: pause_menu.tscn
-msgid ""
-"Antivirus Survivors 2003 Professional\n"
-"Shaun Hammond Business Solutions Ltd"
-msgstr ""
-"Přeživší Antiviru 2003 Professional\n"
-"Shaun Hammond Business Solutions Ltd"
+msgid "Antivirus Survivors 2003 Professional\nShaun Hammond Business Solutions Ltd"
+msgstr "Přeživší Antiviru 2003 Professional\nShaun Hammond Business Solutions Ltd"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Vsync:"
-msgstr "Vsync:"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6716,12 +6347,12 @@ msgstr "Zoom displeje:"
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "+"
-msgstr "+"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6760,12 +6391,8 @@ msgstr "Reset Vyhledávaní"
 
 #. Scene label
 #. screens: upgrade_button.tscn
-msgid ""
-"Increases Refresh Rate for Search by 20%.\n"
-"But here's a second line also."
-msgstr ""
-"Zvyšuje Obnovovací frekvenci pro Vyhledávání o 20%\n"
-"Ale tady je druhá věta taky."
+msgid "Increases Refresh Rate for Search by 20%.\nBut here's a second line also."
+msgstr "Zvyšuje Obnovovací frekvenci pro Vyhledávání o 20%\nAle tady je druhá věta taky."
 
 #. Scene label
 #. screens: torrent_window.tscn

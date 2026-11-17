@@ -1,15 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Antivirus Survivors 2003\n"
-"POT-Creation-Date: 2026-10-08 12:00+0300\n"
-"PO-Revision-Date: 2026-10-09 13:28+0300\n"
-"Last-Translator: \n"
-"Language-Team: \n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #. Class select - name (brick)
 #. source: Brick
@@ -19,12 +14,7 @@ msgstr "Tiiliskivi"
 #. Class select - description (brick)
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 msgid "CLASS.brick.description"
-msgstr ""
-"Lisää maksimielämää +40.\n"
-"Lisää panssaria +12.\n"
-"Kursorin nopeus ×0,8.\n"
-"Aseiden vahinko ×0,85.\n"
-"Vahinkoa ottaessa aseiden vahinko ×1,1 (kestää 8 s, kertyy enintään 3 kertaa)."
+msgstr "Lisää maksimielämää +40.\nLisää panssaria +12.\nKursorin nopeus ×0,8.\nAseiden vahinko ×0,85.\nVahinkoa ottaessa aseiden vahinko ×1,1 (kestää 8 s, kertyy enintään 3 kertaa)."
 
 #. Class select - name (default)
 #. source: Default
@@ -34,9 +24,7 @@ msgstr "Oletus"
 #. Class select - description (default)
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 msgid "CLASS.default.description"
-msgstr ""
-"Ei luokkakohtaisia etuja tai haittoja.\n"
-"Tasapainoinen peruskursori."
+msgstr "Ei luokkakohtaisia etuja tai haittoja.\nTasapainoinen peruskursori."
 
 #. Class select - name (null)
 #. source: Null
@@ -46,11 +34,7 @@ msgstr "Nolla"
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
-msgstr ""
-"Vähentää maksimielämää 25.\n"
-"Lisää pakettihävikkiä +8.\n"
-"Onni ×1,5.\n"
-"Aseiden vahinko ×0,9."
+msgstr "Vähentää maksimielämää 25.\nLisää pakettihävikkiä +8.\nOnni ×1,5.\nAseiden vahinko ×0,9."
 
 #. Class select - name (vector)
 #. source: Vector
@@ -60,12 +44,7 @@ msgstr "Vektori"
 #. Class select - description (vector)
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 msgid "CLASS.vector.description"
-msgstr ""
-"Kursorin nopeus ×1,25.\n"
-"Lisää pakettihävikkiä +15.\n"
-"Vähentää maksimielämää 25.\n"
-"Aseiden vahinko ×0,9.\n"
-"Pakettihävikin yhteydessä kursorin nopeus ×1,25 ja päivitysnopeus ×1,2 (kestää 4 s)."
+msgstr "Kursorin nopeus ×1,25.\nLisää pakettihävikkiä +15.\nVähentää maksimielämää 25.\nAseiden vahinko ×0,9.\nPakettihävikin yhteydessä kursorin nopeus ×1,25 ja päivitysnopeus ×1,2 (kestää 4 s)."
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -75,12 +54,7 @@ msgstr "Keskeytyskohta"
 #. Class select - description (breakpoint)
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
 msgid "CLASS.breakpoint.description"
-msgstr ""
-"Kriittisen osuman mahdollisuus +12 %.\n"
-"Kriittinen vahinko ×1,25.\n"
-"Vähentää maksimielämää 15.\n"
-"Kursorin nopeus ×0,9.\n"
-"Aseiden vahinko ×0,92."
+msgstr "Kriittisen osuman mahdollisuus +12 %.\nKriittinen vahinko ×1,25.\nVähentää maksimielämää 15.\nKursorin nopeus ×0,9.\nAseiden vahinko ×0,92."
 
 #. Class select - name (thread)
 #. source: Thread
@@ -90,11 +64,7 @@ msgstr "Säie"
 #. Class select - description (thread)
 #. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.thread.description"
-msgstr ""
-"Käsittelynopeus ×1,3.\n"
-"Päivitysnopeus ×1,12.\n"
-"Kokemuspisteiden saanti ×1,08.\n"
-"Aseiden vahinko ×0,85."
+msgstr "Käsittelynopeus ×1,3.\nPäivitysnopeus ×1,12.\nKokemuspisteiden saanti ×1,08.\nAseiden vahinko ×0,85."
 
 #. Class select - name (admin)
 #. source: Admin
@@ -104,13 +74,7 @@ msgstr "Järjestelmänvalvoja"
 #. Class select - description (admin)
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
-msgstr ""
-"Aloitat yhdellä lisäavaimella.\n"
-"Kolikoiden saanti ×1,3.\n"
-"Keräysetäisyys ×1,3.\n"
-"Kaupan tuotteista 10 % alennus.\n"
-"Maksimielämä ×0,9.\n"
-"Aseiden vahinko ×0,85."
+msgstr "Aloitat yhdellä lisäavaimella.\nKolikoiden saanti ×1,3.\nKeräysetäisyys ×1,3.\nKaupan tuotteista 10 % alennus.\nMaksimielämä ×0,9.\nAseiden vahinko ×0,85."
 
 #. Folder evolution mode - name (chaos)
 #. source: Chaos
@@ -260,9 +224,7 @@ msgstr "Laitteistokeskeytys"
 #. Plugin - description (armor_damage_trigger)
 #. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
 msgid "PLUGIN.armor_damage_trigger.description"
-msgstr ""
-"Lisää panssaria +5.\n"
-"Vahinkoa ottaessa pakettihävikki kasvaa 25:llä (kestää 10 s)."
+msgstr "Lisää panssaria +5.\nVahinkoa ottaessa pakettihävikki kasvaa 25:llä (kestää 10 s)."
 
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
@@ -282,9 +244,7 @@ msgstr "Enterprise-versio"
 #. Plugin - description (big_hp_regen_boost)
 #. source: Add +64 Max HP.\nAdd +12 Health Regen.
 msgid "PLUGIN.big_hp_regen_boost.description"
-msgstr ""
-"Lisää maksimielämää +64.\n"
-"Lisää elämän palautumista +12."
+msgstr "Lisää maksimielämää +64.\nLisää elämän palautumista +12."
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -364,9 +324,7 @@ msgstr "Kriittinen akku"
 #. Plugin - description (cursor_speed_damage)
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
-msgstr ""
-"Kursorin nopeus kasvaa 10 %.\n"
-"Vahinkoa ottaessa kursorin nopeus kasvaa 30 % (kestää 10 s)."
+msgstr "Kursorin nopeus kasvaa 10 %.\nVahinkoa ottaessa kursorin nopeus kasvaa 30 % (kestää 10 s)."
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -386,9 +344,7 @@ msgstr "Urapolku"
 #. Plugin - description (damage_level_scaling)
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
 msgid "PLUGIN.damage_level_scaling.description"
-msgstr ""
-"Aseiden vahinko kasvaa 3 % pelaajan tasoa kohden.\n"
-"Maksimielämä vähenee yhdellä pelaajan tasoa kohden."
+msgstr "Aseiden vahinko kasvaa 3 % pelaajan tasoa kohden.\nMaksimielämä vähenee yhdellä pelaajan tasoa kohden."
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
@@ -408,11 +364,7 @@ msgstr "Suorituskykyasetukset"
 #. Plugin - description (damage_speed_crit)
 #. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
 msgid "PLUGIN.damage_speed_crit.description"
-msgstr ""
-"Aseiden vahinko +10 %.\n"
-"Päivitysnopeus +10 %.\n"
-"Kriittisen osuman mahdollisuus +5 %.\n"
-"Kriittinen vahinko +10 %."
+msgstr "Aseiden vahinko +10 %.\nPäivitysnopeus +10 %.\nKriittisen osuman mahdollisuus +5 %.\nKriittinen vahinko +10 %."
 
 #. Plugin - name (defrag_on_safe_folder)
 #. source: Startup Folder
@@ -492,9 +444,7 @@ msgstr "Onnenpotku"
 #. Plugin - description (luck_reroll)
 #. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
 msgid "PLUGIN.luck_reroll.description"
-msgstr ""
-"Onni +12 %.\n"
-"Uudelleenarvonnassa onni +25 % (kestää 10 s)."
+msgstr "Onni +12 %.\nUudelleenarvonnassa onni +25 % (kestää 10 s)."
 
 #. Plugin - name (luck_zip_boost)
 #. source: Compressed Folders
@@ -584,9 +534,7 @@ msgstr "Hidas mutta vahva"
 #. Plugin - description (slow_but_strong)
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
-msgstr ""
-"Aseiden vahinko ×1,25.\n"
-"Kursorin nopeus −10 %."
+msgstr "Aseiden vahinko ×1,25.\nKursorin nopeus −10 %."
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -596,9 +544,7 @@ msgstr "Älykäs palautus"
 #. Plugin - description (smart_recovery)
 #. source: Add +10 Max HP.\nHeal 25% of Max HP when opening a Safe Folder.
 msgid "PLUGIN.smart_recovery.description"
-msgstr ""
-"Lisää maksimielämää +10.\n"
-"Turvakansion avaaminen palauttaa 25 % maksimielämästä."
+msgstr "Lisää maksimielämää +10.\nTurvakansion avaaminen palauttaa 25 % maksimielämästä."
 
 #. Plugin - name (weapon_speed_boost)
 #. source: Weapon Speed Boost
@@ -648,21 +594,17 @@ msgstr "Lue minut"
 #. Plugin - description (xp_gain_on_damage)
 #. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
 msgid "PLUGIN.xp_gain_on_damage.description"
-msgstr ""
-"Kokemuspisteiden saanti +10 %.\n"
-"Saat +4 kokemuspistettä vahinkoa ottaessasi."
+msgstr "Kokemuspisteiden saanti +10 %.\nSaat +4 kokemuspistettä vahinkoa ottaessasi."
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
 msgid "PLUGIN.morgan_av.name"
-msgstr "Morgan Antivirus"
+msgstr ""
 
 #. Plugin - description (morgan_av)
 #. source: Difficulty is increased for the rest of the run.\n+1 extra Plus! enemy at each midway point.
 msgid "PLUGIN.morgan_av.description"
-msgstr ""
-"Vaikeustaso nousee pelikerran loppuajaksi.\n"
-"Jokaisessa välietapissa ilmestyy yksi ylimääräinen Plus!-vihollinen."
+msgstr "Vaikeustaso nousee pelikerran loppuajaksi.\nJokaisessa välietapissa ilmestyy yksi ylimääräinen Plus!-vihollinen."
 
 #. Plugin - name (popup_blocker)
 #. source: Realtime Protection
@@ -722,9 +664,7 @@ msgstr "Päivityksen ylikellotus"
 #. Plugin - description (refresh_overclock)
 #. source: Increase Refresh Speed +50%.\nReduce Cursor Speed -15%.
 msgid "PLUGIN.refresh_overclock.description"
-msgstr ""
-"Päivitysnopeus +50 %.\n"
-"Kursorin nopeus −15 %."
+msgstr "Päivitysnopeus +50 %.\nKursorin nopeus −15 %."
 
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
@@ -769,7 +709,7 @@ msgstr "Onnistunut Zip-purku jättää vihreän parannusalueen."
 #. Plugin - name (vapidshare_pro)
 #. source: Vapidshare Pro
 msgid "PLUGIN.vapidshare_pro.name"
-msgstr "Vapidshare Pro"
+msgstr ""
 
 #. Plugin - description (vapidshare_pro)
 #. source: Download Vapidshare parts simultaneously and faster.
@@ -784,9 +724,7 @@ msgstr "Megakriitti"
 #. Plugin - description (megacrit)
 #. source: Increase Crit Chance +40%.\nCrit Chance above 100% can Megacrit for double Crit Damage.
 msgid "PLUGIN.megacrit.description"
-msgstr ""
-"Kriittisen osuman mahdollisuus +40 %.\n"
-"Yli 100 % kriittisen osuman mahdollisuus voi aiheuttaa kaksinkertaista kriittistä vahinkoa tekevän megakriitin."
+msgstr "Kriittisen osuman mahdollisuus +40 %.\nYli 100 % kriittisen osuman mahdollisuus voi aiheuttaa kaksinkertaista kriittistä vahinkoa tekevän megakriitin."
 
 #. Plugin - name (hyperthread)
 #. source: Hyperthreading
@@ -796,9 +734,7 @@ msgstr "Hyper-Threading"
 #. Plugin - description (hyperthread)
 #. source: Multiply Weapon Amount 1.5x.\nMultiply Weapon Damage 0.75x.
 msgid "PLUGIN.hyperthread.description"
-msgstr ""
-"Aseiden määrä ×1,5.\n"
-"Aseiden vahinko ×0,75."
+msgstr "Aseiden määrä ×1,5.\nAseiden vahinko ×0,75."
 
 #. Plugin - name (tank_core)
 #. source: Tank Core
@@ -848,21 +784,17 @@ msgstr "Tehtävienhallinta"
 #. Plugin - description (task_manager)
 #. source: Multiply Weapon Refresh 2.0x.\nMultiply Weapon Size 0.75x.
 msgid "PLUGIN.task_manager.description"
-msgstr ""
-"Aseiden päivitysnopeus ×2,0.\n"
-"Aseiden koko ×0,75."
+msgstr "Aseiden päivitysnopeus ×2,0.\nAseiden koko ×0,75."
 
 #. Plugin - name (raid_0)
 #. source: RAID 0
 msgid "PLUGIN.raid_0.name"
-msgstr "RAID 0"
+msgstr ""
 
 #. Plugin - description (raid_0)
 #. source: Multiply Zip and RAM rewards 2.0x.\nDecrease Zip and RAM success chance.
 msgid "PLUGIN.raid_0.description"
-msgstr ""
-"Zip- ja RAM-palkinnot ×2,0.\n"
-"Zip- ja RAM-toimintojen onnistumismahdollisuus pienenee."
+msgstr "Zip- ja RAM-palkinnot ×2,0.\nZip- ja RAM-toimintojen onnistumismahdollisuus pienenee."
 
 #. Plugin - name (system_restore)
 #. source: System Restore
@@ -872,9 +804,7 @@ msgstr "Järjestelmän palautus"
 #. Plugin - description (system_restore)
 #. source: On death, heal 50% of Max HP instead of Blue Screen.\nOnce per stack.
 msgid "PLUGIN.system_restore.description"
-msgstr ""
-"Kuollessasi palautat 50 % maksimielämästä sinisen ruudun sijaan.\n"
-"Kerran pinoa kohden."
+msgstr "Kuollessasi palautat 50 % maksimielämästä sinisen ruudun sijaan.\nKerran pinoa kohden."
 
 #. Plugin - name (power_user)
 #. source: Power User
@@ -1012,7 +942,8 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr "Pakettihävikki"
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
+#, fuzzy
 msgid "STAT.upgrade_player_dodge.description"
 msgstr "Mahdollisuus väistää kaikki saapuva vahinko. (Eksponentiaalinen)"
 
@@ -1040,7 +971,7 @@ msgstr "Elämää palautuu tämän verran 20 sekunnin välein."
 #. source: {sign}{value} HP
 #. Keep placeholders unchanged: {sign}, {value}
 msgid "STAT.format_hp"
-msgstr "{sign}{value} HP"
+msgstr ""
 
 #. Stat display - name (upgrade_player_luck)
 #. source: Luck
@@ -1048,7 +979,8 @@ msgid "STAT.upgrade_player_luck.name"
 msgstr "Onni"
 
 #. Stat display - description (upgrade_player_luck)
-#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
+#, fuzzy
 msgid "STAT.upgrade_player_luck.description"
 msgstr "Parantaa arvontojen tuloksia, joten saat todennäköisemmin harvinaisia palkintoja ja muita etuja."
 
@@ -1453,7 +1385,7 @@ msgstr "Luo pelaajan ympärille tulirenkaan, joka lisää vihollisiin kuumuusker
 #. Upgrade card - name (weapon_fontart)
 #. source: FontArt
 msgid "UPGRADE.weapon_fontart.name"
-msgstr "FontArt"
+msgstr ""
 
 #. Upgrade card - description (weapon_fontart)
 #. source: Drops letters on the strongest enemy that add stacks of Heat to enemies.
@@ -1463,7 +1395,7 @@ msgstr "Pudottaa vahvimman vihollisen päälle kirjaimia, jotka lisäävät kuum
 #. Upgrade card - name (weapon_hitmarkers)
 #. source: HaD: DoCK
 msgid "UPGRADE.weapon_hitmarkers.name"
-msgstr "HaD: DoCK"
+msgstr ""
 
 #. Upgrade card - description (weapon_hitmarkers)
 #. source: Shots land on the nearest enemy. 3% chance of a headshot.
@@ -1473,7 +1405,7 @@ msgstr "Ammukset osuvat lähimpään viholliseen. 3 %:n mahdollisuus pääosumaa
 #. Upgrade card - name (weapon_paint)
 #. source: Paint
 msgid "UPGRADE.weapon_paint.name"
-msgstr "Paint"
+msgstr "Maali"
 
 #. Upgrade card - description (weapon_paint)
 #. source: Paints circles near the player that damage and add stacks of Lag to enemies over time.
@@ -1523,7 +1455,7 @@ msgstr "Ampuu pomppivan kortin, joka lisää vihollisiin tartuntakertymiä."
 #. Upgrade card - name (weapon_fraps)
 #. source: Frames
 msgid "UPGRADE.weapon_fraps.name"
-msgstr "Frames"
+msgstr ""
 
 #. Upgrade card - description (weapon_fraps)
 #. source: Fires flickering FPS numbers. The number shown is the damage dealt.
@@ -1543,7 +1475,7 @@ msgstr "Viiltää kursorin ylä- ja alapuolella. Lisämäärä tuottaa vuorottel
 #. Upgrade card - name (weapon_sniper)
 #. source: Sniper 1.6
 msgid "UPGRADE.weapon_sniper.name"
-msgstr "Sniper 1.6"
+msgstr ""
 
 #. Upgrade card - description (weapon_sniper)
 #. source: One heavy shot at the strongest enemy. Clears show in a killfeed.
@@ -1573,7 +1505,7 @@ msgstr "Kirjekuoret lentävät ulos, pomppivat seinistä ja palaavat bumerangina
 #. Upgrade card - name (weapon_cruiser)
 #. source: Internet Cruiser
 msgid "UPGRADE.weapon_cruiser.name"
-msgstr "Internet Cruiser"
+msgstr ""
 
 #. Upgrade card - description (weapon_cruiser)
 #. source: Opens a browser tab somewhere on screen. Lingers and applies heavy Lag.
@@ -1583,7 +1515,7 @@ msgstr "Avaa selainvälilehden johonkin kohtaan näyttöä. Välilehti jää pai
 #. Upgrade card - name (weapon_orchestra)
 #. source: Orchestra
 msgid "UPGRADE.weapon_orchestra.name"
-msgstr "Orchestra"
+msgstr "Orkesteri"
 
 #. Upgrade card - description (weapon_orchestra)
 #. source: Opens a browser tab on the closest enemy on screen. Infects, and sometimes executes.
@@ -1593,7 +1525,7 @@ msgstr "Avaa selainvälilehden lähimmän vihollisen kohdalle. Tartuttaa ja tois
 #. Upgrade card - name (weapon_satellite)
 #. source: WLAN
 msgid "UPGRADE.weapon_satellite.name"
-msgstr "WLAN"
+msgstr ""
 
 #. Upgrade card - description (weapon_satellite)
 #. source: Deploys a dish that pings nearby enemies with Lag signals.
@@ -1603,7 +1535,7 @@ msgstr "Asettaa antennin, joka lähettää viivesignaaleja lähellä oleviin vih
 #. Upgrade card - name (weapon_avn)
 #. source: AVN Chat
 msgid "UPGRADE.weapon_avn.name"
-msgstr "AVN Chat"
+msgstr ""
 
 #. Upgrade card - description (weapon_avn)
 #. source: Orbiting chat-bubble beams type out messages and Lag enemies.
@@ -1616,14 +1548,15 @@ msgid "UPGRADE.weapon_cone.name"
 msgstr "Todella suuri kartio"
 
 #. Upgrade card - description (weapon_cone)
-#. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
+#, fuzzy
 msgid "UPGRADE.weapon_cone.description"
 msgstr "Pelaajaan kiinnittyvät oranssit liikennekartiot paahtavat osoittamiaan vihollisia kuumuudella."
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
 msgid "UPGRADE.weapon_blatand.name"
-msgstr "Blåtand"
+msgstr ""
 
 #. Upgrade card - description (weapon_blatand)
 #. source: Chains dashed Infect links between enemies at a fixed link length.
@@ -1636,7 +1569,8 @@ msgid "UPGRADE.weapon_modem.name"
 msgstr "Ulostulolaite"
 
 #. Upgrade card - description (weapon_modem)
-#. source: Blasts concentric handshake rings outward from the cursor.
+#. source: Blasts sound rings outward from the cursor.
+#, fuzzy
 msgid "UPGRADE.weapon_modem.description"
 msgstr "Lähettää kursorista ulospäin samankeskisiä modeemin kättelyrenkaita."
 
@@ -1671,7 +1605,8 @@ msgid "WEAPON.cruiser.spawn_noun"
 msgstr "välilehtiä"
 
 #. Weapon metadata
-#. source: trap
+#. source: tab
+#, fuzzy
 msgid "WEAPON.orchestra.spawn_noun"
 msgstr "ansoja"
 
@@ -1753,7 +1688,7 @@ msgstr "Internet-ryömijä Plus!"
 #. ELITE - name (avn_buddy)
 #. source: AVN Buddy Plus!
 msgid "ELITE.avn_buddy.name"
-msgstr "AVN Buddy Plus!"
+msgstr ""
 
 #. Enemy sniper-feed name - name (error)
 #. source: Error
@@ -1818,22 +1753,22 @@ msgstr "Kierrättäjä"
 #. Enemy sniper-feed name - name (dxdiag)
 #. source: GfxDiag
 msgid "ENEMY.dxdiag.name"
-msgstr "GfxDiag"
+msgstr ""
 
 #. Enemy sniper-feed name - name (burning_disc)
 #. source: PyroDisc
 msgid "ENEMY.burning_disc.name"
-msgstr "PyroDisc"
+msgstr ""
 
 #. Enemy sniper-feed name - name (click_me)
 #. source: CLICK-ME.TXT.vbs
 msgid "ENEMY.click_me.name"
-msgstr "CLICK-ME.TXT.vbs"
+msgstr ""
 
 #. Enemy sniper-feed name - name (shooter)
 #. source: AVN Buddy
 msgid "ENEMY.shooter.name"
-msgstr "AVN Buddy"
+msgstr ""
 
 #. Enemy sniper-feed name - name (big_shield)
 #. source: Big Shield
@@ -1848,7 +1783,7 @@ msgstr "Muistivuoto"
 #. Enemy sniper-feed name
 #. source: memory_leak.reg
 msgid "ENEMY.memory_leak.filename"
-msgstr "memory_leak.reg"
+msgstr ""
 
 #. Settings menu
 #. source: Unlimited
@@ -1958,7 +1893,7 @@ msgstr "Näytön skaalaus"
 #. Settings menu
 #. source: Vsync
 msgid "SETTINGS.vsync"
-msgstr "Vsync"
+msgstr ""
 
 #. Settings menu
 #. source: FPS Cap
@@ -1986,9 +1921,19 @@ msgid "SETTINGS.music_volume"
 msgstr "Musiikin äänenvoimakkuus"
 
 #. Settings menu
+#. source: SFX Volume
+msgid "SETTINGS.sfx_volume"
+msgstr "Tehosteiden äänenvoimakkuus"
+
+#. Settings menu
 #. source: Keygen Volume
 msgid "SETTINGS.keygen_volume"
 msgstr "Keygenin äänenvoimakkuus"
+
+#. Settings menu
+#. source: Main Menu Computer Sound
+msgid "SETTINGS.menu_computer_sound"
+msgstr ""
 
 #. Settings menu
 #. source: Animation Speed
@@ -2051,9 +1996,19 @@ msgid "SETTINGS.music_volume_tip"
 msgstr "Säätää taustamusiikin voimakkuutta."
 
 #. Settings menu
+#. source: Volume for sound effects.
+msgid "SETTINGS.sfx_volume_tip"
+msgstr ""
+
+#. Settings menu
 #. source: Volume for Keygen windows that play their own track.
 msgid "SETTINGS.keygen_volume_tip"
 msgstr "Säätää omaa musiikkiaan soittavien Keygen-ikkunoiden äänenvoimakkuutta."
+
+#. Settings menu
+#. source: Play the computer humming sound on the main menu.
+msgid "SETTINGS.menu_computer_sound_tip"
+msgstr ""
 
 #. Settings menu
 #. source: Language for menus and in-game text.
@@ -2083,7 +2038,7 @@ msgstr "Ohjain värisee, kun otat vahinkoa."
 #. Settings menu
 #. source: OK
 msgid "SETTINGS.ok"
-msgstr "OK"
+msgstr ""
 
 #. Settings menu
 #. source: Restore Defaults
@@ -2262,7 +2217,7 @@ msgstr "Ladataan"
 #. source: %d KB/s
 #. Keep placeholders unchanged: %d
 msgid "TORRENT.speed"
-msgstr "%d KB/s"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Vapor - Validating files - {0}% complete
@@ -2279,7 +2234,7 @@ msgstr "Taso: %d"
 #. source: level%d.doc - SH Docs 2003
 #. Keep placeholders unchanged: %d
 msgid "UI.window_title"
-msgstr "level%d.doc - SH Docs 2003"
+msgstr ""
 
 #. End-of-round timer prompt for the Safe Folder
 #. source: Get to the Safe Folder!
@@ -2335,10 +2290,7 @@ msgstr "Kirjautunut sisään"
 #. Login screen - click your user name prompt
 #. source: To begin, click your user name.\nAfter you log on, you can change profiles.\nJust click on your name at the top of the menu.
 msgid "UI.login_prompt"
-msgstr ""
-"Aloita klikkaamalla käyttäjänimeäsi.\n"
-"Kirjauduttuasi voit vaihtaa profiilia.\n"
-"Klikkaa nimeäsi valikon yläosassa."
+msgstr "Aloita klikkaamalla käyttäjänimeäsi.\nKirjauduttuasi voit vaihtaa profiilia.\nKlikkaa nimeäsi valikon yläosassa."
 
 #. Login screen - turn off computer button
 #. source: Turn off computer
@@ -2510,7 +2462,7 @@ msgstr "Vaaleanpunainen teema"
 #. Personalise - avatar name
 #. source: Beanz
 msgid "UI.avatar_beanz"
-msgstr "Beanz"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Giraffe
@@ -2550,7 +2502,7 @@ msgstr "Orkesteri"
 #. Personalise - avatar name
 #. source: Zip
 msgid "UI.avatar_zip"
-msgstr "Zip"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Crawler
@@ -2590,7 +2542,7 @@ msgstr "Klassinen"
 #. Personalise - theme name
 #. source: Vapor
 msgid "UI.theme_vapor"
-msgstr "Vapor"
+msgstr ""
 
 #. Personalise - theme name
 #. source: Olive
@@ -2610,7 +2562,7 @@ msgstr "Tumma"
 #. Personalise - theme name
 #. source: Media
 msgid "UI.theme_media"
-msgstr "Media"
+msgstr ""
 
 #. Personalise - theme name
 #. source: Pink
@@ -2625,7 +2577,7 @@ msgstr "Kultainen"
 #. Profile stats window - Excel-flavored title
 #. source: Profile.xls - Antivirus Survivors
 msgid "UI.stats_window_title_xls"
-msgstr "Profile.xls - Antivirus Survivors"
+msgstr ""
 
 #. Start menu - Tasks and Stats button
 #. source: Tasks and Stats
@@ -3107,7 +3059,7 @@ msgstr "Vapor-kauppa"
 #. Vapor store - black header logo wordmark
 #. source: VAPOR
 msgid "UI.vapor_store_brand"
-msgstr "VAPOR"
+msgstr ""
 
 #. Vapor store - special files explanation
 #. source: Special Files spawn during battle. While one is active, hold {special} to use it.
@@ -3359,7 +3311,7 @@ msgstr "Käytäntö"
 #. Policies list column - Beanz
 #. source: Beanz
 msgid "UI.policies_col_beanz"
-msgstr "Beanz"
+msgstr ""
 
 #. Policies list column - enabled/disabled
 #. source: Security Setting
@@ -3428,7 +3380,7 @@ msgstr "%s avattu"
 #. source: %s +%d Beanz
 #. Keep placeholders unchanged: %s, %d
 msgid "UI.task_category_beanz"
-msgstr "%s +%d Beanz"
+msgstr ""
 
 #. Weapon driver unlock requirement template
 #. source: Reach level {amount} with {weapon} in a single run
@@ -3466,7 +3418,7 @@ msgstr "Eheytetty"
 #. UI (script-driven)
 #. source: %2.2f KB
 msgid "UI.defrag_capacity"
-msgstr "%2.2f KB"
+msgstr ""
 
 #. Upgrade screen - speech prompt
 #. source: Select an upgrade to continue.
@@ -3486,7 +3438,7 @@ msgstr "Aseajurit"
 #. Weapon Drivers screen - fake window title
 #. source: drivers.doc - SH Docs 2003
 msgid "UI.weapon_drivers_window"
-msgstr "drivers.doc - SH Docs 2003"
+msgstr ""
 
 #. Weapon Drivers screen - speech prompt with weapon name
 #. source: Select a driver for %s.
@@ -3571,90 +3523,47 @@ msgstr "Pikaopas"
 #. source: Welcome to {game}!\n\nI'm Virry, and I'm going to take you through some basics of how to play.
 #. Keep placeholders unchanged: {game}
 msgid "UI.tutorial_1_body"
-msgstr ""
-"Tervetuloa peliin {game}!\n"
-"\n"
-"Minä olen Virry, ja opastan sinut pelin perusteisiin."
+msgstr "Tervetuloa peliin {game}!\n\nMinä olen Virry, ja opastan sinut pelin perusteisiin."
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
 #. Keep placeholders unchanged: {move}, {click}, {drag}
 msgid "UI.tutorial_2_body"
-msgstr ""
-"Aloitetaan liikkumisesta.\n"
-"\n"
-"Liiku näytöllä näppäimillä {move}.\n"
-"\n"
-"Klikkaa painikkeella {click}, ja muista tuplaklikata avataksesi tiedostoja.\n"
-"\n"
-"Voit myös pitää {drag} pohjassa raahataksesi tiedostoja kansiossa."
+msgstr "Aloitetaan liikkumisesta.\n\nLiiku näytöllä näppäimillä {move}.\n\nKlikkaa painikkeella {click}, ja muista tuplaklikata avataksesi tiedostoja.\n\nVoit myös pitää {drag} pohjassa raahataksesi tiedostoja kansiossa."
 
 #. Tutorial page 3 - class, protocol, policies
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
-msgstr ""
-"Aloittaaksesi voit valita {class} ja {difficulty}.\n"
-"\n"
-"Valitaan nyt {default}-kursori. Lisää kursoreita avautuu pelatessasi.\n"
-"\n"
-"Valitse vaikeustasoksi protokolla I–III ({difficulty}).\n"
-"\n"
-"Protokollan läpäiseminen avaa {policies}, jotka tuovat lisähaasteita.\n"
-"\n"
-"Valitse nyt {class} ja {difficulty}!"
+msgstr "Aloittaaksesi voit valita {class} ja {difficulty}.\n\nValitaan nyt {default}-kursori. Lisää kursoreita avautuu pelatessasi.\n\nValitse vaikeustasoksi protokolla I–III ({difficulty}).\n\nProtokollan läpäiseminen avaa {policies}, jotka tuovat lisähaasteita.\n\nValitse nyt {class} ja {difficulty}!"
 
 #. Tutorial page 4 - {drivers}
 #. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
 #. Keep placeholders unchanged: {drivers}
 msgid "UI.tutorial_4_body"
-msgstr ""
-"Voit valita aloitukseen yhden aseen.\n"
-"\n"
-"Etene pelikerralla ja nosta tasoasi saadaksesi lisää aseita.\n"
-"\n"
-"Tason noustessa voit myös valita aseiden ja hahmon parannuksia kasvattaaksesi ominaisuuksiasi.\n"
-"\n"
-"Aseen saavuttaessa tietyt tasot avautuvat {drivers}, jotka tarjoavat ainutlaatuisia parannuksia."
+msgstr "Voit valita aloitukseen yhden aseen.\n\nEtene pelikerralla ja nosta tasoasi saadaksesi lisää aseita.\n\nTason noustessa voit myös valita aseiden ja hahmon parannuksia kasvattaaksesi ominaisuuksiasi.\n\nAseen saavuttaessa tietyt tasot avautuvat {drivers}, jotka tarjoavat ainutlaatuisia parannuksia."
 
 #. Tutorial page 5 - {safe}
 #. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
 #. Keep placeholders unchanged: {safe}
 msgid "UI.tutorial_5_body"
-msgstr ""
-"Pelin tavoitteena on selviytyä.\n"
-"\n"
-"Pelissä on 5 viiden minuutin kierrosta. Pääse jokaisen kierroksen lopussa kohteeseen {safe} jatkaaksesi eteenpäin."
+msgstr "Pelin tavoitteena on selviytyä.\n\nPelissä on 5 viiden minuutin kierrosta. Pääse jokaisen kierroksen lopussa kohteeseen {safe} jatkaaksesi eteenpäin."
 
 #. Tutorial page 6
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
-msgstr ""
-"Näin pysyt hengissä:\n"
-"Väistä vihollisia, kerää kokemuspisteitä ja kolikoita, hanki parannuksia ja avaa tiedostoja.\n"
-"\n"
-"Joihinkin tiedostoihin liittyy riskejä, osa tarvitsee avaimia ja osa tarjoaa varmoja palkintoja.\n"
-"\n"
-"Jokaisella kierroksella oikeassa yläkulmassa on myös sivutehtävä, josta saat lisäpalkintoja."
+msgstr "Näin pysyt hengissä:\nVäistä vihollisia, kerää kokemuspisteitä ja kolikoita, hanki parannuksia ja avaa tiedostoja.\n\nJoihinkin tiedostoihin liittyy riskejä, osa tarvitsee avaimia ja osa tarjoaa varmoja palkintoja.\n\nJokaisella kierroksella oikeassa yläkulmassa on myös sivutehtävä, josta saat lisäpalkintoja."
 
 #. Tutorial page 7 - {safe} {vapor}
 #. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
 #. Keep placeholders unchanged: {safe}, {vapor}
 msgid "UI.tutorial_7_body"
-msgstr ""
-"Ansaitse Beanzia kukistamalla vihollisia ja ehtimällä ajoissa turvaan ({safe}).\n"
-"\n"
-"Saat lisää Beanzia suorittamalla tehtäviä.\n"
-"\n"
-"Käytä Beanzisi uusiin kursoriluokkiin, aseisiin, ominaisuusparannuksiin, lisäosiin, tiedostoihin, {vapor}-tuotteisiin ja muuhun!"
+msgstr "Ansaitse Beanzia kukistamalla vihollisia ja ehtimällä ajoissa turvaan ({safe}).\n\nSaat lisää Beanzia suorittamalla tehtäviä.\n\nKäytä Beanzisi uusiin kursoriluokkiin, aseisiin, ominaisuusparannuksiin, lisäosiin, tiedostoihin, {vapor}-tuotteisiin ja muuhun!"
 
 #. Tutorial page 8
 #. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
 msgid "UI.tutorial_8_body"
-msgstr ""
-"Siinä kaikki tällä kertaa!\n"
-"\n"
-"Valitse ensimmäinen aseesi, pelaa, selviydy ja pidä hauskaa :)"
+msgstr "Siinä kaikki tällä kertaa!\n\nValitse ensimmäinen aseesi, pelaa, selviydy ja pidä hauskaa :)"
 
 #. Plus! cleared. %s is the elite name, %s is the dropped filename
 #. source: %s cleared, %s dropped.
@@ -3666,7 +3575,7 @@ msgstr "%s kukistettu, %s pudotettu."
 #. source: %d %s
 #. Keep placeholders unchanged: %d, %s
 msgid "UI.notif_elites_named"
-msgstr "%d %s"
+msgstr ""
 
 #. Multi Plus! toast when types are mixed. %d is how many spawned together
 #. source: %d Plus! enemies
@@ -3718,7 +3627,7 @@ msgstr "Avaa %d/%d .%s-tiedostoa"
 #. Vapidshare window title when Vapidshare Pro plugin is equipped
 #. source: Vapidshare Pro
 msgid "UI.vapidshare_title_pro"
-msgstr "Vapidshare Pro"
+msgstr ""
 
 #. Vapidshare window parts progress
 #. source: Parts %d / %d
@@ -3744,7 +3653,7 @@ msgstr "Valmis"
 #. Vapidshare list hoster column
 #. source: vapidshare.com
 msgid "UI.vapidshare_hoster"
-msgstr "vapidshare.com"
+msgstr ""
 
 #. Vapidshare list Hoster header
 #. source: Hoster
@@ -3835,26 +3744,7 @@ msgstr "Voitit!"
 #. source: A fatal exception has occurred and the system has been terminated to prevent corruption.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nIf this is the first time you've seen this termination screen, restart your system.\nIf this screen appears again, internal modules may have been compromised.\n\nPlease verify the integrity of your installed components. Unexpected behavior may\nindicate corrupted memory, invalid packet injection, or unauthorized script execution.\n\nIf the issue persists, perform a secure reboot or contact your system's internal administrator.\n\nTechnical Dump:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nBeginning forced shutdown...\nMemory cache flushed.\n\nPress {click} to continue. {tab} for stats
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
-msgstr ""
-"Vakava poikkeus on tapahtunut, ja järjestelmä on pysäytetty tietojen vioittumisen estämiseksi.\n"
-"\n"
-"CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
-"\n"
-"Jos näet tämän pysäytysruudun ensimmäistä kertaa, käynnistä järjestelmä uudelleen.\n"
-"Jos ruutu ilmestyy uudelleen, sisäiset moduulit ovat saattaneet vaarantua.\n"
-"\n"
-"Tarkista asennettujen komponenttien eheys. Odottamaton toiminta voi\n"
-"johtua vioittuneesta muistista, virheellisistä datapaketeista tai luvattomasta komentojen suorituksesta.\n"
-"\n"
-"Jos ongelma jatkuu, suorita turvallinen uudelleenkäynnistys tai ota yhteyttä järjestelmänvalvojaan.\n"
-"\n"
-"Tekninen virheraportti:\n"
-"STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n"
-"\n"
-"Aloitetaan pakotettu sammutus...\n"
-"Välimuisti tyhjennetty.\n"
-"\n"
-"Jatka painamalla {click}. {tab} avaa tilastot"
+msgstr "Vakava poikkeus on tapahtunut, ja järjestelmä on pysäytetty tietojen vioittumisen estämiseksi.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nJos näet tämän pysäytysruudun ensimmäistä kertaa, käynnistä järjestelmä uudelleen.\nJos ruutu ilmestyy uudelleen, sisäiset moduulit ovat saattaneet vaarantua.\n\nTarkista asennettujen komponenttien eheys. Odottamaton toiminta voi\njohtua vioittuneesta muistista, virheellisistä datapaketeista tai luvattomasta komentojen suorituksesta.\n\nJos ongelma jatkuu, suorita turvallinen uudelleenkäynnistys tai ota yhteyttä järjestelmänvalvojaan.\n\nTekninen virheraportti:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nAloitetaan pakotettu sammutus...\nVälimuisti tyhjennetty.\n\nJatka painamalla {click}. {tab} avaa tilastot"
 
 #. Browser address-bar caption
 #. source: Address
@@ -3895,7 +3785,7 @@ msgstr "Clearzone – valitse lisäosa"
 #. source: %d / %d
 #. Keep placeholders unchanged: %d
 msgid "UI.rar_progress"
-msgstr "%d / %d"
+msgstr ""
 
 #. Clearzone archive clears label
 #. source: Clears
@@ -3921,7 +3811,7 @@ msgstr "%d kt"
 #. Torrent window title
 #. source: BigWave 2003 Edition
 msgid "UI.torrent_title"
-msgstr "BigWave 2003 Edition"
+msgstr ""
 
 #. Browser chrome - Search toolbar label
 #. source: Search
@@ -3948,7 +3838,7 @@ msgstr "Arvo uudelleen: %.2f kolikkoa"
 #. source: Beanz: %d
 #. Keep placeholders unchanged: %d
 msgid "UI.beanz"
-msgstr "Beanz: %d"
+msgstr ""
 
 #. HUD - Coin label
 #. source: Coin: %.2f
@@ -4194,7 +4084,7 @@ msgstr "Kuole {amount} kertaa"
 #. Hidden 5th weapon slot label
 #. source: Bonus
 msgid "UI.weapon_slot_bonus"
-msgstr "Bonus"
+msgstr ""
 
 #. Unlock requirement - open N LemWire files
 #. source: Open {amount} LemWire files
@@ -4280,7 +4170,7 @@ msgstr "Lisää hetkellisesti kursorin nopeutta lyhyen pyrähdyksen ajaksi."
 #. UI (script-driven)
 #. source: N2O
 msgid "UI.unlock_widget_nos_reward"
-msgstr "N2O"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Commit crimes for coin while dodging the heat.
@@ -4290,7 +4180,7 @@ msgstr "Tee rikoksia saadaksesi kolikoita ja väistele virkavaltaa."
 #. UI (script-driven)
 #. source: Criminal
 msgid "UI.unlock_widget_crime_reward"
-msgstr "Criminal"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Slow the world around you to clear enemies more easily.
@@ -4300,7 +4190,7 @@ msgstr "Hidasta ympäröivää maailmaa, jotta vihollisten kukistaminen helpottu
 #. UI (script-driven)
 #. source: Heaps of Pain
 msgid "UI.unlock_widget_bullet_time_reward"
-msgstr "Heaps of Pain"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Buy and sell Keys for Coin in Safe Folders.
@@ -4310,7 +4200,7 @@ msgstr "Osta ja myy avaimia kolikoilla turvakansioissa."
 #. UI (script-driven)
 #. source: KeyBuy
 msgid "UI.unlock_file_keybuy_reward"
-msgstr "KeyBuy"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Heal now, or upgrade Health Check files for later battles.
@@ -4320,7 +4210,7 @@ msgstr "Paranna elämää nyt tai päivitä Health Check -tiedostoja tulevia tai
 #. UI (script-driven)
 #. source: Health Check Plus
 msgid "UI.unlock_file_health_check_pro_reward"
-msgstr "Health Check Plus"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Invest Coin between battles and cash out later.
@@ -4330,7 +4220,7 @@ msgstr "Sijoita kolikoita taistelujen välillä ja nosta tuotto myöhemmin."
 #. UI (script-driven)
 #. source: Finance Manager
 msgid "UI.unlock_file_stock_trader_reward"
-msgstr "Finance Manager"
+msgstr "Talouspäällikkö"
 
 #. Unlock description - Ethanol 130% safe file
 #. source: Pay Coin to copy a random plugin you already have installed.
@@ -4340,7 +4230,7 @@ msgstr "Maksa kolikoita kopioidaksesi satunnaisen jo asentamasi lisäosan."
 #. Unlock reward - Ethanol 130% name
 #. source: Ethanol 130%
 msgid "UI.unlock_file_ethanol_reward"
-msgstr "Ethanol 130%"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Download multi-part archives that drop Cracked Installers.
@@ -4350,7 +4240,7 @@ msgstr "Lataa moniosaisia arkistoja, joista saa murrettuja asennusohjelmia."
 #. UI (script-driven)
 #. source: Vapidshare
 msgid "UI.unlock_file_vapidshare_reward"
-msgstr "Vapidshare"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Install plugins without spending a Key.
@@ -4360,7 +4250,7 @@ msgstr "Asenna lisäosia käyttämättä avainta."
 #. UI (script-driven)
 #. source: Cracked Installer
 msgid "UI.unlock_file_cracked_installer_reward"
-msgstr "Cracked Installer"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Clear a zone of enemies to choose from three plugins.
@@ -4370,7 +4260,7 @@ msgstr "Tyhjennä alue vihollisista valitaksesi yhden kolmesta lisäosasta."
 #. UI (script-driven)
 #. source: Clearzone
 msgid "UI.unlock_file_killzone_reward"
-msgstr "Clearzone"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Install 3 legendary plugins
@@ -4385,7 +4275,7 @@ msgstr "Käytä 3 avainta legendaarisen lisäosan asentamiseen."
 #. UI (script-driven)
 #. source: Legendary Installer
 msgid "UI.unlock_file_legendary_installer_reward"
-msgstr "Legendary Installer"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Defeat a Plus! enemy in 10 seconds
@@ -4636,7 +4526,7 @@ msgstr "Läpäise protokolla V, kun {policy} on käytössä."
 #. KeyBuy window and desktop icon title
 #. source: keyBuy
 msgid "UI.keybuy_title"
-msgstr "keyBuy"
+msgstr ""
 
 #. KeyBuy buy button
 #. source: Buy a Key
@@ -4669,9 +4559,7 @@ msgstr "Käytä {cost} kolikkoa yhteen avaimeen."
 #. source: Sell 1 Key for {cost} Coin.\nMarketplace fee keeps {fee} Coin.
 #. Keep placeholders unchanged: {cost}, {fee}
 msgid "UI.keybuy_sell_tooltip"
-msgstr ""
-"Myy yksi avain hintaan {cost} kolikkoa.\n"
-"Markkinapaikan palkkio on {fee} kolikkoa."
+msgstr "Myy yksi avain hintaan {cost} kolikkoa.\nMarkkinapaikan palkkio on {fee} kolikkoa."
 
 #. KeyBuy nav links under the logo
 #. source: home | buy | sell | my keys | help
@@ -5110,7 +4998,7 @@ msgstr "Vahinkoa tällä kierroksella: %.0f"
 #. source: DPS: %.1f
 #. Keep placeholders unchanged: %.1f
 msgid "TOOLTIP.run_dps"
-msgstr "DPS: %.1f"
+msgstr ""
 
 #. Stat tooltip
 #. source: Hits: %d
@@ -5167,23 +5055,19 @@ msgstr "Hinta: %d Beanz"
 #. Zip window titlebar when SHZip License is equipped
 #. source: SHZip v2.03
 msgid "ZIP.title_licensed"
-msgstr "SHZip v2.03"
+msgstr ""
 
 #. Zip extractor window
 #. source: Extracting file: \n%s from /.???
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracting"
-msgstr ""
-"Puretaan tiedostoa: \n"
-"%s kansiosta /.???"
+msgstr "Puretaan tiedostoa: \n%s kansiosta /.???"
 
 #. Zip extractor window
 #. source: Estimated time left: {m}m {s}s ({cur} KB of {max} KB) \nProcessing rate: {rate} KB/Sec
 #. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
 msgid "ZIP.progress"
-msgstr ""
-"Arvioitu jäljellä oleva aika: {m} min {s} s ({cur} / {max} KB) \n"
-"Käsittelynopeus: {rate} KB/s"
+msgstr "Arvioitu jäljellä oleva aika: {m} min {s} s ({cur} / {max} KB) \nKäsittelynopeus: {rate} KB/s"
 
 #. Zip extractor window
 #. source: %s extracted successfully.
@@ -5200,32 +5084,32 @@ msgstr "Puuttuva dynaaminen linkkikirjasto %s löydetty."
 #. Desktop icon tooltip
 #. source: BigWave.exe
 msgid "CLICKABLE.filename.torrent"
-msgstr "BigWave.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: LemWire.exe
 msgid "CLICKABLE.filename.lemwire"
-msgstr "LemWire.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: Installer.pgi
 msgid "CLICKABLE.filename.installer"
-msgstr "Installer.pgi"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: cracked_installer.pgi
 msgid "CLICKABLE.filename.cracked_installer"
-msgstr "cracked_installer.pgi"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: LEGENDARY_SETUP.exe
 msgid "CLICKABLE.filename.legendary_installer"
-msgstr "LEGENDARY_SETUP.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: MorganAV.pgi
 msgid "CLICKABLE.filename.morgan_av"
-msgstr "MorganAV.pgi"
+msgstr ""
 
 #. Run stats panel row
 #. source: Difficulty
@@ -5363,7 +5247,7 @@ msgstr "Edellinen kierros"
 #. source: BattleFolder%d.xls
 #. Keep placeholders unchanged: %d
 msgid "UI.safe_hub_round_xls"
-msgstr "BattleFolder%d.xls"
+msgstr ""
 
 #. Safe Folder explorer - no tasks completed last round
 #. source: No new tasks this round
@@ -5471,7 +5355,7 @@ msgstr "Eheytyskerääjä"
 
 #. Scene label
 msgid "Health Check"
-msgstr "Health Check"
+msgstr ""
 
 #. Scene label
 msgid "Pointer Trails"
@@ -5487,19 +5371,19 @@ msgstr "RAM lataus valmis."
 
 #. keygen
 msgid "keygen.exe"
-msgstr "keygen.exe"
+msgstr ""
 
 #. vapor
 msgid "vapor.exe"
-msgstr "vapor.exe"
+msgstr ""
 
 #. frenzy
 msgid "frenzy.exe"
-msgstr "frenzy.exe"
+msgstr ""
 
 #. Vapidshare
 msgid "Vapidshare.exe"
-msgstr "Vapidshare.exe"
+msgstr ""
 
 #. Scene label
 msgid "Feedback"
@@ -5507,11 +5391,11 @@ msgstr "Palaute"
 
 #. Scene label
 msgid "Steam"
-msgstr "Steam"
+msgstr ""
 
 #. Scene label
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #. Scene label
 msgid "Translations GitHub"
@@ -5519,7 +5403,7 @@ msgstr "Käännökset GitHub"
 
 #. avs03
 msgid "avs03.com"
-msgstr "avs03.com"
+msgstr ""
 
 #. Scene label
 msgid "Level 8"
@@ -5550,9 +5434,7 @@ msgstr "Ylikellotettu"
 #. Weapon driver / overclock card - description (overclocked)
 #. source: Multiply Damage 1.6x.\nReduce Refresh -15%.
 msgid "DRIVER.overclocked.description"
-msgstr ""
-"Kerro vahinko 1.6x.\n"
-"Vähennä palautumista -15 %."
+msgstr "Kerro vahinko 1.6x.\nVähennä palautumista -15 %."
 
 #. Weapon driver / overclock card - name (hyperthreaded)
 #. source: Hyperthreaded
@@ -5562,9 +5444,7 @@ msgstr "Hyperthreadattu"
 #. Weapon driver / overclock card - description (hyperthreaded)
 #. source: Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.hyperthreaded.description"
-msgstr ""
-"Lisää määrää +2.\n"
-"Vähennä vahinkoa -20 %."
+msgstr "Lisää määrää +2.\nVähennä vahinkoa -20 %."
 
 #. Weapon driver / overclock card - name (turbo_clock)
 #. source: Turbo Clock
@@ -5574,9 +5454,7 @@ msgstr "Turbokello"
 #. Weapon driver / overclock card - description (turbo_clock)
 #. source: Increase Speed +50%.\nReduce Power -15%.
 msgid "DRIVER.turbo_clock.description"
-msgstr ""
-"Lisää nopeutta +50 %.\n"
-"Vähennä tehoa -15 %."
+msgstr "Lisää nopeutta +50 %.\nVähennä tehoa -15 %."
 
 #. Weapon driver / overclock card - name (bloated_cache)
 #. source: Bloated Cache
@@ -5616,9 +5494,7 @@ msgstr "Pirstoutunut"
 #. Weapon driver / overclock card - description (avd_fragmented)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.avd_fragmented.description"
-msgstr ""
-"Seinään osuessa jakautuu kahdeksi puolikokoiseksi kopioksi.\n"
-"Kopiot voivat jakautua vielä kerran."
+msgstr "Seinään osuessa jakautuu kahdeksi puolikokoiseksi kopioksi.\nKopiot voivat jakautua vielä kerran."
 
 #. Weapon driver / overclock card - name (avn_away)
 #. source: Away Message
@@ -5628,9 +5504,7 @@ msgstr "Poissaoloviesti"
 #. Weapon driver / overclock card - description (avn_away)
 #. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
 msgid "DRIVER.avn_away.description"
-msgstr ""
-"Lisää määrää +1. Lisää nopeutta +20 %.\n"
-"Lisää kokoa +15 %."
+msgstr "Lisää määrää +1. Lisää nopeutta +20 %.\nLisää kokoa +15 %."
 
 #. Weapon driver / overclock card - name (avn_buddy)
 #. source: Buddy List
@@ -5640,9 +5514,7 @@ msgstr "Kaverilista"
 #. Weapon driver / overclock card - description (avn_buddy)
 #. source: Add +2 Amount.\nIncrease Power +15%.
 msgid "DRIVER.avn_buddy.description"
-msgstr ""
-"Lisää määrää +2.\n"
-"Lisää tehoa +15 %."
+msgstr "Lisää määrää +2.\nLisää tehoa +15 %."
 
 #. Weapon driver / overclock card - name (blatand_pair)
 #. source: Paired Devices
@@ -5652,9 +5524,7 @@ msgstr "Pariliitetyt laitteet"
 #. Weapon driver / overclock card - description (blatand_pair)
 #. source: Add +1 Amount. Increase Power +25%.\nIncrease Speed +20%.
 msgid "DRIVER.blatand_pair.description"
-msgstr ""
-"Lisää määrää +1. Lisää tehoa +25 %.\n"
-"Lisää nopeutta +20 %."
+msgstr "Lisää määrää +1. Lisää tehoa +25 %.\nLisää nopeutta +20 %."
 
 #. Weapon driver / overclock card - name (bubbles_soap)
 #. source: Soap
@@ -5664,9 +5534,7 @@ msgstr "Saippua"
 #. Weapon driver / overclock card - description (bubbles_soap)
 #. source: Add +1 Amount.\nIncrease Size +40%.
 msgid "DRIVER.bubbles_soap.description"
-msgstr ""
-"Lisää määrää +1.\n"
-"Lisää kokoa +40 %."
+msgstr "Lisää määrää +1.\nLisää kokoa +40 %."
 
 #. Weapon driver / overclock card - name (bubbles_suds)
 #. source: Suds
@@ -5676,9 +5544,7 @@ msgstr "Vaahto"
 #. Weapon driver / overclock card - description (bubbles_suds)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.bubbles_suds.description"
-msgstr ""
-"Seinään osuessa jakautuu kahdeksi puolikokoiseksi kopioksi.\n"
-"Kopiot voivat jakautua vielä kerran."
+msgstr "Seinään osuessa jakautuu kahdeksi puolikokoiseksi kopioksi.\nKopiot voivat jakautua vielä kerran."
 
 #. Weapon driver / overclock card - name (cdrive_seek)
 #. source: Seek
@@ -5688,9 +5554,7 @@ msgstr "Haku"
 #. Weapon driver / overclock card - description (cdrive_seek)
 #. source: Converts Repel to Lag.\nIncrease Speed +60%.
 msgid "DRIVER.cdrive_seek.description"
-msgstr ""
-"Muuttaa torjunnan viiveeksi.\n"
-"Lisää nopeutta +60 %."
+msgstr "Muuttaa torjunnan viiveeksi.\nLisää nopeutta +60 %."
 
 #. Weapon driver / overclock card - name (cdrive_cleanup)
 #. source: Disk Cleanup
@@ -5710,9 +5574,7 @@ msgstr "Kiertotie"
 #. Weapon driver / overclock card - description (cone_detour)
 #. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
 msgid "DRIVER.cone_detour.description"
-msgstr ""
-"Muuttaa kuumuuden viiveeksi. Lisää kokoa +35 %.\n"
-"Lisää vahinkoa +15 %."
+msgstr "Muuttaa kuumuuden viiveeksi. Lisää kokoa +35 %.\nLisää vahinkoa +15 %."
 
 #. Weapon driver / overclock card - name (cone_workzone)
 #. source: Work Zone
@@ -5722,9 +5584,7 @@ msgstr "Tietyömaa"
 #. Weapon driver / overclock card - description (cone_workzone)
 #. source: Add +1 Amount.\nIncrease Power +30%.
 msgid "DRIVER.cone_workzone.description"
-msgstr ""
-"Lisää määrää +1.\n"
-"Lisää tehoa +30 %."
+msgstr "Lisää määrää +1.\nLisää tehoa +30 %."
 
 #. Weapon driver / overclock card - name (cruiser_multitab)
 #. source: Browser Hijack
@@ -5734,9 +5594,7 @@ msgstr "Selaimen kaappaus"
 #. Weapon driver / overclock card - description (cruiser_multitab)
 #. source: Converts Lag to Infect. Add +1 Amount.\nIncrease Power +25%.
 msgid "DRIVER.cruiser_multitab.description"
-msgstr ""
-"Muuttaa viiveen tartunnaksi. Lisää määrää +1.\n"
-"Lisää tehoa +25 %."
+msgstr "Muuttaa viiveen tartunnaksi. Lisää määrää +1.\nLisää tehoa +25 %."
 
 #. Weapon driver / overclock card - name (cruiser_popup)
 #. source: Popup Storm
@@ -5756,9 +5614,7 @@ msgstr "Halkaisu"
 #. Weapon driver / overclock card - description (cut_cleave)
 #. source: Converts Repel to Infect. Increase Size +80%.\nAdd -0.5 Amount.
 msgid "DRIVER.cut_cleave.description"
-msgstr ""
-"Muuttaa torjunnan tartunnaksi. Lisää kokoa +80 %.\n"
-"Vähennä määrää -0.5."
+msgstr "Muuttaa torjunnan tartunnaksi. Lisää kokoa +80 %.\nVähennä määrää -0.5."
 
 #. Weapon driver / overclock card - name (cut_papercut)
 #. source: Paper Cut
@@ -5768,9 +5624,7 @@ msgstr "Paperihaava"
 #. Weapon driver / overclock card - description (cut_papercut)
 #. source: Add +2 Amount.\nIncrease Speed +25%.
 msgid "DRIVER.cut_papercut.description"
-msgstr ""
-"Lisää määrää +2.\n"
-"Lisää nopeutta +25 %."
+msgstr "Lisää määrää +2.\nLisää nopeutta +25 %."
 
 #. Weapon driver / overclock card - name (email_cc)
 #. source: Flame Mail
@@ -5780,9 +5634,7 @@ msgstr "Tulinen sähköposti"
 #. Weapon driver / overclock card - description (email_cc)
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
 msgid "DRIVER.email_cc.description"
-msgstr ""
-"Muuttaa tartunnan kuumuudeksi. Lisää määrää +1.\n"
-"Lisää nopeutta +35 %."
+msgstr "Muuttaa tartunnan kuumuudeksi. Lisää määrää +1.\nLisää nopeutta +35 %."
 
 #. Weapon driver / overclock card - name (email_bounce)
 #. source: Undeliverable
@@ -5822,21 +5674,18 @@ msgstr "Lihavointi"
 #. Weapon driver / overclock card - description (fontart_bold)
 #. source: Increase Size +60%. Increase Power +60%.\nReduce Amount -25%.
 msgid "DRIVER.fontart_bold.description"
-msgstr ""
-"Lisää kokoa +60 %. Lisää tehoa +60 %.\n"
-"Vähennä määrää -25 %."
+msgstr "Lisää kokoa +60 %. Lisää tehoa +60 %.\nVähennä määrää -25 %."
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
+#, fuzzy
 msgid "DRIVER.fontart_wordart.name"
 msgstr "WordArt"
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
 msgid "DRIVER.fontart_wordart.description"
-msgstr ""
-"Lisää kokoa +40 %.\n"
-"Lisää määrää +1."
+msgstr "Lisää kokoa +40 %.\nLisää määrää +1."
 
 #. Weapon driver / overclock card - name (fraps_benchmark)
 #. source: Benchmark
@@ -5846,9 +5695,7 @@ msgstr "Suorituskykytesti"
 #. Weapon driver / overclock card - description (fraps_benchmark)
 #. source: Converts Repel to Heat. Increase Damage +25%.\nIncrease Speed +20%.
 msgid "DRIVER.fraps_benchmark.description"
-msgstr ""
-"Muuttaa torjunnan kuumuudeksi. Lisää vahinkoa +25 %.\n"
-"Lisää nopeutta +20 %."
+msgstr "Muuttaa torjunnan kuumuudeksi. Lisää vahinkoa +25 %.\nLisää nopeutta +20 %."
 
 #. Weapon driver / overclock card - name (fraps_vsync)
 #. source: VSync
@@ -5858,9 +5705,7 @@ msgstr "Vsync"
 #. Weapon driver / overclock card - description (fraps_vsync)
 #. source: FPS numbers bounce off walls.\nIncrease Size +20%.
 msgid "DRIVER.fraps_vsync.description"
-msgstr ""
-"FPS-luvut kimpoavat seinistä.\n"
-"Lisää kokoa +20 %."
+msgstr "FPS-luvut kimpoavat seinistä.\nLisää kokoa +20 %."
 
 #. Weapon driver / overclock card - name (hitmarkers_headhunter)
 #. source: Headhunter
@@ -5870,9 +5715,7 @@ msgstr "Palkkionmetsästäjä"
 #. Weapon driver / overclock card - description (hitmarkers_headhunter)
 #. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
 msgid "DRIVER.hitmarkers_headhunter.description"
-msgstr ""
-"Lisää välittömän eliminoinnin mahdollisuutta. Muuttaa torjunnan kuumuudeksi.\n"
-"Vähennä vahinkoa -15 %."
+msgstr "Lisää välittömän eliminoinnin mahdollisuutta. Muuttaa torjunnan kuumuudeksi.\nVähennä vahinkoa -15 %."
 
 #. Weapon driver / overclock card - name (hitmarkers_killstreak)
 #. source: Killstreak
@@ -5892,9 +5735,7 @@ msgstr "Palopanos"
 #. Weapon driver / overclock card - description (minesweeper_flag)
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
 msgid "DRIVER.minesweeper_flag.description"
-msgstr ""
-"Muuttaa torjunnan kuumuudeksi. Lisää määrää +1.\n"
-"Lisää tehoa +20 %."
+msgstr "Muuttaa torjunnan kuumuudeksi. Lisää määrää +1.\nLisää tehoa +20 %."
 
 #. Weapon driver / overclock card - name (minesweeper_chord)
 #. source: Chord
@@ -5907,28 +5748,26 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr "Miinat pysyvät paikallaan, kunnes ne laukeavat."
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
+#, fuzzy
 msgid "DRIVER.modem_handshake.name"
 msgstr "Modeemiruuhka"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
 msgid "DRIVER.modem_handshake.description"
-msgstr ""
-"Muuttaa torjunnan viiveeksi. Lisää määrää +1.\n"
-"Lisää kokoa +25 %."
+msgstr "Muuttaa torjunnan viiveeksi. Lisää määrää +1.\nLisää kokoa +25 %."
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
+#, fuzzy
 msgid "DRIVER.modem_broadband.name"
 msgstr "Laajakaista"
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
 msgid "DRIVER.modem_broadband.description"
-msgstr ""
-"Lisää nopeutta +50 %.\n"
-"Lisää vahinkoa +20 %."
+msgstr "Lisää nopeutta +50 %.\nLisää vahinkoa +20 %."
 
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
 #. source: Tab Overload
@@ -5938,9 +5777,7 @@ msgstr "Välilehtitulva"
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
 msgid "DRIVER.orchestra_fortissimo.description"
-msgstr ""
-"Muuttaa tartunnan kuumuudeksi. Lisää vahinkoa +35 %.\n"
-"Lisää tehoa +35 %."
+msgstr "Muuttaa tartunnan kuumuudeksi. Lisää vahinkoa +35 %.\nLisää tehoa +35 %."
 
 #. Weapon driver / overclock card - name (orchestra_taskkill)
 #. source: End Process
@@ -5960,9 +5797,7 @@ msgstr "Roiske"
 #. Weapon driver / overclock card - description (paint_spill)
 #. source: Increase Size +100%.\nReduce Damage -20%.
 msgid "DRIVER.paint_spill.description"
-msgstr ""
-"Lisää kokoa +100 %.\n"
-"Vähennä vahinkoa -20 %."
+msgstr "Lisää kokoa +100 %.\nVähennä vahinkoa -20 %."
 
 #. Weapon driver / overclock card - name (paint_fill)
 #. source: Fill Bucket
@@ -5972,9 +5807,7 @@ msgstr "Täyttöämpäri"
 #. Weapon driver / overclock card - description (paint_fill)
 #. source: Add +1 Amount.\nIncrease Power +40%.
 msgid "DRIVER.paint_fill.description"
-msgstr ""
-"Lisää määrää +1.\n"
-"Lisää tehoa +40 %."
+msgstr "Lisää määrää +1.\nLisää tehoa +40 %."
 
 #. Weapon driver / overclock card - name (pinball_tilted)
 #. source: Tilted
@@ -5984,9 +5817,7 @@ msgstr "Kallistettu"
 #. Weapon driver / overclock card - description (pinball_tilted)
 #. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
 msgid "DRIVER.pinball_tilted.description"
-msgstr ""
-"Seinään osuessa: kasvattaa kokoa. Voi tapahtua enintään kahdesti.\n"
-"Vähennä kokoa -30 %."
+msgstr "Seinään osuessa: kasvattaa kokoa. Voi tapahtua enintään kahdesti.\nVähennä kokoa -30 %."
 
 #. Weapon driver / overclock card - name (quarantine_strict)
 #. source: Strict
@@ -5996,9 +5827,7 @@ msgstr "Tiukka"
 #. Weapon driver / overclock card - description (quarantine_strict)
 #. source: Converts Repel to Infect.\nIncrease Power +70%.
 msgid "DRIVER.quarantine_strict.description"
-msgstr ""
-"Muuttaa torjunnan tartunnaksi.\n"
-"Lisää tehoa +70 %."
+msgstr "Muuttaa torjunnan tartunnaksi.\nLisää tehoa +70 %."
 
 #. Weapon driver / overclock card - name (quarantine_heuristic)
 #. source: Heuristic
@@ -6008,9 +5837,7 @@ msgstr "Heuristiikka"
 #. Weapon driver / overclock card - description (quarantine_heuristic)
 #. source: Increase Damage +40%.\nIncrease Speed +20%.
 msgid "DRIVER.quarantine_heuristic.description"
-msgstr ""
-"Lisää vahinkoa +40 %.\n"
-"Lisää nopeutta +20 %."
+msgstr "Lisää vahinkoa +40 %.\nLisää nopeutta +20 %."
 
 #. Weapon driver / overclock card - name (satellite_dish)
 #. source: Microwave Dish
@@ -6020,9 +5847,7 @@ msgstr "Mikroaaltoantenni"
 #. Weapon driver / overclock card - description (satellite_dish)
 #. source: Converts Lag to Heat. Increase Size +30%.\nIncrease Speed +15%.
 msgid "DRIVER.satellite_dish.description"
-msgstr ""
-"Muuttaa viiveen kuumuudeksi. Lisää kokoa +30 %.\n"
-"Lisää nopeutta +15 %."
+msgstr "Muuttaa viiveen kuumuudeksi. Lisää kokoa +30 %.\nLisää nopeutta +15 %."
 
 #. Weapon driver / overclock card - name (satellite_uplink)
 #. source: Uplink
@@ -6042,9 +5867,7 @@ msgstr "Asemyrkky"
 #. Weapon driver / overclock card - description (scimitar_dragon)
 #. source: Converts Repel to Infect. Increase Size +50%.\nAdd +1 Amount.
 msgid "DRIVER.scimitar_dragon.description"
-msgstr ""
-"Muuttaa torjunnan tartunnaksi. Lisää kokoa +50 %.\n"
-"Lisää määrää +1."
+msgstr "Muuttaa torjunnan tartunnaksi. Lisää kokoa +50 %.\nLisää määrää +1."
 
 #. Weapon driver / overclock card - name (scimitar_dual)
 #. source: Dual Wield
@@ -6064,9 +5887,7 @@ msgstr "Syvä haku"
 #. Weapon driver / overclock card - description (search_deep)
 #. source: Converts Repel to Lag. Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.search_deep.description"
-msgstr ""
-"Muuttaa torjunnan viiveeksi. Lisää määrää +2.\n"
-"Vähennä vahinkoa -20 %."
+msgstr "Muuttaa torjunnan viiveeksi. Lisää määrää +2.\nVähennä vahinkoa -20 %."
 
 #. Weapon driver / overclock card - name (search_indexed)
 #. source: Find Next
@@ -6076,9 +5897,7 @@ msgstr "Etsi seuraava"
 #. Weapon driver / overclock card - description (search_indexed)
 #. source: Increase Speed +30%.\nIncrease Refresh +20%.
 msgid "DRIVER.search_indexed.description"
-msgstr ""
-"Lisää nopeutta +30 %.\n"
-"Lisää palautumista +20 %."
+msgstr "Lisää nopeutta +30 %.\nLisää palautumista +20 %."
 
 #. Weapon driver / overclock card - name (sniper_scope)
 #. source: High Caliber
@@ -6088,9 +5907,7 @@ msgstr "Suuri kaliiperi"
 #. Weapon driver / overclock card - description (sniper_scope)
 #. source: Multiply Damage 1.5x. Increase Power +30%.\nIncrease Refresh +25%.
 msgid "DRIVER.sniper_scope.description"
-msgstr ""
-"Kerro vahinko 1.5x. Lisää tehoa +30 %.\n"
-"Lisää palautumista +25 %."
+msgstr "Kerro vahinko 1.5x. Lisää tehoa +30 %.\nLisää palautumista +25 %."
 
 #. Weapon driver / overclock card - name (sniper_oneshot)
 #. source: One Shot
@@ -6100,9 +5917,7 @@ msgstr "Kertalaukaus"
 #. Weapon driver / overclock card - description (sniper_oneshot)
 #. source: Adds +7% execute chance.\nIncrease Damage +25%.
 msgid "DRIVER.sniper_oneshot.description"
-msgstr ""
-"Lisää välittömän eliminoinnin mahdollisuutta +7 %.\n"
-"Lisää vahinkoa +25 %."
+msgstr "Lisää välittömän eliminoinnin mahdollisuutta +7 %.\nLisää vahinkoa +25 %."
 
 #. Weapon driver / overclock card - name (solitaire_cheat)
 #. source: Cheat
@@ -6112,9 +5927,7 @@ msgstr "Huijaus"
 #. Weapon driver / overclock card - description (solitaire_cheat)
 #. source: Increase Damage +50%. Add +1 Amount.\nReduce Refresh -15%.
 msgid "DRIVER.solitaire_cheat.description"
-msgstr ""
-"Lisää vahinkoa +50 %. Lisää määrää +1.\n"
-"Vähennä palautumista -15 %."
+msgstr "Lisää vahinkoa +50 %. Lisää määrää +1.\nVähennä palautumista -15 %."
 
 #. Scene label
 #. screens: spam_ad.tscn; trailer_ad.tscn
@@ -6194,7 +6007,7 @@ msgstr "LemWire 4.7 - Valitse sinun lataukset"
 #. Scene label
 #. screens: lem_window.tscn
 msgid "LemWire 4.7"
-msgstr "LemWire 4.7"
+msgstr ""
 
 #. Scene label
 #. screens: lem_window.tscn
@@ -6269,7 +6082,7 @@ msgstr "1,000,0000. KÄVJÄ tällä VIIKOLLA!!! PALKINTO VOITETTU!"
 #. Scene label
 #. screens: vapor_exe.tscn
 msgid "Vapor.exe"
-msgstr "Vapor.exe"
+msgstr ""
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6278,21 +6091,13 @@ msgstr "SHZip v2.03 (kokeiluversio)"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid ""
-"Extracting file:\n"
-"temp_file_649743.zip from /.???"
-msgstr ""
-"Puretaan tiedostoa:\n"
-"temp_file_649743.zip kansiosta /.???"
+msgid "Extracting file:\ntemp_file_649743.zip from /.???"
+msgstr "Puretaan tiedostoa:\ntemp_file_649743.zip kansiosta /.???"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid ""
-"Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
-"Processing rate: 0.00 KB/Sec"
-msgstr ""
-"Arvioitu jäljellä oleva aika: 0 min 00 s (0.00 / 0.00 KB)\n"
-"Käsittelynopeus: 0.00 KB/s"
+msgid "Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\nProcessing rate: 0.00 KB/Sec"
+msgstr "Arvioitu jäljellä oleva aika: 0 min 00 s (0.00 / 0.00 KB)\nKäsittelynopeus: 0.00 KB/s"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6327,7 +6132,7 @@ msgstr "Aloitetaan tuplaklikkaamalla muutamia asetuksia."
 #. Scene label
 #. screens: starter_folder.tscn; window.tscn
 msgid "/"
-msgstr "/"
+msgstr ""
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -6352,17 +6157,17 @@ msgstr "Lukitut aseet- Tulossa pian"
 #. Scene label
 #. screens: stat_list.tscn
 msgid "StatsManager V0.1b"
-msgstr "StatsManager V0.1b"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
 msgid "A"
-msgstr "A"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
 msgid "B"
-msgstr "B"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
@@ -6377,7 +6182,7 @@ msgstr "Palomuurin koko"
 #. Scene label
 #. screens: basic_window.tscn; window.tscn
 msgid "Antivirus Survivors 2003 Professional ©"
-msgstr "Antivirus Survivors 2003 Professional ©"
+msgstr ""
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6386,22 +6191,8 @@ msgstr "Voitto!"
 
 #. Scene label
 #. screens: end_screen.tscn
-msgid ""
-"You did it! I'm proud of you! I hope you had fun.\n"
-"\n"
-"However I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n"
-"\n"
-"In the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n"
-"\n"
-"If you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
-msgstr ""
-"Sinä teit sen! Olen ylpeä sinusta! Toivottavasti sinulla oli hauskaa.\n"
-"\n"
-"Olen silti pahoillani, että tämä voittonäkymä on näin tylsä ja mielikuvitukseton. Ansaitset parempaa, ja saatkin sitä täysversiossa.\n"
-"\n"
-"Kokeile sillä välin vaikeampia vaikeustasoja, käytä Beanzisi parannuksiin ja testaile erilaisia ase- ja lisäosayhdistelmiä.\n"
-"\n"
-"Jos pidit demosta, lisää peli Steam-toivelistallesi tai seuraa sitä Steamissa. Paljon lisää on tulossa!"
+msgid "You did it! I'm proud of you! I hope you had fun.\n\nHowever I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n\nIn the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n\nIf you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
+msgstr "Sinä teit sen! Olen ylpeä sinusta! Toivottavasti sinulla oli hauskaa.\n\nOlen silti pahoillani, että tämä voittonäkymä on näin tylsä ja mielikuvitukseton. Ansaitset parempaa, ja saatkin sitä täysversiossa.\n\nKokeile sillä välin vaikeampia vaikeustasoja, käytä Beanzisi parannuksiin ja testaile erilaisia ase- ja lisäosayhdistelmiä.\n\nJos pidit demosta, lisää peli Steam-toivelistallesi tai seuraa sitä Steamissa. Paljon lisää on tulossa!"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6416,7 +6207,7 @@ msgstr "Palaa menu-valikkoon"
 #. Scene label
 #. screens: installer_window.tscn
 msgid "PluginInstaller v2.03 r2"
-msgstr "PluginInstaller v2.03 r2"
+msgstr ""
 
 #. Scene label
 #. screens: installer_window.tscn
@@ -6435,12 +6226,8 @@ msgstr "Tarkistetaan lisäosien yhteensopivuuskerros..."
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid ""
-"Add +10 Max HP.\n"
-"Heal 20% of Max HP when opening a Safe Folder."
-msgstr ""
-"Lisää maksimielämää +10.\n"
-"Palauta 20% maksimielämästä avatessasi turvakansion."
+msgid "Add +10 Max HP.\nHeal 20% of Max HP when opening a Safe Folder."
+msgstr "Lisää maksimielämää +10.\nPalauta 20% maksimielämästä avatessasi turvakansion."
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -6474,40 +6261,18 @@ msgstr "Asetukset"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid ""
-"coming soon\n"
-"- more weapons\n"
-"- more enemies\n"
-"- bosses\n"
-"- classes\n"
-"- wallpapers\n"
-"- weapon evos\n"
-"- and more"
-msgstr ""
-"tulossa pian\n"
-"- Enemmän aseita\n"
-"- Enemmän vihollisia\n"
-"- Bosseja\n"
-"- Luokkia\n"
-"- Taustakuvia\n"
-"- Ase evoluutioita\n"
-"- Ja lisää"
+msgid "coming soon\n- more weapons\n- more enemies\n- bosses\n- classes\n- wallpapers\n- weapon evos\n- and more"
+msgstr "tulossa pian\n- Enemmän aseita\n- Enemmän vihollisia\n- Bosseja\n- Luokkia\n- Taustakuvia\n- Ase evoluutioita\n- Ja lisää"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid ""
-"Thank you so much for playing. It means the world to me.\n"
-"enjoy and have a great day <3\n"
-"shaun"
-msgstr ""
-"Kiitos paljon pelaamisestasi. Se merkitsee minulle koko maailman\n"
-"Nauti ja pidä hyvä päivä <3\n"
-"Shaun"
+msgid "Thank you so much for playing. It means the world to me.\nenjoy and have a great day <3\nshaun"
+msgstr "Kiitos paljon pelaamisestasi. Se merkitsee minulle koko maailman\nNauti ja pidä hyvä päivä <3\nShaun"
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
 msgid "UpgradeManager 2003 rc2"
-msgstr "UpgradeManager 2003 rc2"
+msgstr ""
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
@@ -6526,11 +6291,6 @@ msgstr "Valikko"
 
 #. Scene label
 #. screens: options_menu.tscn
-msgid "SFX Volume"
-msgstr "Tehosteiden äänenvoimakkuus"
-
-#. Scene label
-#. screens: options_menu.tscn
 msgid "Back"
 msgstr "Takaisin"
 
@@ -6546,17 +6306,13 @@ msgstr "Poistu"
 
 #. Scene label
 #. screens: pause_menu.tscn
-msgid ""
-"Antivirus Survivors 2003 Professional\n"
-"Shaun Hammond Business Solutions Ltd"
+msgid "Antivirus Survivors 2003 Professional\nShaun Hammond Business Solutions Ltd"
 msgstr ""
-"Antivirus Survivors 2003 Professional\n"
-"Shaun Hammond Business Solutions Ltd"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Vsync:"
-msgstr "Vsync:"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6591,12 +6347,12 @@ msgstr "Näytön skaalaus:"
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "+"
-msgstr "+"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6635,12 +6391,8 @@ msgstr "Haun palautuminen"
 
 #. Scene label
 #. screens: upgrade_button.tscn
-msgid ""
-"Increases Refresh Rate for Search by 20%.\n"
-"But here's a second line also."
-msgstr ""
-"Nopeuttaa haun palautumista 20 %.\n"
-"Mutta tässä on myös toinen rivi."
+msgid "Increases Refresh Rate for Search by 20%.\nBut here's a second line also."
+msgstr "Nopeuttaa haun palautumista 20 %.\nMutta tässä on myös toinen rivi."
 
 #. Scene label
 #. screens: torrent_window.tscn
@@ -6665,7 +6417,7 @@ msgstr "Edistys"
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "Status"
-msgstr "Status"
+msgstr ""
 
 #. Scene label
 #. screens: torrent_window.tscn
@@ -6704,4 +6456,4 @@ msgstr "Ikkuna"
 
 #. Scene label
 msgid "Antivirus Survivors 2003 Professional"
-msgstr "Antivirus Survivors 2003 Professional"
+msgstr ""

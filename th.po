@@ -1,15 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Antivirus Survivors 2003MIME-Version: 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"Project-Id-Version: Antivirus Survivors 2003\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #. Class select - name (brick)
 #. source: Brick
@@ -19,12 +14,7 @@ msgstr "บริค"
 #. Class select - description (brick)
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 msgid "CLASS.brick.description"
-msgstr ""
-"พลังชีวิตสูงสุด +40 HP\n"
-"เกราะ +12\n"
-"ความเร็วเคอร์เซอร์ x0.8\n"
-"ดาเมจอาวุธ x0.85\n"
-"ดาเมจอาวุธ x1.1 เมื่อได้รับดาเมจ (มีผล 8 วินาที ทับซ้อนได้ 3 ขั้น)"
+msgstr "พลังชีวิตสูงสุด +40 HP\nเกราะ +12\nความเร็วเคอร์เซอร์ x0.8\nดาเมจอาวุธ x0.85\nดาเมจอาวุธ x1.1 เมื่อได้รับดาเมจ (มีผล 8 วินาที ทับซ้อนได้ 3 ขั้น)"
 
 #. Class select - name (default)
 #. source: Default
@@ -34,9 +24,7 @@ msgstr "ดีฟอลท์"
 #. Class select - description (default)
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 msgid "CLASS.default.description"
-msgstr ""
-"ไม่มีข้อดีหรือข้อเสียใดๆ\n"
-"เคอร์เซอร์มาตรฐานและสมดุล"
+msgstr "ไม่มีข้อดีหรือข้อเสียใดๆ\nเคอร์เซอร์มาตรฐานและสมดุล"
 
 #. Class select - name (null)
 #. source: Null
@@ -46,11 +34,7 @@ msgstr "นูล"
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
-msgstr ""
-"พลังชีวิตสูงสุด -25 HP\n"
-"ข้อมูลเล็ดลอด +8\n"
-"โชค x1.5\n"
-"ดาเมจอาวุธ x0.9"
+msgstr "พลังชีวิตสูงสุด -25 HP\nข้อมูลเล็ดลอด +8\nโชค x1.5\nดาเมจอาวุธ x0.9"
 
 #. Class select - name (vector)
 #. source: Vector
@@ -60,12 +44,7 @@ msgstr "เวกเตอร์"
 #. Class select - description (vector)
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 msgid "CLASS.vector.description"
-msgstr ""
-"ความเร็วเคอร์เซอร์ x1.25\n"
-"ข้อมูลเล็ดลอด +15\n"
-"พลังชีวิตสูงสุด -25 HP\n"
-"ดาเมจอาวุธ x0.9\n"
-"ความเร็วเคอร์เซอร์ x1.25 และความเร็วรีเฟรชอาวุธ x1.2 เมื่อข้อมูลเล็ดลอด (มีผล 4 วินาที)"
+msgstr "ความเร็วเคอร์เซอร์ x1.25\nข้อมูลเล็ดลอด +15\nพลังชีวิตสูงสุด -25 HP\nดาเมจอาวุธ x0.9\nความเร็วเคอร์เซอร์ x1.25 และความเร็วรีเฟรชอาวุธ x1.2 เมื่อข้อมูลเล็ดลอด (มีผล 4 วินาที)"
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -75,12 +54,7 @@ msgstr "เบรคพ้อยท์"
 #. Class select - description (breakpoint)
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
 msgid "CLASS.breakpoint.description"
-msgstr ""
-"โอกาสคริ +12%\n"
-"ดาเมจคริ x1.25\n"
-"พลังชีวิตสูงสุด -15 HP\n"
-"ความเร็วเคอร์เซอร์ x0.9\n"
-"ดาเมจอาวุธ x0.92"
+msgstr "โอกาสคริ +12%\nดาเมจคริ x1.25\nพลังชีวิตสูงสุด -15 HP\nความเร็วเคอร์เซอร์ x0.9\nดาเมจอาวุธ x0.92"
 
 #. Class select - name (thread)
 #. source: Thread
@@ -90,11 +64,7 @@ msgstr "เธรด"
 #. Class select - description (thread)
 #. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.thread.description"
-msgstr ""
-"ความเร็วประมวลผล x1.3\n"
-"ความเร็วรีเฟรชอาวุธ x1.12\n"
-"EXP ที่ได้รับ x1.08\n"
-"ดาเมจอาวุธ x0.85"
+msgstr "ความเร็วประมวลผล x1.3\nความเร็วรีเฟรชอาวุธ x1.12\nEXP ที่ได้รับ x1.08\nดาเมจอาวุธ x0.85"
 
 #. Class select - name (admin)
 #. source: Admin
@@ -104,13 +74,7 @@ msgstr "แอดมิน"
 #. Class select - description (admin)
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
-msgstr ""
-"ได้รับ 1 คีย์เมื่อเริ่มเกม\n"
-"เหรียญที่ได้รับ x1.3\n"
-"ระยะดึงดูด x1.3\n"
-"ราคาไอเท็มในร้านค้าลดลง 10%\n"
-"พลังชีวิตสูงสุด x0.9\n"
-"ดาเมจอาวุธ x0.85"
+msgstr "ได้รับ 1 คีย์เมื่อเริ่มเกม\nเหรียญที่ได้รับ x1.3\nระยะดึงดูด x1.3\nราคาไอเท็มในร้านค้าลดลง 10%\nพลังชีวิตสูงสุด x0.9\nดาเมจอาวุธ x0.85"
 
 #. Folder evolution mode - name (chaos)
 #. source: Chaos
@@ -260,9 +224,7 @@ msgstr "ฮาร์ดแวร์ ไออาร์คิว"
 #. Plugin - description (armor_damage_trigger)
 #. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
 msgid "PLUGIN.armor_damage_trigger.description"
-msgstr ""
-"เกราะ +5\n"
-"ข้อมูลเล็ดลอด +25 เมื่อได้รับดาเมจ (มีผล 10 วินาที)"
+msgstr "เกราะ +5\nข้อมูลเล็ดลอด +25 เมื่อได้รับดาเมจ (มีผล 10 วินาที)"
 
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
@@ -282,9 +244,7 @@ msgstr "เอนเทอร์ไพรส์ อิดิชั่น"
 #. Plugin - description (big_hp_regen_boost)
 #. source: Add +64 Max HP.\nAdd +12 Health Regen.
 msgid "PLUGIN.big_hp_regen_boost.description"
-msgstr ""
-"พลังชีวิตสูงสุด +64 HP\n"
-"ฟื้นฟูพลังชีวิต +12 HP"
+msgstr "พลังชีวิตสูงสุด +64 HP\nฟื้นฟูพลังชีวิต +12 HP"
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -364,9 +324,7 @@ msgstr "คริติคอล แบตเตอรี่"
 #. Plugin - description (cursor_speed_damage)
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
-msgstr ""
-"ความเร็วเคอร์เซอร์ +10%\n"
-"ความเร็วเคอร์เซอร์ +30% เมื่อได้รับดาเมจ (มีผล 10 วินาที)"
+msgstr "ความเร็วเคอร์เซอร์ +10%\nความเร็วเคอร์เซอร์ +30% เมื่อได้รับดาเมจ (มีผล 10 วินาที)"
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -386,9 +344,7 @@ msgstr "แคเรียร์ พาธ"
 #. Plugin - description (damage_level_scaling)
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
 msgid "PLUGIN.damage_level_scaling.description"
-msgstr ""
-"ดาเมจอาวุธ +3% ทุกๆหนึ่งเลเวลของผู้เล่น\n"
-"พลังชีวิตสูงสุด -1 HP ทุกๆหนึ่งเลเวลของผู้เล่น"
+msgstr "ดาเมจอาวุธ +3% ทุกๆหนึ่งเลเวลของผู้เล่น\nพลังชีวิตสูงสุด -1 HP ทุกๆหนึ่งเลเวลของผู้เล่น"
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
@@ -408,11 +364,7 @@ msgstr "เพอฟอร์แมนส์ ออฟชั่นส์"
 #. Plugin - description (damage_speed_crit)
 #. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
 msgid "PLUGIN.damage_speed_crit.description"
-msgstr ""
-"ดาเมจอาวุธ +10%\n"
-"ความเร็วรีเฟรชอาวุธ +10%\n"
-"โอกาสคริ +5% \n"
-"ดาเมจคริ +15%"
+msgstr "ดาเมจอาวุธ +10%\nความเร็วรีเฟรชอาวุธ +10%\nโอกาสคริ +5% \nดาเมจคริ +15%"
 
 #. Plugin - name (defrag_on_safe_folder)
 #. source: Startup Folder
@@ -492,9 +444,7 @@ msgstr "ลัคกี้ เบรค"
 #. Plugin - description (luck_reroll)
 #. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
 msgid "PLUGIN.luck_reroll.description"
-msgstr ""
-"โชค +12%\n"
-"โชค +25% เมื่อทำการรีโรล (มีผล 10 วินาที)"
+msgstr "โชค +12%\nโชค +25% เมื่อทำการรีโรล (มีผล 10 วินาที)"
 
 #. Plugin - name (luck_zip_boost)
 #. source: Compressed Folders
@@ -579,14 +529,12 @@ msgstr "ราคาไอเท็มในร้านค้าลดลง 25
 #. Plugin - name (slow_but_strong)
 #. source: Rau und Stark
 msgid "PLUGIN.slow_but_strong.name"
-msgstr "Rau und Stark"
+msgstr ""
 
 #. Plugin - description (slow_but_strong)
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
-msgstr ""
-"ดาเมจอาวุธ x1.25\n"
-"ความเร็วเคอร์เซอร์ -10%"
+msgstr "ดาเมจอาวุธ x1.25\nความเร็วเคอร์เซอร์ -10%"
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -596,9 +544,7 @@ msgstr "สมาร์ท รีคัฟเวอรี"
 #. Plugin - description (smart_recovery)
 #. source: Add +10 Max HP.\nHeal 25% of Max HP when opening a Safe Folder.
 msgid "PLUGIN.smart_recovery.description"
-msgstr ""
-"พลังชีวิตสูงสุด +10 HP\n"
-"ฟื้นฟูพลังชีวิต 25% ของพลังชีวิตสูงสุดเมื่อเปิดโฟลเดอร์ปลอดภัย"
+msgstr "พลังชีวิตสูงสุด +10 HP\nฟื้นฟูพลังชีวิต 25% ของพลังชีวิตสูงสุดเมื่อเปิดโฟลเดอร์ปลอดภัย"
 
 #. Plugin - name (weapon_speed_boost)
 #. source: Weapon Speed Boost
@@ -648,9 +594,7 @@ msgstr "รี้ด มี"
 #. Plugin - description (xp_gain_on_damage)
 #. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
 msgid "PLUGIN.xp_gain_on_damage.description"
-msgstr ""
-"EXP ที่ได้รับ +10%\n"
-"ได้รับ EXP +4 เมื่อได้รับดาเมจ"
+msgstr "EXP ที่ได้รับ +10%\nได้รับ EXP +4 เมื่อได้รับดาเมจ"
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
@@ -660,9 +604,7 @@ msgstr "มอร์แกน แอนตี้ไวรัส"
 #. Plugin - description (morgan_av)
 #. source: Difficulty is increased for the rest of the run.\n+1 extra Plus! enemy at each midway point.
 msgid "PLUGIN.morgan_av.description"
-msgstr ""
-"ระดับความยากเพิ่มขึ้นตลอดทั้งรอบ\n"
-"จำนวนศัตรูพลัส! +1 ในช่วงระหว่างต่อสู้"
+msgstr "ระดับความยากเพิ่มขึ้นตลอดทั้งรอบ\nจำนวนศัตรูพลัส! +1 ในช่วงระหว่างต่อสู้"
 
 #. Plugin - name (popup_blocker)
 #. source: Realtime Protection
@@ -702,9 +644,7 @@ msgstr "สติล เฟรม"
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
 msgid "PLUGIN.still_frame.description"
-msgstr ""
-"ดาเมจอาวุธ +5% ทุกๆวินาทีเมื่อหยุดนิ่ง\n"
-"สูงสุด +15% ต่อหนึ่งปลั๊กอิน"
+msgstr "ดาเมจอาวุธ +5% ทุกๆวินาทีเมื่อหยุดนิ่ง\nสูงสุด +15% ต่อหนึ่งปลั๊กอิน"
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
@@ -724,9 +664,7 @@ msgstr "รีเฟรช โอเวอร์คล็อค"
 #. Plugin - description (refresh_overclock)
 #. source: Increase Refresh Speed +50%.\nReduce Cursor Speed -15%.
 msgid "PLUGIN.refresh_overclock.description"
-msgstr ""
-"ความเร็วรีเฟรชอาวุธ +50%\n"
-"ความเร็วเคอร์เซอร์ -15%"
+msgstr "ความเร็วรีเฟรชอาวุธ +50%\nความเร็วเคอร์เซอร์ -15%"
 
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
@@ -776,9 +714,7 @@ msgstr "เวปิดแชร์ โปร"
 #. Plugin - description (vapidshare_pro)
 #. source: Download Vapidshare parts simultaneously and faster.
 msgid "PLUGIN.vapidshare_pro.description"
-msgstr ""
-"ดาวน์โหลดไฟล์ในเวปิดแชร์ได้อย่างต่อเนื่อง\n"
-"และรวดเร็วขึ้น"
+msgstr "ดาวน์โหลดไฟล์ในเวปิดแชร์ได้อย่างต่อเนื่อง\nและรวดเร็วขึ้น"
 
 #. Plugin - name (megacrit)
 #. source: Megacrit
@@ -788,9 +724,7 @@ msgstr "เมก้าคริติคอล"
 #. Plugin - description (megacrit)
 #. source: Increase Crit Chance +40%.\nCrit Chance above 100% can Megacrit for double Crit Damage.
 msgid "PLUGIN.megacrit.description"
-msgstr ""
-"โอกาสคริ +40%\n"
-"หากโอกาสคริเกิน 100% สามารถทำดาเมจคริได้เป็นสองเท่า"
+msgstr "โอกาสคริ +40%\nหากโอกาสคริเกิน 100% สามารถทำดาเมจคริได้เป็นสองเท่า"
 
 #. Plugin - name (hyperthread)
 #. source: Hyperthreading
@@ -800,9 +734,7 @@ msgstr "ไฮเปอร์เธรดดิ้ง"
 #. Plugin - description (hyperthread)
 #. source: Multiply Weapon Amount 1.5x.\nMultiply Weapon Damage 0.75x.
 msgid "PLUGIN.hyperthread.description"
-msgstr ""
-"จำนวนอาวุธ x1.5\n"
-"ดาเมจอาวุธ x0.75"
+msgstr "จำนวนอาวุธ x1.5\nดาเมจอาวุธ x0.75"
 
 #. Plugin - name (tank_core)
 #. source: Tank Core
@@ -832,9 +764,7 @@ msgstr "รีวอร์ด ลี้ค"
 #. Plugin - description (reward_leak)
 #. source: Spawn 4 CLICK-ME or Memory Leak files around you.
 msgid "PLUGIN.reward_leak.description"
-msgstr ""
-"เรียกไฟล์ CLICK-ME หรือหน่วยความจำรั่วไหล\n"
-"จำนวน 4 ไฟล์รอบๆเคอร์เซอร์"
+msgstr "เรียกไฟล์ CLICK-ME หรือหน่วยความจำรั่วไหล\nจำนวน 4 ไฟล์รอบๆเคอร์เซอร์"
 
 #. Plugin - name (expansion_slot)
 #. source: Expansion Slot
@@ -854,9 +784,7 @@ msgstr "ทาสก์ เมเนเจอร์"
 #. Plugin - description (task_manager)
 #. source: Multiply Weapon Refresh 2.0x.\nMultiply Weapon Size 0.75x.
 msgid "PLUGIN.task_manager.description"
-msgstr ""
-"รีเฟรชอาวุธ x2.0\n"
-"ขนาดอาวุธ x0.75"
+msgstr "รีเฟรชอาวุธ x2.0\nขนาดอาวุธ x0.75"
 
 #. Plugin - name (raid_0)
 #. source: RAID 0
@@ -866,9 +794,7 @@ msgstr "เรด ซีโร่"
 #. Plugin - description (raid_0)
 #. source: Multiply Zip and RAM rewards 2.0x.\nDecrease Zip and RAM success chance.
 msgid "PLUGIN.raid_0.description"
-msgstr ""
-"รางวัลจากไฟล์ Zip และแรม x2.0\n"
-"ลดโอกาสที่จะเปิดไฟล์ Zip และแรมสำเร็จลง"
+msgstr "รางวัลจากไฟล์ Zip และแรม x2.0\nลดโอกาสที่จะเปิดไฟล์ Zip และแรมสำเร็จลง"
 
 #. Plugin - name (system_restore)
 #. source: System Restore
@@ -878,9 +804,7 @@ msgstr "ซิสเต็ม รีสตอร์"
 #. Plugin - description (system_restore)
 #. source: On death, heal 50% of Max HP instead of Blue Screen.\nOnce per stack.
 msgid "PLUGIN.system_restore.description"
-msgstr ""
-"เมื่อพลังชีวิตหมด ฟื้นฟูพลังชีวิต 50% ของพลังชีวิตสูงสุดแทน\n"
-"มีผลหนึ่งครั้งต่อหนึ่งปลั๊กอิน"
+msgstr "เมื่อพลังชีวิตหมด ฟื้นฟูพลังชีวิต 50% ของพลังชีวิตสูงสุดแทน\nมีผลหนึ่งครั้งต่อหนึ่งปลั๊กอิน"
 
 #. Plugin - name (power_user)
 #. source: Power User
@@ -960,10 +884,7 @@ msgstr "โปรโตคอล 5"
 #. Difficulty protocol - description (protocol_5)
 #. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
 msgid "PROTOCOL.protocol_5.description"
-msgstr ""
-"คุณไม่จำเป็นต้องเล่นความยากนี้\n"
-"ได้รับ 64 Beanz ทุกครั้งที่เปิดโฟลเดอร์ปลอดภัย\n"
-"ถ้าคุณรอดไปถึงตอนนั้นได้นะ"
+msgstr "คุณไม่จำเป็นต้องเล่นความยากนี้\nได้รับ 64 Beanz ทุกครั้งที่เปิดโฟลเดอร์ปลอดภัย\nถ้าคุณรอดไปถึงตอนนั้นได้นะ"
 
 #. Stat display - name (upgrade_player_armor)
 #. source: Armo(u)r
@@ -1049,7 +970,7 @@ msgstr "ปริมาณพลังชีวิตที่ฟื้นฟู
 #. source: {sign}{value} HP
 #. Keep placeholders unchanged: {sign}, {value}
 msgid "STAT.format_hp"
-msgstr "{sign}{value} HP"
+msgstr ""
 
 #. Stat display - name (upgrade_player_luck)
 #. source: Luck
@@ -1432,7 +1353,7 @@ msgstr "ปล่อยฟองขนาดใหญ่ลอยไปมา �
 #. Upgrade card - name (weapon_cdrive)
 #. source: C: Drive
 msgid "UPGRADE.weapon_cdrive.name"
-msgstr "C: Drive"
+msgstr ""
 
 #. Upgrade card - description (weapon_cdrive)
 #. source: Drops harddrives randomly on enemies.
@@ -1467,14 +1388,12 @@ msgstr "ฟอนท์อาร์ต"
 #. Upgrade card - description (weapon_fontart)
 #. source: Drops letters on the strongest enemy that add stacks of Heat to enemies.
 msgid "UPGRADE.weapon_fontart.description"
-msgstr ""
-"เรียกตัวอักษรตกลงใส่ศัตรูที่แข็งแกร่งที่สุด\n"
-"สร้างความเสียหายฮีททับซ้อนให้กับศัตรู"
+msgstr "เรียกตัวอักษรตกลงใส่ศัตรูที่แข็งแกร่งที่สุด\nสร้างความเสียหายฮีททับซ้อนให้กับศัตรู"
 
 #. Upgrade card - name (weapon_hitmarkers)
 #. source: HaD: DoCK
 msgid "UPGRADE.weapon_hitmarkers.name"
-msgstr "HaD: DoCK"
+msgstr ""
 
 #. Upgrade card - description (weapon_hitmarkers)
 #. source: Shots land on the nearest enemy. 3% chance of a headshot.
@@ -1569,9 +1488,7 @@ msgstr "ไมน์ส"
 #. Upgrade card - description (weapon_minesweeper)
 #. source: Tosses mines that plant, then explode when an enemy touches them.
 msgid "UPGRADE.weapon_minesweeper.description"
-msgstr ""
-"วางกับระเบิดรอบตัวและทำการระเบิดตัวเอง\n"
-"เมื่อถูกศัตรูสัมผัส"
+msgstr "วางกับระเบิดรอบตัวและทำการระเบิดตัวเอง\nเมื่อถูกศัตรูสัมผัส"
 
 #. Upgrade card - name (weapon_email)
 #. source: Email
@@ -1581,9 +1498,7 @@ msgstr "อีเมล"
 #. Upgrade card - description (weapon_email)
 #. source: Envelopes fly out, bounce off walls, and boomerang home hitting both ways.
 msgid "UPGRADE.weapon_email.description"
-msgstr ""
-"ปล่อยซองจดหมายที่จะเด้งสะท้อนขอบกำแพง\n"
-"ย้อนกลับมาที่เคอร์เซอร์ ทำดาเมจสองรอบ"
+msgstr "ปล่อยซองจดหมายที่จะเด้งสะท้อนขอบกำแพง\nย้อนกลับมาที่เคอร์เซอร์ ทำดาเมจสองรอบ"
 
 #. Upgrade card - name (weapon_cruiser)
 #. source: Internet Cruiser
@@ -1603,21 +1518,17 @@ msgstr "ออเครสตร้า"
 #. Upgrade card - description (weapon_orchestra)
 #. source: Opens a browser tab on the closest enemy on screen. Infects, and sometimes executes.
 msgid "UPGRADE.weapon_orchestra.description"
-msgstr ""
-"เปิดหน้าแท็บเบราเซอร์ใส่ศัตรูที่อยู่ใกล้ที่สุดบนจอ\n"
-"สร้างความเสียหายอินเฟ็คท์และมีโอกาสทำลายศัตรูแบบทันที"
+msgstr "เปิดหน้าแท็บเบราเซอร์ใส่ศัตรูที่อยู่ใกล้ที่สุดบนจอ\nสร้างความเสียหายอินเฟ็คท์และมีโอกาสทำลายศัตรูแบบทันที"
 
 #. Upgrade card - name (weapon_satellite)
 #. source: WLAN
 msgid "UPGRADE.weapon_satellite.name"
-msgstr "WLAN"
+msgstr ""
 
 #. Upgrade card - description (weapon_satellite)
 #. source: Deploys a dish that pings nearby enemies with Lag signals.
 msgid "UPGRADE.weapon_satellite.description"
-msgstr ""
-"วางจานปล่อยสัญญาณที่จะปิงศัตรูที่อยู่ใกล้ที่สุด\n"
-"ด้วยคลื่นสัญญาณแล็ก"
+msgstr "วางจานปล่อยสัญญาณที่จะปิงศัตรูที่อยู่ใกล้ที่สุด\nด้วยคลื่นสัญญาณแล็ก"
 
 #. Upgrade card - name (weapon_avn)
 #. source: AVN Chat
@@ -1647,9 +1558,7 @@ msgstr "บลาทานด์"
 #. Upgrade card - description (weapon_blatand)
 #. source: Chains dashed Infect links between enemies at a fixed link length.
 msgid "UPGRADE.weapon_blatand.description"
-msgstr ""
-"เชื่อมต่อสัญญาณลิ้งก์ในระยะแบบลูกโซ่\n"
-"สร้างความเสียหายอินเฟ็คท์ให้กับศัตรูที่เคลื่อนที่ผ่าน"
+msgstr "เชื่อมต่อสัญญาณลิ้งก์ในระยะแบบลูกโซ่\nสร้างความเสียหายอินเฟ็คท์ให้กับศัตรูที่เคลื่อนที่ผ่าน"
 
 #. Upgrade card - name (weapon_modem)
 #. source: Output Device
@@ -1839,7 +1748,7 @@ msgstr "รีไซเคลอร์"
 #. Enemy sniper-feed name - name (dxdiag)
 #. source: GfxDiag
 msgid "ENEMY.dxdiag.name"
-msgstr "GfxDiag"
+msgstr ""
 
 #. Enemy sniper-feed name - name (burning_disc)
 #. source: PyroDisc
@@ -1849,7 +1758,7 @@ msgstr "ไพโรดิสก์"
 #. Enemy sniper-feed name - name (click_me)
 #. source: CLICK-ME.TXT.vbs
 msgid "ENEMY.click_me.name"
-msgstr "CLICK-ME.TXT.vbs"
+msgstr ""
 
 #. Enemy sniper-feed name - name (shooter)
 #. source: AVN Buddy
@@ -1869,7 +1778,7 @@ msgstr "หน่วยความจำรั่วไหล"
 #. Enemy sniper-feed name
 #. source: memory_leak.reg
 msgid "ENEMY.memory_leak.filename"
-msgstr "memory_leak.reg"
+msgstr ""
 
 #. Settings menu
 #. source: Unlimited
@@ -2303,7 +2212,7 @@ msgstr "กำลังโหลด"
 #. source: %d KB/s
 #. Keep placeholders unchanged: %d
 msgid "TORRENT.speed"
-msgstr "ความเร็ว"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Vapor - Validating files - {0}% complete
@@ -2361,7 +2270,7 @@ msgstr "บันทึกเดโม่"
 #. source: %d Beanz
 #. Keep placeholders unchanged: %d
 msgid "UI.login_profile_detail"
-msgstr "%d Beanz"
+msgstr ""
 
 #. Login screen - second click confirms removing an entry
 #. source: Click again to remove
@@ -2376,10 +2285,7 @@ msgstr "เข้าสู่ระบบ"
 #. Login screen - click your user name prompt
 #. source: To begin, click your user name.\nAfter you log on, you can change profiles.\nJust click on your name at the top of the menu.
 msgid "UI.login_prompt"
-msgstr ""
-"ขั้นแรก คลิกชื่อผู้ใช้งานของคุณ\n"
-"หลังจากเข้าสู่ระบบ คุณสามารถเปลี่ยนรูปโปรไฟล์\n"
-"โดยการคลิกชื่อของคุณที่ด้านบนขอแถบเมนู"
+msgstr "ขั้นแรก คลิกชื่อผู้ใช้งานของคุณ\nหลังจากเข้าสู่ระบบ คุณสามารถเปลี่ยนรูปโปรไฟล์\nโดยการคลิกชื่อของคุณที่ด้านบนขอแถบเมนู"
 
 #. Login screen - turn off computer button
 #. source: Turn off computer
@@ -2551,7 +2457,7 @@ msgstr "ธีมพิงก์"
 #. Personalise - avatar name
 #. source: Beanz
 msgid "UI.avatar_beanz"
-msgstr "Beanz"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Giraffe
@@ -2591,7 +2497,7 @@ msgstr "ออเครสตร้า"
 #. Personalise - avatar name
 #. source: Zip
 msgid "UI.avatar_zip"
-msgstr "Zip"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Crawler
@@ -2706,15 +2612,12 @@ msgstr "คอมมิวนิตี้แปลภาษา"
 #. Credits window - role title
 #. source: Special Thanks
 msgid "CREDITS.special_thanks"
-msgstr "Special Thanks"
+msgstr ""
 
 #. Credits window - note under Special Thanks
 #. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
 msgid "CREDITS.special_thanks_note"
-msgstr ""
-"ขอบคุณทุกคนที่ช่วยเหลือผม\n"
-"ทำความฝันให้สำเร็จจนได้\n"
-"รักทุกคนมาก! - ชอว์น"
+msgstr "ขอบคุณทุกคนที่ช่วยเหลือผม\nทำความฝันให้สำเร็จจนได้\nรักทุกคนมาก! - ชอว์น"
 
 #. Profile stats window - statistics tab
 #. source: Stats
@@ -3403,7 +3306,7 @@ msgstr "กฎเกณฑ์"
 #. Policies list column - Beanz
 #. source: Beanz
 msgid "UI.policies_col_beanz"
-msgstr "Beanz"
+msgstr ""
 
 #. Policies list column - enabled/disabled
 #. source: Security Setting
@@ -3472,7 +3375,7 @@ msgstr "ปลดล็อค%s"
 #. source: %s +%d Beanz
 #. Keep placeholders unchanged: %s, %d
 msgid "UI.task_category_beanz"
-msgstr "%s +%d Beanz"
+msgstr ""
 
 #. Weapon driver unlock requirement template
 #. source: Reach level {amount} with {weapon} in a single run
@@ -3511,8 +3414,6 @@ msgstr "จัดเรียงข้อมูล"
 #. source: %2.2f KB
 msgid "UI.defrag_capacity"
 msgstr ""
-"UI (รันผ่านสคริปท์)\n"
-"‪ซอร์ส: %2.2f KB"
 
 #. Upgrade screen - speech prompt
 #. source: Select an upgrade to continue.
@@ -3591,9 +3492,7 @@ msgstr "เคอร์เซอร์แต่ละชนิดจะมีส
 #. Starter folder difficulty category help
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
 msgid "UI.starter_help_difficulty"
-msgstr ""
-"ระดับความยากโฟลเดอร์มีรูปแบบการเล่นแตกต่างกัน\n"
-"ตามความยากของศัตรู รางวัล และสิ่งที่ปลดล็อคได้"
+msgstr "ระดับความยากโฟลเดอร์มีรูปแบบการเล่นแตกต่างกัน\nตามความยากของศัตรู รางวัล และสิ่งที่ปลดล็อคได้"
 
 #. Starter folder policies category help
 #. source: Optional extra rules on top of the protocol. Completing them earns more Beanz.
@@ -3619,92 +3518,47 @@ msgstr "ไกด์สอนเล่นแบบรวดรัด"
 #. source: Welcome to {game}!\n\nI'm Virry, and I'm going to take you through some basics of how to play.
 #. Keep placeholders unchanged: {game}
 msgid "UI.tutorial_1_body"
-msgstr ""
-"ยินดีต้อนรับเข้าสู่ {game}!\n"
-"\n"
-"ฉันมีชื่อว่า Virry และตอนนี้ฉันจะพาคุณไปทำความเข้าใจกับวิธีการเล่นเบื้องต้น"
+msgstr "ยินดีต้อนรับเข้าสู่ {game}!\n\nฉันมีชื่อว่า Virry และตอนนี้ฉันจะพาคุณไปทำความเข้าใจกับวิธีการเล่นเบื้องต้น"
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
 #. Keep placeholders unchanged: {move}, {click}, {drag}
 msgid "UI.tutorial_2_body"
-msgstr ""
-"อันดับแรก มาลองเคลื่อนเคอร์เซอร์กันดีกว่า\n"
-"\n"
-"กด {move} เพื่อเคลื่อนเคอร์เซอร์ไปรอบๆบนจอ\n"
-"\n"
-"กด {click} เพื่อคลิก และอย่างลืมว่าต้องกดดับเบิลคลิกเพื่อเปิดไฟล์นะ\n"
-"\n"
-"คุณสามารถกด {drag} ค้างเพื่อลากไฟล์ไปมาในโฟลเดอร์ได้"
+msgstr "อันดับแรก มาลองเคลื่อนเคอร์เซอร์กันดีกว่า\n\nกด {move} เพื่อเคลื่อนเคอร์เซอร์ไปรอบๆบนจอ\n\nกด {click} เพื่อคลิก และอย่างลืมว่าต้องกดดับเบิลคลิกเพื่อเปิดไฟล์นะ\n\nคุณสามารถกด {drag} ค้างเพื่อลากไฟล์ไปมาในโฟลเดอร์ได้"
 
 #. Tutorial page 3 - class, protocol, policies
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
-msgstr ""
-"สำหรับการเตรียมพร้อมเล่น คุณสามารถเลือก{class}และ{difficulty}ได้\n"
-"\n"
-"แต่สำหรับตอนนี้ เลือกเคอร์เซอร์{default}ไปก่อนนะ เคอร์เซอร์อื่นๆจะทยอยปล่อยให้ปลดล็อคหลังจากเล่นไปซักพักแล้ว\n"
-"\n"
-"เลือกระดับความยาก โปรโตคอล 1 - 3\n"
-"\n"
-"หากเล่นจบโปรโตคอล จะปลดล็อค{policies}ที่จะมอบความท้าทายเพิ่มเติมให้คุณ\n"
-"\n"
-"เอาล่ะ เลือก{class}และ{difficulty}ที่ต้องการเลย!"
+msgstr "สำหรับการเตรียมพร้อมเล่น คุณสามารถเลือก{class}และ{difficulty}ได้\n\nแต่สำหรับตอนนี้ เลือกเคอร์เซอร์{default}ไปก่อนนะ เคอร์เซอร์อื่นๆจะทยอยปล่อยให้ปลดล็อคหลังจากเล่นไปซักพักแล้ว\n\nเลือกระดับความยาก โปรโตคอล 1 - 3\n\nหากเล่นจบโปรโตคอล จะปลดล็อค{policies}ที่จะมอบความท้าทายเพิ่มเติมให้คุณ\n\nเอาล่ะ เลือก{class}และ{difficulty}ที่ต้องการเลย!"
 
 #. Tutorial page 4 - {drivers}
 #. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
 #. Keep placeholders unchanged: {drivers}
 msgid "UI.tutorial_4_body"
-msgstr ""
-"คุณสามารถเลือกอาวุธเริ่มต้นของคุณได้หนึ่งอย่าง\n"
-"\n"
-"หลังจากเล่นจนเลเวลอัปไปซักพักก็จะมีอาวุธให้เลือกเพิ่มเติมในรอบการเล่น\n"
-"\n"
-"และเมื่อคุณเลเวลอัป คุณสามารถเลือกระหว่างอัปเกรดอาวุธหรือตัวเคอร์เซอร์ได้\n"
-"\n"
-"เมื่ออาวุธของคุณถึงเลเวลที่ต้องการ คุณจะปลดล็อค{drivers}ที่ช่วยอัปเกรดอาวุธของคุณให้แข็งแกร่งมากยิ่งขึ้น"
+msgstr "คุณสามารถเลือกอาวุธเริ่มต้นของคุณได้หนึ่งอย่าง\n\nหลังจากเล่นจนเลเวลอัปไปซักพักก็จะมีอาวุธให้เลือกเพิ่มเติมในรอบการเล่น\n\nและเมื่อคุณเลเวลอัป คุณสามารถเลือกระหว่างอัปเกรดอาวุธหรือตัวเคอร์เซอร์ได้\n\nเมื่ออาวุธของคุณถึงเลเวลที่ต้องการ คุณจะปลดล็อค{drivers}ที่ช่วยอัปเกรดอาวุธของคุณให้แข็งแกร่งมากยิ่งขึ้น"
 
 #. Tutorial page 5 - {safe}
 #. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
 #. Keep placeholders unchanged: {safe}
 msgid "UI.tutorial_5_body"
-msgstr ""
-"เป้าหมายของคุณก็คือ เอาชีวิตรอดจนจบรอบ\n"
-"\n"
-"แต่ละรอบจะมีด่าน 5 ด่าน แต่ละด่านจะมีเวลานับถอยหลัง ด่านละ 5 นาที \n"
-"\n"
-"หาทางไปยัง{safe}ในช่วงเวลาสุดท้ายเพื่อเล่นด่านถัดไป"
+msgstr "เป้าหมายของคุณก็คือ เอาชีวิตรอดจนจบรอบ\n\nแต่ละรอบจะมีด่าน 5 ด่าน แต่ละด่านจะมีเวลานับถอยหลัง ด่านละ 5 นาที \n\nหาทางไปยัง{safe}ในช่วงเวลาสุดท้ายเพื่อเล่นด่านถัดไป"
 
 #. Tutorial page 6
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
-msgstr ""
-"วิธีเอาตัวรอด:\n"
-"หลบศัตรู เก็บ EXP และเหรียญ อัปเกรดเคอร์เซอร์ และเปิดไฟล์ต่างๆ\n"
-"\n"
-"บางไฟล์ก็ไม่ปลอดภัย บางไฟล์ต้องการคีย์ และบางไฟล์ก็การันตีที่จะได้รับรางวัล\n"
-"\n"
-"ในแต่ละด่านก็จะมีเป้าหมายที่คุณที่ต้องทำเพื่อรับรางวัล ตั้งอยู่มุมขวาบน"
+msgstr "วิธีเอาตัวรอด:\nหลบศัตรู เก็บ EXP และเหรียญ อัปเกรดเคอร์เซอร์ และเปิดไฟล์ต่างๆ\n\nบางไฟล์ก็ไม่ปลอดภัย บางไฟล์ต้องการคีย์ และบางไฟล์ก็การันตีที่จะได้รับรางวัล\n\nในแต่ละด่านก็จะมีเป้าหมายที่คุณที่ต้องทำเพื่อรับรางวัล ตั้งอยู่มุมขวาบน"
 
 #. Tutorial page 7 - {safe} {vapor}
 #. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
 #. Keep placeholders unchanged: {safe}, {vapor}
 msgid "UI.tutorial_7_body"
-msgstr ""
-"คุณจะได้รับ Beanz จากการจัดการศัตรูและเอาตัวรอดไปถึง{safe}ทันเวลา\n"
-"\n"
-"หากทำภารกิจสำเร็จก็จะสามารถรับ Beanz เพิ่มเติมได้\n"
-"\n"
-"เอา Beanz พวกนั้นมาซื้อเคอร์เซอร์ใหม่ อาวุธใหม่ อัปเกรดใหม่ ปลั๊กอินใหม่ ไฟล์ใหม่ ไอเท็ม{vapor} และของอื่นๆที่มีให้เลือกอีกเพียบ!"
+msgstr "คุณจะได้รับ Beanz จากการจัดการศัตรูและเอาตัวรอดไปถึง{safe}ทันเวลา\n\nหากทำภารกิจสำเร็จก็จะสามารถรับ Beanz เพิ่มเติมได้\n\nเอา Beanz พวกนั้นมาซื้อเคอร์เซอร์ใหม่ อาวุธใหม่ อัปเกรดใหม่ ปลั๊กอินใหม่ ไฟล์ใหม่ ไอเท็ม{vapor} และของอื่นๆที่มีให้เลือกอีกเพียบ!"
 
 #. Tutorial page 8
 #. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
 msgid "UI.tutorial_8_body"
-msgstr ""
-"และนี่คือทั้งหมดที่ฉันสามารถสอนได้!\n"
-"\n"
-"เลือกอาวุธ เริ่มเกม เอาชีวิตรอด และก็ขอให้เล่นสนุกนะ :)"
+msgstr "และนี่คือทั้งหมดที่ฉันสามารถสอนได้!\n\nเลือกอาวุธ เริ่มเกม เอาชีวิตรอด และก็ขอให้เล่นสนุกนะ :)"
 
 #. Plus! cleared. %s is the elite name, %s is the dropped filename
 #. source: %s cleared, %s dropped.
@@ -3716,7 +3570,7 @@ msgstr "จัดการ %s สำเร็จ ดรอป%s"
 #. source: %d %s
 #. Keep placeholders unchanged: %d, %s
 msgid "UI.notif_elites_named"
-msgstr "%d %s"
+msgstr ""
 
 #. Multi Plus! toast when types are mixed. %d is how many spawned together
 #. source: %d Plus! enemies
@@ -3794,7 +3648,7 @@ msgstr "เสร็จสิ้น"
 #. Vapidshare list hoster column
 #. source: vapidshare.com
 msgid "UI.vapidshare_hoster"
-msgstr "vapidshare.com"
+msgstr ""
 
 #. Vapidshare list Hoster header
 #. source: Hoster
@@ -3885,26 +3739,7 @@ msgstr "คุณชนะ!"
 #. source: A fatal exception has occurred and the system has been terminated to prevent corruption.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nIf this is the first time you've seen this termination screen, restart your system.\nIf this screen appears again, internal modules may have been compromised.\n\nPlease verify the integrity of your installed components. Unexpected behavior may\nindicate corrupted memory, invalid packet injection, or unauthorized script execution.\n\nIf the issue persists, perform a secure reboot or contact your system's internal administrator.\n\nTechnical Dump:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nBeginning forced shutdown...\nMemory cache flushed.\n\nPress {click} to continue. {tab} for stats
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
-msgstr ""
-"เกิดข้อผิดพลาดร้ายแรง ระบบได้ยุติการทำงานเพื่อป้องกันข้อมูลเสียหาย\n"
-"\n"
-"CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
-"\n"
-"หากนี่เป็นครั้งแรกที่คุณเห็นหน้าจอยุติการทำงาน กรุณารีสตาร์ทคอมพิวเตอร์ของคุณ\n"
-"หากหน้าจอนี้ยังคงเกิดขึ้นอีกครั้ง โมดูลภายในระบบอาจได้รับความเสียหายจากการถูกโจมตี\n"
-"\n"
-"โปรดตรวจสอบความสมบูรณ์ของส่วนประกอบที่ติดตั้ง การทำงานที่ผิดปกติจากการฝังโค้ดอันตราย\n"
-"หรือการรันสคริปต์ที่ไม่ได้รับอนุญาตอาจเป็นสาเหตุที่ทำให้ข้อมูลเกิดความเสียหาย\n"
-"\n"
-"หากปัญหายังคงอยู่ ให้ทำการรีบู้ตแบบปลอดภัยหรือติดต่อผู้ดูแลระบบภายในของคุณ\n"
-"\n"
-"ข้อมูลทางเทคนิค:\n"
-"STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n"
-"\n"
-"บังคับเริ่มการชัตดาวน์...\n"
-"ล้างหน่วยความจำแคช\n"
-"\n"
-"กด {click} เพื่อดำเนินการต่อ กด {tab} เพื่อดูสถิติ"
+msgstr "เกิดข้อผิดพลาดร้ายแรง ระบบได้ยุติการทำงานเพื่อป้องกันข้อมูลเสียหาย\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nหากนี่เป็นครั้งแรกที่คุณเห็นหน้าจอยุติการทำงาน กรุณารีสตาร์ทคอมพิวเตอร์ของคุณ\nหากหน้าจอนี้ยังคงเกิดขึ้นอีกครั้ง โมดูลภายในระบบอาจได้รับความเสียหายจากการถูกโจมตี\n\nโปรดตรวจสอบความสมบูรณ์ของส่วนประกอบที่ติดตั้ง การทำงานที่ผิดปกติจากการฝังโค้ดอันตราย\nหรือการรันสคริปต์ที่ไม่ได้รับอนุญาตอาจเป็นสาเหตุที่ทำให้ข้อมูลเกิดความเสียหาย\n\nหากปัญหายังคงอยู่ ให้ทำการรีบู้ตแบบปลอดภัยหรือติดต่อผู้ดูแลระบบภายในของคุณ\n\nข้อมูลทางเทคนิค:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nบังคับเริ่มการชัตดาวน์...\nล้างหน่วยความจำแคช\n\nกด {click} เพื่อดำเนินการต่อ กด {tab} เพื่อดูสถิติ"
 
 #. Browser address-bar caption
 #. source: Address
@@ -3945,7 +3780,7 @@ msgstr "เคลียร์โซน - เลือกปลั๊กอิน
 #. source: %d / %d
 #. Keep placeholders unchanged: %d
 msgid "UI.rar_progress"
-msgstr "%d / %d"
+msgstr ""
 
 #. Clearzone archive clears label
 #. source: Clears
@@ -3966,7 +3801,7 @@ msgstr "เวลา"
 #. source: %d KB
 #. Keep placeholders unchanged: %d
 msgid "UI.rar_size_kb"
-msgstr "%d KB"
+msgstr ""
 
 #. Torrent window title
 #. source: BigWave 2003 Edition
@@ -3998,7 +3833,7 @@ msgstr "รีโรล: %.2f เหรียญ"
 #. source: Beanz: %d
 #. Keep placeholders unchanged: %d
 msgid "UI.beanz"
-msgstr "Beanz: %d"
+msgstr ""
 
 #. HUD - Coin label
 #. source: Coin: %.2f
@@ -4046,7 +3881,7 @@ msgstr "กด {close} เพื่อรีบู้ตกลับไปหน
 #. source: HP: %d/%d
 #. Keep placeholders unchanged: %d
 msgid "UI.hp"
-msgstr "HP: %d/%d"
+msgstr ""
 
 #. Unlock requirement - clear N enemies
 #. source: Clear {amount} enemies
@@ -4330,7 +4165,7 @@ msgstr "เร่งความเร็วเคอร์เซอร์ใน
 #. UI (script-driven)
 #. source: N2O
 msgid "UI.unlock_widget_nos_reward"
-msgstr "N2O"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Commit crimes for coin while dodging the heat.
@@ -4375,9 +4210,7 @@ msgstr "เฮลท์ เช็ค พลัส"
 #. UI (script-driven)
 #. source: Invest Coin between battles and cash out later.
 msgid "UI.unlock_file_stock_trader_desc"
-msgstr ""
-"นำเหรียญไปลงทุนระหว่างการต่อสู้แล้วถอนเหรียญ\n"
-"ออกทีหลัง"
+msgstr "นำเหรียญไปลงทุนระหว่างการต่อสู้แล้วถอนเหรียญ\nออกทีหลัง"
 
 #. UI (script-driven)
 #. source: Finance Manager
@@ -4417,9 +4250,7 @@ msgstr "ตัวติดตั้งปลั๊กอินแคร็ก"
 #. UI (script-driven)
 #. source: Clear a zone of enemies to choose from three plugins.
 msgid "UI.unlock_file_killzone_desc"
-msgstr ""
-"จัดการศัตรูในพื้นที่โดยรอบแล้วเลือกปลั๊กอินจากตัวเลือก\n"
-"3 อย่าง"
+msgstr "จัดการศัตรูในพื้นที่โดยรอบแล้วเลือกปลั๊กอินจากตัวเลือก\n3 อย่าง"
 
 #. UI (script-driven)
 #. source: Clearzone
@@ -4449,9 +4280,7 @@ msgstr "จัดการศัตรูพลัส! ภายใน 10 วิ
 #. UI (script-driven)
 #. source: Install Morgan Antivirus to raise difficulty and spawn extra Plus! enemies.
 msgid "UI.unlock_file_morgan_av_desc"
-msgstr ""
-"ติดตั้งมอร์แกน แอนตี้ไวรัส\n"
-"เพิ่มความยากและเพิ่มจำนวนศัตรูพลัส!"
+msgstr "ติดตั้งมอร์แกน แอนตี้ไวรัส\nเพิ่มความยากและเพิ่มจำนวนศัตรูพลัส!"
 
 #. UI (script-driven)
 #. source: Bonus Beanz
@@ -4725,9 +4554,7 @@ msgstr "จ่าย {cost} เหรียญเพื่อซื้อ 1 ค�
 #. source: Sell 1 Key for {cost} Coin.\nMarketplace fee keeps {fee} Coin.
 #. Keep placeholders unchanged: {cost}, {fee}
 msgid "UI.keybuy_sell_tooltip"
-msgstr ""
-"ขาย 1 คีย์เป็นเงิน {cost} เหรียญ\n"
-"ตลาดมีค่าธรรมเนียม {fee} เหรียญ"
+msgstr "ขาย 1 คีย์เป็นเงิน {cost} เหรียญ\nตลาดมีค่าธรรมเนียม {fee} เหรียญ"
 
 #. KeyBuy nav links under the logo
 #. source: home | buy | sell | my keys | help
@@ -4762,9 +4589,7 @@ msgstr "อัปเกรด"
 #. Health Check Pro upgrade-files tooltip
 #. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
-msgstr ""
-"ไฟล์ตรวจสภาพจะมอบหัวใจเพิ่มขึ้น\n"
-"ในการต่อสู้รอบถัดๆไป"
+msgstr "ไฟล์ตรวจสภาพจะมอบหัวใจเพิ่มขึ้น\nในการต่อสู้รอบถัดๆไป"
 
 #. Health Check Pro heal tooltip
 #. source: Restore 50% of your Max HP right now.
@@ -4789,9 +4614,7 @@ msgstr "รักษาด่วน"
 #. Health Check Pro file-upgrade explanation
 #. source: Upgrading makes Health Check files in battle drop more hearts.
 msgid "UI.health_check_pro_file_blurb"
-msgstr ""
-"หากอัปเกรดจะทำให้ไฟล์ตรวจสภาพ\n"
-"ดรอปหัวใจเพิ่มขึ้นในการต่อสู้"
+msgstr "หากอัปเกรดจะทำให้ไฟล์ตรวจสภาพ\nดรอปหัวใจเพิ่มขึ้นในการต่อสู้"
 
 #. Health Check Pro current heart range
 #. source: Now: {min}–{max} HP
@@ -5170,7 +4993,7 @@ msgstr "ดาเมจในรอบนี้: %.0f"
 #. source: DPS: %.1f
 #. Keep placeholders unchanged: %.1f
 msgid "TOOLTIP.run_dps"
-msgstr "DPS: %.1f"
+msgstr ""
 
 #. Stat tooltip
 #. source: Hits: %d
@@ -5227,23 +5050,19 @@ msgstr "ต้องการ: %d Beanz"
 #. Zip window titlebar when SHZip License is equipped
 #. source: SHZip v2.03
 msgid "ZIP.title_licensed"
-msgstr "SHZip v2.03"
+msgstr ""
 
 #. Zip extractor window
 #. source: Extracting file: \n%s from /.???
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracting"
-msgstr ""
-"ดำเนินการแตกไฟล์: \n"
-"%s จาก /.???"
+msgstr "ดำเนินการแตกไฟล์: \n%s จาก /.???"
 
 #. Zip extractor window
 #. source: Estimated time left: {m}m {s}s ({cur} KB of {max} KB) \nProcessing rate: {rate} KB/Sec
 #. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
 msgid "ZIP.progress"
-msgstr ""
-"เวลาที่เหลือ: {m} นาที {s} วินาที ({cur} KB จาก {max} KB) \n"
-"ความเร็วประมวลผล: {rate} KB/วินาที"
+msgstr "เวลาที่เหลือ: {m} นาที {s} วินาที ({cur} KB จาก {max} KB) \nความเร็วประมวลผล: {rate} KB/วินาที"
 
 #. Zip extractor window
 #. source: %s extracted successfully.
@@ -5260,32 +5079,32 @@ msgstr "พบตำแหน่งไฟล์ %s"
 #. Desktop icon tooltip
 #. source: BigWave.exe
 msgid "CLICKABLE.filename.torrent"
-msgstr "BigWave.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: LemWire.exe
 msgid "CLICKABLE.filename.lemwire"
-msgstr "LemWire.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: Installer.pgi
 msgid "CLICKABLE.filename.installer"
-msgstr "Installer.pgi"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: cracked_installer.pgi
 msgid "CLICKABLE.filename.cracked_installer"
-msgstr "cracked_installer.pgi"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: LEGENDARY_SETUP.exe
 msgid "CLICKABLE.filename.legendary_installer"
-msgstr "LEGENDARY_SETUP.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: MorganAV.pgi
 msgid "CLICKABLE.filename.morgan_av"
-msgstr "MorganAV.pgi"
+msgstr ""
 
 #. Run stats panel row
 #. source: Difficulty
@@ -5458,7 +5277,7 @@ msgstr "Beanz ที่ได้รับในโฟลเดอร์ต่อ
 #. Run and last-round DPS label
 #. source: DPS
 msgid "RUNSTAT.dps"
-msgstr "DPS"
+msgstr ""
 
 #. Run DPS tooltip
 #. source: Damage per second this run, during Battle Folders only.
@@ -5547,19 +5366,19 @@ msgstr "ดาวน์โหลดแรมสำเร็จ"
 
 #. keygen
 msgid "keygen.exe"
-msgstr "keygen.exe"
+msgstr ""
 
 #. vapor
 msgid "vapor.exe"
-msgstr "vapor.exe"
+msgstr ""
 
 #. frenzy
 msgid "frenzy.exe"
-msgstr "frenzy.exe"
+msgstr ""
 
 #. Vapidshare
 msgid "Vapidshare.exe"
-msgstr "Vapidshare.exe"
+msgstr ""
 
 #. Scene label
 msgid "Feedback"
@@ -5579,7 +5398,7 @@ msgstr "GitHub การแปลภาษา"
 
 #. avs03
 msgid "avs03.com"
-msgstr "avs03.com"
+msgstr ""
 
 #. Scene label
 msgid "Level 8"
@@ -5610,9 +5429,7 @@ msgstr "โอเวอร์คล็อค"
 #. Weapon driver / overclock card - description (overclocked)
 #. source: Multiply Damage 1.6x.\nReduce Refresh -15%.
 msgid "DRIVER.overclocked.description"
-msgstr ""
-"ดาเมจอาวุธ x1.6\n"
-"ความเร็วรีเฟรชอาวุธ -15%"
+msgstr "ดาเมจอาวุธ x1.6\nความเร็วรีเฟรชอาวุธ -15%"
 
 #. Weapon driver / overclock card - name (hyperthreaded)
 #. source: Hyperthreaded
@@ -5622,9 +5439,7 @@ msgstr "ไฮเปอร์เธรด"
 #. Weapon driver / overclock card - description (hyperthreaded)
 #. source: Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.hyperthreaded.description"
-msgstr ""
-"จำนวนอาวุธ +2\n"
-"ดาเมจอาวุธ -20%"
+msgstr "จำนวนอาวุธ +2\nดาเมจอาวุธ -20%"
 
 #. Weapon driver / overclock card - name (turbo_clock)
 #. source: Turbo Clock
@@ -5634,9 +5449,7 @@ msgstr "เทอร์โบคล็อค"
 #. Weapon driver / overclock card - description (turbo_clock)
 #. source: Increase Speed +50%.\nReduce Power -15%.
 msgid "DRIVER.turbo_clock.description"
-msgstr ""
-"ความเร็วอาวุธ +50%\n"
-"พลังอาวุธ -15%"
+msgstr "ความเร็วอาวุธ +50%\nพลังอาวุธ -15%"
 
 #. Weapon driver / overclock card - name (bloated_cache)
 #. source: Bloated Cache
@@ -5686,9 +5499,7 @@ msgstr "อะเวย์ เมจเสจ"
 #. Weapon driver / overclock card - description (avn_away)
 #. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
 msgid "DRIVER.avn_away.description"
-msgstr ""
-"จำนวนอาวุธ +1 ความเร็วอาวุธ +20%\n"
-"ขนาดอาวุธ +15%"
+msgstr "จำนวนอาวุธ +1 ความเร็วอาวุธ +20%\nขนาดอาวุธ +15%"
 
 #. Weapon driver / overclock card - name (avn_buddy)
 #. source: Buddy List
@@ -5698,9 +5509,7 @@ msgstr "บัดดี้ ลิสต์"
 #. Weapon driver / overclock card - description (avn_buddy)
 #. source: Add +2 Amount.\nIncrease Power +15%.
 msgid "DRIVER.avn_buddy.description"
-msgstr ""
-"จำนวนอาวุธ +2 \n"
-"พลังอาวุธ +15%"
+msgstr "จำนวนอาวุธ +2 \nพลังอาวุธ +15%"
 
 #. Weapon driver / overclock card - name (blatand_pair)
 #. source: Paired Devices
@@ -5710,9 +5519,7 @@ msgstr "แพร์ ดีไวส์"
 #. Weapon driver / overclock card - description (blatand_pair)
 #. source: Add +1 Amount. Increase Power +25%.\nIncrease Speed +20%.
 msgid "DRIVER.blatand_pair.description"
-msgstr ""
-"จำนวนอาวุธ +1 พลังอาวุธ +25%\n"
-"ความเร็วอาวุธ +20%"
+msgstr "จำนวนอาวุธ +1 พลังอาวุธ +25%\nความเร็วอาวุธ +20%"
 
 #. Weapon driver / overclock card - name (bubbles_soap)
 #. source: Soap
@@ -5722,9 +5529,7 @@ msgstr "โซป"
 #. Weapon driver / overclock card - description (bubbles_soap)
 #. source: Add +1 Amount.\nIncrease Size +40%.
 msgid "DRIVER.bubbles_soap.description"
-msgstr ""
-"จำนวนอาวุธ +1\n"
-"ขนาดอาวุธ +40%"
+msgstr "จำนวนอาวุธ +1\nขนาดอาวุธ +40%"
 
 #. Weapon driver / overclock card - name (bubbles_suds)
 #. source: Suds
@@ -5744,9 +5549,7 @@ msgstr "ซี้ก"
 #. Weapon driver / overclock card - description (cdrive_seek)
 #. source: Converts Repel to Lag.\nIncrease Speed +60%.
 msgid "DRIVER.cdrive_seek.description"
-msgstr ""
-"แปลงพลังผลักออกเป็นพลังแล็ก\n"
-"ความเร็วอาวุธ +60%"
+msgstr "แปลงพลังผลักออกเป็นพลังแล็ก\nความเร็วอาวุธ +60%"
 
 #. Weapon driver / overclock card - name (cdrive_cleanup)
 #. source: Disk Cleanup
@@ -5766,9 +5569,7 @@ msgstr "ดีทัวร์"
 #. Weapon driver / overclock card - description (cone_detour)
 #. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
 msgid "DRIVER.cone_detour.description"
-msgstr ""
-"แปลงพลังฮีทเป็นพลังแล็ก ขนาดอาวุธ +35%\n"
-"ดาเมจอาวุธ +15%"
+msgstr "แปลงพลังฮีทเป็นพลังแล็ก ขนาดอาวุธ +35%\nดาเมจอาวุธ +15%"
 
 #. Weapon driver / overclock card - name (cone_workzone)
 #. source: Work Zone
@@ -5778,9 +5579,7 @@ msgstr "เวิร์ก โซน"
 #. Weapon driver / overclock card - description (cone_workzone)
 #. source: Add +1 Amount.\nIncrease Power +30%.
 msgid "DRIVER.cone_workzone.description"
-msgstr ""
-"จำนวนอาวุธ +1\n"
-"พลังอาวุธ +30%"
+msgstr "จำนวนอาวุธ +1\nพลังอาวุธ +30%"
 
 #. Weapon driver / overclock card - name (cruiser_multitab)
 #. source: Browser Hijack
@@ -5790,9 +5589,7 @@ msgstr "เบราเซอร์ ไฮแจ็ค"
 #. Weapon driver / overclock card - description (cruiser_multitab)
 #. source: Converts Lag to Infect. Add +1 Amount.\nIncrease Power +25%.
 msgid "DRIVER.cruiser_multitab.description"
-msgstr ""
-"แปลงพลังแล็กเป็นพลังอินเฟ็คท์ จำนวนอาวุธ +1\n"
-"พลังอาวุธ +25%"
+msgstr "แปลงพลังแล็กเป็นพลังอินเฟ็คท์ จำนวนอาวุธ +1\nพลังอาวุธ +25%"
 
 #. Weapon driver / overclock card - name (cruiser_popup)
 #. source: Popup Storm
@@ -5812,9 +5609,7 @@ msgstr "คลีฟ"
 #. Weapon driver / overclock card - description (cut_cleave)
 #. source: Converts Repel to Infect. Increase Size +80%.\nAdd -0.5 Amount.
 msgid "DRIVER.cut_cleave.description"
-msgstr ""
-"แปลงพลังผลักออกเป็นพลังอินเฟ็คท์ ขนาดอาวุธ +80%\n"
-"จำนวนอาวุธ -0.5"
+msgstr "แปลงพลังผลักออกเป็นพลังอินเฟ็คท์ ขนาดอาวุธ +80%\nจำนวนอาวุธ -0.5"
 
 #. Weapon driver / overclock card - name (cut_papercut)
 #. source: Paper Cut
@@ -5824,9 +5619,7 @@ msgstr "เปเปอร์ คัท"
 #. Weapon driver / overclock card - description (cut_papercut)
 #. source: Add +2 Amount.\nIncrease Speed +25%.
 msgid "DRIVER.cut_papercut.description"
-msgstr ""
-"จำนวนอาวุธ +2\n"
-"ความเร็วอาวุธ +25%"
+msgstr "จำนวนอาวุธ +2\nความเร็วอาวุธ +25%"
 
 #. Weapon driver / overclock card - name (email_cc)
 #. source: Flame Mail
@@ -5836,9 +5629,7 @@ msgstr "เฟลม เมล"
 #. Weapon driver / overclock card - description (email_cc)
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
 msgid "DRIVER.email_cc.description"
-msgstr ""
-"แปลงพลังอินเฟ็คท์เป็นพลังฮีท จำนวนอาวุธ +1\n"
-"ความเร็วอาวุธ +35%"
+msgstr "แปลงพลังอินเฟ็คท์เป็นพลังฮีท จำนวนอาวุธ +1\nความเร็วอาวุธ +35%"
 
 #. Weapon driver / overclock card - name (email_bounce)
 #. source: Undeliverable
@@ -5878,9 +5669,7 @@ msgstr "โบลด์"
 #. Weapon driver / overclock card - description (fontart_bold)
 #. source: Increase Size +60%. Increase Power +60%.\nReduce Amount -25%.
 msgid "DRIVER.fontart_bold.description"
-msgstr ""
-"ขนาดอาวุธ +60% พลังอาวุธ +60%\n"
-"จำนวนอาวุธ -25%"
+msgstr "ขนาดอาวุธ +60% พลังอาวุธ +60%\nจำนวนอาวุธ -25%"
 
 #. Weapon driver / overclock card - name (fontart_wordart)
 #. source: Outline
@@ -5890,9 +5679,7 @@ msgstr "เอาท์ไลน์"
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
 msgid "DRIVER.fontart_wordart.description"
-msgstr ""
-"ขนาดอาวุธ +40%\n"
-"จำนวนอาวุธ +1"
+msgstr "ขนาดอาวุธ +40%\nจำนวนอาวุธ +1"
 
 #. Weapon driver / overclock card - name (fraps_benchmark)
 #. source: Benchmark
@@ -5902,9 +5689,7 @@ msgstr "เบ็นช์มาร์ค"
 #. Weapon driver / overclock card - description (fraps_benchmark)
 #. source: Converts Repel to Heat. Increase Damage +25%.\nIncrease Speed +20%.
 msgid "DRIVER.fraps_benchmark.description"
-msgstr ""
-"แปลงพลังผลักออกเป็นพลังฮีท ดาเมจอาวุธ +25%\n"
-"ความเร็วอาวุธ +20%"
+msgstr "แปลงพลังผลักออกเป็นพลังฮีท ดาเมจอาวุธ +25%\nความเร็วอาวุธ +20%"
 
 #. Weapon driver / overclock card - name (fraps_vsync)
 #. source: VSync
@@ -5914,9 +5699,7 @@ msgstr "วี-ซิงก์"
 #. Weapon driver / overclock card - description (fraps_vsync)
 #. source: FPS numbers bounce off walls.\nIncrease Size +20%.
 msgid "DRIVER.fraps_vsync.description"
-msgstr ""
-"ตัวนับ FPS จะเด้งสะท้อนขอบกำแพง\n"
-"ขนาดอาวุธ +20%"
+msgstr "ตัวนับ FPS จะเด้งสะท้อนขอบกำแพง\nขนาดอาวุธ +20%"
 
 #. Weapon driver / overclock card - name (hitmarkers_headhunter)
 #. source: Headhunter
@@ -5926,9 +5709,7 @@ msgstr "เฮด ฮันเตอร์"
 #. Weapon driver / overclock card - description (hitmarkers_headhunter)
 #. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
 msgid "DRIVER.hitmarkers_headhunter.description"
-msgstr ""
-"เพิ่มโอกาสยิงติดเฮดช็อค แปลงพลังผลักออกเป็นพลังฮีท\n"
-"ดาเมจอาวุธ -15%"
+msgstr "เพิ่มโอกาสยิงติดเฮดช็อค แปลงพลังผลักออกเป็นพลังฮีท\nดาเมจอาวุธ -15%"
 
 #. Weapon driver / overclock card - name (hitmarkers_killstreak)
 #. source: Killstreak
@@ -5948,9 +5729,7 @@ msgstr "อินเซนดิอารี่ ชาร์จ"
 #. Weapon driver / overclock card - description (minesweeper_flag)
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
 msgid "DRIVER.minesweeper_flag.description"
-msgstr ""
-"แปลงพลังผลักออกเป็นพลังฮีท จำนวนอาวุธ +1\n"
-"พลังอาวุธ +20%"
+msgstr "แปลงพลังผลักออกเป็นพลังฮีท จำนวนอาวุธ +1\nพลังอาวุธ +20%"
 
 #. Weapon driver / overclock card - name (minesweeper_chord)
 #. source: Chord
@@ -5970,9 +5749,7 @@ msgstr "ฟี้ดแบ็ค"
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
 msgid "DRIVER.modem_handshake.description"
-msgstr ""
-"แปลงพลังผลักออกเป็นพลังแล็ก จำนวนอาวุธ +1\n"
-"ขนาดอาวุธ +25%"
+msgstr "แปลงพลังผลักออกเป็นพลังแล็ก จำนวนอาวุธ +1\nขนาดอาวุธ +25%"
 
 #. Weapon driver / overclock card - name (modem_broadband)
 #. source: Gain
@@ -5982,9 +5759,7 @@ msgstr "เกน"
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
 msgid "DRIVER.modem_broadband.description"
-msgstr ""
-"ความเร็วอาวุธ +50%\n"
-"ดาเมจอาวุธ +20%"
+msgstr "ความเร็วอาวุธ +50%\nดาเมจอาวุธ +20%"
 
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
 #. source: Tab Overload
@@ -5994,9 +5769,7 @@ msgstr "แท็บ โอเวอร์โหลด"
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
 msgid "DRIVER.orchestra_fortissimo.description"
-msgstr ""
-"แปลงพลังอินเฟ็คท์เป็นพลังฮีท ดาเมจอาวุธ +35%\n"
-"พลังอาวุธ +35%"
+msgstr "แปลงพลังอินเฟ็คท์เป็นพลังฮีท ดาเมจอาวุธ +35%\nพลังอาวุธ +35%"
 
 #. Weapon driver / overclock card - name (orchestra_taskkill)
 #. source: End Process
@@ -6016,9 +5789,7 @@ msgstr "สปิลล์"
 #. Weapon driver / overclock card - description (paint_spill)
 #. source: Increase Size +100%.\nReduce Damage -20%.
 msgid "DRIVER.paint_spill.description"
-msgstr ""
-"ขนาดอาวุธ +100%\n"
-"ดาเมจอาวุธ -20%"
+msgstr "ขนาดอาวุธ +100%\nดาเมจอาวุธ -20%"
 
 #. Weapon driver / overclock card - name (paint_fill)
 #. source: Fill Bucket
@@ -6028,9 +5799,7 @@ msgstr "ฟิลล์ บักเก็ต"
 #. Weapon driver / overclock card - description (paint_fill)
 #. source: Add +1 Amount.\nIncrease Power +40%.
 msgid "DRIVER.paint_fill.description"
-msgstr ""
-"จำนวนอาวุธ +1\n"
-"พลังอาวุธ +40%"
+msgstr "จำนวนอาวุธ +1\nพลังอาวุธ +40%"
 
 #. Weapon driver / overclock card - name (pinball_tilted)
 #. source: Tilted
@@ -6040,9 +5809,7 @@ msgstr "ทิลต์"
 #. Weapon driver / overclock card - description (pinball_tilted)
 #. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
 msgid "DRIVER.pinball_tilted.description"
-msgstr ""
-"เมื่อการโจมตีสะท้อนขอบกำแพง: ขยายขนาดอาวุธ เกิดขึ้นได้สองครั้ง\n"
-"ขนาดอาวุธ -30%"
+msgstr "เมื่อการโจมตีสะท้อนขอบกำแพง: ขยายขนาดอาวุธ เกิดขึ้นได้สองครั้ง\nขนาดอาวุธ -30%"
 
 #. Weapon driver / overclock card - name (quarantine_strict)
 #. source: Strict
@@ -6052,9 +5819,7 @@ msgstr "สตริกท์"
 #. Weapon driver / overclock card - description (quarantine_strict)
 #. source: Converts Repel to Infect.\nIncrease Power +70%.
 msgid "DRIVER.quarantine_strict.description"
-msgstr ""
-"แปลงพลังผลักออกเป็นพลังอินเฟ็คท์\n"
-"พลังอาวุธ +70%"
+msgstr "แปลงพลังผลักออกเป็นพลังอินเฟ็คท์\nพลังอาวุธ +70%"
 
 #. Weapon driver / overclock card - name (quarantine_heuristic)
 #. source: Heuristic
@@ -6064,9 +5829,7 @@ msgstr "ฮิวริสติก"
 #. Weapon driver / overclock card - description (quarantine_heuristic)
 #. source: Increase Damage +40%.\nIncrease Speed +20%.
 msgid "DRIVER.quarantine_heuristic.description"
-msgstr ""
-"ดาเมจอาวุธ +40%\n"
-"ความเร็วอาวุธ +20%"
+msgstr "ดาเมจอาวุธ +40%\nความเร็วอาวุธ +20%"
 
 #. Weapon driver / overclock card - name (satellite_dish)
 #. source: Microwave Dish
@@ -6076,9 +5839,7 @@ msgstr "ไมโครเวฟ ดิช"
 #. Weapon driver / overclock card - description (satellite_dish)
 #. source: Converts Lag to Heat. Increase Size +30%.\nIncrease Speed +15%.
 msgid "DRIVER.satellite_dish.description"
-msgstr ""
-"แปลงพลังแล็กเป็นพลังฮีท ขนาดอาวุธ +30%\n"
-"ความเร็วอาวุธ +15%"
+msgstr "แปลงพลังแล็กเป็นพลังฮีท ขนาดอาวุธ +30%\nความเร็วอาวุธ +15%"
 
 #. Weapon driver / overclock card - name (satellite_uplink)
 #. source: Uplink
@@ -6098,9 +5859,7 @@ msgstr "เวเพิน พอยซั่น"
 #. Weapon driver / overclock card - description (scimitar_dragon)
 #. source: Converts Repel to Infect. Increase Size +50%.\nAdd +1 Amount.
 msgid "DRIVER.scimitar_dragon.description"
-msgstr ""
-"แปลงพลังผลักออกเป็นพลังอินเฟ็คท์ ขนาดอาวุธ +50%\n"
-"จำนวนอาวุธ +1"
+msgstr "แปลงพลังผลักออกเป็นพลังอินเฟ็คท์ ขนาดอาวุธ +50%\nจำนวนอาวุธ +1"
 
 #. Weapon driver / overclock card - name (scimitar_dual)
 #. source: Dual Wield
@@ -6120,9 +5879,7 @@ msgstr "ดีป เสิร์ช"
 #. Weapon driver / overclock card - description (search_deep)
 #. source: Converts Repel to Lag. Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.search_deep.description"
-msgstr ""
-"แปลงพลังผลักออกเป็นพลังแล็ก จำนวนอาวุธ +2\n"
-"ดาเมจอาวุธ -20%"
+msgstr "แปลงพลังผลักออกเป็นพลังแล็ก จำนวนอาวุธ +2\nดาเมจอาวุธ -20%"
 
 #. Weapon driver / overclock card - name (search_indexed)
 #. source: Find Next
@@ -6132,9 +5889,7 @@ msgstr "ไฟนด์ เน็กซ์"
 #. Weapon driver / overclock card - description (search_indexed)
 #. source: Increase Speed +30%.\nIncrease Refresh +20%.
 msgid "DRIVER.search_indexed.description"
-msgstr ""
-"ความเร็วอาวุธ +30%\n"
-"ความเร็วรีเฟรชอาวุธ +20%."
+msgstr "ความเร็วอาวุธ +30%\nความเร็วรีเฟรชอาวุธ +20%."
 
 #. Weapon driver / overclock card - name (sniper_scope)
 #. source: High Caliber
@@ -6144,9 +5899,7 @@ msgstr "ไฮ คาลิเบอร์"
 #. Weapon driver / overclock card - description (sniper_scope)
 #. source: Multiply Damage 1.5x. Increase Power +30%.\nIncrease Refresh +25%.
 msgid "DRIVER.sniper_scope.description"
-msgstr ""
-"ดาเมจอาวุธ x1.5 พลังอาวุธ +30%\n"
-"ความเร็วรีเฟรชอาวุธ +25%"
+msgstr "ดาเมจอาวุธ x1.5 พลังอาวุธ +30%\nความเร็วรีเฟรชอาวุธ +25%"
 
 #. Weapon driver / overclock card - name (sniper_oneshot)
 #. source: One Shot
@@ -6156,9 +5909,7 @@ msgstr "วัน ช็อต"
 #. Weapon driver / overclock card - description (sniper_oneshot)
 #. source: Adds +7% execute chance.\nIncrease Damage +25%.
 msgid "DRIVER.sniper_oneshot.description"
-msgstr ""
-"โอกาสยิงปลิดชีพ +7%\n"
-"ดาเมจอาวุธ +25%"
+msgstr "โอกาสยิงปลิดชีพ +7%\nดาเมจอาวุธ +25%"
 
 #. Weapon driver / overclock card - name (solitaire_cheat)
 #. source: Cheat
@@ -6168,9 +5919,7 @@ msgstr "ชีต"
 #. Weapon driver / overclock card - description (solitaire_cheat)
 #. source: Increase Damage +50%. Add +1 Amount.\nReduce Refresh -15%.
 msgid "DRIVER.solitaire_cheat.description"
-msgstr ""
-"ดาเมจอาวุธ +50% จำนวนอาวุธ +1\n"
-"ความเร็วรีเฟรชอาวุธ -15%"
+msgstr "ดาเมจอาวุธ +50% จำนวนอาวุธ +1\nความเร็วรีเฟรชอาวุธ -15%"
 
 #. Scene label
 #. screens: spam_ad.tscn; trailer_ad.tscn
@@ -6200,7 +5949,7 @@ msgstr "ความจุ"
 #. Scene label
 #. screens: defrag_window.tscn
 msgid "LOCAL DISK (C:)"
-msgstr "LOCAL DISK (C:)"
+msgstr ""
 
 #. Scene label
 #. screens: defrag_window.tscn
@@ -6325,7 +6074,7 @@ msgstr "คุณคือผู้เยี่ยมชมคนที่ 1,000
 #. Scene label
 #. screens: vapor_exe.tscn
 msgid "Vapor.exe"
-msgstr "Vapor.exe"
+msgstr ""
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6334,21 +6083,13 @@ msgstr "SHZip v2.03 (รุ่นทดสอบ)"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid ""
-"Extracting file:\n"
-"temp_file_649743.zip from /.???"
-msgstr ""
-"ดำเนินการแตกไฟล์:\n"
-"temp_file_649743.zip จาก /.???"
+msgid "Extracting file:\ntemp_file_649743.zip from /.???"
+msgstr "ดำเนินการแตกไฟล์:\ntemp_file_649743.zip จาก /.???"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid ""
-"Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
-"Processing rate: 0.00 KB/Sec"
-msgstr ""
-"เวลาที่เหลือ: 0 นาที 00 วินาที (0.00 KB จาก 0.00 KB)\n"
-"ความเร็วประมวลผล: 0.00 KB/วินาที"
+msgid "Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\nProcessing rate: 0.00 KB/Sec"
+msgstr "เวลาที่เหลือ: 0 นาที 00 วินาที (0.00 KB จาก 0.00 KB)\nความเร็วประมวลผล: 0.00 KB/วินาที"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6383,7 +6124,7 @@ msgstr "เอาหล่ะ มาเริ่มเลือกการต�
 #. Scene label
 #. screens: starter_folder.tscn; window.tscn
 msgid "/"
-msgstr "/"
+msgstr ""
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -6393,9 +6134,7 @@ msgstr "อาวุธ..."
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Great, now just pick a weapon you want to start with."
-msgstr ""
-"แจ๋ว งั้นก็มาเลือกอาวุธเริ่มต้น\n"
-"ที่ต้องการกันเลย"
+msgstr "แจ๋ว งั้นก็มาเลือกอาวุธเริ่มต้น\nที่ต้องการกันเลย"
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -6415,12 +6154,12 @@ msgstr "สแตทส์เมเนเจอร์ V0.1b"
 #. Scene label
 #. screens: stat_list.tscn
 msgid "A"
-msgstr "A"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
 msgid "B"
-msgstr "B"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
@@ -6444,22 +6183,8 @@ msgstr "คุณชนะแล้ว!"
 
 #. Scene label
 #. screens: end_screen.tscn
-msgid ""
-"You did it! I'm proud of you! I hope you had fun.\n"
-"\n"
-"However I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n"
-"\n"
-"In the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n"
-"\n"
-"If you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
-msgstr ""
-"ยินดีด้วย คุณเล่นจบรอบจนได้! ผมขอชมเลย! ดีใจที่คุณสนุกกับเกมผมนะ\n"
-"\n"
-"แต่ว่า ผมเสียใจที่หน้าจอฉลองชัยชนะของคุณมันดูน่าเบื่อไปหน่อย คุณสมควรที่จะได้รับการฉลองที่ดีกว่านี้ - ในตัวเกมเวอรืชั่นเต็มยังไงล่ะครับ\n"
-"\n"
-"ระหว่างนี้ก็ลองเล่นในระดับความยากที่สูงขึ้นดู เอา Beanz ที่ได้มาไปซื้ออัปเกรดแล้วลองเล่นใหม่อีกรอบดู\n"
-"\n"
-"ถ้าคุณสนุกกับตัวเกมเดโม่แล้วล่ะก็ อย่าลืมบันทึกเกมผมลงรายการสิ่งที่อยากได้และกดติดตามบนสตีมด้วยล่ะ - หลังจากนี้จะมีอัปเดตให้ลองอีกเพียบเลย!"
+msgid "You did it! I'm proud of you! I hope you had fun.\n\nHowever I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n\nIn the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n\nIf you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
+msgstr "ยินดีด้วย คุณเล่นจบรอบจนได้! ผมขอชมเลย! ดีใจที่คุณสนุกกับเกมผมนะ\n\nแต่ว่า ผมเสียใจที่หน้าจอฉลองชัยชนะของคุณมันดูน่าเบื่อไปหน่อย คุณสมควรที่จะได้รับการฉลองที่ดีกว่านี้ - ในตัวเกมเวอรืชั่นเต็มยังไงล่ะครับ\n\nระหว่างนี้ก็ลองเล่นในระดับความยากที่สูงขึ้นดู เอา Beanz ที่ได้มาไปซื้ออัปเกรดแล้วลองเล่นใหม่อีกรอบดู\n\nถ้าคุณสนุกกับตัวเกมเดโม่แล้วล่ะก็ อย่าลืมบันทึกเกมผมลงรายการสิ่งที่อยากได้และกดติดตามบนสตีมด้วยล่ะ - หลังจากนี้จะมีอัปเดตให้ลองอีกเพียบเลย!"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6484,9 +6209,7 @@ msgstr "เตรียมการติดตั้ง..."
 #. Scene label
 #. screens: installer_window.tscn
 msgid "PluginInstaller is preparing to find all appropriate plugins for this application."
-msgstr ""
-"โปรแกรมติดตั้งปลั๊กอินกำลังจัดเตรียมปลั๊กอิน\n"
-"ที่เหมาะสมกับแอปพลิเคชั่น"
+msgstr "โปรแกรมติดตั้งปลั๊กอินกำลังจัดเตรียมปลั๊กอิน\nที่เหมาะสมกับแอปพลิเคชั่น"
 
 #. Scene label
 #. screens: installer_window.tscn
@@ -6495,12 +6218,8 @@ msgstr "ตรวจสอบความเข้ากันได้ของ
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid ""
-"Add +10 Max HP.\n"
-"Heal 20% of Max HP when opening a Safe Folder."
-msgstr ""
-"พลังชีวิตสูงสุด +10 HP\n"
-"ฟื้นฟูพลังชีวิต 20% ของพลังชีวิตสูงสุดเมื่อเปิดโฟลเดอร์ปลอดภัย"
+msgid "Add +10 Max HP.\nHeal 20% of Max HP when opening a Safe Folder."
+msgstr "พลังชีวิตสูงสุด +10 HP\nฟื้นฟูพลังชีวิต 20% ของพลังชีวิตสูงสุดเมื่อเปิดโฟลเดอร์ปลอดภัย"
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -6534,37 +6253,13 @@ msgstr "ตั้งค่า"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid ""
-"coming soon\n"
-"- more weapons\n"
-"- more enemies\n"
-"- bosses\n"
-"- classes\n"
-"- wallpapers\n"
-"- weapon evos\n"
-"- and more"
-msgstr ""
-"อัปเดตตัวเต็มเร็วๆนี้\n"
-"- อาวุธใหม่\n"
-"- ศัตรูใหม่\n"
-"- บอสใหม่\n"
-"- ชนิดเคอร์เซอร์ใหม่\n"
-"- วอลเปเปอร์ใหม่\n"
-"- อัปเกรดใหม่\n"
-"- และอื่นๆอีกมาก"
+msgid "coming soon\n- more weapons\n- more enemies\n- bosses\n- classes\n- wallpapers\n- weapon evos\n- and more"
+msgstr "อัปเดตตัวเต็มเร็วๆนี้\n- อาวุธใหม่\n- ศัตรูใหม่\n- บอสใหม่\n- ชนิดเคอร์เซอร์ใหม่\n- วอลเปเปอร์ใหม่\n- อัปเกรดใหม่\n- และอื่นๆอีกมาก"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid ""
-"Thank you so much for playing. It means the world to me.\n"
-"enjoy and have a great day <3\n"
-"shaun"
-msgstr ""
-"ขอบคุณที่อุดหนุนเกม\n"
-"ผมรู้สึกซาบซึ้งใจมาก\n"
-"งั้นก็เล่นเกมให้สนุก\n"
-"แล้วก็มีวันที่ดีนะครับ \n"
-"<3 ชอว์น"
+msgid "Thank you so much for playing. It means the world to me.\nenjoy and have a great day <3\nshaun"
+msgstr "ขอบคุณที่อุดหนุนเกม\nผมรู้สึกซาบซึ้งใจมาก\nงั้นก็เล่นเกมให้สนุก\nแล้วก็มีวันที่ดีนะครับ \n<3 ชอว์น"
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
@@ -6588,11 +6283,6 @@ msgstr "ตั้งค่า"
 
 #. Scene label
 #. screens: options_menu.tscn
-msgid "SFX Volume"
-msgstr "เสียงเอฟเฟ็ค"
-
-#. Scene label
-#. screens: options_menu.tscn
 msgid "Back"
 msgstr "กลับ"
 
@@ -6608,17 +6298,13 @@ msgstr "ออก"
 
 #. Scene label
 #. screens: pause_menu.tscn
-msgid ""
-"Antivirus Survivors 2003 Professional\n"
-"Shaun Hammond Business Solutions Ltd"
-msgstr ""
-"แอนตี้ไวรัส เซอร์ไวเวอร์ส 2003 โปรเฟสชันแนล\n"
-"ชอว์น แฮมมอนด์ บิซิเนส โซลูชั่น จำกัด"
+msgid "Antivirus Survivors 2003 Professional\nShaun Hammond Business Solutions Ltd"
+msgstr "แอนตี้ไวรัส เซอร์ไวเวอร์ส 2003 โปรเฟสชันแนล\nชอว์น แฮมมอนด์ บิซิเนส โซลูชั่น จำกัด"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Vsync:"
-msgstr "Vsync:"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6653,12 +6339,12 @@ msgstr "การซูมหน้าจอ:"
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "+"
-msgstr "+"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6697,12 +6383,8 @@ msgstr "รีเฟรชการค้นหา"
 
 #. Scene label
 #. screens: upgrade_button.tscn
-msgid ""
-"Increases Refresh Rate for Search by 20%.\n"
-"But here's a second line also."
-msgstr ""
-"ความเร็วรีเฟรชอาวุธ เสิร์ช +20%\n"
-"พร้อมทั้งเพิ่มเส้นทางการโคจรเส้นที่สอง"
+msgid "Increases Refresh Rate for Search by 20%.\nBut here's a second line also."
+msgstr "ความเร็วรีเฟรชอาวุธ เสิร์ช +20%\nพร้อมทั้งเพิ่มเส้นทางการโคจรเส้นที่สอง"
 
 #. Scene label
 #. screens: torrent_window.tscn

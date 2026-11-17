@@ -1,15 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Antivirus Survivors 2003MIME-Version: 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: hu_HU\n"
+"Project-Id-Version: Antivirus Survivors 2003\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #. Class select - name (brick)
 #. source: Brick
@@ -19,13 +14,7 @@ msgstr "Tégla"
 #. Class select - description (brick)
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 msgid "CLASS.brick.description"
-msgstr ""
-"+40 Életerő.\n"
-"+12 Páncélzat.\n"
-"Kurzorsebesség 0.8x.\n"
-"Fegyver sebzésszorzó 0.85x.\n"
-"Fegyver sebzésszorzó 1.1x sebződés esetén (Időtartam: 8mp, háromszor "
-"halmozható)."
+msgstr "+40 Életerő.\n+12 Páncélzat.\nKurzorsebesség 0.8x.\nFegyver sebzésszorzó 0.85x.\nFegyver sebzésszorzó 1.1x sebződés esetén (Időtartam: 8mp, háromszor halmozható)."
 
 #. Class select - name (default)
 #. source: Default
@@ -35,9 +24,7 @@ msgstr "Eredeti"
 #. Class select - description (default)
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 msgid "CLASS.default.description"
-msgstr ""
-"Semmilyen előny vagy hátrány.\n"
-"Kiegyensúlyozott alap kurzor."
+msgstr "Semmilyen előny vagy hátrány.\nKiegyensúlyozott alap kurzor."
 
 #. Class select - name (null)
 #. source: Null
@@ -47,11 +34,7 @@ msgstr "Zéró"
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
-msgstr ""
-"Életerő csökkentése -25.\n"
-"+8 Csomagveszteség.\n"
-"Szerencseszorzó 1.5x.\n"
-"Fegyver sebzésszorzó 0.9x."
+msgstr "Életerő csökkentése -25.\n+8 Csomagveszteség.\nSzerencseszorzó 1.5x.\nFegyver sebzésszorzó 0.9x."
 
 #. Class select - name (vector)
 #. source: Vector
@@ -61,13 +44,7 @@ msgstr "Vektor"
 #. Class select - description (vector)
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 msgid "CLASS.vector.description"
-msgstr ""
-"Kurzorsebesség 1.25x.\n"
-"+15 Csomagveszteség.\n"
-"Életerő csökkentése -25.\n"
-"Fegyversebzésszorzó 0.9x.\n"
-"Kurzorsebesség-szorzó 1.25x és Frissítési sebesség 1.2x Csomagveszteség "
-"esetén (Időtartam: 4mp)."
+msgstr "Kurzorsebesség 1.25x.\n+15 Csomagveszteség.\nÉleterő csökkentése -25.\nFegyversebzésszorzó 0.9x.\nKurzorsebesség-szorzó 1.25x és Frissítési sebesség 1.2x Csomagveszteség esetén (Időtartam: 4mp)."
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -77,12 +54,7 @@ msgstr "Töréspont"
 #. Class select - description (breakpoint)
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
 msgid "CLASS.breakpoint.description"
-msgstr ""
-"Kritikus sebzés esély +12%.\n"
-"Kritikus sebzés 1.25x.\n"
-"Életerő csökkentése -15.\n"
-"Kurzorsebesség 0.9x.\n"
-"Fegyversebzésszorzó 0.92x."
+msgstr "Kritikus sebzés esély +12%.\nKritikus sebzés 1.25x.\nÉleterő csökkentése -15.\nKurzorsebesség 0.9x.\nFegyversebzésszorzó 0.92x."
 
 #. Class select - name (thread)
 #. source: Thread
@@ -92,27 +64,17 @@ msgstr "Szál"
 #. Class select - description (thread)
 #. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.thread.description"
-msgstr ""
-"Feldolgozási sebesség 1.3x.\n"
-"Frissítési sebesség 1.12x.\n"
-"TP-szerzés szorzó 1.08x.\n"
-"Fegyversebzésszorzó 0.85x."
+msgstr "Feldolgozási sebesség 1.3x.\nFrissítési sebesség 1.12x.\nTP-szerzés szorzó 1.08x.\nFegyversebzésszorzó 0.85x."
 
 #. Class select - name (admin)
 #. source: Admin
 msgid "CLASS.admin.name"
-msgstr "Admin"
+msgstr ""
 
 #. Class select - description (admin)
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
-msgstr ""
-"Kezdd a játékot 1 kulccsal.\n"
-"Érmenyereség 1.3x.\n"
-"Felvételi távolság 1.3x.\n"
-"Bolti elemek leárazása 10%-kal.\n"
-"Életerő szorzó 0.9x.\n"
-"Fegyversebzésszorzó 0.85x."
+msgstr "Kezdd a játékot 1 kulccsal.\nÉrmenyereség 1.3x.\nFelvételi távolság 1.3x.\nBolti elemek leárazása 10%-kal.\nÉleterő szorzó 0.9x.\nFegyversebzésszorzó 0.85x."
 
 #. Folder evolution mode - name (chaos)
 #. source: Chaos
@@ -122,9 +84,7 @@ msgstr "Káosz"
 #. Folder evolution mode - description (chaos)
 #. source: A inconsistent unpredictable mess of difficulty. I couldn't tell you what to expect.
 msgid "EVO.chaos.description"
-msgstr ""
-"Egy zűrzavaros, kiszámíthatatlan nehézség. Meg sem tudnám mondani, mit "
-"várj el."
+msgstr "Egy zűrzavaros, kiszámíthatatlan nehézség. Meg sem tudnám mondani, mit várj el."
 
 #. Folder evolution mode - name (linear)
 #. source: Linear
@@ -134,8 +94,7 @@ msgstr "Folytonos"
 #. Folder evolution mode - description (linear)
 #. source: A consistent linear stream of more enemies being added over time.
 msgid "EVO.linear.description"
-msgstr ""
-"Az idő elteltével egységesen növekedő mennyiségű ellenségek. Egyszerű."
+msgstr "Az idő elteltével egységesen növekedő mennyiségű ellenségek. Egyszerű."
 
 #. Folder evolution mode - name (variable)
 #. source: Variable
@@ -145,9 +104,7 @@ msgstr "Változó"
 #. Folder evolution mode - description (variable)
 #. source: A varied level of enemies that ramps up and down to give more moments of peace but harder increases.
 msgid "EVO.variable.description"
-msgstr ""
-"Változó mennyiségű ellenségek. Néha kicsit békésebb lesz a menet, néha "
-"pedig nehezebb felvenni a csíkot."
+msgstr "Változó mennyiségű ellenségek. Néha kicsit békésebb lesz a menet, néha pedig nehezebb felvenni a csíkot."
 
 #. Meta upgrade menu - description (armor)
 #. source: Adds +1 Armo(u)r per Rank.
@@ -267,9 +224,7 @@ msgstr "Hardveres megszakítókérelem (IRQ)"
 #. Plugin - description (armor_damage_trigger)
 #. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
 msgid "PLUGIN.armor_damage_trigger.description"
-msgstr ""
-"+5 Páncélzat.\n"
-"+25 Csomagveszteség sebződéskor (Időtartam: 10mp)."
+msgstr "+5 Páncélzat.\n+25 Csomagveszteség sebződéskor (Időtartam: 10mp)."
 
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
@@ -289,9 +244,7 @@ msgstr "Enterprise Kiadás"
 #. Plugin - description (big_hp_regen_boost)
 #. source: Add +64 Max HP.\nAdd +12 Health Regen.
 msgid "PLUGIN.big_hp_regen_boost.description"
-msgstr ""
-"+64 Maximális Életerő.\n"
-"+12 Regeneráció."
+msgstr "+64 Maximális Életerő.\n+12 Regeneráció."
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -306,7 +259,7 @@ msgstr "+10%-kal több Fegyversebzés Big Wave fájl megnyitása esetén."
 #. Plugin - name (blast_on_file_open)
 #. source: AutoPlay
 msgid "PLUGIN.blast_on_file_open.name"
-msgstr "AutoPlay"
+msgstr ""
 
 #. Plugin - description (blast_on_file_open)
 #. source: 25% Chance to trigger a Blast when opening a File.
@@ -371,9 +324,7 @@ msgstr "Kritikus telep töltöttség"
 #. Plugin - description (cursor_speed_damage)
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
-msgstr ""
-"+10% Kurzorsebesség.\n"
-"+30% Kurzorsebesség sebződéskor (Időtartam: 10mp)."
+msgstr "+10% Kurzorsebesség.\n+30% Kurzorsebesség sebződéskor (Időtartam: 10mp)."
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -393,10 +344,7 @@ msgstr "Karriervonal"
 #. Plugin - description (damage_level_scaling)
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
 msgid "PLUGIN.damage_level_scaling.description"
-msgstr ""
-"Szintenként:\n"
-"+3% Fegyversebzés.\n"
-"-1 Maximális Életerő."
+msgstr "Szintenként:\n+3% Fegyversebzés.\n-1 Maximális Életerő."
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
@@ -416,11 +364,7 @@ msgstr "Teljesítmény-lehetőségek"
 #. Plugin - description (damage_speed_crit)
 #. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
 msgid "PLUGIN.damage_speed_crit.description"
-msgstr ""
-"+10% Fegyversebzés.\n"
-"+10% Fegyverfrissítés.\n"
-"+5% Kritikus sebzés esély.\n"
-"+15% Kritikus sebzés."
+msgstr "+10% Fegyversebzés.\n+10% Fegyverfrissítés.\n+5% Kritikus sebzés esély.\n+15% Kritikus sebzés."
 
 #. Plugin - name (defrag_on_safe_folder)
 #. source: Startup Folder
@@ -430,8 +374,7 @@ msgstr "Indítópult"
 #. Plugin - description (defrag_on_safe_folder)
 #. source: Perform a Defrag when the Safe Folder spawns.
 msgid "PLUGIN.defrag_on_safe_folder.description"
-msgstr ""
-"Biztonságos mappa létrejöttekor minden esetben Töredezettségmentesítés."
+msgstr "Biztonságos mappa létrejöttekor minden esetben Töredezettségmentesítés."
 
 #. Plugin - name (dual_core)
 #. source: Dual Core
@@ -481,8 +424,7 @@ msgstr "Kurzor megkeresése"
 #. Plugin - description (locate_pointer)
 #. source: Trigger a Blast when taking damage (20s cooldown, reduced per stack).
 msgid "PLUGIN.locate_pointer.description"
-msgstr ""
-"Kis robbanás keltése sebződéskor (20mp-enként, mely halmozáskor rövidül)."
+msgstr "Kis robbanás keltése sebződéskor (20mp-enként, mely halmozáskor rövidül)."
 
 #. Plugin - name (luck_boost)
 #. source: Luck Boost
@@ -502,9 +444,7 @@ msgstr "Szerencsés szünetelés"
 #. Plugin - description (luck_reroll)
 #. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
 msgid "PLUGIN.luck_reroll.description"
-msgstr ""
-"+12% Szerencse.\n"
-"+25% Szerencse újrapörgetések esetén."
+msgstr "+12% Szerencse.\n+25% Szerencse újrapörgetések esetén."
 
 #. Plugin - name (luck_zip_boost)
 #. source: Compressed Folders
@@ -589,14 +529,12 @@ msgstr "Bolti tárgyak leárazása +25%-kal."
 #. Plugin - name (slow_but_strong)
 #. source: Rau und Stark
 msgid "PLUGIN.slow_but_strong.name"
-msgstr "Rau und Stark"
+msgstr ""
 
 #. Plugin - description (slow_but_strong)
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
-msgstr ""
-"Fegyversebzés-szorzó növelése: 1.25x.\n"
-"Kurzorsebesség -10%."
+msgstr "Fegyversebzés-szorzó növelése: 1.25x.\nKurzorsebesség -10%."
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -606,9 +544,7 @@ msgstr "Biztonságos felépülés"
 #. Plugin - description (smart_recovery)
 #. source: Add +10 Max HP.\nHeal 25% of Max HP when opening a Safe Folder.
 msgid "PLUGIN.smart_recovery.description"
-msgstr ""
-"+10 Maximális Életerő.\n"
-"Biztonságos mappa megnyitásakor a maximális életerő 25%-ának visszanyerése."
+msgstr "+10 Maximális Életerő.\nBiztonságos mappa megnyitásakor a maximális életerő 25%-ának visszanyerése."
 
 #. Plugin - name (weapon_speed_boost)
 #. source: Weapon Speed Boost
@@ -653,14 +589,12 @@ msgstr "TP-szerzés szorzó növelése: 1.1x."
 #. Plugin - name (xp_gain_on_damage)
 #. source: Readme
 msgid "PLUGIN.xp_gain_on_damage.name"
-msgstr "Readme"
+msgstr ""
 
 #. Plugin - description (xp_gain_on_damage)
 #. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
 msgid "PLUGIN.xp_gain_on_damage.description"
-msgstr ""
-"+10% TP-szerzés szorzó.\n"
-"+4 TP sebződéskor."
+msgstr "+10% TP-szerzés szorzó.\n+4 TP sebződéskor."
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
@@ -670,9 +604,7 @@ msgstr "Morgan Antivírus"
 #. Plugin - description (morgan_av)
 #. source: Difficulty is increased for the rest of the run.\n+1 extra Plus! enemy at each midway point.
 msgid "PLUGIN.morgan_av.description"
-msgstr ""
-"Nehézség megemelve a menet végéig.\n"
-"Minden felezőpontnál +1-gyel több Plusz! ellenség."
+msgstr "Nehézség megemelve a menet végéig.\nMinden felezőpontnál +1-gyel több Plusz! ellenség."
 
 #. Plugin - name (popup_blocker)
 #. source: Realtime Protection
@@ -712,9 +644,7 @@ msgstr "Állókép"
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
 msgid "PLUGIN.still_frame.description"
-msgstr ""
-"Egy helyben állva:\n"
-"+5% Fegyversebzés másodpercenként, legfeljebb 15%-ig halmozhatóan."
+msgstr "Egy helyben állva:\n+5% Fegyversebzés másodpercenként, legfeljebb 15%-ig halmozhatóan."
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
@@ -734,9 +664,7 @@ msgstr "Frissítési ráta"
 #. Plugin - description (refresh_overclock)
 #. source: Increase Refresh Speed +50%.\nReduce Cursor Speed -15%.
 msgid "PLUGIN.refresh_overclock.description"
-msgstr ""
-"+50% Fegyverfrissítési sebesség.\n"
-"-15% Kurzorsebesség."
+msgstr "+50% Fegyverfrissítési sebesség.\n-15% Kurzorsebesség."
 
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
@@ -776,13 +704,12 @@ msgstr "ZIP-újrahasznosítás"
 #. Plugin - description (zip_recover)
 #. source: Successful Zips leave a green healing zone.
 msgid "PLUGIN.zip_recover.description"
-msgstr ""
-"Sikeres ZIP-kibontáskor egy regeneráló terület jelenik meg a fájl helyén."
+msgstr "Sikeres ZIP-kibontáskor egy regeneráló terület jelenik meg a fájl helyén."
 
 #. Plugin - name (vapidshare_pro)
 #. source: Vapidshare Pro
 msgid "PLUGIN.vapidshare_pro.name"
-msgstr "Vapidshare Pro"
+msgstr ""
 
 #. Plugin - description (vapidshare_pro)
 #. source: Download Vapidshare parts simultaneously and faster.
@@ -797,10 +724,7 @@ msgstr "Megakritikus"
 #. Plugin - description (megacrit)
 #. source: Increase Crit Chance +40%.\nCrit Chance above 100% can Megacrit for double Crit Damage.
 msgid "PLUGIN.megacrit.description"
-msgstr ""
-"+40% Kritikus sebzés esély.\n"
-"100% feletti Kritikus sebzés esély esetén Megakritikus sebzés történhet "
-"duplaannyi Kritikus sebzésért."
+msgstr "+40% Kritikus sebzés esély.\n100% feletti Kritikus sebzés esély esetén Megakritikus sebzés történhet duplaannyi Kritikus sebzésért."
 
 #. Plugin - name (hyperthread)
 #. source: Hyperthreading
@@ -810,9 +734,7 @@ msgstr "Hiperszálkezelés"
 #. Plugin - description (hyperthread)
 #. source: Multiply Weapon Amount 1.5x.\nMultiply Weapon Damage 0.75x.
 msgid "PLUGIN.hyperthread.description"
-msgstr ""
-"Fegyvermennyiség-szorzó növelése: 1.5x.\n"
-"Fegyversebzés-szorzó: 0.75x."
+msgstr "Fegyvermennyiség-szorzó növelése: 1.5x.\nFegyversebzés-szorzó: 0.75x."
 
 #. Plugin - name (tank_core)
 #. source: Tank Core
@@ -862,21 +784,17 @@ msgstr "Feladatkezelő"
 #. Plugin - description (task_manager)
 #. source: Multiply Weapon Refresh 2.0x.\nMultiply Weapon Size 0.75x.
 msgid "PLUGIN.task_manager.description"
-msgstr ""
-"Fegyverfrissítés-szorzó növelése: 2.0x.\n"
-"Fegyverméret-szorzó: 0.75x."
+msgstr "Fegyverfrissítés-szorzó növelése: 2.0x.\nFegyverméret-szorzó: 0.75x."
 
 #. Plugin - name (raid_0)
 #. source: RAID 0
 msgid "PLUGIN.raid_0.name"
-msgstr "RAID 0"
+msgstr ""
 
 #. Plugin - description (raid_0)
 #. source: Multiply Zip and RAM rewards 2.0x.\nDecrease Zip and RAM success chance.
 msgid "PLUGIN.raid_0.description"
-msgstr ""
-"ZIP-fájl és RAM-növelés nyeremények növelése: 2.0x.\n"
-"ZIP-fájl és RAM-növelés sikerességének csökkentése."
+msgstr "ZIP-fájl és RAM-növelés nyeremények növelése: 2.0x.\nZIP-fájl és RAM-növelés sikerességének csökkentése."
 
 #. Plugin - name (system_restore)
 #. source: System Restore
@@ -886,9 +804,7 @@ msgstr "Rendszer-visszaállítás"
 #. Plugin - description (system_restore)
 #. source: On death, heal 50% of Max HP instead of Blue Screen.\nOnce per stack.
 msgid "PLUGIN.system_restore.description"
-msgstr ""
-"Halál esetén kékhalál helyett a maximális életerő 50%-ának visszanyerése\n"
-"Egyetlenegyszer használatos."
+msgstr "Halál esetén kékhalál helyett a maximális életerő 50%-ának visszanyerése\nEgyetlenegyszer használatos."
 
 #. Plugin - name (power_user)
 #. source: Power User
@@ -928,9 +844,7 @@ msgstr "Protokoll I"
 #. Difficulty protocol - description (protocol_1)
 #. source: The beginner difficulty. Earn 16 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_1.description"
-msgstr ""
-"A kezdő nehézség. 16 Babbab szerzése minden Biztonságos mappa "
-"megnyitásakor + ellenségek tisztításakor."
+msgstr "A kezdő nehézség. 16 Babbab szerzése minden Biztonságos mappa megnyitásakor + ellenségek tisztításakor."
 
 #. Difficulty protocol - name (protocol_2)
 #. source: Protocol II
@@ -940,9 +854,7 @@ msgstr "Protokoll II"
 #. Difficulty protocol - description (protocol_2)
 #. source: The sophomore difficulty. Earn 24 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_2.description"
-msgstr ""
-"A másodszintű nehézség. 24 Babbab szerzése minden Biztonságos mappa "
-"megnyitásakor + ellenségek tisztításakor."
+msgstr "A másodszintű nehézség. 24 Babbab szerzése minden Biztonságos mappa megnyitásakor + ellenségek tisztításakor."
 
 #. Difficulty protocol - name (protocol_3)
 #. source: Protocol III
@@ -952,9 +864,7 @@ msgstr "Protokoll III"
 #. Difficulty protocol - description (protocol_3)
 #. source: The tertiary difficulty. Earn 32 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_3.description"
-msgstr ""
-"A harmadszintű nehézség. 32 Babbab szerzése minden Biztonságos mappa "
-"megnyitásakor + ellenségek tisztításakor."
+msgstr "A harmadszintű nehézség. 32 Babbab szerzése minden Biztonságos mappa megnyitásakor + ellenségek tisztításakor."
 
 #. Difficulty protocol - name (protocol_4)
 #. source: Protocol IV
@@ -964,9 +874,7 @@ msgstr "Protokoll IV"
 #. Difficulty protocol - description (protocol_4)
 #. source: The senior difficulty. Earn 48 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_4.description"
-msgstr ""
-"A szenior nehézség. 48 Babbab szerzése minden Biztonságos mappa "
-"megnyitásakor + ellenségek tisztításakor."
+msgstr "A szenior nehézség. 48 Babbab szerzése minden Biztonságos mappa megnyitásakor + ellenségek tisztításakor."
 
 #. Difficulty protocol - name (protocol_5)
 #. source: Protocol V
@@ -976,9 +884,7 @@ msgstr "Protokoll V"
 #. Difficulty protocol - description (protocol_5)
 #. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
 msgid "PROTOCOL.protocol_5.description"
-msgstr ""
-"Na, ezt nem muszáj megtenned...de ha mégis, 64 Babbab minden Biztonságos "
-"mappa megnyitásakor..."
+msgstr "Na, ezt nem muszáj megtenned...de ha mégis, 64 Babbab minden Biztonságos mappa megnyitásakor..."
 
 #. Stat display - name (upgrade_player_armor)
 #. source: Armo(u)r
@@ -1036,7 +942,8 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr "Csomagveszteség"
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
+#, fuzzy
 msgid "STAT.upgrade_player_dodge.description"
 msgstr "Minden bejövő sebződésre vonatkozó kivédési esély. (Hatványzódó)"
 
@@ -1064,7 +971,7 @@ msgstr "Regenerálandó életerő mennyisége 20 másodpercenként."
 #. source: {sign}{value} HP
 #. Keep placeholders unchanged: {sign}, {value}
 msgid "STAT.format_hp"
-msgstr "{sign}{value} HP"
+msgstr ""
 
 #. Stat display - name (upgrade_player_luck)
 #. source: Luck
@@ -1072,11 +979,10 @@ msgid "STAT.upgrade_player_luck.name"
 msgstr "Szerencse"
 
 #. Stat display - description (upgrade_player_luck)
-#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
+#, fuzzy
 msgid "STAT.upgrade_player_luck.description"
-msgstr ""
-"Növeli a jobb \"dobások\" esélyét, ami ritkábban előforduló lehetőségeket "
-"és egyebeket gyakorít."
+msgstr "Növeli a jobb \"dobások\" esélyét, ami ritkábban előforduló lehetőségeket és egyebeket gyakorít."
 
 #. Stat display - name (upgrade_player_magnetism_multi)
 #. source: Magnetism
@@ -1086,9 +992,7 @@ msgstr "Vonzóerő"
 #. Stat display - description (upgrade_player_magnetism_multi)
 #. source: Multiplies the radius that pulls in EXP and other pickup items.
 msgid "STAT.upgrade_player_magnetism_multi.description"
-msgstr ""
-"Felszorozza a terület méretét, mely TP-t, Érméket és egyéb felvehetőket "
-"vonz be."
+msgstr "Felszorozza a terület méretét, mely TP-t, Érméket és egyéb felvehetőket vonz be."
 
 #. Stat display - name (upgrade_player_max_health)
 #. source: Max HP
@@ -1118,10 +1022,7 @@ msgstr "Feldolgozási sebesség"
 #. Stat display - description (upgrade_player_proc_speed)
 #. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
 msgid "STAT.upgrade_player_proc_speed.description"
-msgstr ""
-"Minden fájl feldolgozási sebességét felszorozza, ebbe beleértve "
-"a .zip, .bat. LemWire és sok mást is.\n"
-"(Hatványzódó)"
+msgstr "Minden fájl feldolgozási sebességét felszorozza, ebbe beleértve a .zip, .bat. LemWire és sok mást is.\n(Hatványzódó)"
 
 #. Stat display - name (upgrade_player_refresh_multi)
 #. source: Weapon Refresh
@@ -1151,9 +1052,7 @@ msgstr "Fegyvermennyiség"
 #. Stat display - description (upgrade_player_weap_amount)
 #. source: Chance of additional weapon spawns on attack. Relative to base amount.
 msgid "STAT.upgrade_player_weap_amount.description"
-msgstr ""
-"Támadáskor egyszerre több fegyver idézésére való esély, az alap "
-"mennyiséghez viszonyítva."
+msgstr "Támadáskor egyszerre több fegyver idézésére való esély, az alap mennyiséghez viszonyítva."
 
 #. Stat display - name (upgrade_player_weap_size)
 #. source: Weapon Size
@@ -1395,9 +1294,7 @@ msgstr "+{percent}%-kal növeli a Maximális Életerőt."
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_power_multi.description"
-msgstr ""
-"+{percent}%-kal növeli a fegyverek Taszítás, Hő, Fertőzés és Szaggatás "
-"erejét."
+msgstr "+{percent}%-kal növeli a fegyverek Taszítás, Hő, Fertőzés és Szaggatás erejét."
 
 #. Upgrade card - description (upgrade_player_proc_speed)
 #. source: Increases file opening speed by +{percent}%.
@@ -1409,8 +1306,7 @@ msgstr "+{percent}%-kal növeli a fájlok megnyitásának sebességét."
 #. source: Increases weapon refresh multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_refresh_multi.description"
-msgstr ""
-"+{percent}%-kal növeli a fegyverek újratöltési idejét csökkentő szorzót."
+msgstr "+{percent}%-kal növeli a fegyverek újratöltési idejét csökkentő szorzót."
 
 #. Upgrade card - description (upgrade_player_speed)
 #. source: Increases movement speed by +{percent}%.
@@ -1422,9 +1318,7 @@ msgstr "+{percent}%-kal növeli a mozgási sebességet."
 #. source: Adds +{percent}% chance of additional weapon spawns.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_amount.description"
-msgstr ""
-"+{percent}%-kal növeli a fegyverek támadásakor több fegyver idézésésére "
-"való esélyt."
+msgstr "+{percent}%-kal növeli a fegyverek támadásakor több fegyver idézésésére való esélyt."
 
 #. Upgrade card - description (upgrade_player_weap_size)
 #. source: Increases weapon size multiplier by +{percent}%.
@@ -1446,9 +1340,7 @@ msgstr "AVD logó"
 #. Upgrade card - description (weapon_avd)
 #. source: Shoots a giant AVD logo towards the nearest enemy.
 msgid "UPGRADE.weapon_avd.description"
-msgstr ""
-"Egy óriási AVD logót küld a legközelebbi ellenség arcába.\n"
-"A játékablak falairól visszapattan."
+msgstr "Egy óriási AVD logót küld a legközelebbi ellenség arcába.\nA játékablak falairól visszapattan."
 
 #. Upgrade card - name (weapon_bubbles)
 #. source: Bubbles
@@ -1458,8 +1350,7 @@ msgstr "Buborékok"
 #. Upgrade card - description (weapon_bubbles)
 #. source: Giant bubbles float around that add stacks of Infect to enemies.
 msgid "UPGRADE.weapon_bubbles.description"
-msgstr ""
-"Óriási buborékok lebegnek körbe-körbe, melyek ellenségeket mérgeznek."
+msgstr "Óriási buborékok lebegnek körbe-körbe, melyek ellenségeket mérgeznek."
 
 #. Upgrade card - name (weapon_cdrive)
 #. source: C: Drive
@@ -1494,7 +1385,7 @@ msgstr "Egy tűzgyűrűt alkot a játékos körül, mely felhevíti az ellenség
 #. Upgrade card - name (weapon_fontart)
 #. source: FontArt
 msgid "UPGRADE.weapon_fontart.name"
-msgstr "FontArt"
+msgstr ""
 
 #. Upgrade card - description (weapon_fontart)
 #. source: Drops letters on the strongest enemy that add stacks of Heat to enemies.
@@ -1514,26 +1405,22 @@ msgstr "Lövések dördülnek a legközelebbi ellenségre. 3% esély fejtalálat
 #. Upgrade card - name (weapon_paint)
 #. source: Paint
 msgid "UPGRADE.weapon_paint.name"
-msgstr "Paint"
+msgstr ""
 
 #. Upgrade card - description (weapon_paint)
 #. source: Paints circles near the player that damage and add stacks of Lag to enemies over time.
 msgid "UPGRADE.weapon_paint.description"
-msgstr ""
-"Köröket rajzol és fest a játékos körül, melyek idővel szaggatást adnak az "
-"ellenségekhez."
+msgstr "Köröket rajzol és fest a játékos körül, melyek idővel szaggatást adnak az ellenségekhez."
 
 #. Upgrade card - name (weapon_pinball)
 #. source: Pinball
 msgid "UPGRADE.weapon_pinball.name"
-msgstr "Pinball"
+msgstr ""
 
 #. Upgrade card - description (weapon_pinball)
 #. source: Shoots a bouncing ball towards the nearest enemy.
 msgid "UPGRADE.weapon_pinball.description"
-msgstr ""
-"Egy tömör acélgolyót küld a legközelebbi ellenség arcába. wA játékablak "
-"falairól visszapattan."
+msgstr "Egy tömör acélgolyót küld a legközelebbi ellenség arcába. wA játékablak falairól visszapattan."
 
 #. Upgrade card - name (weapon_quarantine)
 #. source: Quarantine
@@ -1573,8 +1460,7 @@ msgstr "Képkockák"
 #. Upgrade card - description (weapon_fraps)
 #. source: Fires flickering FPS numbers. The number shown is the damage dealt.
 msgid "UPGRADE.weapon_fraps.description"
-msgstr ""
-"Folyton változó FPS-számokat lő ki. A mutatott szám egyenlő a sebzéssel."
+msgstr "Folyton változó FPS-számokat lő ki. A mutatott szám egyenlő a sebzéssel."
 
 #. Upgrade card - name (weapon_scimitar)
 #. source: Scimitar
@@ -1594,9 +1480,7 @@ msgstr "Mesterlövész 1.6"
 #. Upgrade card - description (weapon_sniper)
 #. source: One heavy shot at the strongest enemy. Clears show in a killfeed.
 msgid "UPGRADE.weapon_sniper.description"
-msgstr ""
-"Egy súlyos találat a legerősebb ellenségre. Az öléseket vagány hírfolyam "
-"kíséri."
+msgstr "Egy súlyos találat a legerősebb ellenségre. Az öléseket vagány hírfolyam kíséri."
 
 #. Upgrade card - name (weapon_minesweeper)
 #. source: Mines
@@ -1616,9 +1500,7 @@ msgstr "E-mail (\"Ímél\")"
 #. Upgrade card - description (weapon_email)
 #. source: Envelopes fly out, bounce off walls, and boomerang home hitting both ways.
 msgid "UPGRADE.weapon_email.description"
-msgstr ""
-"Borítékok reppennek, pattanak falakról vissza és térnek vissza röppályán, "
-"ezek közben sebezve."
+msgstr "Borítékok reppennek, pattanak falakról vissza és térnek vissza röppályán, ezek közben sebezve."
 
 #. Upgrade card - name (weapon_cruiser)
 #. source: Internet Cruiser
@@ -1628,14 +1510,12 @@ msgstr "Internet Cirkáló"
 #. Upgrade card - description (weapon_cruiser)
 #. source: Opens a browser tab somewhere on screen. Lingers and applies heavy Lag.
 msgid "UPGRADE.weapon_cruiser.description"
-msgstr ""
-"Egy böngészőablakot nyit a képernyőn. Egy ideig ott marad, és erősen "
-"szaggattat."
+msgstr "Egy böngészőablakot nyit a képernyőn. Egy ideig ott marad, és erősen szaggattat."
 
 #. Upgrade card - name (weapon_orchestra)
 #. source: Orchestra
 msgid "UPGRADE.weapon_orchestra.name"
-msgstr "Orchestra"
+msgstr ""
 
 #. Upgrade card - description (weapon_orchestra)
 #. source: Opens a browser tab on the closest enemy on screen. Infects, and sometimes executes.
@@ -1645,13 +1525,12 @@ msgstr "Egy böngészőablakot nyit a képernyőn. Mérgez - és néha kivégez.
 #. Upgrade card - name (weapon_satellite)
 #. source: WLAN
 msgid "UPGRADE.weapon_satellite.name"
-msgstr "WLAN"
+msgstr ""
 
 #. Upgrade card - description (weapon_satellite)
 #. source: Deploys a dish that pings nearby enemies with Lag signals.
 msgid "UPGRADE.weapon_satellite.description"
-msgstr ""
-"Egy antennát telepít, mely közeli ellenségeket szaggató jelekkel zavar meg."
+msgstr "Egy antennát telepít, mely közeli ellenségeket szaggató jelekkel zavar meg."
 
 #. Upgrade card - name (weapon_avn)
 #. source: AVN Chat
@@ -1661,8 +1540,7 @@ msgstr "AVN Chat (\"Cset\")"
 #. Upgrade card - description (weapon_avn)
 #. source: Orbiting chat-bubble beams type out messages and Lag enemies.
 msgid "UPGRADE.weapon_avn.description"
-msgstr ""
-"A játékos körül keringő szövegbubrékok íródnak, és ellenségeket szaggatnak."
+msgstr "A játékos körül keringő szövegbubrékok íródnak, és ellenségeket szaggatnak."
 
 #. Upgrade card - name (weapon_cone)
 #. source: Very Large Cone
@@ -1670,20 +1548,20 @@ msgid "UPGRADE.weapon_cone.name"
 msgstr "Bazi Nagy Bólya"
 
 #. Upgrade card - description (weapon_cone)
-#. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
+#, fuzzy
 msgid "UPGRADE.weapon_cone.description"
 msgstr "Terelőbólyák akadnak rád, ellenségeket sütve, amerre mutatnak."
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
 msgid "UPGRADE.weapon_blatand.name"
-msgstr "Blåtand"
+msgstr ""
 
 #. Upgrade card - description (weapon_blatand)
 #. source: Chains dashed Infect links between enemies at a fixed link length.
 msgid "UPGRADE.weapon_blatand.description"
-msgstr ""
-"Láncok mérgező kapcsolatokat létesítenek egy megadott láncszemhosszban."
+msgstr "Láncok mérgező kapcsolatokat létesítenek egy megadott láncszemhosszban."
 
 #. Upgrade card - name (weapon_modem)
 #. source: Output Device
@@ -1691,7 +1569,8 @@ msgid "UPGRADE.weapon_modem.name"
 msgstr "Kimeneti eszköz"
 
 #. Upgrade card - description (weapon_modem)
-#. source: Blasts concentric handshake rings outward from the cursor.
+#. source: Blasts sound rings outward from the cursor.
+#, fuzzy
 msgid "UPGRADE.weapon_modem.description"
 msgstr "Impulzusokat ad ki a játékosból kifelé eredően."
 
@@ -1726,7 +1605,8 @@ msgid "WEAPON.cruiser.spawn_noun"
 msgstr "ablak"
 
 #. Weapon metadata
-#. source: trap
+#. source: tab
+#, fuzzy
 msgid "WEAPON.orchestra.spawn_noun"
 msgstr "csapda"
 
@@ -1873,12 +1753,12 @@ msgstr "Lomosító"
 #. Enemy sniper-feed name - name (dxdiag)
 #. source: GfxDiag
 msgid "ENEMY.dxdiag.name"
-msgstr "GfxDiag"
+msgstr ""
 
 #. Enemy sniper-feed name - name (burning_disc)
 #. source: PyroDisc
 msgid "ENEMY.burning_disc.name"
-msgstr "PyroDisc"
+msgstr ""
 
 #. Enemy sniper-feed name - name (click_me)
 #. source: CLICK-ME.TXT.vbs
@@ -1903,7 +1783,7 @@ msgstr "Memóriaszivárgás"
 #. Enemy sniper-feed name
 #. source: memory_leak.reg
 msgid "ENEMY.memory_leak.filename"
-msgstr "memory_leak.reg"
+msgstr ""
 
 #. Settings menu
 #. source: Unlimited
@@ -2041,9 +1921,19 @@ msgid "SETTINGS.music_volume"
 msgstr "Zene"
 
 #. Settings menu
+#. source: SFX Volume
+msgid "SETTINGS.sfx_volume"
+msgstr "Hanghatások hangereje"
+
+#. Settings menu
 #. source: Keygen Volume
 msgid "SETTINGS.keygen_volume"
 msgstr "Kulcsgenerátor"
+
+#. Settings menu
+#. source: Main Menu Computer Sound
+msgid "SETTINGS.menu_computer_sound"
+msgstr ""
 
 #. Settings menu
 #. source: Animation Speed
@@ -2078,16 +1968,12 @@ msgstr "Mennyire beejtve jelenjen meg a játékterület."
 #. Settings menu
 #. source: Lock the frame rate to your display to prevent tearing.
 msgid "SETTINGS.vsync_tip"
-msgstr ""
-"Rögzítsd a képkockasebességet a kijelződhöz a képtörés elkerülése "
-"érdekében."
+msgstr "Rögzítsd a képkockasebességet a kijelződhöz a képtörés elkerülése érdekében."
 
 #. Settings menu
 #. source: Maximum frames per second. Unlimited uses your hardware's limit.
 msgid "SETTINGS.fps_cap_tip"
-msgstr ""
-"Legmagasabb képkockamennyiség másodpercenként. A korlátlan a hardvered "
-"korlátjait használja."
+msgstr "Legmagasabb képkockamennyiség másodpercenként. A korlátlan a hardvered korlátjait használja."
 
 #. Settings menu
 #. source: Strength of the CRT scanline filter over the screen.
@@ -2110,9 +1996,19 @@ msgid "SETTINGS.music_volume_tip"
 msgstr "...A zene hangereje."
 
 #. Settings menu
+#. source: Volume for sound effects.
+msgid "SETTINGS.sfx_volume_tip"
+msgstr ""
+
+#. Settings menu
 #. source: Volume for Keygen windows that play their own track.
 msgid "SETTINGS.keygen_volume_tip"
 msgstr "A Kulcsgen ablakok röpke zenéjének hangereje."
+
+#. Settings menu
+#. source: Play the computer humming sound on the main menu.
+msgid "SETTINGS.menu_computer_sound_tip"
+msgstr ""
 
 #. Settings menu
 #. source: Language for menus and in-game text.
@@ -2122,22 +2018,17 @@ msgstr "A játék szövegeinek nyelvezete."
 #. Settings menu
 #. source: How quickly UI animations and transitions play.
 msgid "SETTINGS.anim_speed_tip"
-msgstr ""
-"Szabályozza, milyen gyorsan játszódnak le a menü átmenetei, animációi."
+msgstr "Szabályozza, milyen gyorsan játszódnak le a menü átmenetei, animációi."
 
 #. Settings menu
 #. source: How fast the cursor moves with the stick or keys in menus.
 msgid "SETTINGS.menu_cursor_speed_tip"
-msgstr ""
-"Szabályozza, milyen gyorsan halad a kurzor a menükben botkormánnyal vagy "
-"egérrel mozdítva."
+msgstr "Szabályozza, milyen gyorsan halad a kurzor a menükben botkormánnyal vagy egérrel mozdítva."
 
 #. Settings menu
 #. source: Control your cursor with the mouse in Safe Folders. Battle Folders always use WASD or the left stick.
 msgid "SETTINGS.admin_cursor_tip"
-msgstr ""
-"Irányítsd gyorsabban a kurzort a nem harci területeken! Használd az egered "
-"(vagy botkormányod, ha kontrollered van)."
+msgstr "Irányítsd gyorsabban a kurzort a nem harci területeken! Használd az egered (vagy botkormányod, ha kontrollered van)."
 
 #. Settings menu
 #. source: Vibrate the controller when taking damage.
@@ -2147,7 +2038,7 @@ msgstr "A kontroller rezgetése sebződés esetén."
 #. Settings menu
 #. source: OK
 msgid "SETTINGS.ok"
-msgstr "OK"
+msgstr ""
 
 #. Settings menu
 #. source: Restore Defaults
@@ -2265,7 +2156,7 @@ msgstr "Bezár"
 #. Settings menu
 #. source: Menu Shortcut
 msgid "SETTINGS.action_menu_shortcut"
-msgstr "Menü "
+msgstr ""
 
 #. Settings menu
 #. source: Previous Tab
@@ -2399,10 +2290,7 @@ msgstr "Bejelentkezve"
 #. Login screen - click your user name prompt
 #. source: To begin, click your user name.\nAfter you log on, you can change profiles.\nJust click on your name at the top of the menu.
 msgid "UI.login_prompt"
-msgstr ""
-"Kezdésként kattints saját felhasználódra.\n"
-"Bejelentkezés után is válthatsz felhasználót:\n"
-"a Start menü tetején a felhasználóra kattints rá."
+msgstr "Kezdésként kattints saját felhasználódra.\nBejelentkezés után is válthatsz felhasználót:\na Start menü tetején a felhasználóra kattints rá."
 
 #. Login screen - turn off computer button
 #. source: Turn off computer
@@ -2604,17 +2492,17 @@ msgstr "Nyomtató"
 #. Personalise - avatar name
 #. source: Paint
 msgid "UI.avatar_paint"
-msgstr "Paint"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Orchestra
 msgid "UI.avatar_orchestra"
-msgstr "Orchestra"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Zip
 msgid "UI.avatar_zip"
-msgstr "Zip"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Crawler
@@ -2634,7 +2522,7 @@ msgstr "Ellenség"
 #. Personalise - avatar name
 #. source: Lemwire
 msgid "UI.avatar_lemwire"
-msgstr "Lemwire"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Coin
@@ -2644,7 +2532,7 @@ msgstr "Érme"
 #. Personalise - theme name
 #. source: Modern
 msgid "UI.theme_modern"
-msgstr "Modern"
+msgstr ""
 
 #. Personalise - theme name
 #. source: Classic
@@ -2654,7 +2542,7 @@ msgstr "Klasszikus"
 #. Personalise - theme name
 #. source: Vapor
 msgid "UI.theme_vapor"
-msgstr "Vapor"
+msgstr ""
 
 #. Personalise - theme name
 #. source: Olive
@@ -2679,7 +2567,7 @@ msgstr "Média"
 #. Personalise - theme name
 #. source: Pink
 msgid "UI.theme_pink"
-msgstr "Pink"
+msgstr ""
 
 #. Personalise - theme name
 #. source: Gold
@@ -2709,7 +2597,7 @@ msgstr "Fejlesztés, rajzok, zene..."
 #. Credits window - role title
 #. source: Producer
 msgid "CREDITS.producer"
-msgstr "Producer"
+msgstr ""
 
 #. Credits window - role title. Keep the name Virry.
 #. source: Animator (Virry)
@@ -2734,9 +2622,7 @@ msgstr "Külön köszönet"
 #. Credits window - note under Special Thanks
 #. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
 msgid "CREDITS.special_thanks_note"
-msgstr ""
-"Mindannyiótoknak annyira köszönöm, hogy álmom világra hozásában "
-"segítettetek. Szeretlek titeket! - Shaun"
+msgstr "Mindannyiótoknak annyira köszönöm, hogy álmom világra hozásában segítettetek. Szeretlek titeket! - Shaun"
 
 #. Profile stats window - statistics tab
 #. source: Stats
@@ -2761,58 +2647,42 @@ msgstr "Kategóriák"
 #. Virry blurb - statistics mode
 #. source: Your run records live in these sheet. Switch to Tasks for unlocks.
 msgid "UI.task_virry_stats"
-msgstr ""
-"A saját felvételeid, itt, a munkafüzetben. Kapcsolj a Feladatokra a "
-"feloldottakért."
+msgstr "A saját felvételeid, itt, a munkafüzetben. Kapcsolj a Feladatokra a feloldottakért."
 
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_weapons"
-msgstr ""
-"Fejezz be egy fegyveres küldetést, majd vedd meg azt az Eszközök menüben."
+msgstr "Fejezz be egy fegyveres küldetést, majd vedd meg azt az Eszközök menüben."
 
 #. Virry blurb - cursor class tasks
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_classes"
-msgstr ""
-"A kurzorosztályok módosítják, hogyan harcolsz. Oldj fel egyet, majd vedd "
-"meg azt az Eszközök menüben."
+msgstr "A kurzorosztályok módosítják, hogyan harcolsz. Oldj fel egyet, majd vedd meg azt az Eszközök menüben."
 
 #. Virry blurb - plugin tasks
 #. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_plugins"
-msgstr ""
-"A bővítmények passzív erőket adnak, melyeket Telepítőkkel érsz el. Fejezd "
-"be egynek a küldetését, majd vedd meg azt az Eszközök menüben."
+msgstr "A bővítmények passzív erőket adnak, melyeket Telepítőkkel érsz el. Fejezd be egynek a küldetését, majd vedd meg azt az Eszközök menüben."
 
 #. Virry blurb - weapon driver tasks
 #. source: Weapon Drivers upgrade a weapon's with unique additions. When unlocked reach levels 8, 16 and 24 to obtain them.
 msgid "UI.task_virry_drivers"
-msgstr ""
-"A fegyvervezérlők egyedi tulajdonsággal szerelik fel fegyvereidet. Ha "
-"feloldottad, fel lesznek ajánlva a 8., 16., és 24. fegyverszinteken."
+msgstr "A fegyvervezérlők egyedi tulajdonsággal szerelik fel fegyvereidet. Ha feloldottad, fel lesznek ajánlva a 8., 16., és 24. fegyverszinteken."
 
 #. Virry blurb - files tasks
 #. source: Safe Files, Battle Files, and Special Files. Unlock them, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_files"
-msgstr ""
-"Biztonságos- és harci mappák fájljai, és különleges fájlok. Oldj fel "
-"egyet, majd vedd meg azt az Eszközök menüben."
+msgstr "Biztonságos- és harci mappák fájljai, és különleges fájlok. Oldj fel egyet, majd vedd meg azt az Eszközök menüben."
 
 #. Virry blurb - theme tasks
 #. source: Themes dress up the desktop. When unlocked they can be applied in the Personalise menu.
 msgid "UI.task_virry_themes"
-msgstr ""
-"Témákkal szépítheted saját asztalod. Feloldás után a Személyre szabás "
-"menüben alkalmazhatod őket."
+msgstr "Témákkal szépítheted saját asztalod. Feloldás után a Személyre szabás menüben alkalmazhatod őket."
 
 #. Virry blurb - policy tasks
 #. source: Complete a Protocol with each Policy, then Domain Policies. Protocol V is the hard set.
 msgid "UI.task_virry_policies"
-msgstr ""
-"Fejezz be egy Protokoll szintet mindegyik szabályzattal, majd "
-"domainszabályzattal. Az ötös Protokoll kihívásai ütős munkába fog tőled "
-"kerülni!"
+msgstr "Fejezz be egy Protokoll szintet mindegyik szabályzattal, majd domainszabályzattal. Az ötös Protokoll kihívásai ütős munkába fog tőled kerülni!"
 
 #. Virry blurb - general milestones
 #. source: General milestones. Mostly Beanz rewards.
@@ -2992,9 +2862,7 @@ msgstr "Felugró ablakok száma"
 #. Profile stats - failed file opens tooltip
 #. source: Spam popups spawned from failed Zip or Download More RAM opens.
 msgid "UI.stat_failed_files_desc"
-msgstr ""
-"Félresikerült ZIP kibontásokból és \"RAM letöltésekből\" eredő zavaró "
-"felugró ablakok."
+msgstr "Félresikerült ZIP kibontásokból és \"RAM letöltésekből\" eredő zavaró felugró ablakok."
 
 #. Profile stats - rar files opened tooltip
 #. source: Rar archives completed.
@@ -3191,15 +3059,13 @@ msgstr "Vapor Bolt"
 #. Vapor store - black header logo wordmark
 #. source: VAPOR
 msgid "UI.vapor_store_brand"
-msgstr "VAPOR"
+msgstr ""
 
 #. Vapor store - special files explanation
 #. source: Special Files spawn during battle. While one is active, hold {special} to use it.
 #. Keep placeholders unchanged: {special}
 msgid "UI.vapor_store_intro"
-msgstr ""
-"Speckó fájlok idéződnek harcaid közben. Amikor egyet használsz, tartsd "
-"lenyomva: {special}"
+msgstr "Speckó fájlok idéződnek harcaid közben. Amikor egyet használsz, tartsd lenyomva: {special}"
 
 #. Vapor store - featured weapon heading
 #. source: Featured Weapon
@@ -3392,16 +3258,13 @@ msgstr "Kattintással idézés engedélyezése"
 #. source: Complete %s or higher once to enable Policies.
 #. Keep placeholders unchanged: %s
 msgid "UI.policies_locked"
-msgstr ""
-"A szabályzatok eléréséhez fejezz be Protokollt %s vagy magasabb szinten."
+msgstr "A szabályzatok eléréséhez fejezz be Protokollt %s vagy magasabb szinten."
 
 #. Domain Policies locked until 3 distinct policies completed on the chosen protocol or higher
 #. source: Complete 3 different Policies on %s or higher to enable Domain Policies.
 #. Keep placeholders unchanged: %s
 msgid "UI.domain_policies_locked"
-msgstr ""
-"Domainszabályzatok eléréséhez fejezz be három különb Szabályzatot %s vagy "
-"magasabb szinten."
+msgstr "Domainszabályzatok eléréséhez fejezz be három különb Szabályzatot %s vagy magasabb szinten."
 
 #. UI (script-driven)
 #. source: Run Beanz: x%.2f
@@ -3483,9 +3346,7 @@ msgstr "Befejezetlen"
 #. UI (script-driven)
 #. source: Control your cursor with the mouse in Safe Folders.[br]Battle Folders always use WASD or the left stick.
 msgid "UI.admin_mouse_tooltip"
-msgstr ""
-"Irányítsd gyorsabban a kurzort a nem harci területeken! Használd az egered "
-"(vagy botkormányod, ha kontrollered van)."
+msgstr "Irányítsd gyorsabban a kurzort a nem harci területeken! Használd az egered (vagy botkormányod, ha kontrollered van)."
 
 #. UI (script-driven)
 #. source: Reroll Locked
@@ -3557,7 +3418,7 @@ msgstr "Töredezettségmentesítve"
 #. UI (script-driven)
 #. source: %2.2f KB
 msgid "UI.defrag_capacity"
-msgstr "%2.2f KB"
+msgstr ""
 
 #. Upgrade screen - speech prompt
 #. source: Select an upgrade to continue.
@@ -3626,30 +3487,22 @@ msgstr "Nincs elég Kulcsod... :("
 #. Starter folder weapons category help
 #. source: Your first of four weapons for the run. You'll pick more as you level up.
 msgid "UI.starter_help_weapons"
-msgstr ""
-"Összesen négyből az első fegyvered, amit magaddal viszel. A többit majd a "
-"meneted során szerzed meg."
+msgstr "Összesen négyből az első fegyvered, amit magaddal viszel. A többit majd a meneted során szerzed meg."
 
 #. Starter folder cursor class category help
 #. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
 msgid "UI.starter_help_cursor"
-msgstr ""
-"A kurzorosztályok az alap módosítóidat állítják be. Minden más ezekre "
-"épülve szorzódik!"
+msgstr "A kurzorosztályok az alap módosítóidat állítják be. Minden más ezekre épülve szorzódik!"
 
 #. Starter folder difficulty category help
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
 msgid "UI.starter_help_difficulty"
-msgstr ""
-"A mappák nehézségével a menet szabályait módosítod: ellenségek mennyisége, "
-"nyeremények és feloldható cuccok."
+msgstr "A mappák nehézségével a menet szabályait módosítod: ellenségek mennyisége, nyeremények és feloldható cuccok."
 
 #. Starter folder policies category help
 #. source: Optional extra rules on top of the protocol. Completing them earns more Beanz.
 msgid "UI.starter_help_policies"
-msgstr ""
-"Mellékes szabályok a Protokollra ráadásul. Ezeket befejezve több Babbabot "
-"szerzel!"
+msgstr "Mellékes szabályok a Protokollra ráadásul. Ezeket befejezve több Babbabot szerzel!"
 
 #. Starter folder button that reopens the tutorial guide
 #. source: Guide
@@ -3670,104 +3523,47 @@ msgstr "Első indítás segédlet"
 #. source: Welcome to {game}!\n\nI'm Virry, and I'm going to take you through some basics of how to play.
 #. Keep placeholders unchanged: {game}
 msgid "UI.tutorial_1_body"
-msgstr ""
-"Üdv az {game}-ban!\n"
-"\n"
-"Virry vagyok, és most gyorsan átvezetlek a játék alapjain!"
+msgstr "Üdv az {game}-ban!\n\nVirry vagyok, és most gyorsan átvezetlek a játék alapjain!"
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
 #. Keep placeholders unchanged: {move}, {click}, {drag}
 msgid "UI.tutorial_2_body"
-msgstr ""
-"Először is, mozgásra fel!\n"
-"A képernyőn keresztül ezzel mozoghatsz: {move}\n"
-"\n"
-"A játék során a fájlokra jó sokat fogsz majd dupla-klikkelni.\n"
-"Kattints ezzel: {click}\n"
-"Ha akarod, a képernyőn magaddal is húzhatsz majd fájlokat, ha el akarod "
-"vinni őket: {drag}"
+msgstr "Először is, mozgásra fel!\nA képernyőn keresztül ezzel mozoghatsz: {move}\n\nA játék során a fájlokra jó sokat fogsz majd dupla-klikkelni.\nKattints ezzel: {click}\nHa akarod, a képernyőn magaddal is húzhatsz majd fájlokat, ha el akarod vinni őket: {drag}"
 
 #. Tutorial page 3 - class, protocol, policies
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
-msgstr ""
-"Kezdésként válassz egy {class}t és {difficulty}et. Először csak az "
-"{default} kurzor lesz majd elérhető - a többi majd idővel jön!\n"
-"\n"
-"Döntsd el, hogy {difficulty}nek az I., II. vagy III. Protokollal akarsz "
-"kezdeni.\n"
-"Egy Protokoll befejezésével nyereményeid mellett {policies}at is feloldasz "
-"majd, melyekkel kicsit fel tudod izgítani meneteidet!\n"
-"\n"
-"Na gyere, válaszd ki a neked tetsző {class}t! és {difficulty}et!"
+msgstr "Kezdésként válassz egy {class}t és {difficulty}et. Először csak az {default} kurzor lesz majd elérhető - a többi majd idővel jön!\n\nDöntsd el, hogy {difficulty}nek az I., II. vagy III. Protokollal akarsz kezdeni.\nEgy Protokoll befejezésével nyereményeid mellett {policies}at is feloldasz majd, melyekkel kicsit fel tudod izgítani meneteidet!\n\nNa gyere, válaszd ki a neked tetsző {class}t! és {difficulty}et!"
 
 #. Tutorial page 4 - {drivers}
 #. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
 #. Keep placeholders unchanged: {drivers}
 msgid "UI.tutorial_4_body"
-msgstr ""
-"Na, most figyelj.\n"
-"Elsőként válassz egy kezdő fegyvert!\n"
-"A meneted során szintlépésekkel bővítheted majd fegyvereid készletét.\n"
-"\n"
-"Minden egyes szintlépéskor játékos- és fegyverfejlesztésekből válogathatsz "
-"majd, melyekkel növelheted egyes tulajdonságaidat.\n"
-"Amikor a fegyvereid elég szintét lépnek majd, {drivers}et oldasz fel, "
-"melyekkel neked szabott (és elég jelentős!) fejlesztéseket alkalmazhatsz "
-"arra a fegyverre."
+msgstr "Na, most figyelj.\nElsőként válassz egy kezdő fegyvert!\nA meneted során szintlépésekkel bővítheted majd fegyvereid készletét.\n\nMinden egyes szintlépéskor játékos- és fegyverfejlesztésekből válogathatsz majd, melyekkel növelheted egyes tulajdonságaidat.\nAmikor a fegyvereid elég szintét lépnek majd, {drivers}et oldasz fel, melyekkel neked szabott (és elég jelentős!) fejlesztéseket alkalmazhatsz arra a fegyverre."
 
 #. Tutorial page 5 - {safe}
 #. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
 #. Keep placeholders unchanged: {safe}
 msgid "UI.tutorial_5_body"
-msgstr ""
-"Az még viszont egy kicsit távol van! Szóval jöjjünk vissza egy picit.\n"
-"\n"
-"A játék lényege egyszerű: élj túl.\n"
-"Öt ötperces kör fog majd várni téged. Minden kör végén szedned kell majd a "
-"lábad, hogy eljuthass a {safe}hoz, és tovább léphess."
+msgstr "Az még viszont egy kicsit távol van! Szóval jöjjünk vissza egy picit.\n\nA játék lényege egyszerű: élj túl.\nÖt ötperces kör fog majd várni téged. Minden kör végén szedned kell majd a lábad, hogy eljuthass a {safe}hoz, és tovább léphess."
 
 #. Tutorial page 6
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
-msgstr ""
-"A túlélésedhez:\n"
-"kaszabolj ellenségeket és ne hagyd őket téged kaszabolni; szerezz jó sok "
-"Tapasztalatpontot és Érmét, szerezz fejlesztéseket és nyiss meg fájlokat.\n"
-"\n"
-"A fájlok fogják játékmeneted még szórakoztatóbbá tenni: némely kis rizikót "
-"hord magával, némelyhez Kulcsok kellenek, de vannak olyanok is, melyek "
-"egyszerűen csak jutalmat adnak.\n"
-"\n"
-"Lesz majd minden körben egy Mellékküldetés a jobb felső sarokban:\n"
-"fejezd be azt, és szerezz még több nyereményt!"
+msgstr "A túlélésedhez:\nkaszabolj ellenségeket és ne hagyd őket téged kaszabolni; szerezz jó sok Tapasztalatpontot és Érmét, szerezz fejlesztéseket és nyiss meg fájlokat.\n\nA fájlok fogják játékmeneted még szórakoztatóbbá tenni: némely kis rizikót hord magával, némelyhez Kulcsok kellenek, de vannak olyanok is, melyek egyszerűen csak jutalmat adnak.\n\nLesz majd minden körben egy Mellékküldetés a jobb felső sarokban:\nfejezd be azt, és szerezz még több nyereményt!"
 
 #. Tutorial page 7 - {safe} {vapor}
 #. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
 #. Keep placeholders unchanged: {safe}, {vapor}
 msgid "UI.tutorial_7_body"
-msgstr ""
-"A játék maradandó pénzneme a Babbab. Ha lehet, ezeket, öh, ne edd meg.\n"
-"\n"
-"Szerezz Babbabot ellenségek mészárlásáért és a {safe} időbeli "
-"megnyitásáért, valamint még egy párat Feladatok teljesítéséért. A szerzett "
-"Babbabjaidat előbb említett Kurzorosztályokra, Fegyverekre, Bővítményekre, "
-"Fájlokra, {vapor} tárgyakra, és egyszerűen fejlesztésekre is költheted "
-"majd.\n"
-"\n"
-"Na, ugye hogy nem éri meg megenni!"
+msgstr "A játék maradandó pénzneme a Babbab. Ha lehet, ezeket, öh, ne edd meg.\n\nSzerezz Babbabot ellenségek mészárlásáért és a {safe} időbeli megnyitásáért, valamint még egy párat Feladatok teljesítéséért. A szerzett Babbabjaidat előbb említett Kurzorosztályokra, Fegyverekre, Bővítményekre, Fájlokra, {vapor} tárgyakra, és egyszerűen fejlesztésekre is költheted majd.\n\nNa, ugye hogy nem éri meg megenni!"
 
 #. Tutorial page 8
 #. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
 msgid "UI.tutorial_8_body"
-msgstr ""
-"Remélem ez nem volt túl sűrű, de egyelőre akkor ennyi is! Mindenre rájössz "
-"majd fokozatosan.\n"
-"\n"
-"Ezek után csak válassz egy kezdő fegyvert, játssz - persze túlélve - és "
-"élvezd a menetet! :D"
+msgstr "Remélem ez nem volt túl sűrű, de egyelőre akkor ennyi is! Mindenre rájössz majd fokozatosan.\n\nEzek után csak válassz egy kezdő fegyvert, játssz - persze túlélve - és élvezd a menetet! :D"
 
 #. Plus! cleared. %s is the elite name, %s is the dropped filename
 #. source: %s cleared, %s dropped.
@@ -3779,7 +3575,7 @@ msgstr "%s legyőzve, %s elérhető!"
 #. source: %d %s
 #. Keep placeholders unchanged: %d, %s
 msgid "UI.notif_elites_named"
-msgstr "%d %s"
+msgstr ""
 
 #. Multi Plus! toast when types are mixed. %d is how many spawned together
 #. source: %d Plus! enemies
@@ -3831,7 +3627,7 @@ msgstr "%d/%d %s fájl megnyitva"
 #. Vapidshare window title when Vapidshare Pro plugin is equipped
 #. source: Vapidshare Pro
 msgid "UI.vapidshare_title_pro"
-msgstr "Vapidshare Pro"
+msgstr ""
 
 #. Vapidshare window parts progress
 #. source: Parts %d / %d
@@ -3857,7 +3653,7 @@ msgstr "Befejezve"
 #. Vapidshare list hoster column
 #. source: vapidshare.com
 msgid "UI.vapidshare_hoster"
-msgstr "vapidshare.com"
+msgstr ""
 
 #. Vapidshare list Hoster header
 #. source: Hoster
@@ -3948,27 +3744,7 @@ msgstr "Nyertél!"
 #. source: A fatal exception has occurred and the system has been terminated to prevent corruption.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nIf this is the first time you've seen this termination screen, restart your system.\nIf this screen appears again, internal modules may have been compromised.\n\nPlease verify the integrity of your installed components. Unexpected behavior may\nindicate corrupted memory, invalid packet injection, or unauthorized script execution.\n\nIf the issue persists, perform a secure reboot or contact your system's internal administrator.\n\nTechnical Dump:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nBeginning forced shutdown...\nMemory cache flushed.\n\nPress {click} to continue. {tab} for stats
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
-msgstr ""
-"A rendszer súlyos problémát talált, és annak károsodásának megelőzése "
-"érdekében leállt.\n"
-"\n"
-"CODE_HALTED: SYSTEM_COHERENCE_FALIURE\n"
-"\n"
-"Ha először látja ezt a hibaképernyőt, indítsa újra a számítógépet. Ha "
-"ismét megjelenik, lehetséges a belső modulok károsodása.\n"
-"Hitelesítse, hogy a belső modulok sértetlenek-e. A véletlenszerűen "
-"felbukkanó rendellenességek oka lehet: sérült memória, rossz bővítmény-"
-"hozzáadás, jogosulatlan szkriptfuttatás vagy szkill issú.\n"
-"\n"
-"Ha a probléma továbbra is fennáll, hajtson végre egy biztonságos "
-"újraindítást, vagy keresse fel rendszergazdáját.\n"
-"\n"
-"Technikai adatok:\n"
-"STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n"
-"\n"
-"Kényszerített leállítás megkezdése...\n"
-"Memóriapuffer tisztítva.\n"
-"{click} a folytatáshoz. {tab} a mentett statisztika megnyitásához."
+msgstr "A rendszer súlyos problémát talált, és annak károsodásának megelőzése érdekében leállt.\n\nCODE_HALTED: SYSTEM_COHERENCE_FALIURE\n\nHa először látja ezt a hibaképernyőt, indítsa újra a számítógépet. Ha ismét megjelenik, lehetséges a belső modulok károsodása.\nHitelesítse, hogy a belső modulok sértetlenek-e. A véletlenszerűen felbukkanó rendellenességek oka lehet: sérült memória, rossz bővítmény-hozzáadás, jogosulatlan szkriptfuttatás vagy szkill issú.\n\nHa a probléma továbbra is fennáll, hajtson végre egy biztonságos újraindítást, vagy keresse fel rendszergazdáját.\n\nTechnikai adatok:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nKényszerített leállítás megkezdése...\nMemóriapuffer tisztítva.\n{click} a folytatáshoz. {tab} a mentett statisztika megnyitásához."
 
 #. Browser address-bar caption
 #. source: Address
@@ -4009,7 +3785,7 @@ msgstr "Clearzone - Válassz bővítményt"
 #. source: %d / %d
 #. Keep placeholders unchanged: %d
 msgid "UI.rar_progress"
-msgstr "%d / %d"
+msgstr ""
 
 #. Clearzone archive clears label
 #. source: Clears
@@ -4030,7 +3806,7 @@ msgstr "Idő"
 #. source: %d KB
 #. Keep placeholders unchanged: %d
 msgid "UI.rar_size_kb"
-msgstr "%d KB"
+msgstr ""
 
 #. Torrent window title
 #. source: BigWave 2003 Edition
@@ -4050,9 +3826,7 @@ msgstr "Letöltés"
 #. Vapidshare part tooltip while another part is downloading
 #. source: Another part is downloading. Get Vapidshare Pro for simultaneous downloads.
 msgid "CLICKABLE.vapid_part_busy"
-msgstr ""
-"Már telepítődik egy Vapidshare-rész. Szerezze be a Vapidshare Pro-t "
-"egyidejű letöltésekhez."
+msgstr "Már telepítődik egy Vapidshare-rész. Szerezze be a Vapidshare Pro-t egyidejű letöltésekhez."
 
 #. Shop / upgrade screen - reroll button
 #. source: Reroll: %.2f Coin
@@ -4112,7 +3886,7 @@ msgstr "{close} az újraindításhoz..."
 #. source: HP: %d/%d
 #. Keep placeholders unchanged: %d
 msgid "UI.hp"
-msgstr "HP: %d/%d"
+msgstr ""
 
 #. Unlock requirement - clear N enemies
 #. source: Clear {amount} enemies
@@ -4194,9 +3968,7 @@ msgstr "A játékablak mind a négy sarka legyen tele ablakokkal"
 #. Unlock description - overlay windows in all 4 corners
 #. source: Open files until their windows fill every corner of the screen.
 msgid "UI.unlock_corner_windows_desc"
-msgstr ""
-"Nyiss meg annyi fájlt, amíg azok felugró ablakai egyszerre fel nem töltik "
-"a látható játékterület összes sarkát. (nem spam-felugró ablakok!)"
+msgstr "Nyiss meg annyi fájlt, amíg azok felugró ablakai egyszerre fel nem töltik a látható játékterület összes sarkát. (nem spam-felugró ablakok!)"
 
 #. Unlock requirement - complete N tasks
 #. source: Complete {amount} tasks
@@ -4330,7 +4102,7 @@ msgstr "{amount} spam felugró ablak megjelenítése"
 #. source: Defeat {boss}
 #. Keep placeholders unchanged: {boss}
 msgid "UI.unlock_defeat_boss"
-msgstr "{amount} legyőzése"
+msgstr "{boss} legyőzése"
 
 #. Unlock requirement - defeat any boss
 #. source: Defeat any boss
@@ -4347,9 +4119,7 @@ msgstr "{boss} Fájl"
 #. source: Lets you choose {boss} at the end of a run instead of only Random Boss.
 #. Keep placeholders unchanged: {boss}
 msgid "UI.unlock_boss_choice_desc"
-msgstr ""
-"Megengedi, hogy kifejezetten azzal a főellenséggel harcolj a menet végén, "
-"egy véletlenszerű főellenség helyett."
+msgstr "Megengedi, hogy kifejezetten azzal a főellenséggel harcolj a menet végén, egy véletlenszerű főellenség helyett."
 
 #. Unlock requirement - land a hit of N damage
 #. source: Land a single hit of {amount} damage
@@ -4367,7 +4137,7 @@ msgstr "{protocol} befejezése"
 #. source: Unlocks {reward}.
 #. Keep placeholders unchanged: {reward}
 msgid "UI.unlock_protocol_unlocks"
-msgstr "Feloldja: {protocol}"
+msgstr "Feloldja: {reward}"
 
 #. Unlock requirement - reach a round on a protocol or higher
 #. source: Reach round {amount} on {protocol} or higher
@@ -4400,7 +4170,7 @@ msgstr "Igény szerint kis időre növeli a kurzor sebességét."
 #. UI (script-driven)
 #. source: N2O
 msgid "UI.unlock_widget_nos_reward"
-msgstr "N2O"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Commit crimes for coin while dodging the heat.
@@ -4425,20 +4195,17 @@ msgstr "Rengeteg Fájdalom"
 #. UI (script-driven)
 #. source: Buy and sell Keys for Coin in Safe Folders.
 msgid "UI.unlock_file_keybuy_desc"
-msgstr ""
-"Vásárolj és adj el Kulcsokat a Biztonságos mappákban, Érmékért cserébe."
+msgstr "Vásárolj és adj el Kulcsokat a Biztonságos mappákban, Érmékért cserébe."
 
 #. UI (script-driven)
 #. source: KeyBuy
 msgid "UI.unlock_file_keybuy_reward"
-msgstr "KeyBuy"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Heal now, or upgrade Health Check files for later battles.
 msgid "UI.unlock_file_health_check_pro_desc"
-msgstr ""
-"Azonnali gyógyítás, vagy az Állapotellenőrzések fejlesztése a későbbi "
-"körökre, Érmékért cserébe."
+msgstr "Azonnali gyógyítás, vagy az Állapotellenőrzések fejlesztése a későbbi körökre, Érmékért cserébe."
 
 #. UI (script-driven)
 #. source: Health Check Plus
@@ -4458,9 +4225,7 @@ msgstr "Pénzügykezelő"
 #. Unlock description - Ethanol 130% safe file
 #. source: Pay Coin to copy a random plugin you already have installed.
 msgid "UI.unlock_file_ethanol_desc"
-msgstr ""
-"Másolj egy véletlenszerű Bővítményt, és telepítsd le még egyszer, Érmékért "
-"cserébe."
+msgstr "Másolj egy véletlenszerű Bővítményt, és telepítsd le még egyszer, Érmékért cserébe."
 
 #. Unlock reward - Ethanol 130% name
 #. source: Ethanol 130%
@@ -4475,7 +4240,7 @@ msgstr "Telepíts többrészes archívumokat, melyek Tört Telepítőket adnak."
 #. UI (script-driven)
 #. source: Vapidshare
 msgid "UI.unlock_file_vapidshare_reward"
-msgstr "Vapidshare"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Install plugins without spending a Key.
@@ -4490,14 +4255,12 @@ msgstr "Tört Telepítő"
 #. UI (script-driven)
 #. source: Clear a zone of enemies to choose from three plugins.
 msgid "UI.unlock_file_killzone_desc"
-msgstr ""
-"Ölj ellenségeket egy területen belül, hogy három Bővítmény közül "
-"választhass."
+msgstr "Ölj ellenségeket egy területen belül, hogy három Bővítmény közül választhass."
 
 #. UI (script-driven)
 #. source: Clearzone
 msgid "UI.unlock_file_killzone_reward"
-msgstr "Clearzone"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Install 3 legendary plugins
@@ -4522,9 +4285,7 @@ msgstr "Győzz le egy Plusz! ellenséget tíz másodpercen belül."
 #. UI (script-driven)
 #. source: Install Morgan Antivirus to raise difficulty and spawn extra Plus! enemies.
 msgid "UI.unlock_file_morgan_av_desc"
-msgstr ""
-"Telepítsd a Morgan Antivírust, hogy nehezítsd a menetet, és hogy több "
-"Plusz! ellenséggel fuss össze."
+msgstr "Telepítsd a Morgan Antivírust, hogy nehezítsd a menetet, és hogy több Plusz! ellenséggel fuss össze."
 
 #. UI (script-driven)
 #. source: Bonus Beanz
@@ -4636,8 +4397,7 @@ msgstr "Kevés memória"
 #. Optional extra difficulty policy - description (low_memory)
 #. source: No new weapons at level 8, 16, or 24.
 msgid "POLICY.low_memory.description"
-msgstr ""
-"Csak a kezdeti fegyver. Nincsenek új fegyverek a 8., 16. és 24. szinteken."
+msgstr "Csak a kezdeti fegyver. Nincsenek új fegyverek a 8., 16. és 24. szinteken."
 
 #. Optional extra difficulty policy - name (unsigned_driver)
 #. source: Activation Required
@@ -4647,9 +4407,7 @@ msgstr "Aktiválja A Szoftvert!"
 #. Optional extra difficulty policy - description (unsigned_driver)
 #. source: Keygen files do not spawn. Get plugins from cracked installers, or buy Keys at the Key Shop.
 msgid "POLICY.unsigned_driver.description"
-msgstr ""
-"Kulcsgenerátorok nem idéződnek. Szerezz be Bővítményeket Tört "
-"Telepítőkből, vagy vásárolj Érmével Kulcsokat a Boltban."
+msgstr "Kulcsgenerátorok nem idéződnek. Szerezz be Bővítményeket Tört Telepítőkből, vagy vásárolj Érmével Kulcsokat a Boltban."
 
 #. Optional extra difficulty policy - name (read_only)
 #. source: Read Only
@@ -4739,11 +4497,7 @@ msgstr "Minden vagy Semmi"
 #. Optional extra difficulty policy - description (default_domain_policy)
 #. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
 msgid "POLICY.default_domain_policy.description"
-msgstr ""
-"Minden egyes Szabályzat aktív. Az ellenségek gyorsak, sokan vannak, és "
-"erősek. Az Életerőd felét adózod. Csak egy fegyver, nincs Kulcsgen, sem "
-"pörgetés. Az Űr kétszer oly erős. A menekülésre fele annyi időd van. Már "
-"majdan Protokoll VI..."
+msgstr "Minden egyes Szabályzat aktív. Az ellenségek gyorsak, sokan vannak, és erősek. Az Életerőd felét adózod. Csak egy fegyver, nincs Kulcsgen, sem pörgetés. Az Űr kétszer oly erős. A menekülésre fele annyi időd van. Már majdan Protokoll VI..."
 
 #. Policy complete unlock requirement template
 #. source: Complete any protocol using {policy}
@@ -4772,7 +4526,7 @@ msgstr "A {policy}-t aktiválva fejezz be egy ötös szintű Protokollt."
 #. KeyBuy window and desktop icon title
 #. source: keyBuy
 msgid "UI.keybuy_title"
-msgstr "keyBuy"
+msgstr ""
 
 #. KeyBuy buy button
 #. source: Buy a Key
@@ -4805,9 +4559,7 @@ msgstr "Költs {cost} Érmét 1 Kulcsért cserébe."
 #. source: Sell 1 Key for {cost} Coin.\nMarketplace fee keeps {fee} Coin.
 #. Keep placeholders unchanged: {cost}, {fee}
 msgid "UI.keybuy_sell_tooltip"
-msgstr ""
-"Adj el egy Kulcsot {cost} Érméért cserébe.\n"
-"A Kereskedő visszatart {fee} Érmét."
+msgstr "Adj el egy Kulcsot {cost} Érméért cserébe.\nA Kereskedő visszatart {fee} Érmét."
 
 #. KeyBuy nav links under the logo
 #. source: home | buy | sell | my keys | help
@@ -4890,7 +4642,7 @@ msgstr "Fejlesztve: {min}-{max} Életerő"
 #. Health Check Pro heal explanation
 #. source: Restore 50% of Max HP right now.
 msgid "UI.health_check_pro_heal_blurb"
-msgstr "Azonnal "
+msgstr ""
 
 #. Health Check Pro heal amount preview
 #. source: +{amount} HP
@@ -4952,7 +4704,7 @@ msgstr "Egyenleg"
 #. Finance Manager open-profit row
 #. source: Profit
 msgid "UI.stock_trader_label_return"
-msgstr "Profit"
+msgstr ""
 
 #. Finance Manager this-folder row
 #. source: This Folder
@@ -5161,9 +4913,7 @@ msgstr "Dupla kattintás a nyelvezet változtatásához"
 #. Desktop icon tooltip
 #. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
 msgid "CLICKABLE.github_translations"
-msgstr ""
-"Dupla kattintás a hivatkozás megnyitásához[br]A fordítások nagyrésze a "
-"közösség kedvességéből eredően elérhetőek."
+msgstr "Dupla kattintás a hivatkozás megnyitásához[br]A fordítások nagyrésze a közösség kedvességéből eredően elérhetőek."
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
@@ -5272,7 +5022,7 @@ msgstr "Ölések: %d"
 #. source: Biggest hit: %.0f
 #. Keep placeholders unchanged: %.0f
 msgid "TOOLTIP.run_highest_hit"
-msgstr "Legnagyobb ütés: %0f"
+msgstr "Legnagyobb ütés: %.0f"
 
 #. Stat tooltip
 #. source: Completions: %d
@@ -5289,7 +5039,7 @@ msgstr "Vezérlők"
 #. source: Rank: %d/%d
 #. Keep placeholders unchanged: %d
 msgid "META.rank"
-msgstr "Rank: %d/%d"
+msgstr ""
 
 #. Meta upgrade menu
 #. source: MAX RANK
@@ -5305,23 +5055,19 @@ msgstr "Ár: %d Babbab"
 #. Zip window titlebar when SHZip License is equipped
 #. source: SHZip v2.03
 msgid "ZIP.title_licensed"
-msgstr "SHZip v2.03"
+msgstr ""
 
 #. Zip extractor window
 #. source: Extracting file: \n%s from /.???
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracting"
-msgstr ""
-"Kicsomagolás:\n"
-"%s, hely: /.???"
+msgstr "Kicsomagolás:\n%s, hely: /.???"
 
 #. Zip extractor window
 #. source: Estimated time left: {m}m {s}s ({cur} KB of {max} KB) \nProcessing rate: {rate} KB/Sec
 #. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
 msgid "ZIP.progress"
-msgstr ""
-"Hátralévő idő: {m}p {s}mp ({cur} KB / {max} KB)\n"
-"Sebesség: {rate} KB/mp"
+msgstr "Hátralévő idő: {m}p {s}mp ({cur} KB / {max} KB)\nSebesség: {rate} KB/mp"
 
 #. Zip extractor window
 #. source: %s extracted successfully.
@@ -5338,12 +5084,12 @@ msgstr "Hiányzó dinamikus hivatkozástár felderítve: %s"
 #. Desktop icon tooltip
 #. source: BigWave.exe
 msgid "CLICKABLE.filename.torrent"
-msgstr "BigWave.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: LemWire.exe
 msgid "CLICKABLE.filename.lemwire"
-msgstr "LemWire.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: Installer.pgi
@@ -5363,7 +5109,7 @@ msgstr "LEGENDÁS_TELEPÍTŐ.exe"
 #. Desktop icon tooltip
 #. source: MorganAV.pgi
 msgid "CLICKABLE.filename.morgan_av"
-msgstr "MorganAV.pgi"
+msgstr ""
 
 #. Run stats panel row
 #. source: Difficulty
@@ -5443,9 +5189,7 @@ msgstr "Pontok"
 #. Run stats panel row
 #. source: Run score from clears, levels, safe folders, and a completion bonus.
 msgid "RUNSTAT.score_desc"
-msgstr ""
-"Ölésekből, szintlépésekből, Biztonságos mappákból és bónuszokból szerzett "
-"Pontok."
+msgstr "Ölésekből, szintlépésekből, Biztonságos mappákból és bónuszokból szerzett Pontok."
 
 #. Run stats panel row
 #. source: Class
@@ -5533,9 +5277,7 @@ msgstr "Az előző Harci mappában begyűjtött összes Kulcs száma."
 #. Safe Folder explorer - last round Beanz tooltip
 #. source: Beanz earned in the last Battle Folder, including the Safe Folder award.
 msgid "RUNSTAT.last_round_beanz_desc"
-msgstr ""
-"Az előző Harci mappában szerzett összes Babbab száma, ebbe beleértve a "
-"Biztonságos mappa nyereményét."
+msgstr "Az előző Harci mappában szerzett összes Babbab száma, ebbe beleértve a Biztonságos mappa nyereményét."
 
 #. Run and last-round DPS label
 #. source: DPS
@@ -5545,8 +5287,7 @@ msgstr "Sebzés/mp"
 #. Run DPS tooltip
 #. source: Damage per second this run, during Battle Folders only.
 msgid "RUNSTAT.dps_desc"
-msgstr ""
-"Csak a Harci mappákban számolt, másodpercenként leadott átlagos sebzés."
+msgstr "Csak a Harci mappákban számolt, másodpercenként leadott átlagos sebzés."
 
 #. Run damage dealt tooltip
 #. source: Total damage dealt this run.
@@ -5630,11 +5371,11 @@ msgstr "RAM letöltés sikeres."
 
 #. keygen
 msgid "keygen.exe"
-msgstr "keygen.exe"
+msgstr ""
 
 #. vapor
 msgid "vapor.exe"
-msgstr "vapor.exe"
+msgstr ""
 
 #. frenzy
 msgid "frenzy.exe"
@@ -5642,7 +5383,7 @@ msgstr "őrület.exe"
 
 #. Vapidshare
 msgid "Vapidshare.exe"
-msgstr "Vapidshare.exe"
+msgstr ""
 
 #. Scene label
 msgid "Feedback"
@@ -5650,11 +5391,11 @@ msgstr "Visszajelzés"
 
 #. Scene label
 msgid "Steam"
-msgstr "Steam"
+msgstr ""
 
 #. Scene label
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #. Scene label
 msgid "Translations GitHub"
@@ -5662,7 +5403,7 @@ msgstr "GitHub fordítások"
 
 #. avs03
 msgid "avs03.com"
-msgstr "avs03.com"
+msgstr ""
 
 #. Scene label
 msgid "Level 8"
@@ -5693,9 +5434,7 @@ msgstr "Túlhajtva"
 #. Weapon driver / overclock card - description (overclocked)
 #. source: Multiply Damage 1.6x.\nReduce Refresh -15%.
 msgid "DRIVER.overclocked.description"
-msgstr ""
-"Sebzésszorzó 1.6x.\n"
-"Frissítési sebesség -15%."
+msgstr "Sebzésszorzó 1.6x.\nFrissítési sebesség -15%."
 
 #. Weapon driver / overclock card - name (hyperthreaded)
 #. source: Hyperthreaded
@@ -5705,9 +5444,7 @@ msgstr "Hiperszálas"
 #. Weapon driver / overclock card - description (hyperthreaded)
 #. source: Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.hyperthreaded.description"
-msgstr ""
-"+2 Fegyvermennyiség.\n"
-"Sebzés csökkentése: -20%."
+msgstr "+2 Fegyvermennyiség.\nSebzés csökkentése: -20%."
 
 #. Weapon driver / overclock card - name (turbo_clock)
 #. source: Turbo Clock
@@ -5717,9 +5454,7 @@ msgstr "Turbó"
 #. Weapon driver / overclock card - description (turbo_clock)
 #. source: Increase Speed +50%.\nReduce Power -15%.
 msgid "DRIVER.turbo_clock.description"
-msgstr ""
-"Fegyversebesség +50%.\n"
-"Fegyvererő -15%."
+msgstr "Fegyversebesség +50%.\nFegyvererő -15%."
 
 #. Weapon driver / overclock card - name (bloated_cache)
 #. source: Bloated Cache
@@ -5739,9 +5474,7 @@ msgstr "Bővített támogatás"
 #. Weapon driver / overclock card - description (extended_table)
 #. source: Attack Speed no longer makes this weapon expire sooner.
 msgid "DRIVER.extended_table.description"
-msgstr ""
-"A Támadási sebesség ezentúl nem kényszeríti a fegyvert hamarabb lejárni "
-"támadáskor."
+msgstr "A Támadási sebesség ezentúl nem kényszeríti a fegyvert hamarabb lejárni támadáskor."
 
 #. Weapon driver / overclock card - name (bumper)
 #. source: Bumper
@@ -5751,9 +5484,7 @@ msgstr "Dodzsem"
 #. Weapon driver / overclock card - description (bumper)
 #. source: On wall bounce: Increase Damage +50% and trigger a Blast.
 msgid "DRIVER.bumper.description"
-msgstr ""
-"Falról visszapattanáskor:\n"
-"Fegyversebzés +50%. Kis robbanás előidézése."
+msgstr "Falról visszapattanáskor:\nFegyversebzés +50%. Kis robbanás előidézése."
 
 #. Weapon driver / overclock card - name (avd_fragmented)
 #. source: Fragmented
@@ -5763,9 +5494,7 @@ msgstr "Töredezett"
 #. Weapon driver / overclock card - description (avd_fragmented)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.avd_fragmented.description"
-msgstr ""
-"Falról visszapattanáskor:\n"
-"Két kisebb másolatra osztódnak. A másolatok csak egyszer osztódnak."
+msgstr "Falról visszapattanáskor:\nKét kisebb másolatra osztódnak. A másolatok csak egyszer osztódnak."
 
 #. Weapon driver / overclock card - name (avn_away)
 #. source: Away Message
@@ -5775,9 +5504,7 @@ msgstr "Távolléti üzenet"
 #. Weapon driver / overclock card - description (avn_away)
 #. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
 msgid "DRIVER.avn_away.description"
-msgstr ""
-"+1 Fegyvermennyiség. +20% Fegyversebesség.\n"
-"+15% Fegyverméret."
+msgstr "+1 Fegyvermennyiség. +20% Fegyversebesség.\n+15% Fegyverméret."
 
 #. Weapon driver / overclock card - name (avn_buddy)
 #. source: Buddy List
@@ -5787,9 +5514,7 @@ msgstr "Barátlista"
 #. Weapon driver / overclock card - description (avn_buddy)
 #. source: Add +2 Amount.\nIncrease Power +15%.
 msgid "DRIVER.avn_buddy.description"
-msgstr ""
-"+2 Fegyvermennyiség.\n"
-"+15% Fegyvererő."
+msgstr "+2 Fegyvermennyiség.\n+15% Fegyvererő."
 
 #. Weapon driver / overclock card - name (blatand_pair)
 #. source: Paired Devices
@@ -5799,9 +5524,7 @@ msgstr "Párosított eszközök"
 #. Weapon driver / overclock card - description (blatand_pair)
 #. source: Add +1 Amount. Increase Power +25%.\nIncrease Speed +20%.
 msgid "DRIVER.blatand_pair.description"
-msgstr ""
-"+1 Fegyvermennyiség. +25% Fegyvererő.\n"
-"+20% Támadási sebesség."
+msgstr "+1 Fegyvermennyiség. +25% Fegyvererő.\n+20% Támadási sebesség."
 
 #. Weapon driver / overclock card - name (bubbles_soap)
 #. source: Soap
@@ -5811,9 +5534,7 @@ msgstr "Szappanos"
 #. Weapon driver / overclock card - description (bubbles_soap)
 #. source: Add +1 Amount.\nIncrease Size +40%.
 msgid "DRIVER.bubbles_soap.description"
-msgstr ""
-"+1 Mennyiség.\n"
-"+40% Fegyverméret."
+msgstr "+1 Mennyiség.\n+40% Fegyverméret."
 
 #. Weapon driver / overclock card - name (bubbles_suds)
 #. source: Suds
@@ -5823,9 +5544,7 @@ msgstr "Habos-habos"
 #. Weapon driver / overclock card - description (bubbles_suds)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.bubbles_suds.description"
-msgstr ""
-"Falról visszapattanáskor:\n"
-"Két kisebb másolatra osztódnak. A másolatok csak egyszer osztódnak."
+msgstr "Falról visszapattanáskor:\nKét kisebb másolatra osztódnak. A másolatok csak egyszer osztódnak."
 
 #. Weapon driver / overclock card - name (cdrive_seek)
 #. source: Seek
@@ -5835,9 +5554,7 @@ msgstr "Keresés"
 #. Weapon driver / overclock card - description (cdrive_seek)
 #. source: Converts Repel to Lag.\nIncrease Speed +60%.
 msgid "DRIVER.cdrive_seek.description"
-msgstr ""
-"A Taszítást Szaggatásra cseréli.\n"
-"+60% Támadási sebesség."
+msgstr "A Taszítást Szaggatásra cseréli.\n+60% Támadási sebesség."
 
 #. Weapon driver / overclock card - name (cdrive_cleanup)
 #. source: Disk Cleanup
@@ -5857,9 +5574,7 @@ msgstr "Kerülőút"
 #. Weapon driver / overclock card - description (cone_detour)
 #. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
 msgid "DRIVER.cone_detour.description"
-msgstr ""
-"A Hőt Szaggatásra cseréli. +35% Fegyverméret.\n"
-"+15% Fegyversebzés."
+msgstr "A Hőt Szaggatásra cseréli. +35% Fegyverméret.\n+15% Fegyversebzés."
 
 #. Weapon driver / overclock card - name (cone_workzone)
 #. source: Work Zone
@@ -5869,9 +5584,7 @@ msgstr "Munkaterület"
 #. Weapon driver / overclock card - description (cone_workzone)
 #. source: Add +1 Amount.\nIncrease Power +30%.
 msgid "DRIVER.cone_workzone.description"
-msgstr ""
-"+1 Fegyvermennyiség.\n"
-"+30% Fegyvererő."
+msgstr "+1 Fegyvermennyiség.\n+30% Fegyvererő."
 
 #. Weapon driver / overclock card - name (cruiser_multitab)
 #. source: Browser Hijack
@@ -5881,9 +5594,7 @@ msgstr "Több ablak"
 #. Weapon driver / overclock card - description (cruiser_multitab)
 #. source: Converts Lag to Infect. Add +1 Amount.\nIncrease Power +25%.
 msgid "DRIVER.cruiser_multitab.description"
-msgstr ""
-"A Szaggatást Mérgezésre cseréli.+25% Fegyvererő.\n"
-"+1 Fegyvermennyiség."
+msgstr "A Szaggatást Mérgezésre cseréli.+25% Fegyvererő.\n+1 Fegyvermennyiség."
 
 #. Weapon driver / overclock card - name (cruiser_popup)
 #. source: Popup Storm
@@ -5903,9 +5614,7 @@ msgstr "Hasító"
 #. Weapon driver / overclock card - description (cut_cleave)
 #. source: Converts Repel to Infect. Increase Size +80%.\nAdd -0.5 Amount.
 msgid "DRIVER.cut_cleave.description"
-msgstr ""
-"A Taszítást Mérgezésre cseréli.\n"
-"+80 Fegyverméret. -0.5 Fegyvermennyiség."
+msgstr "A Taszítást Mérgezésre cseréli.\n+80 Fegyverméret. -0.5 Fegyvermennyiség."
 
 #. Weapon driver / overclock card - name (cut_papercut)
 #. source: Paper Cut
@@ -5915,9 +5624,7 @@ msgstr "Papírvágás"
 #. Weapon driver / overclock card - description (cut_papercut)
 #. source: Add +2 Amount.\nIncrease Speed +25%.
 msgid "DRIVER.cut_papercut.description"
-msgstr ""
-"+2 Fegyvermennyiség.\n"
-"+25% Támadási sebesség."
+msgstr "+2 Fegyvermennyiség.\n+25% Támadási sebesség."
 
 #. Weapon driver / overclock card - name (email_cc)
 #. source: Flame Mail
@@ -5927,9 +5634,7 @@ msgstr "Tűzlevél"
 #. Weapon driver / overclock card - description (email_cc)
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
 msgid "DRIVER.email_cc.description"
-msgstr ""
-"A Mérgezést Hőre cseréli. +1 Fegyvermennyiség.\n"
-"+35% Fegyversebesség."
+msgstr "A Mérgezést Hőre cseréli. +1 Fegyvermennyiség.\n+35% Fegyversebesség."
 
 #. Weapon driver / overclock card - name (email_bounce)
 #. source: Undeliverable
@@ -5969,21 +5674,18 @@ msgstr "Félkövér"
 #. Weapon driver / overclock card - description (fontart_bold)
 #. source: Increase Size +60%. Increase Power +60%.\nReduce Amount -25%.
 msgid "DRIVER.fontart_bold.description"
-msgstr ""
-"+60% Fegyverméret. +60% Fegyvererő.\n"
-"-25% Fegyvermennyiség."
+msgstr "+60% Fegyverméret. +60% Fegyvererő.\n-25% Fegyvermennyiség."
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
+#, fuzzy
 msgid "DRIVER.fontart_wordart.name"
 msgstr "WordArt"
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
 msgid "DRIVER.fontart_wordart.description"
-msgstr ""
-"+40% Fegyverméret.\n"
-"+1 Fegyvermennyiség."
+msgstr "+40% Fegyverméret.\n+1 Fegyvermennyiség."
 
 #. Weapon driver / overclock card - name (fraps_benchmark)
 #. source: Benchmark
@@ -5993,9 +5695,7 @@ msgstr "Teljesítményfelmérés"
 #. Weapon driver / overclock card - description (fraps_benchmark)
 #. source: Converts Repel to Heat. Increase Damage +25%.\nIncrease Speed +20%.
 msgid "DRIVER.fraps_benchmark.description"
-msgstr ""
-"A Taszítást Hőre cseréli. +25% Fegyversebzés.\n"
-"+20% Fegyversebesség."
+msgstr "A Taszítást Hőre cseréli. +25% Fegyversebzés.\n+20% Fegyversebesség."
 
 #. Weapon driver / overclock card - name (fraps_vsync)
 #. source: VSync
@@ -6005,9 +5705,7 @@ msgstr "V-Sync"
 #. Weapon driver / overclock card - description (fraps_vsync)
 #. source: FPS numbers bounce off walls.\nIncrease Size +20%.
 msgid "DRIVER.fraps_vsync.description"
-msgstr ""
-"Az FPS-számok a falakrról visszapattannak.\n"
-"+20% Fegyverméret."
+msgstr "Az FPS-számok a falakrról visszapattannak.\n+20% Fegyverméret."
 
 #. Weapon driver / overclock card - name (hitmarkers_headhunter)
 #. source: Headhunter
@@ -6017,9 +5715,7 @@ msgstr "Fejvadász"
 #. Weapon driver / overclock card - description (hitmarkers_headhunter)
 #. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
 msgid "DRIVER.hitmarkers_headhunter.description"
-msgstr ""
-"Az azonnali kivégzési esély növelése.\n"
-"A Taszítást Hőre cseréli. -15% Fegyversebzés."
+msgstr "Az azonnali kivégzési esély növelése.\nA Taszítást Hőre cseréli. -15% Fegyversebzés."
 
 #. Weapon driver / overclock card - name (hitmarkers_killstreak)
 #. source: Killstreak
@@ -6029,8 +5725,7 @@ msgstr "Sorozatgyilkos"
 #. Weapon driver / overclock card - description (hitmarkers_killstreak)
 #. source: Cleared enemies increase attack Speed in the next attack.
 msgid "DRIVER.hitmarkers_killstreak.description"
-msgstr ""
-"A megölt ellenségek száma növeli a következő támadás Fegyversebességét."
+msgstr "A megölt ellenségek száma növeli a következő támadás Fegyversebességét."
 
 #. Weapon driver / overclock card - name (minesweeper_flag)
 #. source: Incendiary Charge
@@ -6040,9 +5735,7 @@ msgstr "Begyújtó"
 #. Weapon driver / overclock card - description (minesweeper_flag)
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
 msgid "DRIVER.minesweeper_flag.description"
-msgstr ""
-"A Taszítást Hőre cseréli. +20% Fegyvererő.\n"
-"+1 Fegyvermennyiség."
+msgstr "A Taszítást Hőre cseréli. +20% Fegyvererő.\n+1 Fegyvermennyiség."
 
 #. Weapon driver / overclock card - name (minesweeper_chord)
 #. source: Chord
@@ -6055,28 +5748,26 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr "Az aknák addig maradnak a földön, amíg fel nem robbannak."
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
+#, fuzzy
 msgid "DRIVER.modem_handshake.name"
 msgstr "Forgalmas modemkapcsolat"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
 msgid "DRIVER.modem_handshake.description"
-msgstr ""
-"A Taszítást Szaggatásra cseréli.\n"
-"+1 Fegyvermennyiség. +25% Fegyverméret."
+msgstr "A Taszítást Szaggatásra cseréli.\n+1 Fegyvermennyiség. +25% Fegyverméret."
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
+#, fuzzy
 msgid "DRIVER.modem_broadband.name"
 msgstr "Szélessávú"
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
 msgid "DRIVER.modem_broadband.description"
-msgstr ""
-"+50% Fegyversebesség.\n"
-"+20% Fegyversebzés."
+msgstr "+50% Fegyversebesség.\n+20% Fegyversebzés."
 
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
 #. source: Tab Overload
@@ -6086,9 +5777,7 @@ msgstr "Túlterhelés"
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
 msgid "DRIVER.orchestra_fortissimo.description"
-msgstr ""
-"A Mérgezést Hőre cseréli. +35% Fegyvererő.\n"
-"+35% Fegyversebzés."
+msgstr "A Mérgezést Hőre cseréli. +35% Fegyvererő.\n+35% Fegyversebzés."
 
 #. Weapon driver / overclock card - name (orchestra_taskkill)
 #. source: End Process
@@ -6108,9 +5797,7 @@ msgstr "Kiborult festékvödör"
 #. Weapon driver / overclock card - description (paint_spill)
 #. source: Increase Size +100%.\nReduce Damage -20%.
 msgid "DRIVER.paint_spill.description"
-msgstr ""
-"+100% Fegyverméret.\n"
-"-20% Fegyversebzés."
+msgstr "+100% Fegyverméret.\n-20% Fegyversebzés."
 
 #. Weapon driver / overclock card - name (paint_fill)
 #. source: Fill Bucket
@@ -6120,9 +5807,7 @@ msgstr "Vödör feltöltése"
 #. Weapon driver / overclock card - description (paint_fill)
 #. source: Add +1 Amount.\nIncrease Power +40%.
 msgid "DRIVER.paint_fill.description"
-msgstr ""
-"+1 Fegyvermennyiség.\n"
-"+40% Fegyvererő."
+msgstr "+1 Fegyvermennyiség.\n+40% Fegyvererő."
 
 #. Weapon driver / overclock card - name (pinball_tilted)
 #. source: Tilted
@@ -6132,9 +5817,7 @@ msgstr "Asztaldöntés"
 #. Weapon driver / overclock card - description (pinball_tilted)
 #. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
 msgid "DRIVER.pinball_tilted.description"
-msgstr ""
-"Falról lepattanáskor: méret növelése, legfeljebb kétszer.\n"
-"-30% Fegyverméret."
+msgstr "Falról lepattanáskor: méret növelése, legfeljebb kétszer.\n-30% Fegyverméret."
 
 #. Weapon driver / overclock card - name (quarantine_strict)
 #. source: Strict
@@ -6144,9 +5827,7 @@ msgstr "Szigorú"
 #. Weapon driver / overclock card - description (quarantine_strict)
 #. source: Converts Repel to Infect.\nIncrease Power +70%.
 msgid "DRIVER.quarantine_strict.description"
-msgstr ""
-"A Taszítást Mérgezésre cseréli.\n"
-"+70% Fegyvererő."
+msgstr "A Taszítást Mérgezésre cseréli.\n+70% Fegyvererő."
 
 #. Weapon driver / overclock card - name (quarantine_heuristic)
 #. source: Heuristic
@@ -6156,9 +5837,7 @@ msgstr "Kegyetlen"
 #. Weapon driver / overclock card - description (quarantine_heuristic)
 #. source: Increase Damage +40%.\nIncrease Speed +20%.
 msgid "DRIVER.quarantine_heuristic.description"
-msgstr ""
-"+40% Fegyversebzés.\n"
-"+20% Fegyversebesség."
+msgstr "+40% Fegyversebzés.\n+20% Fegyversebesség."
 
 #. Weapon driver / overclock card - name (satellite_dish)
 #. source: Microwave Dish
@@ -6168,9 +5847,7 @@ msgstr "Mikrohullámú sütő"
 #. Weapon driver / overclock card - description (satellite_dish)
 #. source: Converts Lag to Heat. Increase Size +30%.\nIncrease Speed +15%.
 msgid "DRIVER.satellite_dish.description"
-msgstr ""
-"A Szaggatást Hőre cseréli. +30% Fegyverméret.\n"
-"+15% Fegyversebesség."
+msgstr "A Szaggatást Hőre cseréli. +30% Fegyverméret.\n+15% Fegyversebesség."
 
 #. Weapon driver / overclock card - name (satellite_uplink)
 #. source: Uplink
@@ -6190,9 +5867,7 @@ msgstr "Fegyveres mérgezés"
 #. Weapon driver / overclock card - description (scimitar_dragon)
 #. source: Converts Repel to Infect. Increase Size +50%.\nAdd +1 Amount.
 msgid "DRIVER.scimitar_dragon.description"
-msgstr ""
-"A Taszítást Mérgezésre cseréli.\n"
-"+1 Fegyvermennyiség. +50% Fegyverméret."
+msgstr "A Taszítást Mérgezésre cseréli.\n+1 Fegyvermennyiség. +50% Fegyverméret."
 
 #. Weapon driver / overclock card - name (scimitar_dual)
 #. source: Dual Wield
@@ -6212,9 +5887,7 @@ msgstr "Mély keresés"
 #. Weapon driver / overclock card - description (search_deep)
 #. source: Converts Repel to Lag. Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.search_deep.description"
-msgstr ""
-"A Taszítást Szaggatásra cseréli. +2 Fegyvermennyiség.\n"
-"-20% Fegyversebzés."
+msgstr "A Taszítást Szaggatásra cseréli. +2 Fegyvermennyiség.\n-20% Fegyversebzés."
 
 #. Weapon driver / overclock card - name (search_indexed)
 #. source: Find Next
@@ -6224,9 +5897,7 @@ msgstr "Következő keresés"
 #. Weapon driver / overclock card - description (search_indexed)
 #. source: Increase Speed +30%.\nIncrease Refresh +20%.
 msgid "DRIVER.search_indexed.description"
-msgstr ""
-"+30% Fegyversebesség.\n"
-"+20% Fegyverfrissítés."
+msgstr "+30% Fegyversebesség.\n+20% Fegyverfrissítés."
 
 #. Weapon driver / overclock card - name (sniper_scope)
 #. source: High Caliber
@@ -6236,9 +5907,7 @@ msgstr "Magas kaliber"
 #. Weapon driver / overclock card - description (sniper_scope)
 #. source: Multiply Damage 1.5x. Increase Power +30%.\nIncrease Refresh +25%.
 msgid "DRIVER.sniper_scope.description"
-msgstr ""
-"Fegyversebzés-szorzó növelése: 1.5x.\n"
-"+30% Fegyvererő. +25% Fegyverfrissítés."
+msgstr "Fegyversebzés-szorzó növelése: 1.5x.\n+30% Fegyvererő. +25% Fegyverfrissítés."
 
 #. Weapon driver / overclock card - name (sniper_oneshot)
 #. source: One Shot
@@ -6248,9 +5917,7 @@ msgstr "Egy lövés, egy ölés"
 #. Weapon driver / overclock card - description (sniper_oneshot)
 #. source: Adds +7% execute chance.\nIncrease Damage +25%.
 msgid "DRIVER.sniper_oneshot.description"
-msgstr ""
-"+7% esély azonnali kivégzésre.\n"
-"+25% Fegyversebzés."
+msgstr "+7% esély azonnali kivégzésre.\n+25% Fegyversebzés."
 
 #. Weapon driver / overclock card - name (solitaire_cheat)
 #. source: Cheat
@@ -6260,9 +5927,7 @@ msgstr "Csalás"
 #. Weapon driver / overclock card - description (solitaire_cheat)
 #. source: Increase Damage +50%. Add +1 Amount.\nReduce Refresh -15%.
 msgid "DRIVER.solitaire_cheat.description"
-msgstr ""
-"+50% Fegyversebzés. +1 Fegyvermennyiség.\n"
-"-15% Fegyverfrissítés."
+msgstr "+50% Fegyversebzés. +1 Fegyvermennyiség.\n-15% Fegyverfrissítés."
 
 #. Scene label
 #. screens: spam_ad.tscn; trailer_ad.tscn
@@ -6342,7 +6007,7 @@ msgstr "LemWire 4.7 - Válassz Lehetőséget"
 #. Scene label
 #. screens: lem_window.tscn
 msgid "LemWire 4.7"
-msgstr "LemWire 4.7"
+msgstr ""
 
 #. Scene label
 #. screens: lem_window.tscn
@@ -6417,7 +6082,7 @@ msgstr "1,000,0000dik LÁTOGAT HÉTEN! NYERTES!"
 #. Scene label
 #. screens: vapor_exe.tscn
 msgid "Vapor.exe"
-msgstr "Vapor.exe"
+msgstr ""
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6426,21 +6091,13 @@ msgstr "SHZip v2.03 (kiértékelési kiadás)"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid ""
-"Extracting file:\n"
-"temp_file_649743.zip from /.???"
-msgstr ""
-"Fájl kibontása...\n"
-"temp_file_649743.zip, hely: /.???"
+msgid "Extracting file:\ntemp_file_649743.zip from /.???"
+msgstr "Fájl kibontása...\ntemp_file_649743.zip, hely: /.???"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid ""
-"Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
-"Processing rate: 0.00 KB/Sec"
-msgstr ""
-"Hátralévő idő: 0p 00mp (0.00 KB / 0.00 KB)\n"
-"Sebesség: 0.00 KB/mp"
+msgid "Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\nProcessing rate: 0.00 KB/Sec"
+msgstr "Hátralévő idő: 0p 00mp (0.00 KB / 0.00 KB)\nSebesség: 0.00 KB/mp"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6475,7 +6132,7 @@ msgstr "Kezdjünk hozzá! Duplán kattints néhány beállításra."
 #. Scene label
 #. screens: starter_folder.tscn; window.tscn
 msgid "/"
-msgstr "/"
+msgstr ""
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -6505,12 +6162,12 @@ msgstr "Statisztikázó V0.1b"
 #. Scene label
 #. screens: stat_list.tscn
 msgid "A"
-msgstr "A"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
 msgid "B"
-msgstr "B"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
@@ -6525,7 +6182,7 @@ msgstr "Tűzfal méret"
 #. Scene label
 #. screens: basic_window.tscn; window.tscn
 msgid "Antivirus Survivors 2003 Professional ©"
-msgstr "Antivirus Survivors 2003 Professional ©"
+msgstr ""
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6534,28 +6191,8 @@ msgstr "Nyertél!"
 
 #. Scene label
 #. screens: end_screen.tscn
-msgid ""
-"You did it! I'm proud of you! I hope you had fun.\n"
-"\n"
-"However I am very sorry that this is such a boring and uninspired win "
-"screen. You deserve better and you will get better - in the full release.\n"
-"\n"
-"In the meantime, enjoy trying some of the harder difficulties, go spend "
-"those Beanz on some upgrades and try out some different builds.\n"
-"\n"
-"If you had fun during this demo be sure to give it a wishlist or follow on "
-"Steam - there's so much more to come!"
-msgstr ""
-"Sikerült! Büszke vagyok rád! Remélem, jól érezted magad.\n"
-"\n"
-"Ugyanakkor nagyon sajnálom, hogy ez a győzelmi képernyő ilyen unalmas és "
-"ötlettelen. Jobbat érdemelsz, és a teljes verzióban jobb is vár majd rád.\n"
-"\n"
-"Addig is élvezd a nehezebb fokozatok kipróbálását, költsd a Babbabokat "
-"fejlesztésekre, és kísérletezz különféle összeállításokkal.\n"
-"\n"
-"Ha tetszett a demó, mindenképpen add hozzá a kívánságlistádhoz, vagy "
-"kövess minket a Steamen – rengeteg újdonság vár még rád!"
+msgid "You did it! I'm proud of you! I hope you had fun.\n\nHowever I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n\nIn the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n\nIf you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
+msgstr "Sikerült! Büszke vagyok rád! Remélem, jól érezted magad.\n\nUgyanakkor nagyon sajnálom, hogy ez a győzelmi képernyő ilyen unalmas és ötlettelen. Jobbat érdemelsz, és a teljes verzióban jobb is vár majd rád.\n\nAddig is élvezd a nehezebb fokozatok kipróbálását, költsd a Babbabokat fejlesztésekre, és kísérletezz különféle összeállításokkal.\n\nHa tetszett a demó, mindenképpen add hozzá a kívánságlistádhoz, vagy kövess minket a Steamen – rengeteg újdonság vár még rád!"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6579,12 +6216,8 @@ msgstr "Felkészülés a telepítésre..."
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid ""
-"PluginInstaller is preparing to find all appropriate plugins for this "
-"application."
-msgstr ""
-"A Telepítő az alkalmazáshoz megfelelő összes bővítmény megkeresésére "
-"készül."
+msgid "PluginInstaller is preparing to find all appropriate plugins for this application."
+msgstr "A Telepítő az alkalmazáshoz megfelelő összes bővítmény megkeresésére készül."
 
 #. Scene label
 #. screens: installer_window.tscn
@@ -6593,12 +6226,8 @@ msgstr "Bővítmény-összeférhetőség felderítése..."
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid ""
-"Add +10 Max HP.\n"
-"Heal 20% of Max HP when opening a Safe Folder."
-msgstr ""
-"+10 Maximális Életerő.\n"
-"Biztonságos mappa megnyitásakor 20% Életerő visszanyerése."
+msgid "Add +10 Max HP.\nHeal 20% of Max HP when opening a Safe Folder."
+msgstr "+10 Maximális Életerő.\nBiztonságos mappa megnyitásakor 20% Életerő visszanyerése."
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -6632,35 +6261,13 @@ msgstr "Beállítások"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid ""
-"coming soon\n"
-"- more weapons\n"
-"- more enemies\n"
-"- bosses\n"
-"- classes\n"
-"- wallpapers\n"
-"- weapon evos\n"
-"- and more"
-msgstr ""
-"hamarosan\n"
-"- több fegyó\n"
-"- több ellenség\n"
-"- főellenségek\n"
-"- osztályok\n"
-"- hátterek\n"
-"- fegyverfejl.\n"
-"és sok más!"
+msgid "coming soon\n- more weapons\n- more enemies\n- bosses\n- classes\n- wallpapers\n- weapon evos\n- and more"
+msgstr "hamarosan\n- több fegyó\n- több ellenség\n- főellenségek\n- osztályok\n- hátterek\n- fegyverfejl.\nés sok más!"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid ""
-"Thank you so much for playing. It means the world to me.\n"
-"enjoy and have a great day <3\n"
-"shaun"
-msgstr ""
-"köszi h játszol. konkrétan a világot jelenti nekem.\n"
-"Élvezd a játékot; legyen szép napod <3\n"
-"shaun"
+msgid "Thank you so much for playing. It means the world to me.\nenjoy and have a great day <3\nshaun"
+msgstr "köszi h játszol. konkrétan a világot jelenti nekem.\nÉlvezd a játékot; legyen szép napod <3\nshaun"
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
@@ -6684,11 +6291,6 @@ msgstr "Opciók"
 
 #. Scene label
 #. screens: options_menu.tscn
-msgid "SFX Volume"
-msgstr "Hanghatások hangereje"
-
-#. Scene label
-#. screens: options_menu.tscn
 msgid "Back"
 msgstr "Vissza"
 
@@ -6704,12 +6306,8 @@ msgstr "Kilépés"
 
 #. Scene label
 #. screens: pause_menu.tscn
-msgid ""
-"Antivirus Survivors 2003 Professional\n"
-"Shaun Hammond Business Solutions Ltd"
+msgid "Antivirus Survivors 2003 Professional\nShaun Hammond Business Solutions Ltd"
 msgstr ""
-"Antivirus Survivors 2003 Professional\n"
-"Shaun Hammond Business Solutions Ltd"
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6749,12 +6347,12 @@ msgstr "Képernyőnagyítás:"
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "+"
-msgstr "+"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6793,12 +6391,8 @@ msgstr "Keresés frissítése"
 
 #. Scene label
 #. screens: upgrade_button.tscn
-msgid ""
-"Increases Refresh Rate for Search by 20%.\n"
-"But here's a second line also."
-msgstr ""
-"+20%-kal gyorsabb Fegyverújratöltés a Keresésnek.\n"
-"Ja amúgy itt egy második sor."
+msgid "Increases Refresh Rate for Search by 20%.\nBut here's a second line also."
+msgstr "+20%-kal gyorsabb Fegyverújratöltés a Keresésnek.\nJa amúgy itt egy második sor."
 
 #. Scene label
 #. screens: torrent_window.tscn
@@ -6862,4 +6456,4 @@ msgstr "Ablak"
 
 #. Scene label
 msgid "Antivirus Survivors 2003 Professional"
-msgstr "Antivirus Survivors 2003 Professional"
+msgstr ""

@@ -1,15 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Antivirus Survivors 2003Language: id\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"Project-Id-Version: Antivirus Survivors 2003\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #. Class select - name (brick)
 #. source: Brick
@@ -19,13 +14,7 @@ msgstr "Beton"
 #. Class select - description (brick)
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 msgid "CLASS.brick.description"
-msgstr ""
-"Tambah +40 Maks HP.\n"
-"Tambah +12 Armor.\n"
-"Kecepatan Kursor dilipatgandakan 0.8x.\n"
-"Damage Senjata dilipatgandakan 0.85x.\n"
-"Damage Senjata dilipatgandakan 1.1x saat terkena Damage \n"
-"(berakhir 8 dtk, menumpuk jadi 3)."
+msgstr "Tambah +40 Maks HP.\nTambah +12 Armor.\nKecepatan Kursor dilipatgandakan 0.8x.\nDamage Senjata dilipatgandakan 0.85x.\nDamage Senjata dilipatgandakan 1.1x saat terkena Damage \n(berakhir 8 dtk, menumpuk jadi 3)."
 
 #. Class select - name (default)
 #. source: Default
@@ -35,9 +24,7 @@ msgstr "Bawaan"
 #. Class select - description (default)
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 msgid "CLASS.default.description"
-msgstr ""
-"Tidak ada kelas bonus atau penalti.\n"
-"Kursor dasar yang seimbang."
+msgstr "Tidak ada kelas bonus atau penalti.\nKursor dasar yang seimbang."
 
 #. Class select - name (null)
 #. source: Null
@@ -47,11 +34,7 @@ msgstr ""
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
-msgstr ""
-"Maks HP diturunkan -25.\n"
-"Tambah +8 'Packet Loss' (menghindari damage).\n"
-"Keberuntungan dilipatgandakan 1.5x.\n"
-"Damage Senjata dilipatgandakan 0.9x."
+msgstr "Maks HP diturunkan -25.\nTambah +8 'Packet Loss' (menghindari damage).\nKeberuntungan dilipatgandakan 1.5x.\nDamage Senjata dilipatgandakan 0.9x."
 
 #. Class select - name (vector)
 #. source: Vector
@@ -71,12 +54,7 @@ msgstr ""
 #. Class select - description (breakpoint)
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
 msgid "CLASS.breakpoint.description"
-msgstr ""
-"Peluang Krit ditingkatkan +12\n"
-"Peluang Krit dillipatgandakan sebanyak 1.25x\n"
-"Maks HP diturunkan -15\n"
-"Kecepatan Kursor dilipatgandakan 0.9x\n"
-"Damage Senjata dilipatgandakan 0.92x."
+msgstr "Peluang Krit ditingkatkan +12\nPeluang Krit dillipatgandakan sebanyak 1.25x\nMaks HP diturunkan -15\nKecepatan Kursor dilipatgandakan 0.9x\nDamage Senjata dilipatgandakan 0.92x."
 
 #. Class select - name (thread)
 #. source: Thread
@@ -86,11 +64,7 @@ msgstr "Utas"
 #. Class select - description (thread)
 #. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.thread.description"
-msgstr ""
-"Kecepatan Pengolahan dilipatgandakan sebanyak 1.3x.\n"
-"Kecepatan Refresh dilipatgandakan sebanyak 1.12x.\n"
-"Perolehan EXP dilipatgandakan 1.08x.\n"
-"Damage Senjata dilipatgandakan 0.85x."
+msgstr "Kecepatan Pengolahan dilipatgandakan sebanyak 1.3x.\nKecepatan Refresh dilipatgandakan sebanyak 1.12x.\nPerolehan EXP dilipatgandakan 1.08x.\nDamage Senjata dilipatgandakan 0.85x."
 
 #. Class select - name (admin)
 #. source: Admin
@@ -100,13 +74,7 @@ msgstr ""
 #. Class select - description (admin)
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
-msgstr ""
-"Mulai dengan +1 Key.\n"
-"Perolehan Koin dilipatgandakan 1.3x.\n"
-"Jangkauan Pickup dilipatgandakan 1.3x.\n"
-"Barang di toko diskon +10%.\n"
-"Maks HP dilipatgandakan 0.9x.\n"
-"Damage Senjata dilipatgandakan 0.85x."
+msgstr "Mulai dengan +1 Key.\nPerolehan Koin dilipatgandakan 1.3x.\nJangkauan Pickup dilipatgandakan 1.3x.\nBarang di toko diskon +10%.\nMaks HP dilipatgandakan 0.9x.\nDamage Senjata dilipatgandakan 0.85x."
 
 #. Folder evolution mode - name (chaos)
 #. source: Chaos
@@ -116,9 +84,7 @@ msgstr "Ricuh"
 #. Folder evolution mode - description (chaos)
 #. source: A inconsistent unpredictable mess of difficulty. I couldn't tell you what to expect.
 msgid "EVO.chaos.description"
-msgstr ""
-"Tingkat kesulitan yang sangat tidak bisa diprediksi, bahkan saya tidak bisa "
-"memberitahu apa yang bisa dinantikan."
+msgstr "Tingkat kesulitan yang sangat tidak bisa diprediksi, bahkan saya tidak bisa memberitahu apa yang bisa dinantikan."
 
 #. Folder evolution mode - name (linear)
 #. source: Linear
@@ -128,8 +94,7 @@ msgstr "Linier"
 #. Folder evolution mode - description (linear)
 #. source: A consistent linear stream of more enemies being added over time.
 msgid "EVO.linear.description"
-msgstr ""
-"Segerembolan musuh akan datang seiring waktu secara konsisten dan linier."
+msgstr "Segerembolan musuh akan datang seiring waktu secara konsisten dan linier."
 
 #. Folder evolution mode - name (variable)
 #. source: Variable
@@ -139,9 +104,7 @@ msgstr "Variatif"
 #. Folder evolution mode - description (variable)
 #. source: A varied level of enemies that ramps up and down to give more moments of peace but harder increases.
 msgid "EVO.variable.description"
-msgstr ""
-"Musuh datang dengan level-level berbeda. Memungkinkan lebih banyak waktu "
-"lenggang namun upgrade kesulitan lebih terasa."
+msgstr "Musuh datang dengan level-level berbeda. Memungkinkan lebih banyak waktu lenggang namun upgrade kesulitan lebih terasa."
 
 #. Meta upgrade menu - description (armor)
 #. source: Adds +1 Armo(u)r per Rank.
@@ -261,9 +224,7 @@ msgstr "IRQ Perangkat"
 #. Plugin - description (armor_damage_trigger)
 #. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
 msgid "PLUGIN.armor_damage_trigger.description"
-msgstr ""
-"Tambah +5 Armor\n"
-"Tambah +25 'Packet Loss' saat terkena Damage (berlangsung 10 detik)."
+msgstr "Tambah +5 Armor\nTambah +25 'Packet Loss' saat terkena Damage (berlangsung 10 detik)."
 
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
@@ -283,9 +244,7 @@ msgstr "Edisi Enterprise"
 #. Plugin - description (big_hp_regen_boost)
 #. source: Add +64 Max HP.\nAdd +12 Health Regen.
 msgid "PLUGIN.big_hp_regen_boost.description"
-msgstr ""
-"Tambah +64 Maks HP\n"
-"Tambah Regenerasi Nyawa sebanyak +12"
+msgstr "Tambah +64 Maks HP\nTambah Regenerasi Nyawa sebanyak +12"
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -365,9 +324,7 @@ msgstr "Baterai Lemah"
 #. Plugin - description (cursor_speed_damage)
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
-msgstr ""
-"Kecepatan Kursor ditingkatkan sebanyak +10%\n"
-"Ditingkatkan +30% saat terkena Damage (berlangsung 10 detik)."
+msgstr "Kecepatan Kursor ditingkatkan sebanyak +10%\nDitingkatkan +30% saat terkena Damage (berlangsung 10 detik)."
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -387,9 +344,7 @@ msgstr "Jalur Karir"
 #. Plugin - description (damage_level_scaling)
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
 msgid "PLUGIN.damage_level_scaling.description"
-msgstr ""
-"Damage Senjata ditambah +3% tiap level pemain.\n"
-"Maks HP diturunkan -1 tiap level pemain."
+msgstr "Damage Senjata ditambah +3% tiap level pemain.\nMaks HP diturunkan -1 tiap level pemain."
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
@@ -409,11 +364,7 @@ msgstr "Opsi Kinerja"
 #. Plugin - description (damage_speed_crit)
 #. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
 msgid "PLUGIN.damage_speed_crit.description"
-msgstr ""
-"Damage Senjata ditingkatkan +10%.\n"
-"Kecepatan Refresh ditingkatkan +10%.\n"
-"Peluang Krit ditingkatkan +5%.\n"
-"Damage Krit ditingkatkan +15%."
+msgstr "Damage Senjata ditingkatkan +10%.\nKecepatan Refresh ditingkatkan +10%.\nPeluang Krit ditingkatkan +5%.\nDamage Krit ditingkatkan +15%."
 
 #. Plugin - name (defrag_on_safe_folder)
 #. source: Startup Folder
@@ -463,8 +414,7 @@ msgstr ""
 #. Plugin - description (hp_on_heal)
 #. source: 7% Chance to Add +3 Max HP when Healed. (5s Cooldown).
 msgid "PLUGIN.hp_on_heal.description"
-msgstr ""
-"7% Peluang untuk Menambah +3 Maks HP saat Disembuhkan (5 detik cooldown)."
+msgstr "7% Peluang untuk Menambah +3 Maks HP saat Disembuhkan (5 detik cooldown)."
 
 #. Plugin - name (locate_pointer)
 #. source: Locate Pointer
@@ -494,9 +444,7 @@ msgstr "Serangan Keberuntungan"
 #. Plugin - description (luck_reroll)
 #. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
 msgid "PLUGIN.luck_reroll.description"
-msgstr ""
-"Keberuntungan ditingkatkan +12%.\n"
-"Ditingkatkan +25% saat Rol Ulang (berlangsung 10 detik)"
+msgstr "Keberuntungan ditingkatkan +12%.\nDitingkatkan +25% saat Rol Ulang (berlangsung 10 detik)"
 
 #. Plugin - name (luck_zip_boost)
 #. source: Compressed Folders
@@ -516,8 +464,7 @@ msgstr "Beruntung Saat Sakit"
 #. Plugin - description (lucky_when_hurt)
 #. source: Multiply Luck 2.0x when taking Damage (Lasts 6s).
 msgid "PLUGIN.lucky_when_hurt.description"
-msgstr ""
-"Keberuntungan dilipatgandakan 2.0x saat terkena Damage (berlangsung 6 detik)"
+msgstr "Keberuntungan dilipatgandakan 2.0x saat terkena Damage (berlangsung 6 detik)"
 
 #. Plugin - name (magnetism_boost)
 #. source: Magnetism Boost
@@ -587,9 +534,7 @@ msgstr "Pelan tapi Kuat"
 #. Plugin - description (slow_but_strong)
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
-msgstr ""
-"Damage Senjata dilipatgandakan sebanyak 1.25x\n"
-"Kecepatan Kursor diturunkan -10%."
+msgstr "Damage Senjata dilipatgandakan sebanyak 1.25x\nKecepatan Kursor diturunkan -10%."
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -599,9 +544,7 @@ msgstr "Pemulihan Pintar"
 #. Plugin - description (smart_recovery)
 #. source: Add +10 Max HP.\nHeal 25% of Max HP when opening a Safe Folder.
 msgid "PLUGIN.smart_recovery.description"
-msgstr ""
-"Tambah +10 Maks HP\n"
-"Sembuhkan 25% Maks HP saat membuka Folder Aman."
+msgstr "Tambah +10 Maks HP\nSembuhkan 25% Maks HP saat membuka Folder Aman."
 
 #. Plugin - name (weapon_speed_boost)
 #. source: Weapon Speed Boost
@@ -651,9 +594,7 @@ msgstr "BacaSaya.TXT"
 #. Plugin - description (xp_gain_on_damage)
 #. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
 msgid "PLUGIN.xp_gain_on_damage.description"
-msgstr ""
-"Perolehan EXP ditingkatkan +10%.\n"
-"Dapatkan +4 EXP saat terkena damage."
+msgstr "Perolehan EXP ditingkatkan +10%.\nDapatkan +4 EXP saat terkena damage."
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
@@ -703,9 +644,7 @@ msgstr "Tangkapan Layar"
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
 msgid "PLUGIN.still_frame.description"
-msgstr ""
-"Saat diam, Damage Senjata ditingkatkan +5% per detik hingga +15% per "
-"tumpukan."
+msgstr "Saat diam, Damage Senjata ditingkatkan +5% per detik hingga +15% per tumpukan."
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
@@ -725,9 +664,7 @@ msgstr "Overclock Penyegaran"
 #. Plugin - description (refresh_overclock)
 #. source: Increase Refresh Speed +50%.\nReduce Cursor Speed -15%.
 msgid "PLUGIN.refresh_overclock.description"
-msgstr ""
-"Kecepatan Penyegaran ditingkatkan +50%.\n"
-"Kecepatan Kursor diturunkan -15%."
+msgstr "Kecepatan Penyegaran ditingkatkan +50%.\nKecepatan Kursor diturunkan -15%."
 
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
@@ -767,8 +704,7 @@ msgstr "Pemulihan Zip"
 #. Plugin - description (zip_recover)
 #. source: Successful Zips leave a green healing zone.
 msgid "PLUGIN.zip_recover.description"
-msgstr ""
-"Zip yang berhasil diekstrak meninggalkan zona pemulihan berwarna hijau."
+msgstr "Zip yang berhasil diekstrak meninggalkan zona pemulihan berwarna hijau."
 
 #. Plugin - name (vapidshare_pro)
 #. source: Vapidshare Pro
@@ -788,10 +724,7 @@ msgstr "MegaKrit"
 #. Plugin - description (megacrit)
 #. source: Increase Crit Chance +40%.\nCrit Chance above 100% can Megacrit for double Crit Damage.
 msgid "PLUGIN.megacrit.description"
-msgstr ""
-"Peluang Krit ditingkatkan +40%.\n"
-"Peluang Krit diatas 100% bisa menyebabkan MegaKrit untuk menghasilkan Damage "
-"Krit 2x lipat."
+msgstr "Peluang Krit ditingkatkan +40%.\nPeluang Krit diatas 100% bisa menyebabkan MegaKrit untuk menghasilkan Damage Krit 2x lipat."
 
 #. Plugin - name (hyperthread)
 #. source: Hyperthreading
@@ -801,9 +734,7 @@ msgstr "'Hyperthreading'"
 #. Plugin - description (hyperthread)
 #. source: Multiply Weapon Amount 1.5x.\nMultiply Weapon Damage 0.75x.
 msgid "PLUGIN.hyperthread.description"
-msgstr ""
-"Jumlah dilipatgandakan sebanyak 1.5x.\n"
-"Damage Senjata dilipatgandakan sebanyak 0.75x."
+msgstr "Jumlah dilipatgandakan sebanyak 1.5x.\nDamage Senjata dilipatgandakan sebanyak 0.75x."
 
 #. Plugin - name (tank_core)
 #. source: Tank Core
@@ -853,9 +784,7 @@ msgstr "Pengelola Tugas"
 #. Plugin - description (task_manager)
 #. source: Multiply Weapon Refresh 2.0x.\nMultiply Weapon Size 0.75x.
 msgid "PLUGIN.task_manager.description"
-msgstr ""
-"Penyegaran Senjata dilipatgandakan 2.0x.\n"
-"Ukuran Senjata diperbesar 0.75x."
+msgstr "Penyegaran Senjata dilipatgandakan 2.0x.\nUkuran Senjata diperbesar 0.75x."
 
 #. Plugin - name (raid_0)
 #. source: RAID 0
@@ -865,9 +794,7 @@ msgstr "'RAID 0'"
 #. Plugin - description (raid_0)
 #. source: Multiply Zip and RAM rewards 2.0x.\nDecrease Zip and RAM success chance.
 msgid "PLUGIN.raid_0.description"
-msgstr ""
-"Hadiah Zip dan RAM dilipatgandakan 2.0x.\n"
-"Peluang sukses Zip dan RAM diturunkan."
+msgstr "Hadiah Zip dan RAM dilipatgandakan 2.0x.\nPeluang sukses Zip dan RAM diturunkan."
 
 #. Plugin - name (system_restore)
 #. source: System Restore
@@ -877,9 +804,7 @@ msgstr "'System Restore'"
 #. Plugin - description (system_restore)
 #. source: On death, heal 50% of Max HP instead of Blue Screen.\nOnce per stack.
 msgid "PLUGIN.system_restore.description"
-msgstr ""
-"Saat nyawa habis, sembuhkan 50% maks HP daripada menyebabkan Blue Screen.\n"
-"Sekali per tumpukan."
+msgstr "Saat nyawa habis, sembuhkan 50% maks HP daripada menyebabkan Blue Screen.\nSekali per tumpukan."
 
 #. Plugin - name (power_user)
 #. source: Power User
@@ -919,9 +844,7 @@ msgstr "Protokol I"
 #. Difficulty protocol - description (protocol_1)
 #. source: The beginner difficulty. Earn 16 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_1.description"
-msgstr ""
-"Tingkat kesulitan pemula. Dapatkan 16 Beanz tiap Folder Aman terbuka + musuh "
-"terkalahkan."
+msgstr "Tingkat kesulitan pemula. Dapatkan 16 Beanz tiap Folder Aman terbuka + musuh terkalahkan."
 
 #. Difficulty protocol - name (protocol_2)
 #. source: Protocol II
@@ -931,9 +854,7 @@ msgstr "Protokol II"
 #. Difficulty protocol - description (protocol_2)
 #. source: The sophomore difficulty. Earn 24 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_2.description"
-msgstr ""
-"Tingkat kesulitan sedang. Dapatkan 24 Beanz tiap Folder Aman terbuka + musuh "
-"terkalahkan."
+msgstr "Tingkat kesulitan sedang. Dapatkan 24 Beanz tiap Folder Aman terbuka + musuh terkalahkan."
 
 #. Difficulty protocol - name (protocol_3)
 #. source: Protocol III
@@ -943,9 +864,7 @@ msgstr "Protokol III"
 #. Difficulty protocol - description (protocol_3)
 #. source: The tertiary difficulty. Earn 32 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_3.description"
-msgstr ""
-"Tingkat kesulitan tersier. Dapatkan 32 Beanz tiap Folder Aman terbuka + "
-"musuh terkalahkan."
+msgstr "Tingkat kesulitan tersier. Dapatkan 32 Beanz tiap Folder Aman terbuka + musuh terkalahkan."
 
 #. Difficulty protocol - name (protocol_4)
 #. source: Protocol IV
@@ -955,9 +874,7 @@ msgstr "Protokol IV"
 #. Difficulty protocol - description (protocol_4)
 #. source: The senior difficulty. Earn 48 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_4.description"
-msgstr ""
-"Tingkat kesulitan senior. Dapatkan 48 Beanz tiap Folder Aman terbuka + musuh "
-"terkalahkan."
+msgstr "Tingkat kesulitan senior. Dapatkan 48 Beanz tiap Folder Aman terbuka + musuh terkalahkan."
 
 #. Difficulty protocol - name (protocol_5)
 #. source: Protocol V
@@ -1025,7 +942,8 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr "'Packet Loss'"
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
+#, fuzzy
 msgid "STAT.upgrade_player_dodge.description"
 msgstr "Peluang untuk menghindari semua Damage. (Eksponensial)"
 
@@ -1061,11 +979,10 @@ msgid "STAT.upgrade_player_luck.name"
 msgstr "Keberuntungan"
 
 #. Stat display - description (upgrade_player_luck)
-#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
+#, fuzzy
 msgid "STAT.upgrade_player_luck.description"
-msgstr ""
-"Meningkatkan peluang rol yang lebih baik, sehingga upgrade-upgrade yang "
-"lebih langka bisa sering muncul (+ manfaat lainnya)"
+msgstr "Meningkatkan peluang rol yang lebih baik, sehingga upgrade-upgrade yang lebih langka bisa sering muncul (+ manfaat lainnya)"
 
 #. Stat display - name (upgrade_player_magnetism_multi)
 #. source: Magnetism
@@ -1105,9 +1022,7 @@ msgstr "Kecepatan Pengolahan"
 #. Stat display - description (upgrade_player_proc_speed)
 #. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
 msgid "STAT.upgrade_player_proc_speed.description"
-msgstr ""
-"Kecepatan pengolahan dari semua file (misalnya .zip dan .bat) "
-"dilipatgandakan (Eksponensial)"
+msgstr "Kecepatan pengolahan dari semua file (misalnya .zip dan .bat) dilipatgandakan (Eksponensial)"
 
 #. Stat display - name (upgrade_player_refresh_multi)
 #. source: Weapon Refresh
@@ -1137,9 +1052,7 @@ msgstr "Jumlah Senjata"
 #. Stat display - description (upgrade_player_weap_amount)
 #. source: Chance of additional weapon spawns on attack. Relative to base amount.
 msgid "STAT.upgrade_player_weap_amount.description"
-msgstr ""
-"Peluang munculnya senjata tambahan saat menyerang. Relatif terhadap jumlah "
-"dasar."
+msgstr "Peluang munculnya senjata tambahan saat menyerang. Relatif terhadap jumlah dasar."
 
 #. Stat display - name (upgrade_player_weap_size)
 #. source: Weapon Size
@@ -1159,8 +1072,7 @@ msgstr "Kecepatan Senjata"
 #. Stat display - description (upgrade_player_weap_speed)
 #. source: Multiplies the speed that all weapons attack. (Exponential)
 msgid "STAT.upgrade_player_weap_speed.description"
-msgstr ""
-"Kecepatan penyerangan dari semua senjata dilipatgandakan (Eksponensial)"
+msgstr "Kecepatan penyerangan dari semua senjata dilipatgandakan (Eksponensial)"
 
 #. Weapon upgrade card - damage stat title
 #. source: {weapon} Damage
@@ -1382,9 +1294,7 @@ msgstr "Maks nyawa ditingkatkan sebanyak {percent}%."
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_power_multi.description"
-msgstr ""
-"Kekuatan Tolak, Heat, Infeksi dan Lag senjata ditingkatkan sebanyak +"
-"{percent}%."
+msgstr "Kekuatan Tolak, Heat, Infeksi dan Lag senjata ditingkatkan sebanyak +{percent}%."
 
 #. Upgrade card - description (upgrade_player_proc_speed)
 #. source: Increases file opening speed by +{percent}%.
@@ -1420,8 +1330,7 @@ msgstr "Pengganda ukuran senjata ditingkatkan sebanyak +{percent}%."
 #. source: Increases weapon attack speed multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_speed.description"
-msgstr ""
-"Pengganda kecepatan serangan senjata ditingkatkan sebanyak +{percent}%."
+msgstr "Pengganda kecepatan serangan senjata ditingkatkan sebanyak +{percent}%."
 
 #. Upgrade card - name (weapon_avd)
 #. source: AVD Logo
@@ -1481,9 +1390,7 @@ msgstr ""
 #. Upgrade card - description (weapon_fontart)
 #. source: Drops letters on the strongest enemy that add stacks of Heat to enemies.
 msgid "UPGRADE.weapon_fontart.description"
-msgstr ""
-"Menjatuhkan huruf pada musuh terkuat yang juga menambah tumpukan Heat ke "
-"musuh."
+msgstr "Menjatuhkan huruf pada musuh terkuat yang juga menambah tumpukan Heat ke musuh."
 
 #. Upgrade card - name (weapon_hitmarkers)
 #. source: HaD: DoCK
@@ -1503,9 +1410,7 @@ msgstr ""
 #. Upgrade card - description (weapon_paint)
 #. source: Paints circles near the player that damage and add stacks of Lag to enemies over time.
 msgid "UPGRADE.weapon_paint.description"
-msgstr ""
-"Melukis lingkaran disekitar pemain yang memkan dan menambah tumpukan Lag ke "
-"musuh seiring waktu."
+msgstr "Melukis lingkaran disekitar pemain yang memkan dan menambah tumpukan Lag ke musuh seiring waktu."
 
 #. Upgrade card - name (weapon_pinball)
 #. source: Pinball
@@ -1555,8 +1460,7 @@ msgstr ""
 #. Upgrade card - description (weapon_fraps)
 #. source: Fires flickering FPS numbers. The number shown is the damage dealt.
 msgid "UPGRADE.weapon_fraps.description"
-msgstr ""
-"Menembak angka FPS yang berkedip. Nomor yang muncul adalah jumlah damage."
+msgstr "Menembak angka FPS yang berkedip. Nomor yang muncul adalah jumlah damage."
 
 #. Upgrade card - name (weapon_scimitar)
 #. source: Scimitar
@@ -1566,9 +1470,7 @@ msgstr ""
 #. Upgrade card - description (weapon_scimitar)
 #. source: Slashes above and below the cursor. Extra amount adds alternating slashes.
 msgid "UPGRADE.weapon_scimitar.description"
-msgstr ""
-"Membelah diatas dan dibawah kursor. Jumlah ekstra menambah arah belah "
-"bergantian."
+msgstr "Membelah diatas dan dibawah kursor. Jumlah ekstra menambah arah belah bergantian."
 
 #. Upgrade card - name (weapon_sniper)
 #. source: Sniper 1.6
@@ -1578,8 +1480,7 @@ msgstr ""
 #. Upgrade card - description (weapon_sniper)
 #. source: One heavy shot at the strongest enemy. Clears show in a killfeed.
 msgid "UPGRADE.weapon_sniper.description"
-msgstr ""
-"Satu tembakan berat pada musuh terkuat. Hasil tembakan muncul pada killfeed."
+msgstr "Satu tembakan berat pada musuh terkuat. Hasil tembakan muncul pada killfeed."
 
 #. Upgrade card - name (weapon_minesweeper)
 #. source: Mines
@@ -1599,9 +1500,7 @@ msgstr ""
 #. Upgrade card - description (weapon_email)
 #. source: Envelopes fly out, bounce off walls, and boomerang home hitting both ways.
 msgid "UPGRADE.weapon_email.description"
-msgstr ""
-"Surat-surat berterbangan, memantul permukaan dan meluncur kembali layaknya "
-"bumerang "
+msgstr "Surat-surat berterbangan, memantul permukaan dan meluncur kembali layaknya bumerang "
 
 #. Upgrade card - name (weapon_cruiser)
 #. source: Internet Cruiser
@@ -1611,9 +1510,7 @@ msgstr ""
 #. Upgrade card - description (weapon_cruiser)
 #. source: Opens a browser tab somewhere on screen. Lingers and applies heavy Lag.
 msgid "UPGRADE.weapon_cruiser.description"
-msgstr ""
-"Membuka tab browser di suatu bagian layar, yang menetap untuk sementara dan "
-"menerapkan Lag berat."
+msgstr "Membuka tab browser di suatu bagian layar, yang menetap untuk sementara dan menerapkan Lag berat."
 
 #. Upgrade card - name (weapon_orchestra)
 #. source: Orchestra
@@ -1623,9 +1520,7 @@ msgstr ""
 #. Upgrade card - description (weapon_orchestra)
 #. source: Opens a browser tab on the closest enemy on screen. Infects, and sometimes executes.
 msgid "UPGRADE.weapon_orchestra.description"
-msgstr ""
-"Membuka tab browser pada musuh paling terdekat. Menginfeksi, kadang juga "
-"mengeksekusi."
+msgstr "Membuka tab browser pada musuh paling terdekat. Menginfeksi, kadang juga mengeksekusi."
 
 #. Upgrade card - name (weapon_satellite)
 #. source: WLAN
@@ -1635,9 +1530,7 @@ msgstr ""
 #. Upgrade card - description (weapon_satellite)
 #. source: Deploys a dish that pings nearby enemies with Lag signals.
 msgid "UPGRADE.weapon_satellite.description"
-msgstr ""
-"Menyebarkan parabola yang mem-ping musuh terdekat dengan gelombang sinyal "
-"Lag."
+msgstr "Menyebarkan parabola yang mem-ping musuh terdekat dengan gelombang sinyal Lag."
 
 #. Upgrade card - name (weapon_avn)
 #. source: AVN Chat
@@ -1647,9 +1540,7 @@ msgstr "Chat AVN"
 #. Upgrade card - description (weapon_avn)
 #. source: Orbiting chat-bubble beams type out messages and Lag enemies.
 msgid "UPGRADE.weapon_avn.description"
-msgstr ""
-"Pesan chat mengitari kursor yang akan menyebabkan Lag kepada musuh yang "
-"menyentuhnya."
+msgstr "Pesan chat mengitari kursor yang akan menyebabkan Lag kepada musuh yang menyentuhnya."
 
 #. Upgrade card - name (weapon_cone)
 #. source: Very Large Cone
@@ -1657,11 +1548,10 @@ msgid "UPGRADE.weapon_cone.name"
 msgstr "Ve-El-Ce"
 
 #. Upgrade card - description (weapon_cone)
-#. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
+#, fuzzy
 msgid "UPGRADE.weapon_cone.description"
-msgstr ""
-"Kerucut lalu lintas jngga menempel pada Anda. Mereka memberi Heat kepada "
-"titik tujuan."
+msgstr "Kerucut lalu lintas jngga menempel pada Anda. Mereka memberi Heat kepada titik tujuan."
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
@@ -1679,7 +1569,8 @@ msgid "UPGRADE.weapon_modem.name"
 msgstr "Perangkat Output"
 
 #. Upgrade card - description (weapon_modem)
-#. source: Blasts concentric handshake rings outward from the cursor.
+#. source: Blasts sound rings outward from the cursor.
+#, fuzzy
 msgid "UPGRADE.weapon_modem.description"
 msgstr "Mengeluarkan gelombang lingkaran dari kursor."
 
@@ -1711,10 +1602,11 @@ msgstr "surat"
 #. Weapon metadata
 #. source: tab
 msgid "WEAPON.cruiser.spawn_noun"
-msgstr ""
+msgstr "jebakan"
 
 #. Weapon metadata
-#. source: trap
+#. source: tab
+#, fuzzy
 msgid "WEAPON.orchestra.spawn_noun"
 msgstr "jebakan"
 
@@ -2029,9 +1921,19 @@ msgid "SETTINGS.music_volume"
 msgstr "Volume Musik"
 
 #. Settings menu
+#. source: SFX Volume
+msgid "SETTINGS.sfx_volume"
+msgstr "Volume Suara"
+
+#. Settings menu
 #. source: Keygen Volume
 msgid "SETTINGS.keygen_volume"
 msgstr "Volume Musik Keygen"
+
+#. Settings menu
+#. source: Main Menu Computer Sound
+msgid "SETTINGS.menu_computer_sound"
+msgstr ""
 
 #. Settings menu
 #. source: Animation Speed
@@ -2066,14 +1968,12 @@ msgstr "Seberapa besar game bisa ditampilkan."
 #. Settings menu
 #. source: Lock the frame rate to your display to prevent tearing.
 msgid "SETTINGS.vsync_tip"
-msgstr ""
-"Kunci frame rate sesuai display Anda agar tidak terjadi screen tearing."
+msgstr "Kunci frame rate sesuai display Anda agar tidak terjadi screen tearing."
 
 #. Settings menu
 #. source: Maximum frames per second. Unlimited uses your hardware's limit.
 msgid "SETTINGS.fps_cap_tip"
-msgstr ""
-"Batas maksimal FPS. Opsi \"Tanpa Batas\" menggunakan kemampuan hardware Anda."
+msgstr "Batas maksimal FPS. Opsi \"Tanpa Batas\" menggunakan kemampuan hardware Anda."
 
 #. Settings menu
 #. source: Strength of the CRT scanline filter over the screen.
@@ -2096,9 +1996,19 @@ msgid "SETTINGS.music_volume_tip"
 msgstr "Volume untuk musik."
 
 #. Settings menu
+#. source: Volume for sound effects.
+msgid "SETTINGS.sfx_volume_tip"
+msgstr ""
+
+#. Settings menu
 #. source: Volume for Keygen windows that play their own track.
 msgid "SETTINGS.keygen_volume_tip"
 msgstr "Volume untuk jendela Keygen yang mempunyai musik sendiri."
+
+#. Settings menu
+#. source: Play the computer humming sound on the main menu.
+msgid "SETTINGS.menu_computer_sound_tip"
+msgstr ""
 
 #. Settings menu
 #. source: Language for menus and in-game text.
@@ -2113,15 +2023,12 @@ msgstr "Atur berapa cepat animasi tampilan UI dan transisi."
 #. Settings menu
 #. source: How fast the cursor moves with the stick or keys in menus.
 msgid "SETTINGS.menu_cursor_speed_tip"
-msgstr ""
-"Seberapa cepat kursor bergerak dengan stik atau tombol keyboard pada menu."
+msgstr "Seberapa cepat kursor bergerak dengan stik atau tombol keyboard pada menu."
 
 #. Settings menu
 #. source: Control your cursor with the mouse in Safe Folders. Battle Folders always use WASD or the left stick.
 msgid "SETTINGS.admin_cursor_tip"
-msgstr ""
-"Kendalikan kursor dengan mouse pada Folder Aman. Folder Tempur selalu "
-"menggunakan WASD atau stik kiri."
+msgstr "Kendalikan kursor dengan mouse pada Folder Aman. Folder Tempur selalu menggunakan WASD atau stik kiri."
 
 #. Settings menu
 #. source: Vibrate the controller when taking damage.
@@ -2239,7 +2146,7 @@ msgstr "Tampilkan Statistik"
 #. Settings menu
 #. source: Pause
 msgid "SETTINGS.action_pause"
-msgstr "Pause"
+msgstr ""
 
 #. Settings menu
 #. source: Close
@@ -2383,10 +2290,7 @@ msgstr "Telah masuk"
 #. Login screen - click your user name prompt
 #. source: To begin, click your user name.\nAfter you log on, you can change profiles.\nJust click on your name at the top of the menu.
 msgid "UI.login_prompt"
-msgstr ""
-"Untuk memulai, klik nama pengguna Anda.\n"
-"Setelah login, Anda bisa mengubah profil.\n"
-"Cukup klik nama Anda diatas menu."
+msgstr "Untuk memulai, klik nama pengguna Anda.\nSetelah login, Anda bisa mengubah profil.\nCukup klik nama Anda diatas menu."
 
 #. Login screen - turn off computer button
 #. source: Turn off computer
@@ -2680,6 +2584,46 @@ msgstr "Profil.xls - Antivirus Survivors"
 msgid "UI.start_menu_tasks_stats"
 msgstr "Tugas dan Statistik"
 
+#. Credits window - title, also the desktop icon name
+#. source: Credits
+msgid "CREDITS.window_title"
+msgstr ""
+
+#. Credits window - role title
+#. source: Development, Art, Music etc.
+msgid "CREDITS.solo_developer"
+msgstr "Pengembangan, Art, Musik dll."
+
+#. Credits window - role title
+#. source: Producer
+msgid "CREDITS.producer"
+msgstr "Produser"
+
+#. Credits window - role title. Keep the name Virry.
+#. source: Animator (Virry)
+msgid "CREDITS.animation_virry"
+msgstr ""
+
+#. Credits window - role title
+#. source: Community QA
+msgid "CREDITS.community_qa"
+msgstr "Jaminan Kualitas (QA)"
+
+#. Credits window - role title
+#. source: Community Translators
+msgid "CREDITS.community_translators"
+msgstr "Komunitas Penerjemah"
+
+#. Credits window - role title
+#. source: Special Thanks
+msgid "CREDITS.special_thanks"
+msgstr "Ucapan terima kasih spesial"
+
+#. Credits window - note under Special Thanks
+#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
+msgid "CREDITS.special_thanks_note"
+msgstr "Terima kasih telah membantu saya meraih mimpi ini. Aku cinta kalian semua! -Shaun"
+
 #. Profile stats window - statistics tab
 #. source: Stats
 msgid "UI.stats_tab"
@@ -2703,58 +2647,42 @@ msgstr "Kategori"
 #. Virry blurb - statistics mode
 #. source: Your run records live in these sheet. Switch to Tasks for unlocks.
 msgid "UI.task_virry_stats"
-msgstr ""
-"Hasil sesi Anda ada di sheet-sheet ini. Lihat tab Tugas untuk apa yang Anda "
-"bisa unlock."
+msgstr "Hasil sesi Anda ada di sheet-sheet ini. Lihat tab Tugas untuk apa yang Anda bisa unlock."
 
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_weapons"
-msgstr ""
-"Selesaikan suatu Tugas senjata, lalu beli item yang sesuai di Tambah/Hapus "
-"Unlock"
+msgstr "Selesaikan suatu Tugas senjata, lalu beli item yang sesuai di Tambah/Hapus Unlock"
 
 #. Virry blurb - cursor class tasks
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_classes"
-msgstr ""
-"Kelas Kursor mengubah bagaimana anda melawan. Unlock satu, lalu beli item yg "
-"sesuai di Tambah/Hapus Unlock"
+msgstr "Kelas Kursor mengubah bagaimana anda melawan. Unlock satu, lalu beli item yg sesuai di Tambah/Hapus Unlock"
 
 #. Virry blurb - plugin tasks
 #. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_plugins"
-msgstr ""
-"Plugin menambah daya pasif yang bisa didapatkan melalui Penginstal. "
-"Selesaikan Tugas lalu beli item sesuai di Tambah/Hapus Unlock."
+msgstr "Plugin menambah daya pasif yang bisa didapatkan melalui Penginstal. Selesaikan Tugas lalu beli item sesuai di Tambah/Hapus Unlock."
 
 #. Virry blurb - weapon driver tasks
 #. source: Weapon Drivers upgrade a weapon's with unique additions. When unlocked reach levels 8, 16 and 24 to obtain them.
 msgid "UI.task_virry_drivers"
-msgstr ""
-"Driver Senjata mengupgrade senjata dengan fitur-fitur tambahan unik. Untuk "
-"tiap driver yang diperoleh, capai level 8, 16 dan 24 untuk mendapatkannya."
+msgstr "Driver Senjata mengupgrade senjata dengan fitur-fitur tambahan unik. Untuk tiap driver yang diperoleh, capai level 8, 16 dan 24 untuk mendapatkannya."
 
 #. Virry blurb - files tasks
 #. source: Safe Files, Battle Files, and Special Files. Unlock them, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_files"
-msgstr ""
-"Folder Aman, Folder Tempur, dan File Spesial. Unlock beberapa dan beli di "
-"Tambah/Hapus Unlock."
+msgstr "Folder Aman, Folder Tempur, dan File Spesial. Unlock beberapa dan beli di Tambah/Hapus Unlock."
 
 #. Virry blurb - theme tasks
 #. source: Themes dress up the desktop. When unlocked they can be applied in the Personalise menu.
 msgid "UI.task_virry_themes"
-msgstr ""
-"Tema mewarnai desktop dengan tampilan baru. Setelah di-unlock, tema dapat "
-"diterapkan melalui menu Personalisasi."
+msgstr "Tema mewarnai desktop dengan tampilan baru. Setelah di-unlock, tema dapat diterapkan melalui menu Personalisasi."
 
 #. Virry blurb - policy tasks
 #. source: Complete a Protocol with each Policy, then Domain Policies. Protocol V is the hard set.
 msgid "UI.task_virry_policies"
-msgstr ""
-"Selesaikan suatu Protokol dengan tiap Kebijakan, lalu Kebijakan Domain. "
-"Protokol V adalah yang tersulit."
+msgstr "Selesaikan suatu Protokol dengan tiap Kebijakan, lalu Kebijakan Domain. Protokol V adalah yang tersulit."
 
 #. Virry blurb - general milestones
 #. source: General milestones. Mostly Beanz rewards.
@@ -2934,9 +2862,7 @@ msgstr "Serangan Iklan Spam"
 #. Profile stats - failed file opens tooltip
 #. source: Spam popups spawned from failed Zip or Download More RAM opens.
 msgid "UI.stat_failed_files_desc"
-msgstr ""
-"Popup spam yang muncul akibat ekstrak Zip yang gagal atau penggunaan Unduh "
-"RAM Gratis."
+msgstr "Popup spam yang muncul akibat ekstrak Zip yang gagal atau penggunaan Unduh RAM Gratis."
 
 #. Profile stats - rar files opened tooltip
 #. source: Rar archives completed.
@@ -3139,9 +3065,7 @@ msgstr ""
 #. source: Special Files spawn during battle. While one is active, hold {special} to use it.
 #. Keep placeholders unchanged: {special}
 msgid "UI.vapor_store_intro"
-msgstr ""
-"File Spesial muncul saat pertempuran. Saat satu sedang aktif, tahan "
-"{special} untuk menggunakannya. "
+msgstr "File Spesial muncul saat pertempuran. Saat satu sedang aktif, tahan {special} untuk menggunakannya. "
 
 #. Vapor store - featured weapon heading
 #. source: Featured Weapon
@@ -3340,9 +3264,7 @@ msgstr "Selesaikan %s atau lebih sekali untuk menyalakan Kebijakan."
 #. source: Complete 3 different Policies on %s or higher to enable Domain Policies.
 #. Keep placeholders unchanged: %s
 msgid "UI.domain_policies_locked"
-msgstr ""
-"Selesaikan 3 Kebijakan berbeda pada %s atau lebih untuk menyalakan Kebijakan "
-"Domain."
+msgstr "Selesaikan 3 Kebijakan berbeda pada %s atau lebih untuk menyalakan Kebijakan Domain."
 
 #. UI (script-driven)
 #. source: Run Beanz: x%.2f
@@ -3424,9 +3346,7 @@ msgstr "Belum selesai"
 #. UI (script-driven)
 #. source: Control your cursor with the mouse in Safe Folders.[br]Battle Folders always use WASD or the left stick.
 msgid "UI.admin_mouse_tooltip"
-msgstr ""
-"Gerakkan kursor Anda dengan mouse dalam Folder Aman.[br]WASD atau stik kiri "
-"selalu digunakan pada Folder Tempur."
+msgstr "Gerakkan kursor Anda dengan mouse dalam Folder Aman.[br]WASD atau stik kiri selalu digunakan pada Folder Tempur."
 
 #. UI (script-driven)
 #. source: Reroll Locked
@@ -3567,30 +3487,22 @@ msgstr "Key Anda kurang cukup :("
 #. Starter folder weapons category help
 #. source: Your first of four weapons for the run. You'll pick more as you level up.
 msgid "UI.starter_help_weapons"
-msgstr ""
-"Senjata pertama dari empat senjata Anda. Semakin Anda naik level semakin "
-"banyak senjata yang Anda akan pilih."
+msgstr "Senjata pertama dari empat senjata Anda. Semakin Anda naik level semakin banyak senjata yang Anda akan pilih."
 
 #. Starter folder cursor class category help
 #. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
 msgid "UI.starter_help_cursor"
-msgstr ""
-"Kelas Kursor mengatur stat dasar Anda, yang akan dilipatgandakan oleh semua "
-"upgrade."
+msgstr "Kelas Kursor mengatur stat dasar Anda, yang akan dilipatgandakan oleh semua upgrade."
 
 #. Starter folder difficulty category help
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
 msgid "UI.starter_help_difficulty"
-msgstr ""
-"Tingkat Kesulitan menetapkan aturan suatu sesi: tekanan dari musuh, hadiah, "
-"dan apa yang bisa Anda unlock."
+msgstr "Tingkat Kesulitan menetapkan aturan suatu sesi: tekanan dari musuh, hadiah, dan apa yang bisa Anda unlock."
 
 #. Starter folder policies category help
 #. source: Optional extra rules on top of the protocol. Completing them earns more Beanz.
 msgid "UI.starter_help_policies"
-msgstr ""
-"Aturan ekstra yang bisa Anda terapkan diatas protokol pilihan. Berhadiah "
-"Beanz lebih banyak jiika digunakan."
+msgstr "Aturan ekstra yang bisa Anda terapkan diatas protokol pilihan. Berhadiah Beanz lebih banyak jiika digunakan."
 
 #. Starter folder button that reopens the tutorial guide
 #. source: Guide
@@ -3611,99 +3523,47 @@ msgstr "Panduan Memulai Cepat"
 #. source: Welcome to {game}!\n\nI'm Virry, and I'm going to take you through some basics of how to play.
 #. Keep placeholders unchanged: {game}
 msgid "UI.tutorial_1_body"
-msgstr ""
-"Selamat datang di {game}!\n"
-"\n"
-"Salam kenal saya Virry, dan saya akan membahas cara bermain game ini."
+msgstr "Selamat datang di {game}!\n\nSalam kenal saya Virry, dan saya akan membahas cara bermain game ini."
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
 #. Keep placeholders unchanged: {move}, {click}, {drag}
 msgid "UI.tutorial_2_body"
-msgstr ""
-"Pertama-tama…\n"
-"\n"
-"Anda bisa bergerak menggunakan {move}.\n"
-"\n"
-"Untuk mengklik, gunakan {click}, dan jangan lupa untuk klik dua kali (double "
-"click) untuk membuka file.\n"
-"\n"
-"Anda juga bisa menahan {drag} untuk men-drag file dan memindahkannya di "
-"sekitar folder."
+msgstr "Pertama-tama…\n\nAnda bisa bergerak menggunakan {move}.\n\nUntuk mengklik, gunakan {click}, dan jangan lupa untuk klik dua kali (double click) untuk membuka file.\n\nAnda juga bisa menahan {drag} untuk men-drag file dan memindahkannya di sekitar folder."
 
 #. Tutorial page 3 - class, protocol, policies
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
-msgstr ""
-"Untuk memulai Anda bisa memilih {class} dan {difficulty}.\n"
-"\n"
-"Sekarang mari kita pilih Kursor {default}; Anda akan dapat lebih banyak "
-"semakin saat bermain.\n"
-"\n"
-"Pilih Protokol I-III sebagai {difficulty} Anda.\n"
-"\n"
-"Menyelesaikan Protokol akan mendapatkan Anda {policies} yang dapat memberi "
-"tantangan tambahan.\n"
-"\n"
-"Silahkan Anda bisa pilih sekarang juga!"
+msgstr "Untuk memulai Anda bisa memilih {class} dan {difficulty}.\n\nSekarang mari kita pilih Kursor {default}; Anda akan dapat lebih banyak semakin saat bermain.\n\nPilih Protokol I-III sebagai {difficulty} Anda.\n\nMenyelesaikan Protokol akan mendapatkan Anda {policies} yang dapat memberi tantangan tambahan.\n\nSilahkan Anda bisa pilih sekarang juga!"
 
 #. Tutorial page 4 - {drivers}
 #. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
 #. Keep placeholders unchanged: {drivers}
 msgid "UI.tutorial_4_body"
-msgstr ""
-"Anda bisa memilih satu Senjata Pemula untuk memulai.\n"
-"\n"
-"Lakukan sesi game dan naik level untuk menambah senjata.\n"
-"\n"
-"Jika Anda naik level, Anda bisa memilih antara upgrade senjata dan pemain "
-"untuk meningkatkan stat.\n"
-"\n"
-"Jika senjata Anda mencapai level tertentu, Anda akan mendapatkan {drivers} "
-"untuk mengupgrade senjata ini."
+msgstr "Anda bisa memilih satu Senjata Pemula untuk memulai.\n\nLakukan sesi game dan naik level untuk menambah senjata.\n\nJika Anda naik level, Anda bisa memilih antara upgrade senjata dan pemain untuk meningkatkan stat.\n\nJika senjata Anda mencapai level tertentu, Anda akan mendapatkan {drivers} untuk mengupgrade senjata ini."
 
 #. Tutorial page 5 - {safe}
 #. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
 #. Keep placeholders unchanged: {safe}
 msgid "UI.tutorial_5_body"
-msgstr ""
-"Target game ini adalah untuk bertahan diri.\n"
-"\n"
-"Satu sesi memiliki 5 babak yang masing-masing berdurasi 5 menit. Evakuasi "
-"menuju {safe} tiap akhir babak untuk lanjut."
+msgstr "Target game ini adalah untuk bertahan diri.\n\nSatu sesi memiliki 5 babak yang masing-masing berdurasi 5 menit. Evakuasi menuju {safe} tiap akhir babak untuk lanjut."
 
 #. Tutorial page 6
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
-msgstr ""
-"Agar bisa selamat:\n"
-"Hindari musuh, peroleh EXP dan Koin, beli upgrade, dan buka file.\n"
-"\n"
-"Beberapa file memiliki faktor resiko, dan beberapa menjamin hadiah.\n"
-"\n"
-"Tiap babak juga akan memiliki Tugas Sampingan di pojok kanan atas yang "
-"berhadiah Bonus."
+msgstr "Agar bisa selamat:\nHindari musuh, peroleh EXP dan Koin, beli upgrade, dan buka file.\n\nBeberapa file memiliki faktor resiko, dan beberapa menjamin hadiah.\n\nTiap babak juga akan memiliki Tugas Sampingan di pojok kanan atas yang berhadiah Bonus."
 
 #. Tutorial page 7 - {safe} {vapor}
 #. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
 #. Keep placeholders unchanged: {safe}, {vapor}
 msgid "UI.tutorial_7_body"
-msgstr ""
-"Dapatkan Beanz dengan menghabiskan musuh dan memasuki {safe} tepat waktu.\n"
-"\n"
-"Dengan menyelesaikan Tugas, Anda juga bisa mendapatkan Beanz lebih banyak.\n"
-"\n"
-"Gunakan Beanz Anda untuk Kelas Kursor baru, serta Senjata, Upgrade Stat, "
-"Plugin, File, Item {vapor}, dll."
+msgstr "Dapatkan Beanz dengan menghabiskan musuh dan memasuki {safe} tepat waktu.\n\nDengan menyelesaikan Tugas, Anda juga bisa mendapatkan Beanz lebih banyak.\n\nGunakan Beanz Anda untuk Kelas Kursor baru, serta Senjata, Upgrade Stat, Plugin, File, Item {vapor}, dll."
 
 #. Tutorial page 8
 #. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
 msgid "UI.tutorial_8_body"
-msgstr ""
-"Itu saja untuk sekarang!\n"
-"\n"
-"Pilihlah senjata pertama Anda dan mulailah. Selamat bermain :)"
+msgstr "Itu saja untuk sekarang!\n\nPilihlah senjata pertama Anda dan mulailah. Selamat bermain :)"
 
 #. Plus! cleared. %s is the elite name, %s is the dropped filename
 #. source: %s cleared, %s dropped.
@@ -3884,32 +3744,7 @@ msgstr "Anda Menang!"
 #. source: A fatal exception has occurred and the system has been terminated to prevent corruption.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nIf this is the first time you've seen this termination screen, restart your system.\nIf this screen appears again, internal modules may have been compromised.\n\nPlease verify the integrity of your installed components. Unexpected behavior may\nindicate corrupted memory, invalid packet injection, or unauthorized script execution.\n\nIf the issue persists, perform a secure reboot or contact your system's internal administrator.\n\nTechnical Dump:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nBeginning forced shutdown...\nMemory cache flushed.\n\nPress {click} to continue. {tab} for stats
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
-msgstr ""
-"Kesalahan fatal telah terjadi dan sistem telah dinonaktifkan untuk mencegah "
-"kerusakan.\n"
-"\n"
-"CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
-"\n"
-"Restart sistem jika ini merupakan pertama kali Anda melihat layar terminasi "
-"ini.\n"
-"Jika layar ini muncul lagi, mungkin ada masalah dengan modul-modul "
-"internal.\n"
-"\n"
-"Silahkan teliti integritas komponen-komponen yang telah terinstal. Jika ada "
-"yang\n"
-"terlihat kurang benar, ini bisa diakibatkan oleh memori korup, injeksi "
-"packet yang\n"
-"tidak valid atau eksekusi skrip dari sumber tidak resmi.\n"
-"\n"
-"Jika masalah masih terulang, silahkan restart atau hubungi administrator.\n"
-"\n"
-"Kode Teknis:\n"
-"STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n"
-"\n"
-"Memulai proses pemadaman darurat...\n"
-"Cache memori berhasil dibersihkan.\n"
-"\n"
-"Tekan {click} untuk lanjut. {tab} untuk statistik."
+msgstr "Kesalahan fatal telah terjadi dan sistem telah dinonaktifkan untuk mencegah kerusakan.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nRestart sistem jika ini merupakan pertama kali Anda melihat layar terminasi ini.\nJika layar ini muncul lagi, mungkin ada masalah dengan modul-modul internal.\n\nSilahkan teliti integritas komponen-komponen yang telah terinstal. Jika ada yang\nterlihat kurang benar, ini bisa diakibatkan oleh memori korup, injeksi packet yang\ntidak valid atau eksekusi skrip dari sumber tidak resmi.\n\nJika masalah masih terulang, silahkan restart atau hubungi administrator.\n\nKode Teknis:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nMemulai proses pemadaman darurat...\nCache memori berhasil dibersihkan.\n\nTekan {click} untuk lanjut. {tab} untuk statistik."
 
 #. Browser address-bar caption
 #. source: Address
@@ -3991,9 +3826,7 @@ msgstr "Unduh"
 #. Vapidshare part tooltip while another part is downloading
 #. source: Another part is downloading. Get Vapidshare Pro for simultaneous downloads.
 msgid "CLICKABLE.vapid_part_busy"
-msgstr ""
-"Bagian lain sedang diunduh. Dapatkan Vapidshare Pro untuk mengunduh lebih "
-"secara bersamaan."
+msgstr "Bagian lain sedang diunduh. Dapatkan Vapidshare Pro untuk mengunduh lebih secara bersamaan."
 
 #. Shop / upgrade screen - reroll button
 #. source: Reroll: %.2f Coin
@@ -4017,7 +3850,7 @@ msgstr "Koin: %.2f"
 #. source: Keys: %d
 #. Keep placeholders unchanged: %d
 msgid "UI.keys"
-msgstr "Key: %.2f"
+msgstr "Key: %d"
 
 #. Torrent window - tab
 #. source: All (%d)
@@ -4135,8 +3968,7 @@ msgstr "Tampilkan jendela di 4 titik pojok sekaligus."
 #. Unlock description - overlay windows in all 4 corners
 #. source: Open files until their windows fill every corner of the screen.
 msgid "UI.unlock_corner_windows_desc"
-msgstr ""
-"Buka beberapa file hingga tampilan jendelanya menggunakan tiap pojokan layar."
+msgstr "Buka beberapa file hingga tampilan jendelanya menggunakan tiap pojokan layar."
 
 #. Unlock requirement - complete N tasks
 #. source: Complete {amount} tasks
@@ -4287,9 +4119,7 @@ msgstr "File {boss}"
 #. source: Lets you choose {boss} at the end of a run instead of only Random Boss.
 #. Keep placeholders unchanged: {boss}
 msgid "UI.unlock_boss_choice_desc"
-msgstr ""
-"Memungkinkan Anda memilih boss {boss} pada akhir sesi dibanding dipilih "
-"secara acak."
+msgstr "Memungkinkan Anda memilih boss {boss} pada akhir sesi dibanding dipilih secara acak."
 
 #. Unlock requirement - land a hit of N damage
 #. source: Land a single hit of {amount} damage
@@ -4345,8 +4175,7 @@ msgstr ""
 #. UI (script-driven)
 #. source: Commit crimes for coin while dodging the heat.
 msgid "UI.unlock_widget_crime_desc"
-msgstr ""
-"Curi Koin dari musuh sambil menghindari kericuhan. (Hidup seperti Ucok!)"
+msgstr "Curi Koin dari musuh sambil menghindari kericuhan. (Hidup seperti Ucok!)"
 
 #. UI (script-driven)
 #. source: Criminal
@@ -4356,8 +4185,7 @@ msgstr "Criminal Extreme"
 #. UI (script-driven)
 #. source: Slow the world around you to clear enemies more easily.
 msgid "UI.unlock_widget_bullet_time_desc"
-msgstr ""
-"Pelankan waktu disekitar agar Anda bisa menghindari musuh lebih gampang."
+msgstr "Pelankan waktu disekitar agar Anda bisa menghindari musuh lebih gampang."
 
 #. UI (script-driven)
 #. source: Heaps of Pain
@@ -4377,8 +4205,7 @@ msgstr ""
 #. UI (script-driven)
 #. source: Heal now, or upgrade Health Check files for later battles.
 msgid "UI.unlock_file_health_check_pro_desc"
-msgstr ""
-"Sembuhkan sekarang atau upgrade File Cek  Kesehatan untuk babak mendatang."
+msgstr "Sembuhkan sekarang atau upgrade File Cek  Kesehatan untuk babak mendatang."
 
 #. UI (script-driven)
 #. source: Health Check Plus
@@ -4398,8 +4225,7 @@ msgstr "Pengelola Finansial"
 #. Unlock description - Ethanol 130% safe file
 #. source: Pay Coin to copy a random plugin you already have installed.
 msgid "UI.unlock_file_ethanol_desc"
-msgstr ""
-"Bayar menggunakan Koin untuk menyalin suatu plugin yang sudah di-instal."
+msgstr "Bayar menggunakan Koin untuk menyalin suatu plugin yang sudah di-instal."
 
 #. Unlock reward - Ethanol 130% name
 #. source: Ethanol 130%
@@ -4459,9 +4285,7 @@ msgstr "Kalahkan musuh Plus! dalam 10 detik"
 #. UI (script-driven)
 #. source: Install Morgan Antivirus to raise difficulty and spawn extra Plus! enemies.
 msgid "UI.unlock_file_morgan_av_desc"
-msgstr ""
-"Instal Morgan Antivirus untuk meningkatkan kesulitan dan mengeluarkan musuh "
-"Plus! lebih banyak."
+msgstr "Instal Morgan Antivirus untuk meningkatkan kesulitan dan mengeluarkan musuh Plus! lebih banyak."
 
 #. UI (script-driven)
 #. source: Bonus Beanz
@@ -4533,8 +4357,7 @@ msgstr "Perangkat Lama"
 #. Optional extra difficulty policy - description (legacy_hardware)
 #. source: Enemies move 40% faster and deal 20% more damage.
 msgid "POLICY.legacy_hardware.description"
-msgstr ""
-"Musuh bergerak 40% lebih cepat dan mengakibatkan damage 20% lebih banyak."
+msgstr "Musuh bergerak 40% lebih cepat dan mengakibatkan damage 20% lebih banyak."
 
 #. Optional extra difficulty policy - name (bloatware)
 #. source: Bloatware
@@ -4544,8 +4367,7 @@ msgstr "'Bloatware'"
 #. Optional extra difficulty policy - description (bloatware)
 #. source: 40% more enemies spawn, and enemies have 20% more health.
 msgid "POLICY.bloatware.description"
-msgstr ""
-"Musuh baru muncul 40% lebih banyak, dan mereka punya nyawa 20% lebih banyak."
+msgstr "Musuh baru muncul 40% lebih banyak, dan mereka punya nyawa 20% lebih banyak."
 
 #. Optional extra difficulty policy - name (void_breach)
 #. source: Void Breach
@@ -4585,9 +4407,7 @@ msgstr "Aktivasi Diperlukan"
 #. Optional extra difficulty policy - description (unsigned_driver)
 #. source: Keygen files do not spawn. Get plugins from cracked installers, or buy Keys at the Key Shop.
 msgid "POLICY.unsigned_driver.description"
-msgstr ""
-"Tidak ada file Keygen yang muncul. Anda hanya bisa beli plugin dari "
-"penginstal crack, atau beli Key di toko Key."
+msgstr "Tidak ada file Keygen yang muncul. Anda hanya bisa beli plugin dari penginstal crack, atau beli Key di toko Key."
 
 #. Optional extra difficulty policy - name (read_only)
 #. source: Read Only
@@ -4670,18 +4490,15 @@ msgid "POLICY.open_relay.description"
 msgstr "Semua file tempur mengandung Spam."
 
 #. Optional extra difficulty policy - name (default_domain_policy)
-#. source: Default Domain Policy
+#. source: Natasha's Wrath
+#, fuzzy
 msgid "POLICY.default_domain_policy.name"
 msgstr "Kebijakan Domain Bawaan"
 
 #. Optional extra difficulty policy - description (default_domain_policy)
 #. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
 msgid "POLICY.default_domain_policy.description"
-msgstr ""
-"Semua Kebijakan standar sekaligus. Musuh-musuh jadi lebih cepat, kuat dan "
-"banyak. HP Anda diturunkan setengah tiap Folder Tempur. Tidak ada senjata "
-"ekstra, Keygen atau rol ulang. Void ditingkatkan 2x. Waktu evakuasi lebih "
-"singkat."
+msgstr "Semua Kebijakan standar sekaligus. Musuh-musuh jadi lebih cepat, kuat dan banyak. HP Anda diturunkan setengah tiap Folder Tempur. Tidak ada senjata ekstra, Keygen atau rol ulang. Void ditingkatkan 2x. Waktu evakuasi lebih singkat."
 
 #. Policy complete unlock requirement template
 #. source: Complete any protocol using {policy}
@@ -4743,9 +4560,7 @@ msgstr "Keluarkan biaya {cost} Koin untuk 1 Key."
 #. source: Sell 1 Key for {cost} Coin.\nMarketplace fee keeps {fee} Coin.
 #. Keep placeholders unchanged: {cost}, {fee}
 msgid "UI.keybuy_sell_tooltip"
-msgstr ""
-"Jual 1 Key untuk {cost} Koin.\n"
-"Biaya Pasar menyimpan {fee} Koin."
+msgstr "Jual 1 Key untuk {cost} Koin.\nBiaya Pasar menyimpan {fee} Koin."
 
 #. KeyBuy nav links under the logo
 #. source: home | buy | sell | my keys | help
@@ -4780,9 +4595,7 @@ msgstr "Terupgrade"
 #. Health Check Pro upgrade-files tooltip
 #. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
-msgstr ""
-"\"Cek Kesehatan\" dalam babak berikutnya akan memberi lebih banyak Heart "
-"pada sesi inii."
+msgstr "\"Cek Kesehatan\" dalam babak berikutnya akan memberi lebih banyak Heart pada sesi inii."
 
 #. Health Check Pro heal tooltip
 #. source: Restore 50% of your Max HP right now.
@@ -4807,33 +4620,25 @@ msgstr "Perbaikan Instan"
 #. Health Check Pro file-upgrade explanation
 #. source: Upgrading makes Health Check files in battle drop more hearts.
 msgid "UI.health_check_pro_file_blurb"
-msgstr ""
-"Mengupgrade akan menyebabkan file Cek Kesehatan mengeluarkan lebih banyak "
-"Heart."
+msgstr "Mengupgrade akan menyebabkan file Cek Kesehatan mengeluarkan lebih banyak Heart."
 
 #. Health Check Pro current heart range
 #. source: Now: {min}–{max} HP
 #. Keep placeholders unchanged: {min}, {max}
 msgid "UI.health_check_pro_range_now"
-msgstr ""
-"Sekarang: {min}–{max} HP\n"
-"‪"
+msgstr "Sekarang: {min}–{max} HP"
 
 #. Health Check Pro range after upgrade
 #. source: After upgrade: {min}–{max} HP
 #. Keep placeholders unchanged: {min}, {max}
 msgid "UI.health_check_pro_range_next"
-msgstr ""
-"Lepas upgrade: {min}–{max} HP\n"
-"‪"
+msgstr "Lepas upgrade: {min}–{max} HP"
 
 #. Health Check Pro range after purchase
 #. source: Upgraded: {min}–{max} HP
 #. Keep placeholders unchanged: {min}, {max}
 msgid "UI.health_check_pro_range_done"
-msgstr ""
-"Terupgrade: {min}–{max} HP\n"
-"‪"
+msgstr "Terupgrade: {min}–{max} HP"
 
 #. Health Check Pro heal explanation
 #. source: Restore 50% of Max HP right now.
@@ -4960,9 +4765,7 @@ msgstr "Uangkan investasi Anda saat ini menjadi Koin."
 #. Ethanol 130% window explanation
 #. source: Pay Coin to roll a copy of a random plugin you already have installed.
 msgid "UI.ethanol_body"
-msgstr ""
-"Bayar Koin untuk menerima secara acak salinan salah satu plugin yang sudah "
-"terinstal."
+msgstr "Bayar Koin untuk menerima secara acak salinan salah satu plugin yang sudah terinstal."
 
 #. Ethanol 130% copy button
 #. source: Copy: {cost} Coin
@@ -5111,9 +4914,7 @@ msgstr "Klik 2x untuk Ubah Bahasa"
 #. Desktop icon tooltip
 #. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
 msgid "CLICKABLE.github_translations"
-msgstr ""
-"Klik 2x untuk buka Link.[br]Semua terjemahan di game ini merupakan hasil "
-"kontribusi komunitas."
+msgstr "Klik 2x untuk buka Link.[br]Semua terjemahan di game ini merupakan hasil kontribusi komunitas."
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
@@ -5156,7 +4957,7 @@ msgstr ""
 #. source: Damage: %.1f
 #. Keep placeholders unchanged: %.1f
 msgid "TOOLTIP.damage"
-msgstr "Damage: %.1f"
+msgstr ""
 
 #. Stat tooltip
 #. source: Amount: %.1f
@@ -5174,7 +4975,7 @@ msgstr "Kecepatan: %.2fs"
 #. source: Refresh: %.2fs
 #. Keep placeholders unchanged: %.2f
 msgid "TOOLTIP.refresh"
-msgstr "Refresh: %.2fs"
+msgstr ""
 
 #. Stat tooltip
 #. source: Size: %.2fx
@@ -5261,17 +5062,13 @@ msgstr ""
 #. source: Extracting file: \n%s from /.???
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracting"
-msgstr ""
-"Mengekstrak file: \n"
-"%s dari /.???"
+msgstr "Mengekstrak file: \n%s dari /.???"
 
 #. Zip extractor window
 #. source: Estimated time left: {m}m {s}s ({cur} KB of {max} KB) \nProcessing rate: {rate} KB/Sec
 #. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
 msgid "ZIP.progress"
-msgstr ""
-"Perkiraan wkt. tersisa: {m}m {s}s ({cur} KB dari {max} KB) \n"
-"Kecepatan pengolahan: {rate} KB/detik"
+msgstr "Perkiraan wkt. tersisa: {m}m {s}s ({cur} KB dari {max} KB) \nKecepatan pengolahan: {rate} KB/detik"
 
 #. Zip extractor window
 #. source: %s extracted successfully.
@@ -5481,14 +5278,12 @@ msgstr "Jumlah Key terkoleksi di Folder Tempur terakhir"
 #. Safe Folder explorer - last round Beanz tooltip
 #. source: Beanz earned in the last Battle Folder, including the Safe Folder award.
 msgid "RUNSTAT.last_round_beanz_desc"
-msgstr ""
-"Jumlah Beanz terperoleh di Folder Tempur terakhir, termasuk hadiah dari "
-"Folder Aman."
+msgstr "Jumlah Beanz terperoleh di Folder Tempur terakhir, termasuk hadiah dari Folder Aman."
 
 #. Run and last-round DPS label
 #. source: DPS
 msgid "RUNSTAT.dps"
-msgstr "DPS"
+msgstr ""
 
 #. Run DPS tooltip
 #. source: Damage per second this run, during Battle Folders only.
@@ -5640,9 +5435,7 @@ msgstr "'Overclock'"
 #. Weapon driver / overclock card - description (overclocked)
 #. source: Multiply Damage 1.6x.\nReduce Refresh -15%.
 msgid "DRIVER.overclocked.description"
-msgstr ""
-"Damage dilipatgandakan 1.6x\n"
-"Penyegaran diturunkan -15%."
+msgstr "Damage dilipatgandakan 1.6x\nPenyegaran diturunkan -15%."
 
 #. Weapon driver / overclock card - name (hyperthreaded)
 #. source: Hyperthreaded
@@ -5652,9 +5445,7 @@ msgstr "'Hyperthread'"
 #. Weapon driver / overclock card - description (hyperthreaded)
 #. source: Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.hyperthreaded.description"
-msgstr ""
-"Tambah Jumlah +2.\n"
-"Damage diturunkan -20%."
+msgstr "Tambah Jumlah +2.\nDamage diturunkan -20%."
 
 #. Weapon driver / overclock card - name (turbo_clock)
 #. source: Turbo Clock
@@ -5664,9 +5455,7 @@ msgstr "'Turboclock'"
 #. Weapon driver / overclock card - description (turbo_clock)
 #. source: Increase Speed +50%.\nReduce Power -15%.
 msgid "DRIVER.turbo_clock.description"
-msgstr ""
-"Kecepatan ditingkatkan +50%.\n"
-"Tenaga diturunkan -15%."
+msgstr "Kecepatan ditingkatkan +50%.\nTenaga diturunkan -15%."
 
 #. Weapon driver / overclock card - name (bloated_cache)
 #. source: Bloated Cache
@@ -5706,9 +5495,7 @@ msgstr "Terdefrag"
 #. Weapon driver / overclock card - description (avd_fragmented)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.avd_fragmented.description"
-msgstr ""
-"Saat memantul: belah menjadi kembar 2 berukuran setengah.\n"
-"Kembarannya sendiri juga bisa membelah sekali."
+msgstr "Saat memantul: belah menjadi kembar 2 berukuran setengah.\nKembarannya sendiri juga bisa membelah sekali."
 
 #. Weapon driver / overclock card - name (avn_away)
 #. source: Away Message
@@ -5718,9 +5505,7 @@ msgstr "Status \"Away\""
 #. Weapon driver / overclock card - description (avn_away)
 #. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
 msgid "DRIVER.avn_away.description"
-msgstr ""
-"Tambah +1 Jumlah. Kecepatan ditingkatkan +20%.\n"
-"Ukuran diperbesar +15%."
+msgstr "Tambah +1 Jumlah. Kecepatan ditingkatkan +20%.\nUkuran diperbesar +15%."
 
 #. Weapon driver / overclock card - name (avn_buddy)
 #. source: Buddy List
@@ -5730,9 +5515,7 @@ msgstr "Daftar Teman"
 #. Weapon driver / overclock card - description (avn_buddy)
 #. source: Add +2 Amount.\nIncrease Power +15%.
 msgid "DRIVER.avn_buddy.description"
-msgstr ""
-"Tambah +2 Jumlah.\n"
-"Tenaga ditingkatkan +15%."
+msgstr "Tambah +2 Jumlah.\nTenaga ditingkatkan +15%."
 
 #. Weapon driver / overclock card - name (blatand_pair)
 #. source: Paired Devices
@@ -5742,9 +5525,7 @@ msgstr "Perangkat Terpasang"
 #. Weapon driver / overclock card - description (blatand_pair)
 #. source: Add +1 Amount. Increase Power +25%.\nIncrease Speed +20%.
 msgid "DRIVER.blatand_pair.description"
-msgstr ""
-"Tambah +1 Jumlah. Tenaga ditingkatkan +25%.\n"
-"Kecepatan ditingkatkan +20%."
+msgstr "Tambah +1 Jumlah. Tenaga ditingkatkan +25%.\nKecepatan ditingkatkan +20%."
 
 #. Weapon driver / overclock card - name (bubbles_soap)
 #. source: Soap
@@ -5754,9 +5535,7 @@ msgstr "Sabun"
 #. Weapon driver / overclock card - description (bubbles_soap)
 #. source: Add +1 Amount.\nIncrease Size +40%.
 msgid "DRIVER.bubbles_soap.description"
-msgstr ""
-"Tambah +1 Jumlah.\n"
-"Ukuran diperbesar +40."
+msgstr "Tambah +1 Jumlah.\nUkuran diperbesar +40."
 
 #. Weapon driver / overclock card - name (bubbles_suds)
 #. source: Suds
@@ -5766,9 +5545,7 @@ msgstr "Busa"
 #. Weapon driver / overclock card - description (bubbles_suds)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.bubbles_suds.description"
-msgstr ""
-"Saat memantul: belah menjadi kembar 2 berukuran setengah.\n"
-"Kembarannya sendiri juga bisa membelah sekali."
+msgstr "Saat memantul: belah menjadi kembar 2 berukuran setengah.\nKembarannya sendiri juga bisa membelah sekali."
 
 #. Weapon driver / overclock card - name (cdrive_seek)
 #. source: Seek
@@ -5778,9 +5555,7 @@ msgstr "Pencarian"
 #. Weapon driver / overclock card - description (cdrive_seek)
 #. source: Converts Repel to Lag.\nIncrease Speed +60%.
 msgid "DRIVER.cdrive_seek.description"
-msgstr ""
-"Ubah Tolak ke Lag.\n"
-"Kecepatan ditingkatkan +60%."
+msgstr "Ubah Tolak ke Lag.\nKecepatan ditingkatkan +60%."
 
 #. Weapon driver / overclock card - name (cdrive_cleanup)
 #. source: Disk Cleanup
@@ -5800,9 +5575,7 @@ msgstr "Jalan Memutar"
 #. Weapon driver / overclock card - description (cone_detour)
 #. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
 msgid "DRIVER.cone_detour.description"
-msgstr ""
-"Ubah Heat ke Lag. Ukuran diperbesar +35%.\n"
-"Damage ditingkatkan +15%."
+msgstr "Ubah Heat ke Lag. Ukuran diperbesar +35%.\nDamage ditingkatkan +15%."
 
 #. Weapon driver / overclock card - name (cone_workzone)
 #. source: Work Zone
@@ -5812,9 +5585,7 @@ msgstr "Zona Kerja"
 #. Weapon driver / overclock card - description (cone_workzone)
 #. source: Add +1 Amount.\nIncrease Power +30%.
 msgid "DRIVER.cone_workzone.description"
-msgstr ""
-"Tambah +1 Jumlah.\n"
-"Tenaga ditingkatkan +30%."
+msgstr "Tambah +1 Jumlah.\nTenaga ditingkatkan +30%."
 
 #. Weapon driver / overclock card - name (cruiser_multitab)
 #. source: Browser Hijack
@@ -5824,9 +5595,7 @@ msgstr "'Browser Hijack'"
 #. Weapon driver / overclock card - description (cruiser_multitab)
 #. source: Converts Lag to Infect. Add +1 Amount.\nIncrease Power +25%.
 msgid "DRIVER.cruiser_multitab.description"
-msgstr ""
-"Ubah Lag ke Infeksi. Tambah +1 Jumlah.\n"
-"Tenaga ditingkatkan +25%."
+msgstr "Ubah Lag ke Infeksi. Tambah +1 Jumlah.\nTenaga ditingkatkan +25%."
 
 #. Weapon driver / overclock card - name (cruiser_popup)
 #. source: Popup Storm
@@ -5846,9 +5615,7 @@ msgstr "Belah"
 #. Weapon driver / overclock card - description (cut_cleave)
 #. source: Converts Repel to Infect. Increase Size +80%.\nAdd -0.5 Amount.
 msgid "DRIVER.cut_cleave.description"
-msgstr ""
-"Ubah Tolak ke Infeksi. Ukuran diperbesar +80%.\n"
-"Tambah -0.5 Jumlah."
+msgstr "Ubah Tolak ke Infeksi. Ukuran diperbesar +80%.\nTambah -0.5 Jumlah."
 
 #. Weapon driver / overclock card - name (cut_papercut)
 #. source: Paper Cut
@@ -5858,9 +5625,7 @@ msgstr "Potongan Kertas"
 #. Weapon driver / overclock card - description (cut_papercut)
 #. source: Add +2 Amount.\nIncrease Speed +25%.
 msgid "DRIVER.cut_papercut.description"
-msgstr ""
-"Tambah +2 Jumlah.\n"
-"Kecepatan ditingkatkan +25%."
+msgstr "Tambah +2 Jumlah.\nKecepatan ditingkatkan +25%."
 
 #. Weapon driver / overclock card - name (email_cc)
 #. source: Flame Mail
@@ -5870,9 +5635,7 @@ msgstr "Surat Berapi"
 #. Weapon driver / overclock card - description (email_cc)
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
 msgid "DRIVER.email_cc.description"
-msgstr ""
-"Ubah Infeksi ke Heat. Tambah +1 Jumlah.\n"
-"Kecepatan ditingkatkan +35%."
+msgstr "Ubah Infeksi ke Heat. Tambah +1 Jumlah.\nKecepatan ditingkatkan +35%."
 
 #. Weapon driver / overclock card - name (email_bounce)
 #. source: Undeliverable
@@ -5892,9 +5655,7 @@ msgstr "Tolak"
 #. Weapon driver / overclock card - description (firewall_deny)
 #. source: Increase Power +50%. Add +1 Amount.
 msgid "DRIVER.firewall_deny.description"
-msgstr ""
-"Tambah Tenaga +50%.\n"
-"Tambah +1 Jumlah."
+msgstr "Tambah Tenaga +50%.\nTambah +1 Jumlah."
 
 #. Weapon driver / overclock card - name (firewall_stealth)
 #. source: Flameout
@@ -5917,16 +5678,14 @@ msgid "DRIVER.fontart_bold.description"
 msgstr "Ukuran diperbesar +60%, Tenaga ditingkatkan +60%."
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
 msgid "DRIVER.fontart_wordart.name"
 msgstr ""
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
 msgid "DRIVER.fontart_wordart.description"
-msgstr ""
-"Ukuran diperbesar +40%.\n"
-"Tambah +1 Jumlah."
+msgstr "Ukuran diperbesar +40%.\nTambah +1 Jumlah."
 
 #. Weapon driver / overclock card - name (fraps_benchmark)
 #. source: Benchmark
@@ -5936,9 +5695,7 @@ msgstr "'Benchmark'"
 #. Weapon driver / overclock card - description (fraps_benchmark)
 #. source: Converts Repel to Heat. Increase Damage +25%.\nIncrease Speed +20%.
 msgid "DRIVER.fraps_benchmark.description"
-msgstr ""
-"Ubah Tolak ke Heat. Damage ditingkatkan +80%.\n"
-"Kecepatan ditingkatkan +20%."
+msgstr "Ubah Tolak ke Heat. Damage ditingkatkan +80%.\nKecepatan ditingkatkan +20%."
 
 #. Weapon driver / overclock card - name (fraps_vsync)
 #. source: VSync
@@ -5948,9 +5705,7 @@ msgstr "'VSync'"
 #. Weapon driver / overclock card - description (fraps_vsync)
 #. source: FPS numbers bounce off walls.\nIncrease Size +20%.
 msgid "DRIVER.fraps_vsync.description"
-msgstr ""
-"Angka FPS memantul permukaan dinding.\n"
-"Ukuran diperbesar +20%."
+msgstr "Angka FPS memantul permukaan dinding.\nUkuran diperbesar +20%."
 
 #. Weapon driver / overclock card - name (hitmarkers_headhunter)
 #. source: Headhunter
@@ -5960,9 +5715,7 @@ msgstr "Pemburu Kepala"
 #. Weapon driver / overclock card - description (hitmarkers_headhunter)
 #. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
 msgid "DRIVER.hitmarkers_headhunter.description"
-msgstr ""
-"Peluang eksekusi ditingkatkan. Ubah Tolak ke Heat.\n"
-"Damage diturunkan -15%."
+msgstr "Peluang eksekusi ditingkatkan. Ubah Tolak ke Heat.\nDamage diturunkan -15%."
 
 #. Weapon driver / overclock card - name (hitmarkers_killstreak)
 #. source: Killstreak
@@ -5972,8 +5725,7 @@ msgstr "'Killstreak'"
 #. Weapon driver / overclock card - description (hitmarkers_killstreak)
 #. source: Cleared enemies increase attack Speed in the next attack.
 msgid "DRIVER.hitmarkers_killstreak.description"
-msgstr ""
-"Tiap musuh terkalahkan akan meningkatkan Kecepatan serangan selanjutnya."
+msgstr "Tiap musuh terkalahkan akan meningkatkan Kecepatan serangan selanjutnya."
 
 #. Weapon driver / overclock card - name (minesweeper_flag)
 #. source: Incendiary Charge
@@ -5996,28 +5748,24 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr "Ranjau akan menetap hingga dipicu."
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
 msgid "DRIVER.modem_handshake.name"
-msgstr "Penyumbatan Dial-up"
+msgstr "Umpan Balik"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
 msgid "DRIVER.modem_handshake.description"
-msgstr ""
-"Ubah Tolak ke Lag. Tambah +1 Jumlah.\n"
-"Ukuran diperbesar +25%."
+msgstr "Ubah Tolak ke Lag. Tambah +1 Jumlah.\nUkuran diperbesar +25%."
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
 msgid "DRIVER.modem_broadband.name"
 msgstr ""
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
 msgid "DRIVER.modem_broadband.description"
-msgstr ""
-"Kecepatan ditingkatkan +50%.\n"
-"Damage ditingkatkan +20%."
+msgstr "Kecepatan ditingkatkan +50%.\nDamage ditingkatkan +20%."
 
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
 #. source: Tab Overload
@@ -6027,9 +5775,7 @@ msgstr "Tab Berlebihan"
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
 msgid "DRIVER.orchestra_fortissimo.description"
-msgstr ""
-"Ubah Infeksi ke Heat. Damage ditingkatkan +35%.\n"
-"Tenaga ditingkatkan +35%."
+msgstr "Ubah Infeksi ke Heat. Damage ditingkatkan +35%.\nTenaga ditingkatkan +35%."
 
 #. Weapon driver / overclock card - name (orchestra_taskkill)
 #. source: End Process
@@ -6049,9 +5795,7 @@ msgstr "Penumpahan"
 #. Weapon driver / overclock card - description (paint_spill)
 #. source: Increase Size +100%.\nReduce Damage -20%.
 msgid "DRIVER.paint_spill.description"
-msgstr ""
-"Ukuran diperbesar +100%.\n"
-"Damage diturunkan -20%."
+msgstr "Ukuran diperbesar +100%.\nDamage diturunkan -20%."
 
 #. Weapon driver / overclock card - name (paint_fill)
 #. source: Fill Bucket
@@ -6061,9 +5805,7 @@ msgstr "'Fill Bucket'"
 #. Weapon driver / overclock card - description (paint_fill)
 #. source: Add +1 Amount.\nIncrease Power +40%.
 msgid "DRIVER.paint_fill.description"
-msgstr ""
-"Tambah +1 Jumlah.\n"
-"Tenaga ditingkatkan +40%."
+msgstr "Tambah +1 Jumlah.\nTenaga ditingkatkan +40%."
 
 #. Weapon driver / overclock card - name (pinball_tilted)
 #. source: Tilted
@@ -6073,9 +5815,7 @@ msgstr "Miring"
 #. Weapon driver / overclock card - description (pinball_tilted)
 #. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
 msgid "DRIVER.pinball_tilted.description"
-msgstr ""
-"Saat memantul: Ukuran diperbesar, bisa terjadi hingga 2 kali.\n"
-"Ukuran diperkecil -30%."
+msgstr "Saat memantul: Ukuran diperbesar, bisa terjadi hingga 2 kali.\nUkuran diperkecil -30%."
 
 #. Weapon driver / overclock card - name (quarantine_strict)
 #. source: Strict
@@ -6085,9 +5825,7 @@ msgstr "Ketat"
 #. Weapon driver / overclock card - description (quarantine_strict)
 #. source: Converts Repel to Infect.\nIncrease Power +70%.
 msgid "DRIVER.quarantine_strict.description"
-msgstr ""
-"Ubah Tolak ke Infeksi.\n"
-"Tenaga ditingkatkan +70%."
+msgstr "Ubah Tolak ke Infeksi.\nTenaga ditingkatkan +70%."
 
 #. Weapon driver / overclock card - name (quarantine_heuristic)
 #. source: Heuristic
@@ -6097,9 +5835,7 @@ msgstr "Heuristis"
 #. Weapon driver / overclock card - description (quarantine_heuristic)
 #. source: Increase Damage +40%.\nIncrease Speed +20%.
 msgid "DRIVER.quarantine_heuristic.description"
-msgstr ""
-"Damage ditingkatkan +40%.\n"
-"Kecepatan ditingkatkan +20%."
+msgstr "Damage ditingkatkan +40%.\nKecepatan ditingkatkan +20%."
 
 #. Weapon driver / overclock card - name (satellite_dish)
 #. source: Microwave Dish
@@ -6109,9 +5845,7 @@ msgstr "Piring Microwave"
 #. Weapon driver / overclock card - description (satellite_dish)
 #. source: Converts Lag to Heat. Increase Size +30%.\nIncrease Speed +15%.
 msgid "DRIVER.satellite_dish.description"
-msgstr ""
-"Ubah Lag ke Heat. Ukuran diperbesar +30%.\n"
-"Kecepatan ditingkatkan +15%."
+msgstr "Ubah Lag ke Heat. Ukuran diperbesar +30%.\nKecepatan ditingkatkan +15%."
 
 #. Weapon driver / overclock card - name (satellite_uplink)
 #. source: Uplink
@@ -6131,9 +5865,7 @@ msgstr "Racun Senjata"
 #. Weapon driver / overclock card - description (scimitar_dragon)
 #. source: Converts Repel to Infect. Increase Size +50%.\nAdd +1 Amount.
 msgid "DRIVER.scimitar_dragon.description"
-msgstr ""
-"Ubah Tolak ke Infeksi. Ukuran diperbesar +50%.\n"
-"Tambah +1 Jumlah."
+msgstr "Ubah Tolak ke Infeksi. Ukuran diperbesar +50%.\nTambah +1 Jumlah."
 
 #. Weapon driver / overclock card - name (scimitar_dual)
 #. source: Dual Wield
@@ -6153,9 +5885,7 @@ msgstr "Pencarian Dalam"
 #. Weapon driver / overclock card - description (search_deep)
 #. source: Converts Repel to Lag. Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.search_deep.description"
-msgstr ""
-"Ubah Tolak ke Lag. Tambah +2 Jumlah.\n"
-"Damage diturunkan -20%."
+msgstr "Ubah Tolak ke Lag. Tambah +2 Jumlah.\nDamage diturunkan -20%."
 
 #. Weapon driver / overclock card - name (search_indexed)
 #. source: Find Next
@@ -6165,9 +5895,7 @@ msgstr "Cari Berikutnya"
 #. Weapon driver / overclock card - description (search_indexed)
 #. source: Increase Speed +30%.\nIncrease Refresh +20%.
 msgid "DRIVER.search_indexed.description"
-msgstr ""
-"Kecepatan ditingkatkan +30%.\n"
-"Penyegaran ditingkatkan +20%."
+msgstr "Kecepatan ditingkatkan +30%.\nPenyegaran ditingkatkan +20%."
 
 #. Weapon driver / overclock card - name (sniper_scope)
 #. source: High Caliber
@@ -6177,9 +5905,7 @@ msgstr "Kaliber Tinggi"
 #. Weapon driver / overclock card - description (sniper_scope)
 #. source: Multiply Damage 1.5x. Increase Power +30%.\nIncrease Refresh +25%.
 msgid "DRIVER.sniper_scope.description"
-msgstr ""
-"Damage dilipatgandakan 1.5x. Tenaga ditingkatkan +30%.\n"
-"Penyegaran ditingkatkan +25%."
+msgstr "Damage dilipatgandakan 1.5x. Tenaga ditingkatkan +30%.\nPenyegaran ditingkatkan +25%."
 
 #. Weapon driver / overclock card - name (sniper_oneshot)
 #. source: One Shot
@@ -6189,9 +5915,7 @@ msgstr "Sekali Tembak"
 #. Weapon driver / overclock card - description (sniper_oneshot)
 #. source: Adds +7% execute chance.\nIncrease Damage +25%.
 msgid "DRIVER.sniper_oneshot.description"
-msgstr ""
-"Tambah +7% peluang eksekusi.\n"
-"Damage ditingkatkan +25%."
+msgstr "Tambah +7% peluang eksekusi.\nDamage ditingkatkan +25%."
 
 #. Weapon driver / overclock card - name (solitaire_cheat)
 #. source: Cheat
@@ -6201,9 +5925,7 @@ msgstr ""
 #. Weapon driver / overclock card - description (solitaire_cheat)
 #. source: Increase Damage +50%. Add +1 Amount.\nReduce Refresh -15%.
 msgid "DRIVER.solitaire_cheat.description"
-msgstr ""
-"Meningkatkan Damage +50%. Menambah +1 Jumlah\n"
-"Mengurangi jumlah Refresh -15%."
+msgstr "Meningkatkan Damage +50%. Menambah +1 Jumlah\nMengurangi jumlah Refresh -15%."
 
 #. Scene label
 #. screens: spam_ad.tscn; trailer_ad.tscn
@@ -6213,7 +5935,7 @@ msgstr "(1) Peringatan!!! BAHAYA"
 #. Scene label
 #. screens: headshot_text.tscn
 msgid "Headshot!"
-msgstr "Headshot!"
+msgstr ""
 
 #. Scene label
 #. screens: defrag_window.tscn
@@ -6313,7 +6035,7 @@ msgstr ""
 #. Scene label
 #. screens: spam_ad_2.tscn
 msgid "(3) \"hey x \"  HOT!!! Singles"
-msgstr "(3) \"hey x \"  HOT!!! Singles"
+msgstr ""
 
 #. Scene label
 #. screens: spam_ad_3.tscn
@@ -6367,21 +6089,13 @@ msgstr "SHZip v2.03 (versi evaluasi)"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid ""
-"Extracting file:\n"
-"temp_file_649743.zip from /.???"
-msgstr ""
-"Mengekstrak file:\n"
-"temp_file_649743.zip dari /.???"
+msgid "Extracting file:\ntemp_file_649743.zip from /.???"
+msgstr "Mengekstrak file:\ntemp_file_649743.zip dari /.???"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid ""
-"Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
-"Processing rate: 0.00 KB/Sec"
-msgstr ""
-"Perkiraan wkt. tersisa: 0m 00s (0.00 KB of 0.00 KB)\n"
-"Kecepatan pengolahan: 0.00 KB/Sec"
+msgid "Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\nProcessing rate: 0.00 KB/Sec"
+msgstr "Perkiraan wkt. tersisa: 0m 00s (0.00 KB of 0.00 KB)\nKecepatan pengolahan: 0.00 KB/Sec"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6475,29 +6189,8 @@ msgstr "Selamat!"
 
 #. Scene label
 #. screens: end_screen.tscn
-msgid ""
-"You did it! I'm proud of you! I hope you had fun.\n"
-"\n"
-"However I am very sorry that this is such a boring and uninspired win "
-"screen. You deserve better and you will get better - in the full release.\n"
-"\n"
-"In the meantime, enjoy trying some of the harder difficulties, go spend "
-"those Beanz on some upgrades and try out some different builds.\n"
-"\n"
-"If you had fun during this demo be sure to give it a wishlist or follow on "
-"Steam - there's so much more to come!"
-msgstr ""
-"Anda sudah selesai! Semoga menyenangkan!\n"
-"\n"
-"Namun saya sangat minta maaf bahwa layar ini masih terlihat membosankan. "
-"Anda berhak mendapatkan yang lebih bagus. Dan anda akan mendapatkannya di "
-"versi full.\n"
-"\n"
-"Sementara itu anda bisa menikmati tingkat-tingkat kesulitan yang lebih "
-"dalam, mungkin anda juga bisa menggunakan Beanz untuk upgrade.\n"
-"\n"
-"Jika anda puas memainkan demo ini, silahkan bisa dimasukkan ke Wishlist atau "
-"follow di Steam - bakal banyak fitur baru yang akan datang!"
+msgid "You did it! I'm proud of you! I hope you had fun.\n\nHowever I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n\nIn the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n\nIf you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
+msgstr "Anda sudah selesai! Semoga menyenangkan!\n\nNamun saya sangat minta maaf bahwa layar ini masih terlihat membosankan. Anda berhak mendapatkan yang lebih bagus. Dan anda akan mendapatkannya di versi full.\n\nSementara itu anda bisa menikmati tingkat-tingkat kesulitan yang lebih dalam, mungkin anda juga bisa menggunakan Beanz untuk upgrade.\n\nJika anda puas memainkan demo ini, silahkan bisa dimasukkan ke Wishlist atau follow di Steam - bakal banyak fitur baru yang akan datang!"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6521,12 +6214,8 @@ msgstr "Menyiapkan Instalasi..."
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid ""
-"PluginInstaller is preparing to find all appropriate plugins for this "
-"application."
-msgstr ""
-"PluginInstaller sedang bersiap untuk mencari segala plugin yang cocok untuk "
-"aplikasi ini."
+msgid "PluginInstaller is preparing to find all appropriate plugins for this application."
+msgstr "PluginInstaller sedang bersiap untuk mencari segala plugin yang cocok untuk aplikasi ini."
 
 #. Scene label
 #. screens: installer_window.tscn
@@ -6535,12 +6224,8 @@ msgstr "Memeriksa 'Plugin Compatibility Layer'..."
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid ""
-"Add +10 Max HP.\n"
-"Heal 20% of Max HP when opening a Safe Folder."
-msgstr ""
-"Tambah +10 Maks HP.\n"
-"Menyembuhkan 20% Maks HP saat membuka Folder Aman"
+msgid "Add +10 Max HP.\nHeal 20% of Max HP when opening a Safe Folder."
+msgstr "Tambah +10 Maks HP.\nMenyembuhkan 20% Maks HP saat membuka Folder Aman"
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -6574,40 +6259,18 @@ msgstr "Pengaturan"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid ""
-"coming soon\n"
-"- more weapons\n"
-"- more enemies\n"
-"- bosses\n"
-"- classes\n"
-"- wallpapers\n"
-"- weapon evos\n"
-"- and more"
-msgstr ""
-"akan datang\n"
-"- senjata baru\n"
-"- musuh baru\n"
-"- boss\n"
-"- kelas\n"
-"- wallpaper\n"
-"- evolusi senjata\n"
-"- dan lain-lain"
+msgid "coming soon\n- more weapons\n- more enemies\n- bosses\n- classes\n- wallpapers\n- weapon evos\n- and more"
+msgstr "akan datang\n- senjata baru\n- musuh baru\n- boss\n- kelas\n- wallpaper\n- evolusi senjata\n- dan lain-lain"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid ""
-"Thank you so much for playing. It means the world to me.\n"
-"enjoy and have a great day <3\n"
-"shaun"
-msgstr ""
-"Terima kasih banyak telah bermain, sangat berarti bagi saya\n"
-"semoga harimu menyenangkan <3\n"
-"shaun"
+msgid "Thank you so much for playing. It means the world to me.\nenjoy and have a great day <3\nshaun"
+msgstr "Terima kasih banyak telah bermain, sangat berarti bagi saya\nsemoga harimu menyenangkan <3\nshaun"
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
 msgid "UpgradeManager 2003 rc2"
-msgstr "UpgradeManager 2003 rc2"
+msgstr ""
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
@@ -6626,11 +6289,6 @@ msgstr "Opsi"
 
 #. Scene label
 #. screens: options_menu.tscn
-msgid "SFX Volume"
-msgstr "Volume Suara"
-
-#. Scene label
-#. screens: options_menu.tscn
 msgid "Back"
 msgstr "Kembali"
 
@@ -6646,12 +6304,8 @@ msgstr "Keluar"
 
 #. Scene label
 #. screens: pause_menu.tscn
-msgid ""
-"Antivirus Survivors 2003 Professional\n"
-"Shaun Hammond Business Solutions Ltd"
-msgstr ""
-"Antivirus Survivors 2003 Profesional\n"
-"oleh Shaun Hammond Business Solutions Ltd"
+msgid "Antivirus Survivors 2003 Professional\nShaun Hammond Business Solutions Ltd"
+msgstr "Antivirus Survivors 2003 Profesional\noleh Shaun Hammond Business Solutions Ltd"
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6735,12 +6389,8 @@ msgstr "Penyegaran Pencarian"
 
 #. Scene label
 #. screens: upgrade_button.tscn
-msgid ""
-"Increases Refresh Rate for Search by 20%.\n"
-"But here's a second line also."
-msgstr ""
-"Mempercepat Refresh Rate Pencarian sebanyak 20%.\n"
-"Baris kedua juga disini."
+msgid "Increases Refresh Rate for Search by 20%.\nBut here's a second line also."
+msgstr "Mempercepat Refresh Rate Pencarian sebanyak 20%.\nBaris kedua juga disini."
 
 #. Scene label
 #. screens: torrent_window.tscn
@@ -6765,7 +6415,7 @@ msgstr "Progres"
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "Status"
-msgstr "Status"
+msgstr ""
 
 #. Scene label
 #. screens: torrent_window.tscn
@@ -6805,234 +6455,3 @@ msgstr "Jendela"
 #. Scene label
 msgid "Antivirus Survivors 2003 Professional"
 msgstr "Antivirus Survivors 2003 Profesional"
-
-#. Credits window
-#. source: Credits
-msgid "CREDITS.window_title"
-msgstr ""
-
-#. Credits window - role title
-#. source: Development, Art, Music etc.
-msgid "CREDITS.solo_developer"
-msgstr "Pengembangan, Art, Musik dll."
-
-#. Credits window - role title
-#. source: Producer
-msgid "CREDITS.producer"
-msgstr "Produser"
-
-#. Credits window - role title. Keep the name Virry.
-#. source: Animator (Virry)
-msgid "CREDITS.animation_virry"
-msgstr ""
-
-#. Credits window - role title
-#. source: Community QA
-msgid "CREDITS.community_qa"
-msgstr "Jaminan Kualitas (QA)"
-
-#. Credits window - role title
-#. source: Community Translators
-msgid "CREDITS.community_translators"
-msgstr "Komunitas Penerjemah"
-
-#. Credits window - role title
-#. source: Special Thanks
-msgid "CREDITS.special_thanks"
-msgstr "Ucapan terima kasih spesial"
-
-#. Credits window - note under Special Thanks
-#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
-msgid "CREDITS.special_thanks_note"
-msgstr ""
-"Terima kasih telah membantu saya meraih mimpi ini. Aku cinta kalian semua! "
-"-Shaun"
-
-#~ msgid "META.coin_gain.name"
-#~ msgstr "Perolehan Koin"
-
-#~ msgid "META.crit_damage.name"
-#~ msgstr "Damage Krit"
-
-#~ msgid "META.exp_gain.name"
-#~ msgstr "Perolehan EXP"
-
-#~ msgid "META.health_regen.name"
-#~ msgstr "Regenerasi Nyawa"
-
-#~ msgid "META.max_health.name"
-#~ msgstr "Maks Nyawa"
-
-#~ msgid "META.proc_speed.name"
-#~ msgstr "Kecepatan Pengolahan"
-
-#~ msgid "META.weap_amount.name"
-#~ msgstr "Jumlah Senjata"
-
-#~ msgid "META.weap_damage.name"
-#~ msgstr "Damage Senjata"
-
-#~ msgid "META.weap_refresh.name"
-#~ msgstr "Refresh Senjata"
-
-#~ msgid "META.weap_repel.name"
-#~ msgstr "Kekuatan Senjata"
-
-#~ msgid "META.weap_size.name"
-#~ msgstr "Ukuran Senjata"
-
-#~ msgid "META.weap_speed.name"
-#~ msgstr "Kecepatan Senjata"
-
-#~ msgid "UPGRADE.upgrade_player_armor.name"
-#~ msgstr "Armor"
-
-#~ msgid "UPGRADE.upgrade_player_coin_gain.name"
-#~ msgstr "Perolehan Koin"
-
-#~ msgid "UPGRADE.upgrade_player_crit_chance.name"
-#~ msgstr "Peluang Krit"
-
-#~ msgid "UPGRADE.upgrade_player_crit_damage_multi.name"
-#~ msgstr "Damage Krit"
-
-#~ msgid "UPGRADE.upgrade_player_damage_multi.name"
-#~ msgstr "Damage Senjata"
-
-#~ msgid "UPGRADE.upgrade_player_dodge.name"
-#~ msgstr "'Packet Loss'"
-
-#~ msgid "UPGRADE.upgrade_player_exp_gain.name"
-#~ msgstr "Perolehan EXP"
-
-#~ msgid "UPGRADE.upgrade_player_health_regen.name"
-#~ msgstr "Regenerasi Nyawa"
-
-#~ msgid "UPGRADE.upgrade_player_luck.name"
-#~ msgstr "Keberuntungan"
-
-#~ msgid "UPGRADE.upgrade_player_magnetism_multi.name"
-#~ msgstr "Daya Tarik"
-
-#~ msgid "UPGRADE.upgrade_player_max_health.name"
-#~ msgstr "Maks Nyawa"
-
-#~ msgid "UPGRADE.upgrade_player_power_multi.name"
-#~ msgstr "Kekuatan Senjata"
-
-#~ msgid "UPGRADE.upgrade_player_proc_speed.name"
-#~ msgstr "Kecepatan Pengolahan"
-
-#~ msgid "UPGRADE.upgrade_player_refresh_multi.name"
-#~ msgstr "Refresh Senjata"
-
-#~ msgid "UPGRADE.upgrade_player_speed.name"
-#~ msgstr "Kecepatan Kursor"
-
-#~ msgid "UPGRADE.upgrade_player_weap_amount.name"
-#~ msgstr "Jumlah Senjata"
-
-#~ msgid "UPGRADE.upgrade_player_weap_size.name"
-#~ msgstr "Ukuran Senjata"
-
-#~ msgid "UPGRADE.upgrade_player_weap_speed.name"
-#~ msgstr "Kecepatan Senjata"
-
-#~ msgid "UI.max"
-#~ msgstr "Maks"
-
-#~ msgid "Skips installing plugin and removes it from selection pool."
-#~ msgstr "Lewati instalasi plugin dan hilangkan dari pemilihan."
-
-#~ msgid "Skips installing plugin and refunds Key."
-#~ msgstr "Lewati instalasi plugin dan kembalikan Key."
-
-#~ msgid "File"
-#~ msgstr "Berkas"
-
-#~ msgid "Action"
-#~ msgstr "Tindakan"
-
-#~ msgid "View"
-#~ msgstr "Tampilan"
-
-#~ msgid "Help"
-#~ msgstr "Bantuan"
-
-#~ msgid "Download"
-#~ msgstr "Unduh"
-
-#~ msgid "Validating cache files..."
-#~ msgstr "Memvalidasi file cache..."
-
-#~ msgid "Cancel"
-#~ msgstr "Batal"
-
-#~ msgid "Not Enough Keys :("
-#~ msgstr "Key kamu Kurang Cukup :("
-
-#~ msgid "Movement -"
-#~ msgstr "Gerakan -"
-
-#~ msgid "Click and Drag -"
-#~ msgstr "Klik dan Drag -"
-
-#~ msgid "Menu Shortcut -"
-#~ msgstr "Menu Shortcut -"
-
-#~ msgid "Show Stats -"
-#~ msgstr "Tampilkan Statistik -"
-
-#~ msgid "Close -"
-#~ msgstr "Tutup -"
-
-#~ msgid "Pause -"
-#~ msgstr "Pause -"
-
-#~ msgid "Cursor Class"
-#~ msgstr "Kelas Kursor"
-
-#~ msgid "Starter Weapon"
-#~ msgstr "Senjata Pemula"
-
-#~ msgid "Weapons"
-#~ msgstr "Senjata"
-
-#~ msgid "Get to the Safe Folder!"
-#~ msgstr "Evakuasi ke Folder Aman!"
-
-#~ msgid "Plugin Suite Installation"
-#~ msgstr "Instalasi Kumpulan Plugin"
-
-#~ msgid "Please wait..."
-#~ msgstr "Silahkan tunggu..."
-
-#~ msgid "Remove"
-#~ msgstr "Hapus"
-
-#~ msgid "Skip"
-#~ msgstr "Lewati"
-
-#~ msgid "Install"
-#~ msgstr "Instal"
-
-#~ msgid "Music Volume"
-#~ msgstr "Volume Musik"
-
-#~ msgid "Window Mode"
-#~ msgstr "Mode Jendela"
-
-#~ msgid "Pause menu"
-#~ msgstr "Pause"
-
-#~ msgid "Stats"
-#~ msgstr "Statistik"
-
-#~ msgid "Control Panel"
-#~ msgstr "Pengaturan"
-
-#~ msgid "BigWave 2003 Edition"
-#~ msgstr "BigWave Edisi 2003"
-
-#~ msgid "Show Stats"
-#~ msgstr "Statistik"

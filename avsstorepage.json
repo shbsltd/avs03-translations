@@ -288,17 +288,17 @@
       "app[content][sysreqs][linux][min][graphics]": "512 MB VRAM"
     },
     "schinese": {
-      "app[content][about]": "",
-      "app[content][short_description]": "",
-      "app[content][sysreqs][mac][min][osversion]": "",
-      "app[content][sysreqs][mac][min][processor]": "",
-      "app[content][sysreqs][mac][min][graphics]": "",
-      "app[content][sysreqs][windows][min][osversion]": "",
-      "app[content][sysreqs][windows][min][processor]": "",
-      "app[content][sysreqs][windows][min][graphics]": "",
-      "app[content][sysreqs][linux][min][osversion]": "",
-      "app[content][sysreqs][linux][min][processor]": "",
-      "app[content][sysreqs][linux][min][graphics]": ""
+      "app[content][about]": "[p]开机，登录，准备好让鼠标双击到冒烟吧。[/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/doubleclickfull-optimize&quot;][/img]在《杀软幸存者 2003 专业版》中，您将穿梭于各个文件夹之间一路双击，一边躲避虚空、避开垃圾广告弹窗、一边与病毒战斗、击败头目。探索文件夹，打开文件能够获得经验值和密钥；完成任务与策略挑战，赢取更多奖励。利用升级和插件完善您的专属构筑，解锁新的武器和游戏风格。[/p][p]紧张刺激的 Roguelike 玩法，与对世纪初操作系统的深深热爱相结合，让您在每轮 30~40 分钟的游戏中尽情重温纯粹的 Y2K 怀旧体验。[/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/survivefull-optimize&quot;][/img][/p][p][b]完整版游戏包含：[/b][/p][list][*][p][b]24 个武器[/b]：弹球、纸牌、扫雷（其实是埋雷）、防火墙（其实是放火墙），以及更多从 2000 年代电脑文化汲取灵感的武器。[/p][/*][*][p][b]50 个驱动[/b]：用专属升级改变武器通常的战斗方式。[/p][/*][*][p][b]33 种文件类型[/b]：双击您喜欢的文件类型，打开获取奖励——LemWire、网际巨浪、碎片整理等等。[/p][/*][*][p][b]62 个插件[/b]：打开注册机获取密钥，用密钥安装插件，大幅增强玩家和武器的属性。[/p][/*][*][p][b]18 个全局升级[/b]：慎重做出选择，在局外成长中决定你的发展方向。[/p][/*][*][p][b]5 个难度[/b]：五个协议文件夹，风险与收益逐级递增。[/p][/*][*][p][b]15 个策略[/b]：每个策略都是独特的挑战，让您能以难度更高、趣味更足的方式体验游戏。[/p][/*][*][p][b]18 个角色属性[/b]：升级伤害、速度、幸运和其他属性，打造独特的构筑。[/p][/*][*][p][b]81 张壁纸和 8 个主题[/b]：解锁各种外观内容，定制您的个性化桌面。[/p][/*][*][p][b]6 个头目和迷你头目[/b]：打败这些威力加强的敌人和强大的头目。[/p][/*][*][p][b]超过 200 个任务[/b]：完成额外的任务，便可解锁新的文件、武器、插件，还有更多！[/p][/*][/list][p][img src=&quot;{STEAM_APP_IMAGE}/extras/upgradefuull-optimize&quot;][/img][/p][p]双击、解压、下载、升级、生存。[/p]",
+      "app[content][short_description]": "家里的电脑又中病毒了！现在您需要使用各种 Y2K 风格的武器，抵御一波又一波病毒和广告软件敌人的进攻。《杀软幸存者 2003 专业版》是一款类幸存者自动射击游戏，每一处都致敬着那个电脑真正充满乐趣的年代。",
+      "app[content][sysreqs][mac][min][osversion]": "macOS 12",
+      "app[content][sysreqs][mac][min][processor]": "Apple M1 or 2.0 GHz Intel",
+      "app[content][sysreqs][mac][min][graphics]": "512 MB VRAM",
+      "app[content][sysreqs][windows][min][osversion]": "Windows 10",
+      "app[content][sysreqs][windows][min][processor]": "2.0 GHz",
+      "app[content][sysreqs][windows][min][graphics]": "512 MB VRAM",
+      "app[content][sysreqs][linux][min][osversion]": "SteamOS or any modern Linux Distro",
+      "app[content][sysreqs][linux][min][processor]": "2.0 GHz",
+      "app[content][sysreqs][linux][min][graphics]": "512 MB VRAM"
     },
     "latam": {
       "app[content][about]": "",

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Antivirus Survivors 2003"
+"Project-Id-Version: Antivirus Survivors 2003\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -6280,11 +6280,6 @@ msgstr "Bu"
 #. screens: options_menu.tscn; pause_menu.tscn; torrent_window.tscn
 msgid "Options"
 msgstr "Seçenekler"
-
-#. Scene label
-#. screens: options_menu.tscn
-msgid "SFX Volume"
-msgstr "Ses Efektleri Sesi"
 
 #. Scene label
 #. screens: options_menu.tscn
