@@ -5,8 +5,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"(n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. Class select - name (brick)
 #. source: Brick
@@ -16,12 +14,7 @@ msgstr "Plyta"
 #. Class select - description (brick)
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 msgid "CLASS.brick.description"
-msgstr ""
-"Maks. HP +40.\n"
-"Šarvai +12.\n"
-"Žymeklio greitis 0.8x.\n"
-"Ginklų žala 0.85x.\n"
-"Ginklų žala 1.1x gavus žalos (trunka 8 s, kaupiasi iki 3 kartų)."
+msgstr "Maks. HP +40.\nŠarvai +12.\nŽymeklio greitis 0.8x.\nGinklų žala 0.85x.\nGinklų žala 1.1x gavus žalos (trunka 8 s, kaupiasi iki 3 kartų)."
 
 #. Class select - name (default)
 #. source: Default
@@ -31,9 +24,7 @@ msgstr "Numatytasis"
 #. Class select - description (default)
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 msgid "CLASS.default.description"
-msgstr ""
-"Jokių klasės privalumų ar trūkumų.\n"
-"Subalansuotas bazinis žymeklis."
+msgstr "Jokių klasės privalumų ar trūkumų.\nSubalansuotas bazinis žymeklis."
 
 #. Class select - name (null)
 #. source: Null
@@ -43,11 +34,7 @@ msgstr "Nulis"
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
-msgstr ""
-"Maks. HP -25.\n"
-"Paketų praradimas +8.\n"
-"Sėkmė 1.5x.\n"
-"Ginklų žala 0.9x."
+msgstr "Maks. HP -25.\nPaketų praradimas +8.\nSėkmė 1.5x.\nGinklų žala 0.9x."
 
 #. Class select - name (vector)
 #. source: Vector
@@ -57,12 +44,7 @@ msgstr "Vektorius"
 #. Class select - description (vector)
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 msgid "CLASS.vector.description"
-msgstr ""
-"Žymeklio greitis 1.25x.\n"
-"Paketų praradimas +15.\n"
-"Maks. HP -25.\n"
-"Ginklų žala 0.9x.\n"
-"Žymeklio greitis 1.25x ir atsinaujinimo greitis 1.2x įvykus paketų praradimui (trunka 4 s)."
+msgstr "Žymeklio greitis 1.25x.\nPaketų praradimas +15.\nMaks. HP -25.\nGinklų žala 0.9x.\nŽymeklio greitis 1.25x ir atsinaujinimo greitis 1.2x įvykus paketų praradimui (trunka 4 s)."
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -72,12 +54,7 @@ msgstr "Lūžio taškas"
 #. Class select - description (breakpoint)
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
 msgid "CLASS.breakpoint.description"
-msgstr ""
-"Kritinio smūgio tikimybė +12%.\n"
-"Kritinio smūgio žala 1.25x.\n"
-"Maks. HP -15.\n"
-"Žymeklio greitis 0.9x.\n"
-"Ginklų žala 0.92x."
+msgstr "Kritinio smūgio tikimybė +12%.\nKritinio smūgio žala 1.25x.\nMaks. HP -15.\nŽymeklio greitis 0.9x.\nGinklų žala 0.92x."
 
 #. Class select - name (thread)
 #. source: Thread
@@ -87,11 +64,7 @@ msgstr "Gija"
 #. Class select - description (thread)
 #. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.thread.description"
-msgstr ""
-"Apdorojimo greitis 1.3x.\n"
-"Atsinaujinimo greitis 1.12x.\n"
-"EXP gavimas 1.08x.\n"
-"Ginklų žala 0.85x."
+msgstr "Apdorojimo greitis 1.3x.\nAtsinaujinimo greitis 1.12x.\nEXP gavimas 1.08x.\nGinklų žala 0.85x."
 
 #. Class select - name (admin)
 #. source: Admin
@@ -101,13 +74,7 @@ msgstr "Adminas"
 #. Class select - description (admin)
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
-msgstr ""
-"Pradedi su +1 raktu.\n"
-"Monetų gavimas 1.3x.\n"
-"Surinkimo spindulys 1.3x.\n"
-"Parduotuvės nuolaida +10%.\n"
-"Maks. HP 0.9x.\n"
-"Ginklų žala 0.85x."
+msgstr "Pradedi su +1 raktu.\nMonetų gavimas 1.3x.\nSurinkimo spindulys 1.3x.\nParduotuvės nuolaida +10%.\nMaks. HP 0.9x.\nGinklų žala 0.85x."
 
 #. Folder evolution mode - name (chaos)
 #. source: Chaos
@@ -257,9 +224,7 @@ msgstr "Aparatinis IRQ"
 #. Plugin - description (armor_damage_trigger)
 #. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
 msgid "PLUGIN.armor_damage_trigger.description"
-msgstr ""
-"Šarvai +5.\n"
-"Paketų praradimas +25 gavus žalos (trunka 10 s)."
+msgstr "Šarvai +5.\nPaketų praradimas +25 gavus žalos (trunka 10 s)."
 
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
@@ -279,9 +244,7 @@ msgstr "Enterprise leidimas"
 #. Plugin - description (big_hp_regen_boost)
 #. source: Add +64 Max HP.\nAdd +12 Health Regen.
 msgid "PLUGIN.big_hp_regen_boost.description"
-msgstr ""
-"Maks. HP +64.\n"
-"HP atsistatymas +12."
+msgstr "Maks. HP +64.\nHP atsistatymas +12."
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -361,9 +324,7 @@ msgstr "Kritinis baterijos lygis"
 #. Plugin - description (cursor_speed_damage)
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
-msgstr ""
-"Žymeklio greitis +10%.\n"
-"Žymeklio greitis +30% gavus žalos (trunka 10 s)."
+msgstr "Žymeklio greitis +10%.\nŽymeklio greitis +30% gavus žalos (trunka 10 s)."
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -383,9 +344,7 @@ msgstr "Karjeros kelias"
 #. Plugin - description (damage_level_scaling)
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
 msgid "PLUGIN.damage_level_scaling.description"
-msgstr ""
-"Ginklų žala +3% už kiekvieną žaidėjo lygį.\n"
-"Maks. HP -1 už kiekvieną žaidėjo lygį."
+msgstr "Ginklų žala +3% už kiekvieną žaidėjo lygį.\nMaks. HP -1 už kiekvieną žaidėjo lygį."
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
@@ -405,11 +364,7 @@ msgstr "Našumo parinktys"
 #. Plugin - description (damage_speed_crit)
 #. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
 msgid "PLUGIN.damage_speed_crit.description"
-msgstr ""
-"Ginklų žala +10%.\n"
-"Atsinaujinimo greitis +10%.\n"
-"Kritinio smūgio tikimybė +5%.\n"
-"Kritinio smūgio žala +15%."
+msgstr "Ginklų žala +10%.\nAtsinaujinimo greitis +10%.\nKritinio smūgio tikimybė +5%.\nKritinio smūgio žala +15%."
 
 #. Plugin - name (defrag_on_safe_folder)
 #. source: Startup Folder
@@ -489,9 +444,7 @@ msgstr "Laimingas atsitiktinumas"
 #. Plugin - description (luck_reroll)
 #. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
 msgid "PLUGIN.luck_reroll.description"
-msgstr ""
-"Sėkmė +12%.\n"
-"Sėkmė +25% perridenus (trunka 10 s)."
+msgstr "Sėkmė +12%.\nSėkmė +25% perridenus (trunka 10 s)."
 
 #. Plugin - name (luck_zip_boost)
 #. source: Compressed Folders
@@ -581,9 +534,7 @@ msgstr "Lėtas, bet stiprus"
 #. Plugin - description (slow_but_strong)
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
-msgstr ""
-"Ginklų žala 1.25x.\n"
-"Žymeklio greitis -10%."
+msgstr "Ginklų žala 1.25x.\nŽymeklio greitis -10%."
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -593,9 +544,7 @@ msgstr "Išmanusis atkūrimas"
 #. Plugin - description (smart_recovery)
 #. source: Add +10 Max HP.\nHeal 25% of Max HP when opening a Safe Folder.
 msgid "PLUGIN.smart_recovery.description"
-msgstr ""
-"Maks. HP +10.\n"
-"Atidarius saugų aplanką pagydo 25% maks. HP."
+msgstr "Maks. HP +10.\nAtidarius saugų aplanką pagydo 25% maks. HP."
 
 #. Plugin - name (weapon_speed_boost)
 #. source: Weapon Speed Boost
@@ -645,21 +594,17 @@ msgstr "Skaityk mane"
 #. Plugin - description (xp_gain_on_damage)
 #. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
 msgid "PLUGIN.xp_gain_on_damage.description"
-msgstr ""
-"EXP gavimas +10%.\n"
-"Už kiekvieną gautą smūgį gauni +4 EXP."
+msgstr "EXP gavimas +10%.\nUž kiekvieną gautą smūgį gauni +4 EXP."
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
 msgid "PLUGIN.morgan_av.name"
-msgstr "Morgan Antivirus"
+msgstr ""
 
 #. Plugin - description (morgan_av)
 #. source: Difficulty is increased for the rest of the run.\n+1 extra Plus! enemy at each midway point.
 msgid "PLUGIN.morgan_av.description"
-msgstr ""
-"Iki partijos pabaigos padidinamas sunkumas.\n"
-"+1 papildomas Plus! priešas kiekviename pusiaukelės taške."
+msgstr "Iki partijos pabaigos padidinamas sunkumas.\n+1 papildomas Plus! priešas kiekviename pusiaukelės taške."
 
 #. Plugin - name (popup_blocker)
 #. source: Realtime Protection
@@ -719,9 +664,7 @@ msgstr "Atsinaujinimo spartinimas"
 #. Plugin - description (refresh_overclock)
 #. source: Increase Refresh Speed +50%.\nReduce Cursor Speed -15%.
 msgid "PLUGIN.refresh_overclock.description"
-msgstr ""
-"Atsinaujinimo greitis +50%.\n"
-"Žymeklio greitis -15%."
+msgstr "Atsinaujinimo greitis +50%.\nŽymeklio greitis -15%."
 
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
@@ -766,7 +709,7 @@ msgstr "Sėkmingai išskleisti Zip failai palieka žalią gydymo zoną."
 #. Plugin - name (vapidshare_pro)
 #. source: Vapidshare Pro
 msgid "PLUGIN.vapidshare_pro.name"
-msgstr "Vapidshare Pro"
+msgstr ""
 
 #. Plugin - description (vapidshare_pro)
 #. source: Download Vapidshare parts simultaneously and faster.
@@ -781,21 +724,17 @@ msgstr "Megakritinis"
 #. Plugin - description (megacrit)
 #. source: Increase Crit Chance +40%.\nCrit Chance above 100% can Megacrit for double Crit Damage.
 msgid "PLUGIN.megacrit.description"
-msgstr ""
-"Kritinio smūgio tikimybė +40%.\n"
-"Viršijus 100% kritinio smūgio tikimybę, galimas megakritinis smūgis su dviguba kritinio smūgio žala."
+msgstr "Kritinio smūgio tikimybė +40%.\nViršijus 100% kritinio smūgio tikimybę, galimas megakritinis smūgis su dviguba kritinio smūgio žala."
 
 #. Plugin - name (hyperthread)
 #. source: Hyperthreading
 msgid "PLUGIN.hyperthread.name"
-msgstr "Hyperthreading"
+msgstr ""
 
 #. Plugin - description (hyperthread)
 #. source: Multiply Weapon Amount 1.5x.\nMultiply Weapon Damage 0.75x.
 msgid "PLUGIN.hyperthread.description"
-msgstr ""
-"Ginklų kiekis 1.5x.\n"
-"Ginklų žala 0.75x."
+msgstr "Ginklų kiekis 1.5x.\nGinklų žala 0.75x."
 
 #. Plugin - name (tank_core)
 #. source: Tank Core
@@ -845,21 +784,17 @@ msgstr "Užduočių tvarkytuvas"
 #. Plugin - description (task_manager)
 #. source: Multiply Weapon Refresh 2.0x.\nMultiply Weapon Size 0.75x.
 msgid "PLUGIN.task_manager.description"
-msgstr ""
-"Ginklų atsinaujinimas 2.0x.\n"
-"Ginklų dydis 0.75x."
+msgstr "Ginklų atsinaujinimas 2.0x.\nGinklų dydis 0.75x."
 
 #. Plugin - name (raid_0)
 #. source: RAID 0
 msgid "PLUGIN.raid_0.name"
-msgstr "RAID 0"
+msgstr ""
 
 #. Plugin - description (raid_0)
 #. source: Multiply Zip and RAM rewards 2.0x.\nDecrease Zip and RAM success chance.
 msgid "PLUGIN.raid_0.description"
-msgstr ""
-"Zip ir RAM atlygis 2.0x.\n"
-"Sumažėja Zip ir RAM sėkmės tikimybė."
+msgstr "Zip ir RAM atlygis 2.0x.\nSumažėja Zip ir RAM sėkmės tikimybė."
 
 #. Plugin - name (system_restore)
 #. source: System Restore
@@ -869,9 +804,7 @@ msgstr "Sistemos atkūrimas"
 #. Plugin - description (system_restore)
 #. source: On death, heal 50% of Max HP instead of Blue Screen.\nOnce per stack.
 msgid "PLUGIN.system_restore.description"
-msgstr ""
-"Mirus vietoj mėlynojo ekrano pagydo 50% maks. HP.\n"
-"Suveikia po kartą kiekvienai kopijai."
+msgstr "Mirus vietoj mėlynojo ekrano pagydo 50% maks. HP.\nSuveikia po kartą kiekvienai kopijai."
 
 #. Plugin - name (power_user)
 #. source: Power User
@@ -1009,7 +942,8 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr "Paketų praradimas"
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
+#, fuzzy
 msgid "STAT.upgrade_player_dodge.description"
 msgstr "Tikimybė išvengti bet kokios gaunamos žalos. (Eksponentinis)"
 
@@ -1037,7 +971,7 @@ msgstr "Kas 20 s atkuriamas HP kiekis."
 #. source: {sign}{value} HP
 #. Keep placeholders unchanged: {sign}, {value}
 msgid "STAT.format_hp"
-msgstr "{sign}{value} HP"
+msgstr ""
 
 #. Stat display - name (upgrade_player_luck)
 #. source: Luck
@@ -1045,7 +979,8 @@ msgid "STAT.upgrade_player_luck.name"
 msgstr "Sėkmė"
 
 #. Stat display - description (upgrade_player_luck)
-#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
+#, fuzzy
 msgid "STAT.upgrade_player_luck.description"
 msgstr "Padidina geresnių ridenimų tikimybę – be kita ko, dažniau pasitaiko retesni daiktai."
 
@@ -1450,7 +1385,7 @@ msgstr "Aplink žaidėją sukuria ugnies žiedą, kuris priešams prideda kaitro
 #. Upgrade card - name (weapon_fontart)
 #. source: FontArt
 msgid "UPGRADE.weapon_fontart.name"
-msgstr "FontArt"
+msgstr ""
 
 #. Upgrade card - description (weapon_fontart)
 #. source: Drops letters on the strongest enemy that add stacks of Heat to enemies.
@@ -1460,7 +1395,7 @@ msgstr "Ant stipriausio priešo numeta raides, kurios priešams prideda kaitros 
 #. Upgrade card - name (weapon_hitmarkers)
 #. source: HaD: DoCK
 msgid "UPGRADE.weapon_hitmarkers.name"
-msgstr "HaD: DoCK"
+msgstr ""
 
 #. Upgrade card - description (weapon_hitmarkers)
 #. source: Shots land on the nearest enemy. 3% chance of a headshot.
@@ -1470,7 +1405,7 @@ msgstr "Šūviai pataiko į artimiausią priešą. 3% tikimybė pataikyti į gal
 #. Upgrade card - name (weapon_paint)
 #. source: Paint
 msgid "UPGRADE.weapon_paint.name"
-msgstr "Paint"
+msgstr ""
 
 #. Upgrade card - description (weapon_paint)
 #. source: Paints circles near the player that damage and add stacks of Lag to enemies over time.
@@ -1480,7 +1415,7 @@ msgstr "Šalia žaidėjo nupiešia apskritimus, kurie laikui bėgant daro žalą
 #. Upgrade card - name (weapon_pinball)
 #. source: Pinball
 msgid "UPGRADE.weapon_pinball.name"
-msgstr "Pinball"
+msgstr ""
 
 #. Upgrade card - description (weapon_pinball)
 #. source: Shoots a bouncing ball towards the nearest enemy.
@@ -1590,7 +1525,7 @@ msgstr "Atidaro naršyklės skirtuką ant artimiausio priešo ekrane. Užkrečia
 #. Upgrade card - name (weapon_satellite)
 #. source: WLAN
 msgid "UPGRADE.weapon_satellite.name"
-msgstr "WLAN"
+msgstr ""
 
 #. Upgrade card - description (weapon_satellite)
 #. source: Deploys a dish that pings nearby enemies with Lag signals.
@@ -1613,14 +1548,15 @@ msgid "UPGRADE.weapon_cone.name"
 msgstr "Labai didelis kūgis"
 
 #. Upgrade card - description (weapon_cone)
-#. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
+#, fuzzy
 msgid "UPGRADE.weapon_cone.description"
 msgstr "Prie tavęs prilipę oranžiniai kelio kūgiai. Tai, į ką jie nukreipti, kepina kaitra."
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
 msgid "UPGRADE.weapon_blatand.name"
-msgstr "Blåtand"
+msgstr ""
 
 #. Upgrade card - description (weapon_blatand)
 #. source: Chains dashed Infect links between enemies at a fixed link length.
@@ -1633,7 +1569,8 @@ msgid "UPGRADE.weapon_modem.name"
 msgstr "Išvesties įrenginys"
 
 #. Upgrade card - description (weapon_modem)
-#. source: Blasts concentric handshake rings outward from the cursor.
+#. source: Blasts sound rings outward from the cursor.
+#, fuzzy
 msgid "UPGRADE.weapon_modem.description"
 msgstr "Iš žymeklio į išorę skleidžia koncentrinius ryšio užmezgimo žiedus."
 
@@ -1668,7 +1605,8 @@ msgid "WEAPON.cruiser.spawn_noun"
 msgstr "skirtukų"
 
 #. Weapon metadata
-#. source: trap
+#. source: tab
+#, fuzzy
 msgid "WEAPON.orchestra.spawn_noun"
 msgstr "spąstų"
 
@@ -1815,17 +1753,17 @@ msgstr "Perdirbėjas"
 #. Enemy sniper-feed name - name (dxdiag)
 #. source: GfxDiag
 msgid "ENEMY.dxdiag.name"
-msgstr "GfxDiag"
+msgstr ""
 
 #. Enemy sniper-feed name - name (burning_disc)
 #. source: PyroDisc
 msgid "ENEMY.burning_disc.name"
-msgstr "PyroDisc"
+msgstr ""
 
 #. Enemy sniper-feed name - name (click_me)
 #. source: CLICK-ME.TXT.vbs
 msgid "ENEMY.click_me.name"
-msgstr "CLICK-ME.TXT.vbs"
+msgstr ""
 
 #. Enemy sniper-feed name - name (shooter)
 #. source: AVN Buddy
@@ -1845,7 +1783,7 @@ msgstr "Atminties nutekėjimas"
 #. Enemy sniper-feed name
 #. source: memory_leak.reg
 msgid "ENEMY.memory_leak.filename"
-msgstr "memory_leak.reg"
+msgstr ""
 
 #. Settings menu
 #. source: Unlimited
@@ -1955,7 +1893,7 @@ msgstr "Ekrano mastelis"
 #. Settings menu
 #. source: Vsync
 msgid "SETTINGS.vsync"
-msgstr "Vsync"
+msgstr ""
 
 #. Settings menu
 #. source: FPS Cap
@@ -1983,9 +1921,19 @@ msgid "SETTINGS.music_volume"
 msgstr "Muzikos garsumas"
 
 #. Settings menu
+#. source: SFX Volume
+msgid "SETTINGS.sfx_volume"
+msgstr "Efektų garsumas"
+
+#. Settings menu
 #. source: Keygen Volume
 msgid "SETTINGS.keygen_volume"
 msgstr "Keygen garsumas"
+
+#. Settings menu
+#. source: Main Menu Computer Sound
+msgid "SETTINGS.menu_computer_sound"
+msgstr ""
 
 #. Settings menu
 #. source: Animation Speed
@@ -2048,9 +1996,19 @@ msgid "SETTINGS.music_volume_tip"
 msgstr "Garso takelio garsumas."
 
 #. Settings menu
+#. source: Volume for sound effects.
+msgid "SETTINGS.sfx_volume_tip"
+msgstr ""
+
+#. Settings menu
 #. source: Volume for Keygen windows that play their own track.
 msgid "SETTINGS.keygen_volume_tip"
 msgstr "Keygen langų, grojančių savo melodiją, garsumas."
+
+#. Settings menu
+#. source: Play the computer humming sound on the main menu.
+msgid "SETTINGS.menu_computer_sound_tip"
+msgstr ""
 
 #. Settings menu
 #. source: Language for menus and in-game text.
@@ -2259,7 +2217,7 @@ msgstr "Atsisiunčiama"
 #. source: %d KB/s
 #. Keep placeholders unchanged: %d
 msgid "TORRENT.speed"
-msgstr "%d KB/s"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Vapor - Validating files - {0}% complete
@@ -2276,7 +2234,7 @@ msgstr "Lygis: %d"
 #. source: level%d.doc - SH Docs 2003
 #. Keep placeholders unchanged: %d
 msgid "UI.window_title"
-msgstr "level%d.doc - SH Docs 2003"
+msgstr ""
 
 #. End-of-round timer prompt for the Safe Folder
 #. source: Get to the Safe Folder!
@@ -2317,7 +2275,7 @@ msgstr "Demo išsaugojimas"
 #. source: %d Beanz
 #. Keep placeholders unchanged: %d
 msgid "UI.login_profile_detail"
-msgstr "%d Beanz"
+msgstr ""
 
 #. Login screen - second click confirms removing an entry
 #. source: Click again to remove
@@ -2332,10 +2290,7 @@ msgstr "Prisijungta"
 #. Login screen - click your user name prompt
 #. source: To begin, click your user name.\nAfter you log on, you can change profiles.\nJust click on your name at the top of the menu.
 msgid "UI.login_prompt"
-msgstr ""
-"Kad pradėtum, spustelėk savo vartotojo vardą.\n"
-"Prisijungęs galėsi keisti profilius.\n"
-"Tiesiog spustelėk savo vardą meniu viršuje."
+msgstr "Kad pradėtum, spustelėk savo vartotojo vardą.\nPrisijungęs galėsi keisti profilius.\nTiesiog spustelėk savo vardą meniu viršuje."
 
 #. Login screen - turn off computer button
 #. source: Turn off computer
@@ -2507,7 +2462,7 @@ msgstr "Rožinė tema"
 #. Personalise - avatar name
 #. source: Beanz
 msgid "UI.avatar_beanz"
-msgstr "Beanz"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Giraffe
@@ -2537,7 +2492,7 @@ msgstr "Spausdintuvas"
 #. Personalise - avatar name
 #. source: Paint
 msgid "UI.avatar_paint"
-msgstr "Paint"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Orchestra
@@ -2547,7 +2502,7 @@ msgstr "Orkestras"
 #. Personalise - avatar name
 #. source: Zip
 msgid "UI.avatar_zip"
-msgstr "Zip"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Crawler
@@ -2567,7 +2522,7 @@ msgstr "Priešas"
 #. Personalise - avatar name
 #. source: Lemwire
 msgid "UI.avatar_lemwire"
-msgstr "Lemwire"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Coin
@@ -2587,7 +2542,7 @@ msgstr "Klasikinė"
 #. Personalise - theme name
 #. source: Vapor
 msgid "UI.theme_vapor"
-msgstr "Vapor"
+msgstr ""
 
 #. Personalise - theme name
 #. source: Olive
@@ -2607,7 +2562,7 @@ msgstr "Tamsi"
 #. Personalise - theme name
 #. source: Media
 msgid "UI.theme_media"
-msgstr "Media"
+msgstr ""
 
 #. Personalise - theme name
 #. source: Pink
@@ -2622,7 +2577,7 @@ msgstr "Auksinė"
 #. Profile stats window - Excel-flavored title
 #. source: Profile.xls - Antivirus Survivors
 msgid "UI.stats_window_title_xls"
-msgstr "Profile.xls - Antivirus Survivors"
+msgstr ""
 
 #. Start menu - Tasks and Stats button
 #. source: Tasks and Stats
@@ -3104,7 +3059,7 @@ msgstr "Vapor parduotuvė"
 #. Vapor store - black header logo wordmark
 #. source: VAPOR
 msgid "UI.vapor_store_brand"
-msgstr "VAPOR"
+msgstr ""
 
 #. Vapor store - special files explanation
 #. source: Special Files spawn during battle. While one is active, hold {special} to use it.
@@ -3356,7 +3311,7 @@ msgstr "Politika"
 #. Policies list column - Beanz
 #. source: Beanz
 msgid "UI.policies_col_beanz"
-msgstr "Beanz"
+msgstr ""
 
 #. Policies list column - enabled/disabled
 #. source: Security Setting
@@ -3425,7 +3380,7 @@ msgstr "%s: atrakinimas"
 #. source: %s +%d Beanz
 #. Keep placeholders unchanged: %s, %d
 msgid "UI.task_category_beanz"
-msgstr "%s +%d Beanz"
+msgstr ""
 
 #. Weapon driver unlock requirement template
 #. source: Reach level {amount} with {weapon} in a single run
@@ -3463,7 +3418,7 @@ msgstr "Defragmentuota"
 #. UI (script-driven)
 #. source: %2.2f KB
 msgid "UI.defrag_capacity"
-msgstr "%2.2f KB"
+msgstr ""
 
 #. Upgrade screen - speech prompt
 #. source: Select an upgrade to continue.
@@ -3483,7 +3438,7 @@ msgstr "Ginklų tvarkyklės"
 #. Weapon Drivers screen - fake window title
 #. source: drivers.doc - SH Docs 2003
 msgid "UI.weapon_drivers_window"
-msgstr "drivers.doc - SH Docs 2003"
+msgstr ""
 
 #. Weapon Drivers screen - speech prompt with weapon name
 #. source: Select a driver for %s.
@@ -3568,90 +3523,47 @@ msgstr "Greitos pradžios vadovas"
 #. source: Welcome to {game}!\n\nI'm Virry, and I'm going to take you through some basics of how to play.
 #. Keep placeholders unchanged: {game}
 msgid "UI.tutorial_1_body"
-msgstr ""
-"Sveiki atvykę į {game}!\n"
-"\n"
-"Aš – Virry. Supažindinsiu tave su žaidimo pagrindais."
+msgstr "Sveiki atvykę į {game}!\n\nAš – Virry. Supažindinsiu tave su žaidimo pagrindais."
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
 #. Keep placeholders unchanged: {move}, {click}, {drag}
 msgid "UI.tutorial_2_body"
-msgstr ""
-"Pirmiausia – pajudėkime.\n"
-"\n"
-"Naudok {move}, kad judėtum po ekraną.\n"
-"\n"
-"Spausk {click}, kad spustelėtum, ir nepamiršk dukart spustelėti, kad atidarytum failus.\n"
-"\n"
-"Taip pat gali laikyti {drag}, kad vilktum failus ir perkeltum juos aplanke."
+msgstr "Pirmiausia – pajudėkime.\n\nNaudok {move}, kad judėtum po ekraną.\n\nSpausk {click}, kad spustelėtum, ir nepamiršk dukart spustelėti, kad atidarytum failus.\n\nTaip pat gali laikyti {drag}, kad vilktum failus ir perkeltum juos aplanke."
 
 #. Tutorial page 3 - class, protocol, policies
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
-msgstr ""
-"Pradžiai pasirink: {class} ir {difficulty}.\n"
-"\n"
-"Kol kas rinkis žymeklį {default} – daugiau atsiras žaidžiant.\n"
-"\n"
-"{difficulty}: pasirink protokolą I–III.\n"
-"\n"
-"Užbaigus protokolą atsirakins {policies}, kurios suteikia papildomų iššūkių.\n"
-"\n"
-"Pirmyn – pasirink dabar: {class} ir {difficulty}!"
+msgstr "Pradžiai pasirink: {class} ir {difficulty}.\n\nKol kas rinkis žymeklį {default} – daugiau atsiras žaidžiant.\n\n{difficulty}: pasirink protokolą I–III.\n\nUžbaigus protokolą atsirakins {policies}, kurios suteikia papildomų iššūkių.\n\nPirmyn – pasirink dabar: {class} ir {difficulty}!"
 
 #. Tutorial page 4 - {drivers}
 #. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
 #. Keep placeholders unchanged: {drivers}
 msgid "UI.tutorial_4_body"
-msgstr ""
-"Pradžiai gali pasirinkti vieną pradinį ginklą.\n"
-"\n"
-"Žaisdamas ir kildamas lygiais pridėsi daugiau ginklų prie savo rinkinio.\n"
-"\n"
-"Pakilęs lygiu taip pat galėsi rinktis ginklų ar žaidėjo patobulinimus, didinančius tavo savybes.\n"
-"\n"
-"Kai ginklas pasiekia tam tikrus lygius, atsirakina {drivers} – jos suteikia išskirtinių patobulinimų."
+msgstr "Pradžiai gali pasirinkti vieną pradinį ginklą.\n\nŽaisdamas ir kildamas lygiais pridėsi daugiau ginklų prie savo rinkinio.\n\nPakilęs lygiu taip pat galėsi rinktis ginklų ar žaidėjo patobulinimus, didinančius tavo savybes.\n\nKai ginklas pasiekia tam tikrus lygius, atsirakina {drivers} – jos suteikia išskirtinių patobulinimų."
 
 #. Tutorial page 5 - {safe}
 #. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
 #. Keep placeholders unchanged: {safe}
 msgid "UI.tutorial_5_body"
-msgstr ""
-"Žaidimo tikslas – išgyventi.\n"
-"\n"
-"Yra 5 raundai po 5 minutes. Kiekvieno raundo pabaigoje turi pasiekti tikslą – {safe}, kad keliautum toliau."
+msgstr "Žaidimo tikslas – išgyventi.\n\nYra 5 raundai po 5 minutes. Kiekvieno raundo pabaigoje turi pasiekti tikslą – {safe}, kad keliautum toliau."
 
 #. Tutorial page 6
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
-msgstr ""
-"Kad išgyventum:\n"
-"venk priešų, rink EXP ir monetas, gauk patobulinimų ir atidarinėk failus.\n"
-"\n"
-"Kai kurie failai rizikingi, kai kuriems reikia raktų, o kai kurie tiesiog duoda garantuotą atlygį.\n"
-"\n"
-"Kiekviename raunde viršutiniame dešiniajame kampe taip pat turėsi šalutinę užduotį, už kurią gausi premijų."
+msgstr "Kad išgyventum:\nvenk priešų, rink EXP ir monetas, gauk patobulinimų ir atidarinėk failus.\n\nKai kurie failai rizikingi, kai kuriems reikia raktų, o kai kurie tiesiog duoda garantuotą atlygį.\n\nKiekviename raunde viršutiniame dešiniajame kampe taip pat turėsi šalutinę užduotį, už kurią gausi premijų."
 
 #. Tutorial page 7 - {safe} {vapor}
 #. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
 #. Keep placeholders unchanged: {safe}, {vapor}
 msgid "UI.tutorial_7_body"
-msgstr ""
-"Uždirbk Beanz įveikdamas priešus ir laiku pasiekdamas tikslą – {safe}.\n"
-"\n"
-"Papildomų Beanz gausi įvykdęs užduotis.\n"
-"\n"
-"Išleisk Beanz naujoms žymeklio klasėms, ginklams, savybių patobulinimams, papildiniams, failams, {vapor} daiktams ir kitiems dalykams!"
+msgstr "Uždirbk Beanz įveikdamas priešus ir laiku pasiekdamas tikslą – {safe}.\n\nPapildomų Beanz gausi įvykdęs užduotis.\n\nIšleisk Beanz naujoms žymeklio klasėms, ginklams, savybių patobulinimams, papildiniams, failams, {vapor} daiktams ir kitiems dalykams!"
 
 #. Tutorial page 8
 #. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
 msgid "UI.tutorial_8_body"
-msgstr ""
-"Kol kas tiek!\n"
-"\n"
-"Pasirink pirmąjį ginklą, žaisk, išgyvenk ir smagiai praleisk laiką :)"
+msgstr "Kol kas tiek!\n\nPasirink pirmąjį ginklą, žaisk, išgyvenk ir smagiai praleisk laiką :)"
 
 #. Plus! cleared. %s is the elite name, %s is the dropped filename
 #. source: %s cleared, %s dropped.
@@ -3689,7 +3601,7 @@ msgstr "Nulaužto papildinio diegimas"
 #. Legendary installer window title
 #. source: PluginInstaller LEGENDARY
 msgid "UI.installer_title_legendary"
-msgstr "PluginInstaller LEGENDARY"
+msgstr ""
 
 #. Morgan AV installer window title
 #. source: Morgan Antivirus Setup
@@ -3715,7 +3627,7 @@ msgstr "Atidaryk %d/%d .%s failų"
 #. Vapidshare window title when Vapidshare Pro plugin is equipped
 #. source: Vapidshare Pro
 msgid "UI.vapidshare_title_pro"
-msgstr "Vapidshare Pro"
+msgstr ""
 
 #. Vapidshare window parts progress
 #. source: Parts %d / %d
@@ -3741,7 +3653,7 @@ msgstr "Baigta"
 #. Vapidshare list hoster column
 #. source: vapidshare.com
 msgid "UI.vapidshare_hoster"
-msgstr "vapidshare.com"
+msgstr ""
 
 #. Vapidshare list Hoster header
 #. source: Hoster
@@ -3832,26 +3744,7 @@ msgstr "Laimėjai!"
 #. source: A fatal exception has occurred and the system has been terminated to prevent corruption.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nIf this is the first time you've seen this termination screen, restart your system.\nIf this screen appears again, internal modules may have been compromised.\n\nPlease verify the integrity of your installed components. Unexpected behavior may\nindicate corrupted memory, invalid packet injection, or unauthorized script execution.\n\nIf the issue persists, perform a secure reboot or contact your system's internal administrator.\n\nTechnical Dump:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nBeginning forced shutdown...\nMemory cache flushed.\n\nPress {click} to continue. {tab} for stats
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
-msgstr ""
-"Įvyko lemtinga išimtis ir sistemos darbas buvo nutrauktas, kad būtų išvengta duomenų sugadinimo.\n"
-"\n"
-"CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
-"\n"
-"Jei šį nutraukimo ekraną matai pirmą kartą, iš naujo paleisk sistemą.\n"
-"Jei šis ekranas pasirodys vėl, vidiniai moduliai galėjo būti pažeisti.\n"
-"\n"
-"Patikrink įdiegtų komponentų vientisumą. Netikėtas elgesys gali\n"
-"rodyti sugadintą atmintį, netinkamą paketų įterpimą ar neleistiną scenarijų vykdymą.\n"
-"\n"
-"Jei problema kartojasi, atlik saugų perkrovimą arba susisiek su savo sistemos vidiniu administratoriumi.\n"
-"\n"
-"Techninė iškrova:\n"
-"STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n"
-"\n"
-"Pradedamas priverstinis išjungimas...\n"
-"Atminties podėlis išvalytas.\n"
-"\n"
-"Paspausk {click}, kad tęstum. {tab} – statistika"
+msgstr "Įvyko lemtinga išimtis ir sistemos darbas buvo nutrauktas, kad būtų išvengta duomenų sugadinimo.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nJei šį nutraukimo ekraną matai pirmą kartą, iš naujo paleisk sistemą.\nJei šis ekranas pasirodys vėl, vidiniai moduliai galėjo būti pažeisti.\n\nPatikrink įdiegtų komponentų vientisumą. Netikėtas elgesys gali\nrodyti sugadintą atmintį, netinkamą paketų įterpimą ar neleistiną scenarijų vykdymą.\n\nJei problema kartojasi, atlik saugų perkrovimą arba susisiek su savo sistemos vidiniu administratoriumi.\n\nTechninė iškrova:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nPradedamas priverstinis išjungimas...\nAtminties podėlis išvalytas.\n\nPaspausk {click}, kad tęstum. {tab} – statistika"
 
 #. Browser address-bar caption
 #. source: Address
@@ -3892,7 +3785,7 @@ msgstr "Clearzone – pasirink papildinį"
 #. source: %d / %d
 #. Keep placeholders unchanged: %d
 msgid "UI.rar_progress"
-msgstr "%d / %d"
+msgstr ""
 
 #. Clearzone archive clears label
 #. source: Clears
@@ -3913,12 +3806,12 @@ msgstr "Laikas"
 #. source: %d KB
 #. Keep placeholders unchanged: %d
 msgid "UI.rar_size_kb"
-msgstr "%d KB"
+msgstr ""
 
 #. Torrent window title
 #. source: BigWave 2003 Edition
 msgid "UI.torrent_title"
-msgstr "BigWave 2003 Edition"
+msgstr ""
 
 #. Browser chrome - Search toolbar label
 #. source: Search
@@ -3945,7 +3838,7 @@ msgstr "Perridenti: %.2f monetos"
 #. source: Beanz: %d
 #. Keep placeholders unchanged: %d
 msgid "UI.beanz"
-msgstr "Beanz: %d"
+msgstr ""
 
 #. HUD - Coin label
 #. source: Coin: %.2f
@@ -3993,7 +3886,7 @@ msgstr "Paspausk {close}, kad perkrautum ir grįžtum į pagrindinį meniu..."
 #. source: HP: %d/%d
 #. Keep placeholders unchanged: %d
 msgid "UI.hp"
-msgstr "HP: %d/%d"
+msgstr ""
 
 #. Unlock requirement - clear N enemies
 #. source: Clear {amount} enemies
@@ -4277,7 +4170,7 @@ msgstr "Trumpam padidina žymeklio greitį."
 #. UI (script-driven)
 #. source: N2O
 msgid "UI.unlock_widget_nos_reward"
-msgstr "N2O"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Commit crimes for coin while dodging the heat.
@@ -4307,7 +4200,7 @@ msgstr "Saugiuose aplankuose pirk ir parduok raktus už monetas."
 #. UI (script-driven)
 #. source: KeyBuy
 msgid "UI.unlock_file_keybuy_reward"
-msgstr "KeyBuy"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Heal now, or upgrade Health Check files for later battles.
@@ -4347,7 +4240,7 @@ msgstr "Atsisiųsk daugiadalius archyvus, iš kurių iškrenta nulaužti įdiegi
 #. UI (script-driven)
 #. source: Vapidshare
 msgid "UI.unlock_file_vapidshare_reward"
-msgstr "Vapidshare"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Install plugins without spending a Key.
@@ -4367,7 +4260,7 @@ msgstr "Išvalyk zoną nuo priešų ir rinkis vieną iš trijų papildinių."
 #. UI (script-driven)
 #. source: Clearzone
 msgid "UI.unlock_file_killzone_reward"
-msgstr "Clearzone"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Install 3 legendary plugins
@@ -4633,7 +4526,7 @@ msgstr "Užbaik protokolą V su įjungta politika „{policy}“."
 #. KeyBuy window and desktop icon title
 #. source: keyBuy
 msgid "UI.keybuy_title"
-msgstr "keyBuy"
+msgstr ""
 
 #. KeyBuy buy button
 #. source: Buy a Key
@@ -4666,9 +4559,7 @@ msgstr "Už 1 raktą sumokėk monetų: {cost}."
 #. source: Sell 1 Key for {cost} Coin.\nMarketplace fee keeps {fee} Coin.
 #. Keep placeholders unchanged: {cost}, {fee}
 msgid "UI.keybuy_sell_tooltip"
-msgstr ""
-"Parduok 1 raktą ir gauk monetų: {cost}.\n"
-"Prekyvietės mokestis – monetų: {fee}."
+msgstr "Parduok 1 raktą ir gauk monetų: {cost}.\nPrekyvietės mokestis – monetų: {fee}."
 
 #. KeyBuy nav links under the logo
 #. source: home | buy | sell | my keys | help
@@ -4757,7 +4648,7 @@ msgstr "Iškart atkuria 50% maks. HP."
 #. source: +{amount} HP
 #. Keep placeholders unchanged: {amount}
 msgid "UI.health_check_pro_heal_preview"
-msgstr "+{amount} HP"
+msgstr ""
 
 #. Health Check Pro coin cost
 #. source: {cost} Coin
@@ -5107,7 +4998,7 @@ msgstr "Žala šioje partijoje: %.0f"
 #. source: DPS: %.1f
 #. Keep placeholders unchanged: %.1f
 msgid "TOOLTIP.run_dps"
-msgstr "DPS: %.1f"
+msgstr ""
 
 #. Stat tooltip
 #. source: Hits: %d
@@ -5164,23 +5055,19 @@ msgstr "Kaina: %d Beanz"
 #. Zip window titlebar when SHZip License is equipped
 #. source: SHZip v2.03
 msgid "ZIP.title_licensed"
-msgstr "SHZip v2.03"
+msgstr ""
 
 #. Zip extractor window
 #. source: Extracting file: \n%s from /.???
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracting"
-msgstr ""
-"Išskleidžiamas failas: \n"
-"%s iš /.???"
+msgstr "Išskleidžiamas failas: \n%s iš /.???"
 
 #. Zip extractor window
 #. source: Estimated time left: {m}m {s}s ({cur} KB of {max} KB) \nProcessing rate: {rate} KB/Sec
 #. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
 msgid "ZIP.progress"
-msgstr ""
-"Liko laiko: {m} min {s} s ({cur} KB iš {max} KB) \n"
-"Apdorojimo sparta: {rate} KB/s"
+msgstr "Liko laiko: {m} min {s} s ({cur} KB iš {max} KB) \nApdorojimo sparta: {rate} KB/s"
 
 #. Zip extractor window
 #. source: %s extracted successfully.
@@ -5197,32 +5084,32 @@ msgstr "Rasta trūkstama dinaminio saistymo biblioteka %s."
 #. Desktop icon tooltip
 #. source: BigWave.exe
 msgid "CLICKABLE.filename.torrent"
-msgstr "BigWave.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: LemWire.exe
 msgid "CLICKABLE.filename.lemwire"
-msgstr "LemWire.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: Installer.pgi
 msgid "CLICKABLE.filename.installer"
-msgstr "Installer.pgi"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: cracked_installer.pgi
 msgid "CLICKABLE.filename.cracked_installer"
-msgstr "cracked_installer.pgi"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: LEGENDARY_SETUP.exe
 msgid "CLICKABLE.filename.legendary_installer"
-msgstr "LEGENDARY_SETUP.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: MorganAV.pgi
 msgid "CLICKABLE.filename.morgan_av"
-msgstr "MorganAV.pgi"
+msgstr ""
 
 #. Run stats panel row
 #. source: Difficulty
@@ -5360,7 +5247,7 @@ msgstr "Ankstesnis raundas"
 #. source: BattleFolder%d.xls
 #. Keep placeholders unchanged: %d
 msgid "UI.safe_hub_round_xls"
-msgstr "BattleFolder%d.xls"
+msgstr ""
 
 #. Safe Folder explorer - no tasks completed last round
 #. source: No new tasks this round
@@ -5395,7 +5282,7 @@ msgstr "Paskutiniame kovos aplanke uždirbti Beanz, įskaitant saugaus aplanko a
 #. Run and last-round DPS label
 #. source: DPS
 msgid "RUNSTAT.dps"
-msgstr "DPS"
+msgstr ""
 
 #. Run DPS tooltip
 #. source: Damage per second this run, during Battle Folders only.
@@ -5484,19 +5371,19 @@ msgstr "RAM atsisiuntimas baigtas."
 
 #. keygen
 msgid "keygen.exe"
-msgstr "keygen.exe"
+msgstr ""
 
 #. vapor
 msgid "vapor.exe"
-msgstr "vapor.exe"
+msgstr ""
 
 #. frenzy
 msgid "frenzy.exe"
-msgstr "frenzy.exe"
+msgstr ""
 
 #. Vapidshare
 msgid "Vapidshare.exe"
-msgstr "Vapidshare.exe"
+msgstr ""
 
 #. Scene label
 msgid "Feedback"
@@ -5504,11 +5391,11 @@ msgstr "Atsiliepimai"
 
 #. Scene label
 msgid "Steam"
-msgstr "Steam"
+msgstr ""
 
 #. Scene label
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #. Scene label
 msgid "Translations GitHub"
@@ -5516,7 +5403,7 @@ msgstr "GitHub vertimai"
 
 #. avs03
 msgid "avs03.com"
-msgstr "avs03.com"
+msgstr ""
 
 #. Scene label
 msgid "Level 8"
@@ -5547,21 +5434,17 @@ msgstr "Paspartintas"
 #. Weapon driver / overclock card - description (overclocked)
 #. source: Multiply Damage 1.6x.\nReduce Refresh -15%.
 msgid "DRIVER.overclocked.description"
-msgstr ""
-"Žala 1.6x.\n"
-"Atsinaujinimas -15%."
+msgstr "Žala 1.6x.\nAtsinaujinimas -15%."
 
 #. Weapon driver / overclock card - name (hyperthreaded)
 #. source: Hyperthreaded
 msgid "DRIVER.hyperthreaded.name"
-msgstr "Hyperthreaded"
+msgstr ""
 
 #. Weapon driver / overclock card - description (hyperthreaded)
 #. source: Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.hyperthreaded.description"
-msgstr ""
-"Kiekis +2.\n"
-"Žala -20%."
+msgstr "Kiekis +2.\nŽala -20%."
 
 #. Weapon driver / overclock card - name (turbo_clock)
 #. source: Turbo Clock
@@ -5571,9 +5454,7 @@ msgstr "Turbo taktas"
 #. Weapon driver / overclock card - description (turbo_clock)
 #. source: Increase Speed +50%.\nReduce Power -15%.
 msgid "DRIVER.turbo_clock.description"
-msgstr ""
-"Greitis +50%.\n"
-"Galia -15%."
+msgstr "Greitis +50%.\nGalia -15%."
 
 #. Weapon driver / overclock card - name (bloated_cache)
 #. source: Bloated Cache
@@ -5613,9 +5494,7 @@ msgstr "Fragmentuotas"
 #. Weapon driver / overclock card - description (avd_fragmented)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.avd_fragmented.description"
-msgstr ""
-"Atšokus nuo sienos: skyla į dvi perpus mažesnes kopijas.\n"
-"Kopijos gali skilti vieną kartą."
+msgstr "Atšokus nuo sienos: skyla į dvi perpus mažesnes kopijas.\nKopijos gali skilti vieną kartą."
 
 #. Weapon driver / overclock card - name (avn_away)
 #. source: Away Message
@@ -5625,9 +5504,7 @@ msgstr "Automatinis atsakymas"
 #. Weapon driver / overclock card - description (avn_away)
 #. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
 msgid "DRIVER.avn_away.description"
-msgstr ""
-"Kiekis +1. Greitis +20%.\n"
-"Dydis +15%."
+msgstr "Kiekis +1. Greitis +20%.\nDydis +15%."
 
 #. Weapon driver / overclock card - name (avn_buddy)
 #. source: Buddy List
@@ -5637,9 +5514,7 @@ msgstr "Draugų sąrašas"
 #. Weapon driver / overclock card - description (avn_buddy)
 #. source: Add +2 Amount.\nIncrease Power +15%.
 msgid "DRIVER.avn_buddy.description"
-msgstr ""
-"Kiekis +2.\n"
-"Galia +15%."
+msgstr "Kiekis +2.\nGalia +15%."
 
 #. Weapon driver / overclock card - name (blatand_pair)
 #. source: Paired Devices
@@ -5649,9 +5524,7 @@ msgstr "Susieti įrenginiai"
 #. Weapon driver / overclock card - description (blatand_pair)
 #. source: Add +1 Amount. Increase Power +25%.\nIncrease Speed +20%.
 msgid "DRIVER.blatand_pair.description"
-msgstr ""
-"Kiekis +1. Galia +25%.\n"
-"Greitis +20%."
+msgstr "Kiekis +1. Galia +25%.\nGreitis +20%."
 
 #. Weapon driver / overclock card - name (bubbles_soap)
 #. source: Soap
@@ -5661,9 +5534,7 @@ msgstr "Muilas"
 #. Weapon driver / overclock card - description (bubbles_soap)
 #. source: Add +1 Amount.\nIncrease Size +40%.
 msgid "DRIVER.bubbles_soap.description"
-msgstr ""
-"Kiekis +1.\n"
-"Dydis +40%."
+msgstr "Kiekis +1.\nDydis +40%."
 
 #. Weapon driver / overclock card - name (bubbles_suds)
 #. source: Suds
@@ -5673,9 +5544,7 @@ msgstr "Putos"
 #. Weapon driver / overclock card - description (bubbles_suds)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.bubbles_suds.description"
-msgstr ""
-"Atšokus nuo sienos: skyla į dvi perpus mažesnes kopijas.\n"
-"Kopijos gali skilti vieną kartą."
+msgstr "Atšokus nuo sienos: skyla į dvi perpus mažesnes kopijas.\nKopijos gali skilti vieną kartą."
 
 #. Weapon driver / overclock card - name (cdrive_seek)
 #. source: Seek
@@ -5685,9 +5554,7 @@ msgstr "Pozicionavimas"
 #. Weapon driver / overclock card - description (cdrive_seek)
 #. source: Converts Repel to Lag.\nIncrease Speed +60%.
 msgid "DRIVER.cdrive_seek.description"
-msgstr ""
-"Atstūmimas paverčiamas lagu.\n"
-"Greitis +60%."
+msgstr "Atstūmimas paverčiamas lagu.\nGreitis +60%."
 
 #. Weapon driver / overclock card - name (cdrive_cleanup)
 #. source: Disk Cleanup
@@ -5707,9 +5574,7 @@ msgstr "Apylanka"
 #. Weapon driver / overclock card - description (cone_detour)
 #. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
 msgid "DRIVER.cone_detour.description"
-msgstr ""
-"Kaitra paverčiama lagu. Dydis +35%.\n"
-"Žala +15%."
+msgstr "Kaitra paverčiama lagu. Dydis +35%.\nŽala +15%."
 
 #. Weapon driver / overclock card - name (cone_workzone)
 #. source: Work Zone
@@ -5719,9 +5584,7 @@ msgstr "Kelio darbai"
 #. Weapon driver / overclock card - description (cone_workzone)
 #. source: Add +1 Amount.\nIncrease Power +30%.
 msgid "DRIVER.cone_workzone.description"
-msgstr ""
-"Kiekis +1.\n"
-"Galia +30%."
+msgstr "Kiekis +1.\nGalia +30%."
 
 #. Weapon driver / overclock card - name (cruiser_multitab)
 #. source: Browser Hijack
@@ -5731,9 +5594,7 @@ msgstr "Naršyklės užgrobimas"
 #. Weapon driver / overclock card - description (cruiser_multitab)
 #. source: Converts Lag to Infect. Add +1 Amount.\nIncrease Power +25%.
 msgid "DRIVER.cruiser_multitab.description"
-msgstr ""
-"Lagas paverčiamas užkrėtimu. Kiekis +1.\n"
-"Galia +25%."
+msgstr "Lagas paverčiamas užkrėtimu. Kiekis +1.\nGalia +25%."
 
 #. Weapon driver / overclock card - name (cruiser_popup)
 #. source: Popup Storm
@@ -5753,9 +5614,7 @@ msgstr "Perskėlimas"
 #. Weapon driver / overclock card - description (cut_cleave)
 #. source: Converts Repel to Infect. Increase Size +80%.\nAdd -0.5 Amount.
 msgid "DRIVER.cut_cleave.description"
-msgstr ""
-"Atstūmimas paverčiamas užkrėtimu. Dydis +80%.\n"
-"Kiekis -0.5."
+msgstr "Atstūmimas paverčiamas užkrėtimu. Dydis +80%.\nKiekis -0.5."
 
 #. Weapon driver / overclock card - name (cut_papercut)
 #. source: Paper Cut
@@ -5765,9 +5624,7 @@ msgstr "Įsipjovimas popieriumi"
 #. Weapon driver / overclock card - description (cut_papercut)
 #. source: Add +2 Amount.\nIncrease Speed +25%.
 msgid "DRIVER.cut_papercut.description"
-msgstr ""
-"Kiekis +2.\n"
-"Greitis +25%."
+msgstr "Kiekis +2.\nGreitis +25%."
 
 #. Weapon driver / overclock card - name (email_cc)
 #. source: Flame Mail
@@ -5777,9 +5634,7 @@ msgstr "Liepsnojantis laiškas"
 #. Weapon driver / overclock card - description (email_cc)
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
 msgid "DRIVER.email_cc.description"
-msgstr ""
-"Užkrėtimas paverčiamas kaitra. Kiekis +1.\n"
-"Greitis +35%."
+msgstr "Užkrėtimas paverčiamas kaitra. Kiekis +1.\nGreitis +35%."
 
 #. Weapon driver / overclock card - name (email_bounce)
 #. source: Undeliverable
@@ -5819,21 +5674,17 @@ msgstr "Paryškintas"
 #. Weapon driver / overclock card - description (fontart_bold)
 #. source: Increase Size +60%. Increase Power +60%.\nReduce Amount -25%.
 msgid "DRIVER.fontart_bold.description"
-msgstr ""
-"Dydis +60%. Galia +60%.\n"
-"Kiekis -25%."
+msgstr "Dydis +60%. Galia +60%.\nKiekis -25%."
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
 msgid "DRIVER.fontart_wordart.name"
-msgstr "WordArt"
+msgstr "Kontūras"
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
 msgid "DRIVER.fontart_wordart.description"
-msgstr ""
-"Dydis +40%.\n"
-"Kiekis +1."
+msgstr "Dydis +40%.\nKiekis +1."
 
 #. Weapon driver / overclock card - name (fraps_benchmark)
 #. source: Benchmark
@@ -5843,21 +5694,17 @@ msgstr "Našumo testas"
 #. Weapon driver / overclock card - description (fraps_benchmark)
 #. source: Converts Repel to Heat. Increase Damage +25%.\nIncrease Speed +20%.
 msgid "DRIVER.fraps_benchmark.description"
-msgstr ""
-"Atstūmimas paverčiamas kaitra. Žala +25%.\n"
-"Greitis +20%."
+msgstr "Atstūmimas paverčiamas kaitra. Žala +25%.\nGreitis +20%."
 
 #. Weapon driver / overclock card - name (fraps_vsync)
 #. source: VSync
 msgid "DRIVER.fraps_vsync.name"
-msgstr "VSync"
+msgstr ""
 
 #. Weapon driver / overclock card - description (fraps_vsync)
 #. source: FPS numbers bounce off walls.\nIncrease Size +20%.
 msgid "DRIVER.fraps_vsync.description"
-msgstr ""
-"FPS skaičiai atšoka nuo sienų.\n"
-"Dydis +20%."
+msgstr "FPS skaičiai atšoka nuo sienų.\nDydis +20%."
 
 #. Weapon driver / overclock card - name (hitmarkers_headhunter)
 #. source: Headhunter
@@ -5867,9 +5714,7 @@ msgstr "Galvų medžiotojas"
 #. Weapon driver / overclock card - description (hitmarkers_headhunter)
 #. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
 msgid "DRIVER.hitmarkers_headhunter.description"
-msgstr ""
-"Padidina pribaigimo tikimybę. Atstūmimas paverčiamas kaitra.\n"
-"Žala -15%."
+msgstr "Padidina pribaigimo tikimybę. Atstūmimas paverčiamas kaitra.\nŽala -15%."
 
 #. Weapon driver / overclock card - name (hitmarkers_killstreak)
 #. source: Killstreak
@@ -5889,9 +5734,7 @@ msgstr "Padegamasis užtaisas"
 #. Weapon driver / overclock card - description (minesweeper_flag)
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
 msgid "DRIVER.minesweeper_flag.description"
-msgstr ""
-"Atstūmimas paverčiamas kaitra. Kiekis +1.\n"
-"Galia +20%."
+msgstr "Atstūmimas paverčiamas kaitra. Kiekis +1.\nGalia +20%."
 
 #. Weapon driver / overclock card - name (minesweeper_chord)
 #. source: Chord
@@ -5904,28 +5747,24 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr "Minos lieka, kol suveikia."
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
 msgid "DRIVER.modem_handshake.name"
-msgstr "Telefoninio ryšio spūstis"
+msgstr "Grįžtamasis ryšys"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
 msgid "DRIVER.modem_handshake.description"
-msgstr ""
-"Atstūmimas paverčiamas lagu. Kiekis +1.\n"
-"Dydis +25%."
+msgstr "Atstūmimas paverčiamas lagu. Kiekis +1.\nDydis +25%."
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
 msgid "DRIVER.modem_broadband.name"
-msgstr "Plačiajuostis ryšys"
+msgstr "Stiprinimas"
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
 msgid "DRIVER.modem_broadband.description"
-msgstr ""
-"Greitis +50%.\n"
-"Žala +20%."
+msgstr "Greitis +50%.\nŽala +20%."
 
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
 #. source: Tab Overload
@@ -5935,9 +5774,7 @@ msgstr "Skirtukų perkrova"
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
 msgid "DRIVER.orchestra_fortissimo.description"
-msgstr ""
-"Užkrėtimas paverčiamas kaitra. Žala +35%.\n"
-"Galia +35%."
+msgstr "Užkrėtimas paverčiamas kaitra. Žala +35%.\nGalia +35%."
 
 #. Weapon driver / overclock card - name (orchestra_taskkill)
 #. source: End Process
@@ -5957,9 +5794,7 @@ msgstr "Išsiliejimas"
 #. Weapon driver / overclock card - description (paint_spill)
 #. source: Increase Size +100%.\nReduce Damage -20%.
 msgid "DRIVER.paint_spill.description"
-msgstr ""
-"Dydis +100%.\n"
-"Žala -20%."
+msgstr "Dydis +100%.\nŽala -20%."
 
 #. Weapon driver / overclock card - name (paint_fill)
 #. source: Fill Bucket
@@ -5969,9 +5804,7 @@ msgstr "Dažų kibirėlis"
 #. Weapon driver / overclock card - description (paint_fill)
 #. source: Add +1 Amount.\nIncrease Power +40%.
 msgid "DRIVER.paint_fill.description"
-msgstr ""
-"Kiekis +1.\n"
-"Galia +40%."
+msgstr "Kiekis +1.\nGalia +40%."
 
 #. Weapon driver / overclock card - name (pinball_tilted)
 #. source: Tilted
@@ -5981,9 +5814,7 @@ msgstr "Pakreiptas"
 #. Weapon driver / overclock card - description (pinball_tilted)
 #. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
 msgid "DRIVER.pinball_tilted.description"
-msgstr ""
-"Atšokus nuo sienos: dydis padidėja. Įvyksta iki dviejų kartų.\n"
-"Dydis -30%."
+msgstr "Atšokus nuo sienos: dydis padidėja. Įvyksta iki dviejų kartų.\nDydis -30%."
 
 #. Weapon driver / overclock card - name (quarantine_strict)
 #. source: Strict
@@ -5993,9 +5824,7 @@ msgstr "Griežtas"
 #. Weapon driver / overclock card - description (quarantine_strict)
 #. source: Converts Repel to Infect.\nIncrease Power +70%.
 msgid "DRIVER.quarantine_strict.description"
-msgstr ""
-"Atstūmimas paverčiamas užkrėtimu.\n"
-"Galia +70%."
+msgstr "Atstūmimas paverčiamas užkrėtimu.\nGalia +70%."
 
 #. Weapon driver / overclock card - name (quarantine_heuristic)
 #. source: Heuristic
@@ -6005,9 +5834,7 @@ msgstr "Euristinis"
 #. Weapon driver / overclock card - description (quarantine_heuristic)
 #. source: Increase Damage +40%.\nIncrease Speed +20%.
 msgid "DRIVER.quarantine_heuristic.description"
-msgstr ""
-"Žala +40%.\n"
-"Greitis +20%."
+msgstr "Žala +40%.\nGreitis +20%."
 
 #. Weapon driver / overclock card - name (satellite_dish)
 #. source: Microwave Dish
@@ -6017,9 +5844,7 @@ msgstr "Mikrobangų antena"
 #. Weapon driver / overclock card - description (satellite_dish)
 #. source: Converts Lag to Heat. Increase Size +30%.\nIncrease Speed +15%.
 msgid "DRIVER.satellite_dish.description"
-msgstr ""
-"Lagas paverčiamas kaitra. Dydis +30%.\n"
-"Greitis +15%."
+msgstr "Lagas paverčiamas kaitra. Dydis +30%.\nGreitis +15%."
 
 #. Weapon driver / overclock card - name (satellite_uplink)
 #. source: Uplink
@@ -6039,9 +5864,7 @@ msgstr "Ginklo nuodai"
 #. Weapon driver / overclock card - description (scimitar_dragon)
 #. source: Converts Repel to Infect. Increase Size +50%.\nAdd +1 Amount.
 msgid "DRIVER.scimitar_dragon.description"
-msgstr ""
-"Atstūmimas paverčiamas užkrėtimu. Dydis +50%.\n"
-"Kiekis +1."
+msgstr "Atstūmimas paverčiamas užkrėtimu. Dydis +50%.\nKiekis +1."
 
 #. Weapon driver / overclock card - name (scimitar_dual)
 #. source: Dual Wield
@@ -6061,9 +5884,7 @@ msgstr "Gilioji paieška"
 #. Weapon driver / overclock card - description (search_deep)
 #. source: Converts Repel to Lag. Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.search_deep.description"
-msgstr ""
-"Atstūmimas paverčiamas lagu. Kiekis +2.\n"
-"Žala -20%."
+msgstr "Atstūmimas paverčiamas lagu. Kiekis +2.\nŽala -20%."
 
 #. Weapon driver / overclock card - name (search_indexed)
 #. source: Find Next
@@ -6073,9 +5894,7 @@ msgstr "Rasti kitą"
 #. Weapon driver / overclock card - description (search_indexed)
 #. source: Increase Speed +30%.\nIncrease Refresh +20%.
 msgid "DRIVER.search_indexed.description"
-msgstr ""
-"Greitis +30%.\n"
-"Atsinaujinimas +20%."
+msgstr "Greitis +30%.\nAtsinaujinimas +20%."
 
 #. Weapon driver / overclock card - name (sniper_scope)
 #. source: High Caliber
@@ -6085,9 +5904,7 @@ msgstr "Didelis kalibras"
 #. Weapon driver / overclock card - description (sniper_scope)
 #. source: Multiply Damage 1.5x. Increase Power +30%.\nIncrease Refresh +25%.
 msgid "DRIVER.sniper_scope.description"
-msgstr ""
-"Žala 1.5x. Galia +30%.\n"
-"Atsinaujinimas +25%."
+msgstr "Žala 1.5x. Galia +30%.\nAtsinaujinimas +25%."
 
 #. Weapon driver / overclock card - name (sniper_oneshot)
 #. source: One Shot
@@ -6097,9 +5914,7 @@ msgstr "Vienas šūvis"
 #. Weapon driver / overclock card - description (sniper_oneshot)
 #. source: Adds +7% execute chance.\nIncrease Damage +25%.
 msgid "DRIVER.sniper_oneshot.description"
-msgstr ""
-"Pribaigimo tikimybė +7%.\n"
-"Žala +25%."
+msgstr "Pribaigimo tikimybė +7%.\nŽala +25%."
 
 #. Weapon driver / overclock card - name (solitaire_cheat)
 #. source: Cheat
@@ -6109,9 +5924,7 @@ msgstr "Sukčiavimas"
 #. Weapon driver / overclock card - description (solitaire_cheat)
 #. source: Increase Damage +50%. Add +1 Amount.\nReduce Refresh -15%.
 msgid "DRIVER.solitaire_cheat.description"
-msgstr ""
-"Žala +50%. Kiekis +1.\n"
-"Atsinaujinimas -15%."
+msgstr "Žala +50%. Kiekis +1.\nAtsinaujinimas -15%."
 
 #. Scene label
 #. screens: spam_ad.tscn; trailer_ad.tscn
@@ -6191,7 +6004,7 @@ msgstr "LemWire 4.7 – pasirink atsisiuntimą"
 #. Scene label
 #. screens: lem_window.tscn
 msgid "LemWire 4.7"
-msgstr "LemWire 4.7"
+msgstr ""
 
 #. Scene label
 #. screens: lem_window.tscn
@@ -6266,7 +6079,7 @@ msgstr "1,000,0000-ASIS LANKITOJAS šią SAVAITĘ!!! LAIMĖJAI PRIZĄ!"
 #. Scene label
 #. screens: vapor_exe.tscn
 msgid "Vapor.exe"
-msgstr "Vapor.exe"
+msgstr ""
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6276,16 +6089,12 @@ msgstr "SHZip v2.03 (bandomoji kopija)"
 #. Scene label
 #. screens: zip_window.tscn
 msgid "Extracting file:\ntemp_file_649743.zip from /.???"
-msgstr ""
-"Išskleidžiamas failas:\n"
-"temp_file_649743.zip iš /.???"
+msgstr "Išskleidžiamas failas:\ntemp_file_649743.zip iš /.???"
 
 #. Scene label
 #. screens: zip_window.tscn
 msgid "Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\nProcessing rate: 0.00 KB/Sec"
-msgstr ""
-"Liko laiko: 0 min 00 s (0.00 KB iš 0.00 KB)\n"
-"Apdorojimo sparta: 0.00 KB/s"
+msgstr "Liko laiko: 0 min 00 s (0.00 KB iš 0.00 KB)\nApdorojimo sparta: 0.00 KB/s"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6320,7 +6129,7 @@ msgstr "Pradėkime dukart spustelėdami kelis nustatymus."
 #. Scene label
 #. screens: starter_folder.tscn; window.tscn
 msgid "/"
-msgstr "/"
+msgstr ""
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -6345,17 +6154,17 @@ msgstr "Užrakinti ginklai – netrukus"
 #. Scene label
 #. screens: stat_list.tscn
 msgid "StatsManager V0.1b"
-msgstr "StatsManager V0.1b"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
 msgid "A"
-msgstr "A"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
 msgid "B"
-msgstr "B"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
@@ -6370,7 +6179,7 @@ msgstr "Ugniasienės dydis"
 #. Scene label
 #. screens: basic_window.tscn; window.tscn
 msgid "Antivirus Survivors 2003 Professional ©"
-msgstr "Antivirus Survivors 2003 Professional ©"
+msgstr ""
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6380,14 +6189,7 @@ msgstr "Pergalė!"
 #. Scene label
 #. screens: end_screen.tscn
 msgid "You did it! I'm proud of you! I hope you had fun.\n\nHowever I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n\nIn the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n\nIf you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
-msgstr ""
-"Tau pavyko! Didžiuojuosi tavimi! Tikiuosi, buvo smagu.\n"
-"\n"
-"Vis dėlto labai atsiprašau, kad šis pergalės ekranas toks nuobodus ir neįkvepiantis. Nusipelnei geresnio ir jį gausi – pilnoje versijoje.\n"
-"\n"
-"Tuo tarpu išbandyk didesnius sunkumo lygius, išleisk Beanz patobulinimams ir išmėgink skirtingus rinkinius.\n"
-"\n"
-"Jei šis demo tau patiko, būtinai pridėk žaidimą prie norų sąrašo arba sek jį Steam platformoje – dar daug kas laukia!"
+msgstr "Tau pavyko! Didžiuojuosi tavimi! Tikiuosi, buvo smagu.\n\nVis dėlto labai atsiprašau, kad šis pergalės ekranas toks nuobodus ir neįkvepiantis. Nusipelnei geresnio ir jį gausi – pilnoje versijoje.\n\nTuo tarpu išbandyk didesnius sunkumo lygius, išleisk Beanz patobulinimams ir išmėgink skirtingus rinkinius.\n\nJei šis demo tau patiko, būtinai pridėk žaidimą prie norų sąrašo arba sek jį Steam platformoje – dar daug kas laukia!"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6402,7 +6204,7 @@ msgstr "Išeiti į meniu"
 #. Scene label
 #. screens: installer_window.tscn
 msgid "PluginInstaller v2.03 r2"
-msgstr "PluginInstaller v2.03 r2"
+msgstr ""
 
 #. Scene label
 #. screens: installer_window.tscn
@@ -6422,9 +6224,7 @@ msgstr "Tikrinamas papildinių suderinamumo sluoksnis..."
 #. Scene label
 #. screens: installer_window.tscn
 msgid "Add +10 Max HP.\nHeal 20% of Max HP when opening a Safe Folder."
-msgstr ""
-"Maks. HP +10.\n"
-"Atidarius saugų aplanką pagydo 20% maks. HP."
+msgstr "Maks. HP +10.\nAtidarius saugų aplanką pagydo 20% maks. HP."
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -6459,28 +6259,17 @@ msgstr "Nustatymai"
 #. Scene label
 #. screens: main_menu.tscn
 msgid "coming soon\n- more weapons\n- more enemies\n- bosses\n- classes\n- wallpapers\n- weapon evos\n- and more"
-msgstr ""
-"netrukus\n"
-"- daugiau ginklų\n"
-"- daugiau priešų\n"
-"- bosai\n"
-"- klasės\n"
-"- darbalaukio fonai\n"
-"- ginklų evoliucijos\n"
-"- ir daugiau"
+msgstr "netrukus\n- daugiau ginklų\n- daugiau priešų\n- bosai\n- klasės\n- darbalaukio fonai\n- ginklų evoliucijos\n- ir daugiau"
 
 #. Scene label
 #. screens: main_menu.tscn
 msgid "Thank you so much for playing. It means the world to me.\nenjoy and have a great day <3\nshaun"
-msgstr ""
-"Labai ačiū, kad žaidei. Man tai reiškia labai daug.\n"
-"mėgaukis ir gražios dienos <3\n"
-"shaun"
+msgstr "Labai ačiū, kad žaidei. Man tai reiškia labai daug.\nmėgaukis ir gražios dienos <3\nshaun"
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
 msgid "UpgradeManager 2003 rc2"
-msgstr "UpgradeManager 2003 rc2"
+msgstr ""
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
@@ -6496,11 +6285,6 @@ msgstr "Tai yra"
 #. screens: options_menu.tscn; pause_menu.tscn; torrent_window.tscn
 msgid "Options"
 msgstr "Parinktys"
-
-#. Scene label
-#. screens: options_menu.tscn
-msgid "SFX Volume"
-msgstr "Efektų garsumas"
 
 #. Scene label
 #. screens: options_menu.tscn
@@ -6521,13 +6305,11 @@ msgstr "Išeiti"
 #. screens: pause_menu.tscn
 msgid "Antivirus Survivors 2003 Professional\nShaun Hammond Business Solutions Ltd"
 msgstr ""
-"Antivirus Survivors 2003 Professional\n"
-"Shaun Hammond Business Solutions Ltd"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Vsync:"
-msgstr "Vsync:"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6562,12 +6344,12 @@ msgstr "Ekrano mastelis:"
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "+"
-msgstr "+"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6607,9 +6389,7 @@ msgstr "Paieškos atsinaujinimas"
 #. Scene label
 #. screens: upgrade_button.tscn
 msgid "Increases Refresh Rate for Search by 20%.\nBut here's a second line also."
-msgstr ""
-"Padidina paieškos atsinaujinimo dažnį 20%.\n"
-"O štai ir antra eilutė."
+msgstr "Padidina paieškos atsinaujinimo dažnį 20%.\nO štai ir antra eilutė."
 
 #. Scene label
 #. screens: torrent_window.tscn
@@ -6673,4 +6453,4 @@ msgstr "Langas"
 
 #. Scene label
 msgid "Antivirus Survivors 2003 Professional"
-msgstr "Antivirus Survivors 2003 Professional"
+msgstr ""
