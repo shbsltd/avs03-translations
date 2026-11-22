@@ -1356,9 +1356,9 @@ msgid "UPGRADE.weapon_cdrive.name"
 msgstr "C: Drive"
 
 #. Upgrade card - description (weapon_cdrive)
-#. source: Drops harddrives randomly on enemies.
+#. source: Drops hard drives randomly on enemies.
 msgid "UPGRADE.weapon_cdrive.description"
-msgstr "Drops harddrives randomly on enemies."
+msgstr "Drops hard drives randomly on enemies."
 
 #. Upgrade card - name (weapon_cut)
 #. source: Cut
