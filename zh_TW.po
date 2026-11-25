@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Antivirus Survivors 2003MIME-Version: 1.0\n"
+"Project-Id-Version: Antivirus Survivors 2003\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
@@ -305,7 +305,7 @@ msgstr "自動播放"
 #. Plugin - description (blast_on_file_open)
 #. source: 25% Chance to trigger a Blast when opening a File.
 msgid "PLUGIN.blast_on_file_open.description"
-msgstr "當開啟文件時25%機率觸發衝擊波"
+msgstr "當開啟檔案時25%機率觸發衝擊波"
 
 #. Plugin - name (chance_defrag)
 #. source: Disk Cleanup
@@ -629,7 +629,7 @@ msgstr "知識庫"
 #. Plugin - description (xp_file_open)
 #. source: Gain +5 EXP when opening a File.
 msgid "PLUGIN.xp_file_open.description"
-msgstr "當開啟文件時+5經驗"
+msgstr "當開啟檔案時+5經驗"
 
 #. Plugin - name (xp_gain_boost)
 #. source: EXP Gain Boost
@@ -693,7 +693,7 @@ msgstr "網頁計數器"
 #. Plugin - description (adsense)
 #. source: Gain +1 Coin when opening a File.
 msgid "PLUGIN.adsense.description"
-msgstr "當開啟文件時+1硬幣"
+msgstr "當開啟檔案時+1硬幣"
 
 #. Plugin - name (still_frame)
 #. source: Still Frame
@@ -770,7 +770,7 @@ msgstr "成功解壓縮時會留下一圈回血區"
 #. Plugin - name (vapidshare_pro)
 #. source: Vapidshare Pro
 msgid "PLUGIN.vapidshare_pro.name"
-msgstr "Vapidshare Pro"
+msgstr ""
 
 #. Plugin - description (vapidshare_pro)
 #. source: Download Vapidshare parts simultaneously and faster.
@@ -1106,7 +1106,7 @@ msgstr "處理速度"
 #. Stat display - description (upgrade_player_proc_speed)
 #. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
 msgid "STAT.upgrade_player_proc_speed.description"
-msgstr "提高所有文件處理速度，包括.zip，.bat，LemWire etc.(指數級)"
+msgstr "提高所有檔案處理速度，包括.zip，.bat，LemWire etc.(指數級)"
 
 #. Stat display - name (upgrade_player_refresh_multi)
 #. source: Weapon Refresh
@@ -1419,7 +1419,7 @@ msgstr "提升武器攻擊速度倍率 +{percent}%"
 #. Upgrade card - name (weapon_avd)
 #. source: AVD Logo
 msgid "UPGRADE.weapon_avd.name"
-msgstr "AVD Logo"
+msgstr ""
 
 #. Upgrade card - description (weapon_avd)
 #. source: Shoots a giant AVD logo towards the nearest enemy.
@@ -1479,7 +1479,7 @@ msgstr "向最強敵人掉落字母，這些字母會為敵人疊加灼燒層數
 #. Upgrade card - name (weapon_hitmarkers)
 #. source: HaD: DoCK
 msgid "UPGRADE.weapon_hitmarkers.name"
-msgstr "HaD: DoCK"
+msgstr ""
 
 #. Upgrade card - description (weapon_hitmarkers)
 #. source: Shots land on the nearest enemy. 3% chance of a headshot.
@@ -1563,7 +1563,7 @@ msgstr ""
 #. Upgrade card - name (weapon_sniper)
 #. source: Sniper 1.6
 msgid "UPGRADE.weapon_sniper.name"
-msgstr "Sniper 1.6"
+msgstr ""
 
 #. Upgrade card - description (weapon_sniper)
 #. source: One heavy shot at the strongest enemy. Clears show in a killfeed.
@@ -1585,7 +1585,7 @@ msgstr "投擲地雷，地雷放置後會在敵人碰到後爆炸"
 #. Upgrade card - name (weapon_email)
 #. source: Email
 msgid "UPGRADE.weapon_email.name"
-msgstr "Email"
+msgstr ""
 
 #. Upgrade card - description (weapon_email)
 #. source: Envelopes fly out, bounce off walls, and boomerang home hitting both ways.
@@ -1607,7 +1607,7 @@ msgstr ""
 #. Upgrade card - name (weapon_orchestra)
 #. source: Orchestra
 msgid "UPGRADE.weapon_orchestra.name"
-msgstr "Orchestra"
+msgstr ""
 
 #. Upgrade card - description (weapon_orchestra)
 #. source: Opens a browser tab on the closest enemy on screen. Infects, and sometimes executes.
@@ -1854,7 +1854,7 @@ msgstr "燒碟"
 #. Enemy sniper-feed name - name (click_me)
 #. source: CLICK-ME.TXT.vbs
 msgid "ENEMY.click_me.name"
-msgstr "CLICK-ME.TXT.vbs"
+msgstr ""
 
 #. Enemy sniper-feed name - name (shooter)
 #. source: AVN Buddy
@@ -1869,12 +1869,12 @@ msgstr "大型盾"
 #. Enemy sniper-feed name - name (memory_leak)
 #. source: Memory Leak
 msgid "ENEMY.memory_leak.name"
-msgstr "Memory Leak"
+msgstr "記憶體洩漏!"
 
 #. Enemy sniper-feed name
 #. source: memory_leak.reg
 msgid "ENEMY.memory_leak.filename"
-msgstr "memory_leak.reg"
+msgstr ""
 
 #. Settings menu
 #. source: Unlimited
@@ -2310,7 +2310,7 @@ msgstr "下載中"
 #. source: %d KB/s
 #. Keep placeholders unchanged: %d
 msgid "TORRENT.speed"
-msgstr "%d KB/s"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Vapor - Validating files - {0}% complete
@@ -2337,7 +2337,7 @@ msgstr "立即前往安全資料夾 !"
 #. End-of-round timer prompt when the boss file drops
 #. source: Get to the Boss File!
 msgid "UI.get_to_boss_file"
-msgstr "立即前往BOSS文件 !"
+msgstr "立即前往BOSS檔案 !"
 
 #. Upgrade screen - title
 #. source: Level Up!
@@ -2369,8 +2369,6 @@ msgstr "Demo保存"
 #. Keep placeholders unchanged: %d
 msgid "UI.login_profile_detail"
 msgstr ""
-"%d Beanz\n"
-"‪"
 
 #. Login screen - second click confirms removing an entry
 #. source: Click again to remove
@@ -2489,12 +2487,12 @@ msgstr "個人資料圖片"
 #. Cosmetic unlock - bmp drop requirement
 #. source: Found in a .bmp file
 msgid "UI.cosmetic_found_bmp"
-msgstr "在.bmp文件中找到"
+msgstr "在.bmp檔案中找到"
 
 #. Cosmetic unlock - image drop requirement
 #. source: Found in a .jpeg/.png file
 msgid "UI.cosmetic_found_image"
-msgstr "在.jpeg/.png文件找到"
+msgstr "在.jpeg/.png檔案找到"
 
 #. Cosmetic unlock - avatar reward blurb
 #. source: Unlocks a new profile picture.
@@ -2515,9 +2513,7 @@ msgstr "解鎖新的桌面類型"
 #. source: {avatar} Picture
 #. Keep placeholders unchanged: {avatar}
 msgid "UI.cosmetic_avatar_picture"
-msgstr ""
-"{avatar} 圖片\n"
-"‪"
+msgstr "{avatar} 圖片"
 
 #. Cosmetic unlock - classic theme name
 #. source: Classic Theme
@@ -2562,7 +2558,7 @@ msgstr "粉色主題"
 #. Personalise - avatar name
 #. source: Beanz
 msgid "UI.avatar_beanz"
-msgstr "Beanz"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Giraffe
@@ -2597,12 +2593,12 @@ msgstr "小畫家"
 #. Personalise - avatar name
 #. source: Orchestra
 msgid "UI.avatar_orchestra"
-msgstr "Orchestra"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Zip
 msgid "UI.avatar_zip"
-msgstr "Zip"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Crawler
@@ -2622,7 +2618,7 @@ msgstr "敵人"
 #. Personalise - avatar name
 #. source: Lemwire
 msgid "UI.avatar_lemwire"
-msgstr "Lemwire"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Coin
@@ -2642,7 +2638,7 @@ msgstr "經典"
 #. Personalise - theme name
 #. source: Vapor
 msgid "UI.theme_vapor"
-msgstr "Vapor"
+msgstr ""
 
 #. Personalise - theme name
 #. source: Olive
@@ -2687,7 +2683,7 @@ msgstr "任務和統計"
 #. Credits window - title, also the desktop icon name
 #. source: Credits
 msgid "CREDITS.window_title"
-msgstr "Credits"
+msgstr ""
 
 #. Credits window - role title
 #. source: Development, Art, Music etc.
@@ -2781,7 +2777,7 @@ msgstr ""
 #. source: Safe Files, Battle Files, and Special Files. Unlock them, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_files"
 msgstr ""
-"安全文件、戰鬥文件和特殊檔案.\n"
+"安全檔案、戰鬥檔案和特殊檔案.\n"
 "解鎖後，即可在「新增/移除解鎖」中購買"
 
 #. Virry blurb - theme tasks
@@ -3104,12 +3100,12 @@ msgstr "整體"
 #. Profile stats - files 1 sheet tab
 #. source: Files 1
 msgid "UI.stat_sheet_files"
-msgstr "文件 1"
+msgstr "檔案 1"
 
 #. Profile stats - files 2 sheet tab
 #. source: Files 2
 msgid "UI.stat_sheet_battle"
-msgstr "文件 2"
+msgstr "檔案 2"
 
 #. Profile stats - weapons sheet tab
 #. source: Weapons
@@ -3175,14 +3171,13 @@ msgstr "Vapor 商店"
 #. Vapor store - black header logo wordmark
 #. source: VAPOR
 msgid "UI.vapor_store_brand"
-msgstr "VAPOR"
+msgstr ""
 
 #. Vapor store - special files explanation
 #. source: Special Files spawn during battle. While one is active, hold {special} to use it.
 #. Keep placeholders unchanged: {special}
 msgid "UI.vapor_store_intro"
-msgstr ""
-"特殊檔案會在戰鬥中產生，當特殊檔案處於啟動狀態時，按住{special}即可使用"
+msgstr "特殊檔案會在戰鬥中產生，當特殊檔案處於啟動狀態時，按住{special}即可使用"
 
 #. Vapor store - featured weapon heading
 #. source: Featured Weapon
@@ -3222,12 +3217,12 @@ msgstr "解鎖可在每輪遊玩中安裝的新插件"
 #. Add/Remove Unlocks - safe files tab intro
 #. source: Unlock new file types to use in Safe Folders.
 msgid "UI.features_store_intro_safe_files"
-msgstr "解鎖可在安全資料夾中使用的新文件類型"
+msgstr "解鎖可在安全資料夾中使用的新檔案類型"
 
 #. Add/Remove Unlocks - battle files tab intro
 #. source: Unlock new file types to spawn during battle rounds.
 msgid "UI.features_store_intro_battle_files"
-msgstr "解鎖可在戰鬥回合中產生的新文件類型"
+msgstr "解鎖可在戰鬥回合中產生的新檔案類型"
 
 #. UI (script-driven)
 #. source: Weapons
@@ -3247,12 +3242,12 @@ msgstr "插件"
 #. UI (script-driven)
 #. source: Safe Files
 msgid "UI.store_group_safe_files"
-msgstr "安全文件檔"
+msgstr "戰鬥檔案"
 
 #. UI (script-driven)
 #. source: Battle Files
 msgid "UI.store_group_battle_files"
-msgstr "戰鬥文件檔"
+msgstr "戰鬥檔案"
 
 #. UI (script-driven)
 #. source: Special Files
@@ -3277,7 +3272,7 @@ msgstr "驅動模組"
 #. Tasks screen - files category (special, safe, battle)
 #. source: Files
 msgid "UI.task_group_files"
-msgstr "文件"
+msgstr "檔案"
 
 #. Tasks screen - theme unlock category
 #. source: Themes
@@ -3317,7 +3312,7 @@ msgstr "通訊協定"
 #. Task tooltip type - boss file
 #. source: Boss File
 msgid "UI.task_group_singular_file"
-msgstr "BOSS文件檔"
+msgstr "BOSS檔案"
 
 #. Task tooltip type - singular
 #. source: Theme
@@ -3428,7 +3423,7 @@ msgstr "原則"
 #. Policies list column - Beanz
 #. source: Beanz
 msgid "UI.policies_col_beanz"
-msgstr "Beanz"
+msgstr ""
 
 #. Policies list column - enabled/disabled
 #. source: Security Setting
@@ -3463,9 +3458,7 @@ msgstr "未完成"
 #. UI (script-driven)
 #. source: Control your cursor with the mouse in Safe Folders.[br]Battle Folders always use WASD or the left stick.
 msgid "UI.admin_mouse_tooltip"
-msgstr ""
-"在安全性資料夾中，可使用滑鼠控制游標. [br]但在戰鬥資料夾中，請務必使用 "
-"WASD 或左類比搖桿."
+msgstr "在安全性資料夾中，可使用滑鼠控制游標. [br]但在戰鬥資料夾中，請務必使用 WASD 或左類比搖桿."
 
 #. UI (script-driven)
 #. source: Reroll Locked
@@ -3499,7 +3492,7 @@ msgstr "解鎖 %s"
 #. source: %s +%d Beanz
 #. Keep placeholders unchanged: %s, %d
 msgid "UI.task_category_beanz"
-msgstr "%s +%d Beanz"
+msgstr ""
 
 #. Weapon driver unlock requirement template
 #. source: Reach level {amount} with {weapon} in a single run
@@ -3539,7 +3532,7 @@ msgstr "磁碟重組"
 #. UI (script-driven)
 #. source: %2.2f KB
 msgid "UI.defrag_capacity"
-msgstr "%2.2f KB"
+msgstr ""
 
 #. Upgrade screen - speech prompt
 #. source: Select an upgrade to continue.
@@ -3677,8 +3670,7 @@ msgid "UI.tutorial_3_body"
 msgstr ""
 "首先，你可以選擇一個類型 (class) 和一個難度 (difficulty). \n"
 "\n"
-"現在，我們選擇預設游標 (default Cursor)，隨著遊戲的進行，更多游標將會解"
-"鎖. \n"
+"現在，我們選擇預設游標 (default Cursor)，隨著遊戲的進行，更多游標將會解鎖. \n"
 "\n"
 "選擇協定一到三 作為你的難度 (difficulty). \n"
 "\n"
@@ -3712,9 +3704,9 @@ msgstr ""
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
 msgstr ""
-"生存之道:躲避敵人，收集經驗值和硬幣，獲得升級，並開啟文件. \n"
+"生存之道:躲避敵人，收集經驗值和硬幣，獲得升級，並開啟檔案. \n"
 "\n"
-"有些文件有風險，有些需要金鑰，有些則直接提供獎勵.\n"
+"有些檔案有風險，有些需要金鑰，有些則直接提供獎勵.\n"
 "\n"
 "每輪遊戲右上角還會有一個支線任務，完成該任務可以獲得額外獎勵."
 
@@ -3727,8 +3719,7 @@ msgstr ""
 "\n"
 "完成任務可獲得額外 Beanz. \n"
 "\n"
-"使用 Beanz 購買新的遊標類型、武器、屬性升級、插件、檔案、{vapor} 物品等"
-"等  !"
+"使用 Beanz 購買新的遊標類型、武器、屬性升級、插件、檔案、{vapor} 物品等等  !"
 
 #. Tutorial page 8
 #. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
@@ -3748,7 +3739,7 @@ msgstr "%s 已清除，%s 已掉落"
 #. source: %d %s
 #. Keep placeholders unchanged: %d, %s
 msgid "UI.notif_elites_named"
-msgstr "%d %s"
+msgstr ""
 
 #. Multi Plus! toast when types are mixed. %d is how many spawned together
 #. source: %d Plus! enemies
@@ -3800,7 +3791,7 @@ msgstr "開啟%d/%d. %s 檔案."
 #. Vapidshare window title when Vapidshare Pro plugin is equipped
 #. source: Vapidshare Pro
 msgid "UI.vapidshare_title_pro"
-msgstr "Vapidshare Pro"
+msgstr ""
 
 #. Vapidshare window parts progress
 #. source: Parts %d / %d
@@ -3826,7 +3817,7 @@ msgstr "完成"
 #. Vapidshare list hoster column
 #. source: vapidshare.com
 msgid "UI.vapidshare_hoster"
-msgstr "vapidshare.com"
+msgstr ""
 
 #. Vapidshare list Hoster header
 #. source: Hoster
@@ -3841,7 +3832,7 @@ msgstr "額外內容"
 #. Window menu File
 #. source: File
 msgid "UI.menu_file"
-msgstr "文件"
+msgstr "檔案"
 
 #. Window menu Edit
 #. source: Edit
@@ -3871,7 +3862,7 @@ msgstr "操作"
 #. Starter folder / policies tree - difficulty row
 #. source: Folder Difficulty
 msgid "UI.folder_difficulty"
-msgstr "文件難度"
+msgstr "檔案難度"
 
 #. Starter folder / policies tree - weapon row
 #. source: Starter Weapon
@@ -3996,7 +3987,7 @@ msgstr "耗時"
 #. source: %d KB
 #. Keep placeholders unchanged: %d
 msgid "UI.rar_size_kb"
-msgstr "%d KB"
+msgstr ""
 
 #. Torrent window title
 #. source: BigWave 2003 Edition
@@ -4028,7 +4019,7 @@ msgstr "重擲:%.2f 硬幣"
 #. source: Beanz: %d
 #. Keep placeholders unchanged: %d
 msgid "UI.beanz"
-msgstr "Beanz: %d"
+msgstr ""
 
 #. HUD - Coin label
 #. source: Coin: %.2f
@@ -4112,13 +4103,13 @@ msgstr "造成 {amount} 點傷害"
 #. source: Open {amount} files
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_open_files"
-msgstr "開啟 {amount} 次文件"
+msgstr "開啟 {amount} 次檔案"
 
 #. Unlock requirement - open N files of a type
 #. source: Open {amount} {file} files
 #. Keep placeholders unchanged: {amount}, {file}
 msgid "UI.unlock_open_file_type"
-msgstr "開啟 {amount} 個 {file} 文件"
+msgstr "開啟 {amount} 個 {file} 檔案"
 
 #. Unlock requirement - Download More RAM N times
 #. source: Download More RAM {amount} times
@@ -4130,7 +4121,7 @@ msgstr "下載更多記憶體 {amount} 次"
 #. source: Successfully extract {amount} Zip files
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_extract_zips"
-msgstr "成功提取 {amount} 個 Zip 文件"
+msgstr "成功提取 {amount} 個 Zip 檔案"
 
 #. Unlock requirement - open vapor.exe N times
 #. source: Open vapor.exe {amount} times
@@ -4158,7 +4149,7 @@ msgstr "同時在四個角落都有視窗"
 #. Unlock description - overlay windows in all 4 corners
 #. source: Open files until their windows fill every corner of the screen.
 msgid "UI.unlock_corner_windows_desc"
-msgstr "開啟文件，直到視窗填滿螢幕的每個角落"
+msgstr "開啟檔案，直到視窗填滿螢幕的每個角落"
 
 #. Unlock requirement - complete N tasks
 #. source: Complete {amount} tasks
@@ -4303,7 +4294,7 @@ msgstr "擊敗任意首領"
 #. source: {boss} File
 #. Keep placeholders unchanged: {boss}
 msgid "UI.unlock_boss_choice_reward"
-msgstr "{boss} 文件"
+msgstr "{boss} 檔案"
 
 #. Unlock description - boss choice file
 #. source: Lets you choose {boss} at the end of a run instead of only Random Boss.
@@ -4360,7 +4351,7 @@ msgstr "暫時提升游標速度"
 #. UI (script-driven)
 #. source: N2O
 msgid "UI.unlock_widget_nos_reward"
-msgstr "N2O"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Commit crimes for coin while dodging the heat.
@@ -4385,12 +4376,12 @@ msgstr "無盡痛苦"
 #. UI (script-driven)
 #. source: Buy and sell Keys for Coin in Safe Folders.
 msgid "UI.unlock_file_keybuy_desc"
-msgstr "在安全文件夾中用硬幣買賣金鑰"
+msgstr "在安全資料夾中用硬幣買賣金鑰"
 
 #. UI (script-driven)
 #. source: KeyBuy
 msgid "UI.unlock_file_keybuy_reward"
-msgstr "KeyBuy"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Heal now, or upgrade Health Check files for later battles.
@@ -4420,7 +4411,7 @@ msgstr "支付硬幣複製一個你已安裝的隨機插件"
 #. Unlock reward - Ethanol 130% name
 #. source: Ethanol 130%
 msgid "UI.unlock_file_ethanol_reward"
-msgstr "Ethanol 130%"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Download multi-part archives that drop Cracked Installers.
@@ -4430,7 +4421,7 @@ msgstr "下載多個分割檔，以取得破解版安裝程式"
 #. UI (script-driven)
 #. source: Vapidshare
 msgid "UI.unlock_file_vapidshare_reward"
-msgstr "Vapidshare"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Install plugins without spending a Key.
@@ -4490,7 +4481,7 @@ msgstr "生涯敵人清除里程碑"
 #. Lifetime files milestone description
 #. source: Lifetime files opened milestone.
 msgid "UI.unlock_general_files_desc"
-msgstr "生涯已開啟文件里程碑"
+msgstr "生涯已開啟檔案里程碑"
 
 #. Lifetime file-type opens milestone description
 #. source: {file} files opened across all runs.
@@ -4667,7 +4658,7 @@ msgstr "重新導向資料夾"
 #. Optional extra difficulty policy - description (redirected_folders)
 #. source: No files spawn in the rounds.
 msgid "POLICY.redirected_folders.description"
-msgstr "本輪不會產生任何文件"
+msgstr "本輪不會產生任何檔案"
 
 #. Optional extra difficulty policy - name (open_relay)
 #. source: Open Relay
@@ -4722,7 +4713,7 @@ msgstr "在啟用 {policy} 的情況下完成第五通訊協定"
 #. KeyBuy window and desktop icon title
 #. source: keyBuy
 msgid "UI.keybuy_title"
-msgstr "keyBuy"
+msgstr ""
 
 #. KeyBuy buy button
 #. source: Buy a Key
@@ -4782,7 +4773,7 @@ msgstr "立即治療"
 #. Health Check Pro upgrade-files button
 #. source: Upgrade Files
 msgid "UI.health_check_pro_boost"
-msgstr "升級文件"
+msgstr "升級檔案"
 
 #. Health Check Pro upgrade-files button after purchase
 #. source: Upgraded
@@ -4835,9 +4826,7 @@ msgstr "升級後: {min}–{max} 生命值"
 #. source: Upgraded: {min}–{max} HP
 #. Keep placeholders unchanged: {min}, {max}
 msgid "UI.health_check_pro_range_done"
-msgstr ""
-"已升級: {min}–{max} 生命值\n"
-"‪"
+msgstr "已升級: {min}–{max} 生命值"
 
 #. Health Check Pro heal explanation
 #. source: Restore 50% of Max HP right now.
@@ -5180,9 +5169,7 @@ msgstr "刷新:%.2f 秒"
 #. source: Size: %.2fx
 #. Keep placeholders unchanged: %.2f
 msgid "TOOLTIP.size"
-msgstr ""
-"尺寸:%.2fx\n"
-"‪"
+msgstr "尺寸:%.2fx"
 
 #. Stat tooltip
 #. source: Power: %.1f
@@ -5257,7 +5244,7 @@ msgstr "花費:%d Beanz"
 #. Zip window titlebar when SHZip License is equipped
 #. source: SHZip v2.03
 msgid "ZIP.title_licensed"
-msgstr "SHZip v2.03"
+msgstr ""
 
 #. Zip extractor window
 #. source: Extracting file: \n%s from /.???
@@ -5290,12 +5277,12 @@ msgstr "未找到指定的動態連結庫 %s"
 #. Desktop icon tooltip
 #. source: BigWave.exe
 msgid "CLICKABLE.filename.torrent"
-msgstr "BigWave.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: LemWire.exe
 msgid "CLICKABLE.filename.lemwire"
-msgstr "LemWire.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: Installer.pgi
@@ -5360,7 +5347,7 @@ msgstr "本輪開啟過的安全資料夾"
 #. Run stats panel row
 #. source: Folders and files opened this run.
 msgid "RUNSTAT.files_opened_desc"
-msgstr "本輪開啟的資料夾跟文件數"
+msgstr "本輪開啟的資料夾跟檔案數"
 
 #. Run stats panel row
 #. source: Enemies cleared this run.
@@ -5468,7 +5455,7 @@ msgstr "上次在戰鬥中清除的敵人數"
 #. Safe Folder explorer - last round files tooltip
 #. source: Files opened in the last Battle Folder.
 msgid "RUNSTAT.last_round_files_desc"
-msgstr "上次在戰鬥中開啟的文件數"
+msgstr "上次在戰鬥中開啟的檔案數"
 
 #. Safe Folder explorer - last round coin tooltip
 #. source: Coin collected in the last Battle Folder.
@@ -5597,11 +5584,11 @@ msgstr "反饋"
 
 #. Scene label
 msgid "Steam"
-msgstr "Steam"
+msgstr ""
 
 #. Scene label
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #. Scene label
 msgid "Translations GitHub"
@@ -5609,7 +5596,7 @@ msgstr "GitHub 翻譯"
 
 #. avs03
 msgid "avs03.com"
-msgstr "avs03.com"
+msgstr ""
 
 #. Scene label
 msgid "Level 8"
@@ -6284,7 +6271,7 @@ msgstr "LemWire 4.7 - 選擇你想下載的"
 #. Scene label
 #. screens: lem_window.tscn
 msgid "LemWire 4.7"
-msgstr "LemWire 4.7"
+msgstr ""
 
 #. Scene label
 #. screens: lem_window.tscn
@@ -6360,8 +6347,6 @@ msgstr "本週第1,000,0000位訪客 ! ! !中獎啦 ! ! !"
 #. screens: vapor_exe.tscn
 msgid "Vapor.exe"
 msgstr ""
-"Scene label\n"
-"‪screens: vapor_exe.tscn"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6374,7 +6359,7 @@ msgid ""
 "Extracting file:\n"
 "temp_file_649743.zip from /.???"
 msgstr ""
-"正在提取文件:\n"
+"正在提取檔案:\n"
 "temp_file_649743.zip from /.???"
 
 #. Scene label
@@ -6419,7 +6404,7 @@ msgstr "讓我們先從雙擊一些設定開始."
 #. Scene label
 #. screens: starter_folder.tscn; window.tscn
 msgid "/"
-msgstr "/"
+msgstr ""
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -6449,12 +6434,12 @@ msgstr "統計管理器 V0.1b"
 #. Scene label
 #. screens: stat_list.tscn
 msgid "A"
-msgstr "A"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
 msgid "B"
-msgstr "B"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
@@ -6469,7 +6454,7 @@ msgstr "防火牆大小"
 #. Scene label
 #. screens: basic_window.tscn; window.tscn
 msgid "Antivirus Survivors 2003 Professional ©"
-msgstr "Antivirus Survivors 2003 Professional ©"
+msgstr ""
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6481,25 +6466,19 @@ msgstr "勝利 !"
 msgid ""
 "You did it! I'm proud of you! I hope you had fun.\n"
 "\n"
-"However I am very sorry that this is such a boring and uninspired win "
-"screen. You deserve better and you will get better - in the full release.\n"
+"However I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n"
 "\n"
-"In the meantime, enjoy trying some of the harder difficulties, go spend "
-"those Beanz on some upgrades and try out some different builds.\n"
+"In the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n"
 "\n"
-"If you had fun during this demo be sure to give it a wishlist or follow on "
-"Steam - there's so much more to come!"
+"If you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
 msgstr ""
 "你做到了 ! 我為你感到驕傲 !我希望你玩得開心.\n"
 "\n"
-"然而，我很遺憾，這個勝利畫面如此乏味且毫無新意. 你值得更好的，你也會得到更"
-"好的- 在完整版裡.\n"
+"然而，我很遺憾，這個勝利畫面如此乏味且毫無新意. 你值得更好的，你也會得到更好的- 在完整版裡.\n"
 "\n"
-"同時， 盡情嘗試一些更高難度的模式吧， 去使用那些Beanz升級並嘗試不同的組"
-"合.\n"
+"同時， 盡情嘗試一些更高難度的模式吧， 去使用那些Beanz升級並嘗試不同的組合.\n"
 "\n"
-"如果你喜歡這次試玩，記得把它加入願望單或在Steam上關注它 - 還有更多精彩內容"
-"即將呈現 !"
+"如果你喜歡這次試玩，記得把它加入願望單或在Steam上關注它 - 還有更多精彩內容即將呈現 !"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6523,9 +6502,7 @@ msgstr "準備安裝…"
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid ""
-"PluginInstaller is preparing to find all appropriate plugins for this "
-"application."
+msgid "PluginInstaller is preparing to find all appropriate plugins for this application."
 msgstr ""
 "插件安裝程式正在準備尋找\n"
 "此應用程式的所有適用插件."
@@ -6630,11 +6607,6 @@ msgstr "選項"
 
 #. Scene label
 #. screens: options_menu.tscn
-msgid "SFX Volume"
-msgstr "音效音量"
-
-#. Scene label
-#. screens: options_menu.tscn
 msgid "Back"
 msgstr "返回"
 
@@ -6654,8 +6626,6 @@ msgid ""
 "Antivirus Survivors 2003 Professional\n"
 "Shaun Hammond Business Solutions Ltd"
 msgstr ""
-"Antivirus Survivors 2003 Professional\n"
-"Shaun Hammond Business Solutions Ltd"
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6695,12 +6665,12 @@ msgstr "顯示縮放:"
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "+"
-msgstr "+"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6809,4 +6779,4 @@ msgstr "視窗"
 
 #. Scene label
 msgid "Antivirus Survivors 2003 Professional"
-msgstr "Antivirus Survivors 2003 Professional"
+msgstr ""
