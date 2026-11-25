@@ -1,15 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Antivirus Survivors 2003MIME-Version: 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"Project-Id-Version: Antivirus Survivors 2003\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #. Class select - name (brick)
 #. source: Brick
@@ -19,13 +14,7 @@ msgstr "Цегляний"
 #. Class select - description (brick)
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 msgid "CLASS.brick.description"
-msgstr ""
-"+40 до макс. ОЗ.\n"
-"+12 Armo(u)r.\n"
-"Помножує швидкість вказівника на 0.8x.\n"
-"Помножує шкоду від зброї на 0.85x.\n"
-"Помножує шкоду від зброї на 1.1x при отриманні шкоди (триває 8с, "
-"накопичується до 3 стеків)."
+msgstr "+40 до макс. ОЗ.\n+12 Armo(u)r.\nПомножує швидкість вказівника на 0.8x.\nПомножує шкоду від зброї на 0.85x.\nПомножує шкоду від зброї на 1.1x при отриманні шкоди (триває 8с, накопичується до 3 стеків)."
 
 #. Class select - name (default)
 #. source: Default
@@ -35,23 +24,17 @@ msgstr "Звичайний"
 #. Class select - description (default)
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 msgid "CLASS.default.description"
-msgstr ""
-"Ніяких класових бонусів або штрафів\n"
-"Базовий, збалансований вказівник."
+msgstr "Ніяких класових бонусів або штрафів\nБазовий, збалансований вказівник."
 
 #. Class select - name (null)
 #. source: Null
 msgid "CLASS.null.name"
-msgstr "Null"
+msgstr ""
 
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
-msgstr ""
-"Зменшує макс. ОЗ на -25.\n"
-"+8 втрати пакетів\n"
-"Помножує удачу на 1.5x.\n"
-"Помножує шкоду від зброї на 0.9x."
+msgstr "Зменшує макс. ОЗ на -25.\n+8 втрати пакетів\nПомножує удачу на 1.5x.\nПомножує шкоду від зброї на 0.9x."
 
 #. Class select - name (vector)
 #. source: Vector
@@ -61,13 +44,7 @@ msgstr "Векторний"
 #. Class select - description (vector)
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 msgid "CLASS.vector.description"
-msgstr ""
-"Помножує швидкість вказівника на 1.25x.\n"
-"+15 втрати пакетів\n"
-"Зменшує макс. ОЗ на -25.\n"
-"Помножує шкоду від зброї на 0.9x.\n"
-"Помножує швидкість вказівника на 1.25x і швидкість оновлення на 1.2x при "
-"втраті пакетів (триває 4с)."
+msgstr "Помножує швидкість вказівника на 1.25x.\n+15 втрати пакетів\nЗменшує макс. ОЗ на -25.\nПомножує шкоду від зброї на 0.9x.\nПомножує швидкість вказівника на 1.25x і швидкість оновлення на 1.2x при втраті пакетів (триває 4с)."
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -77,12 +54,7 @@ msgstr "Точка зупину"
 #. Class select - description (breakpoint)
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
 msgid "CLASS.breakpoint.description"
-msgstr ""
-"Збільшує крит. шанс на +12%.\n"
-"Помножує крит. шкоду на 1.25x.\n"
-"Зменшує макс. ОЗ на -15.\n"
-"Помножує швидкість вказівника на 0.9x.\n"
-"Помножує шкоду від зброї на 0.92x."
+msgstr "Збільшує крит. шанс на +12%.\nПомножує крит. шкоду на 1.25x.\nЗменшує макс. ОЗ на -15.\nПомножує швидкість вказівника на 0.9x.\nПомножує шкоду від зброї на 0.92x."
 
 #. Class select - name (thread)
 #. source: Thread
@@ -92,11 +64,7 @@ msgstr "Потік"
 #. Class select - description (thread)
 #. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.thread.description"
-msgstr ""
-"Помножує продуктивність на 1.3x.\n"
-"Помножує швидкість оновлення на 1.12x.\n"
-"Помножує отримання досвіду на 1.08x.\n"
-"Помножує шкоду від зброї на 0.85x."
+msgstr "Помножує продуктивність на 1.3x.\nПомножує швидкість оновлення на 1.12x.\nПомножує отримання досвіду на 1.08x.\nПомножує шкоду від зброї на 0.85x."
 
 #. Class select - name (admin)
 #. source: Admin
@@ -106,13 +74,7 @@ msgstr "Адміністратор"
 #. Class select - description (admin)
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
-msgstr ""
-"Початок з +1 ключем.\n"
-"Помножує приріст монет на 1.3x.\n"
-"Помножує радіус підбору на 1.3x.\n"
-"Знижка на предмети в магазині +10%.\n"
-"Помножує макс. ОЗ на 0.9x.\n"
-"Помножує шкоду від зброї на 0.85x."
+msgstr "Початок з +1 ключем.\nПомножує приріст монет на 1.3x.\nПомножує радіус підбору на 1.3x.\nЗнижка на предмети в магазині +10%.\nПомножує макс. ОЗ на 0.9x.\nПомножує шкоду від зброї на 0.85x."
 
 #. Folder evolution mode - name (chaos)
 #. source: Chaos
@@ -122,9 +84,7 @@ msgstr "Хаотична"
 #. Folder evolution mode - description (chaos)
 #. source: A inconsistent unpredictable mess of difficulty. I couldn't tell you what to expect.
 msgid "EVO.chaos.description"
-msgstr ""
-"Непослідовна та непередбачена складність. Та й взагалі якийсь безлад. Я "
-"навіть не можу сказати чого вам очікувати."
+msgstr "Непослідовна та непередбачена складність. Та й взагалі якийсь безлад. Я навіть не можу сказати чого вам очікувати."
 
 #. Folder evolution mode - name (linear)
 #. source: Linear
@@ -134,8 +94,7 @@ msgstr "Лінійна"
 #. Folder evolution mode - description (linear)
 #. source: A consistent linear stream of more enemies being added over time.
 msgid "EVO.linear.description"
-msgstr ""
-"Постійний лінійний потік, у якому з часом додаються все нові й нові вороги."
+msgstr "Постійний лінійний потік, у якому з часом додаються все нові й нові вороги."
 
 #. Folder evolution mode - name (variable)
 #. source: Variable
@@ -145,29 +104,27 @@ msgstr "Мінлива"
 #. Folder evolution mode - description (variable)
 #. source: A varied level of enemies that ramps up and down to give more moments of peace but harder increases.
 msgid "EVO.variable.description"
-msgstr ""
-"Рівень загрози змінюється хвилями: після спокійніших періодів настають "
-"різкіші сплески складності."
+msgstr "Рівень загрози змінюється хвилями: після спокійніших періодів настають різкіші сплески складності."
 
 #. Meta upgrade menu - description (armor)
 #. source: Adds +1 Armo(u)r per Rank.
 msgid "META.armor.description"
-msgstr "Додає +1 Armo(u)r за Ранг."
+msgstr "Додає +1 Armo(u)r за ранг."
 
 #. Meta upgrade menu - description (coin_gain)
 #. source: Multiply Coin Gain by an extra +1% per Rank.
 msgid "META.coin_gain.description"
-msgstr "Збільшує множник приросту монет на додатковий +1% за кожен ранг."
+msgstr "Помножує приріст монет на додатковий +1% за кожен ранг."
 
 #. Meta upgrade menu - description (crit_chance)
 #. source: Increases Crit Chance +1% per Rank.
 msgid "META.crit_chance.description"
-msgstr "Збільшує крит. шанс на +1% за Ранг."
+msgstr "Збільшує крит. шанс на +1% за ранг."
 
 #. Meta upgrade menu - description (crit_damage)
 #. source: Multiply Crit Damage by an extra +2% per Rank.
 msgid "META.crit_damage.description"
-msgstr "Збільшує множник Крит. шкоди на додаткові +2% за Ранг."
+msgstr "Помножує крит. шкоду на додаткові +2% за ранг."
 
 #. Meta upgrade menu - name (cursor_speed)
 #. source: Cursor Speed
@@ -177,12 +134,12 @@ msgstr "Швидкість вказівника"
 #. Meta upgrade menu - description (cursor_speed)
 #. source: Multiply Cursor Speed by an extra +1% per Rank.
 msgid "META.cursor_speed.description"
-msgstr "Збільшує множник Швидкості вказівника на додатковий +1% за Ранг."
+msgstr "Помножує швидкість вказівника на додатковий +1% за Ранг."
 
 #. Meta upgrade menu - description (exp_gain)
 #. source: Multiply EXP Gain by an extra +2% per Rank.
 msgid "META.exp_gain.description"
-msgstr "Збільшує множник Отримання досвіду на додаткові +2% за Ранг."
+msgstr "Помножує отримання досвіду на додаткові +2% за ранг."
 
 #. Meta upgrade menu - description (health_regen)
 #. source: Adds +1 Health Regen per Rank.
@@ -192,17 +149,17 @@ msgstr "Додає +1 регенерації ОЗ за Ранг."
 #. Meta upgrade menu - description (luck)
 #. source: Multiply Luck by an extra +1% per Rank.
 msgid "META.luck.description"
-msgstr "Збільшує множник Удачі на додатковий +1% за Ранг."
+msgstr "Помножує удачу на додатковий +1% за ранг."
 
 #. Meta upgrade menu - description (magnetism)
 #. source: Multiply Magnetism by an extra +2% per Rank.
 msgid "META.magnetism.description"
-msgstr "Збільшує множник Магнетизму на додаткові +2% за Ранг."
+msgstr "Помножує магнетизм на додаткові +2% за ранг."
 
 #. Meta upgrade menu - description (max_health)
 #. source: Adds +10 Max HP per Rank.
 msgid "META.max_health.description"
-msgstr "Додає +10 максимальних ОЗ за Ранг."
+msgstr "Додає +10 максимальних ОЗ за ранг."
 
 #. Meta upgrade menu - name (packet_loss)
 #. source: Packet Loss
@@ -217,7 +174,7 @@ msgstr "Додає +1 Втрату пакетів за Ранг."
 #. Meta upgrade menu - description (proc_speed)
 #. source: Multiply Processing Speed by an extra +1% per Rank.
 msgid "META.proc_speed.description"
-msgstr "Збільшує множник Швидкодії на додатковий +1% за Ранг."
+msgstr "Помножує швидкодію на додатковий +1% за ранг."
 
 #. Meta upgrade menu - description (weap_amount)
 #. source: Increases Weapon Amount chance +3% per Rank.
@@ -227,27 +184,27 @@ msgstr "Збільшує шанс Копії зброї на 3% за ранг"
 #. Meta upgrade menu - description (weap_damage)
 #. source: Multiply Weapon Damage by an extra +2% per Rank.
 msgid "META.weap_damage.description"
-msgstr "Збільшує множник Шкоди від зброї на додаткові +2% за Ранг."
+msgstr "Помножує шкоду від зброї на додаткові +2% за ранг."
 
 #. Meta upgrade menu - description (weap_refresh)
 #. source: Multiply Weapon Refresh by an extra +1% per Rank.
 msgid "META.weap_refresh.description"
-msgstr "Збільшує множник оновлення зброї на додатковий +1% за Ранг."
+msgstr "Помножує оновлення зброї на додатковий +1% за ранг."
 
 #. Meta upgrade menu - description (weap_repel)
 #. source: Multiply Weapon Repel by an extra +1% per Rank.
 msgid "META.weap_repel.description"
-msgstr "Збільшує множник Відкидання зброєю на додатковий +1% за Ранг."
+msgstr "Помножує відкидання зброєю на додатковий +1% за ранг."
 
 #. Meta upgrade menu - description (weap_size)
 #. source: Multiply Weapon Size by an extra +1% per Rank.
 msgid "META.weap_size.description"
-msgstr "Збільшує множник Розмір зброї на додатковий +1% за Ранг."
+msgstr "Помножує розмір зброї на додатковий +1% за ранг."
 
 #. Meta upgrade menu - description (weap_speed)
 #. source: Multiply Weapon Speed by an extra +1% per Rank.
 msgid "META.weap_speed.description"
-msgstr "Збільшує множник Швидкості зброї на додатковий +1% за Ранг."
+msgstr "Помножує швидкість зброї на додатковий +1% за ранг."
 
 #. Plugin - name (armor_boost)
 #. source: Armo(u)r Boost
@@ -267,9 +224,7 @@ msgstr "Апаратне переривання"
 #. Plugin - description (armor_damage_trigger)
 #. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
 msgid "PLUGIN.armor_damage_trigger.description"
-msgstr ""
-"+5 Armo(u)r.\n"
-"+25 втрати пакетів, коли отримуєш шкоду (триває 10с)."
+msgstr "+5 Armo(u)r.\n+25 втрати пакетів, коли отримуєш шкоду (триває 10с)."
 
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
@@ -289,9 +244,7 @@ msgstr "Корпоративна версія"
 #. Plugin - description (big_hp_regen_boost)
 #. source: Add +64 Max HP.\nAdd +12 Health Regen.
 msgid "PLUGIN.big_hp_regen_boost.description"
-msgstr ""
-"+64 макс. ОЗ.\n"
-"+12 регенерації здоров'я"
+msgstr "+64 макс. ОЗ.\n+12 регенерації здоров'я"
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -301,7 +254,7 @@ msgstr "Година пік"
 #. Plugin - description (big_wave_damage)
 #. source: Increase Weapon Damage Multiplier +10% when opening a Big Wave.
 msgid "PLUGIN.big_wave_damage.description"
-msgstr "Збільшує множник Шкоди від зброї на 10%, коли відкриваєш Big Wave."
+msgstr "Збільшує множник шкоди від зброї на 10%, коли відкриваєш Big Wave."
 
 #. Plugin - name (blast_on_file_open)
 #. source: AutoPlay
@@ -331,7 +284,7 @@ msgstr "Збільшення приросту монет"
 #. Plugin - description (coin_boost)
 #. source: Multiply Coin Gain 1.1x.
 msgid "PLUGIN.coin_boost.description"
-msgstr "Помножує Приріст монет на 1.1х."
+msgstr "Помножує приріст монет на 1.1х."
 
 #. Plugin - name (coin_drop_boost)
 #. source: Shared Folders
@@ -371,9 +324,7 @@ msgstr "Критичний рівень заряду"
 #. Plugin - description (cursor_speed_damage)
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
-msgstr ""
-"Збільшує швидкість вказівника на 10%.\n"
-"Збільшує швидкість вказівника на 30%, коли отримуєш шкоду (триває 10с)"
+msgstr "Збільшує швидкість вказівника на 10%.\nЗбільшує швидкість вказівника на 30%, коли отримуєш шкоду (триває 10с)"
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -393,9 +344,7 @@ msgstr "Кар'єрний шлях"
 #. Plugin - description (damage_level_scaling)
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
 msgid "PLUGIN.damage_level_scaling.description"
-msgstr ""
-"Збільшує шкоду від зброї на +3% за кожен рівень гравця.\n"
-"Зменшує макс. ОЗ на -1 за кожен рівень гравця."
+msgstr "Збільшує шкоду від зброї на +3% за кожен рівень гравця.\nЗменшує макс. ОЗ на -1 за кожен рівень гравця."
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
@@ -415,11 +364,7 @@ msgstr "Опції продуктивності"
 #. Plugin - description (damage_speed_crit)
 #. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
 msgid "PLUGIN.damage_speed_crit.description"
-msgstr ""
-"Збільшує шкоду від зброї на +10%.\n"
-"Збільшує швидкість оновлення +10%.\n"
-"Збільшує крит. шанс +5%.\n"
-"Збільшує крит. шкоду +15%."
+msgstr "Збільшує шкоду від зброї на +10%.\nЗбільшує швидкість оновлення +10%.\nЗбільшує крит. шанс +5%.\nЗбільшує крит. шкоду +15%."
 
 #. Plugin - name (defrag_on_safe_folder)
 #. source: Startup Folder
@@ -434,7 +379,7 @@ msgstr "Розпочинає дефрагментацію коли з'являє
 #. Plugin - name (dual_core)
 #. source: Dual Core
 msgid "PLUGIN.dual_core.name"
-msgstr "Dual Core"
+msgstr ""
 
 #. Plugin - description (dual_core)
 #. source: Multiply Processing Speed 2.0x.
@@ -479,9 +424,7 @@ msgstr "Знайти вказівник"
 #. Plugin - description (locate_pointer)
 #. source: Trigger a Blast when taking damage (20s cooldown, reduced per stack).
 msgid "PLUGIN.locate_pointer.description"
-msgstr ""
-"Випускає заряд при отриманні шкоди (час відновлення 20с, зменшується з "
-"кожним стеком)."
+msgstr "Випускає заряд при отриманні шкоди (час відновлення 20с, зменшується з кожним стеком)."
 
 #. Plugin - name (luck_boost)
 #. source: Luck Boost
@@ -491,7 +434,7 @@ msgstr "Збільшена удача"
 #. Plugin - description (luck_boost)
 #. source: Multiply Luck 1.1x.
 msgid "PLUGIN.luck_boost.description"
-msgstr "Помножує Удачу на 1.1х"
+msgstr "Помножує удачу на 1.1х"
 
 #. Plugin - name (luck_reroll)
 #. source: Lucky Break
@@ -501,9 +444,7 @@ msgstr "Щасливий квиток"
 #. Plugin - description (luck_reroll)
 #. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
 msgid "PLUGIN.luck_reroll.description"
-msgstr ""
-"Збільшує удачу на +12%\n"
-"Після повторної спроби удача збільшується на +25% (триває 10с)."
+msgstr "Збільшує удачу на +12%\nПісля повторної спроби удача збільшується на +25% (триває 10с)."
 
 #. Plugin - name (luck_zip_boost)
 #. source: Compressed Folders
@@ -593,21 +534,17 @@ msgstr ""
 #. Plugin - description (slow_but_strong)
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
-msgstr ""
-"Помножує Шкоду від зброї на 1.25х.\n"
-"Зменшує Швидкість вказівника на -10%."
+msgstr "Помножує шкоду від зброї на 1.25х.\nЗменшує швидкість вказівника на -10%."
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
 msgid "PLUGIN.smart_recovery.name"
-msgstr "Smart Recovery"
+msgstr ""
 
 #. Plugin - description (smart_recovery)
 #. source: Add +10 Max HP.\nHeal 25% of Max HP when opening a Safe Folder.
 msgid "PLUGIN.smart_recovery.description"
-msgstr ""
-"+10 до макс. ОЗ.\n"
-"Лікує 25% від макс. ОЗ, коли відкриваєш Безпечну папку."
+msgstr "+10 до макс. ОЗ.\nЛікує 25% від макс. ОЗ, коли відкриваєш Безпечну папку."
 
 #. Plugin - name (weapon_speed_boost)
 #. source: Weapon Speed Boost
@@ -647,7 +584,7 @@ msgstr "Більше досвіду"
 #. Plugin - description (xp_gain_boost)
 #. source: Multiply EXP Gain 1.1x.
 msgid "PLUGIN.xp_gain_boost.description"
-msgstr "Помножує Отримання досвіду на 1.1х."
+msgstr "Помножує отримання досвіду на 1.1х."
 
 #. Plugin - name (xp_gain_on_damage)
 #. source: Readme
@@ -657,9 +594,7 @@ msgstr "ПрочитайМене"
 #. Plugin - description (xp_gain_on_damage)
 #. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
 msgid "PLUGIN.xp_gain_on_damage.description"
-msgstr ""
-"Збільшує отримання досвіду на +10%.\n"
-"Отримуй +4 досвіду, коли отримуєш шкоду."
+msgstr "Збільшує отримання досвіду на +10%.\nОтримуй +4 досвіду, коли отримуєш шкоду."
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
@@ -669,9 +604,7 @@ msgstr ""
 #. Plugin - description (morgan_av)
 #. source: Difficulty is increased for the rest of the run.\n+1 extra Plus! enemy at each midway point.
 msgid "PLUGIN.morgan_av.description"
-msgstr ""
-"Рівень складності підвищується на решту забігу.\n"
-"+1 додатковий \"Плюс!\" ворог на кожній проміжній точці."
+msgstr "Рівень складності підвищується на решту забігу.\n+1 додатковий \"Плюс!\" ворог на кожній проміжній точці."
 
 #. Plugin - name (popup_blocker)
 #. source: Realtime Protection
@@ -711,9 +644,7 @@ msgstr "Один кадр"
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
 msgid "PLUGIN.still_frame.description"
-msgstr ""
-"Збільшує шкоду від зброї на +5% щосекунди під час нерухомості. Максимум до "
-"+15% з кожним стеком."
+msgstr "Збільшує шкоду від зброї на +5% щосекунди під час нерухомості. Максимум до +15% з кожним стеком."
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
@@ -733,9 +664,7 @@ msgstr "Розгін оновлення"
 #. Plugin - description (refresh_overclock)
 #. source: Increase Refresh Speed +50%.\nReduce Cursor Speed -15%.
 msgid "PLUGIN.refresh_overclock.description"
-msgstr ""
-"Збільшує швидкість оновлення на +50%.\n"
-"Зменшує швидкість вказівника на -15%."
+msgstr "Збільшує швидкість оновлення на +50%.\nЗменшує швидкість вказівника на -15%."
 
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
@@ -795,9 +724,7 @@ msgstr "Мегакрит"
 #. Plugin - description (megacrit)
 #. source: Increase Crit Chance +40%.\nCrit Chance above 100% can Megacrit for double Crit Damage.
 msgid "PLUGIN.megacrit.description"
-msgstr ""
-"Збільшує шанс криту на +40%.\n"
-"Крит. шанс вище 100% може зробити мегакрит, що подвоює крит. удар."
+msgstr "Збільшує шанс криту на +40%.\nКрит. шанс вище 100% може зробити мегакрит, що подвоює крит. удар."
 
 #. Plugin - name (hyperthread)
 #. source: Hyperthreading
@@ -807,14 +734,12 @@ msgstr "Гіперпотоковість"
 #. Plugin - description (hyperthread)
 #. source: Multiply Weapon Amount 1.5x.\nMultiply Weapon Damage 0.75x.
 msgid "PLUGIN.hyperthread.description"
-msgstr ""
-"Помножує кількість зброї на 1.5x.\n"
-"Помножує шкоду від зброї на 0.75x."
+msgstr "Помножує кількість зброї на 1.5x.\nПомножує шкоду від зброї на 0.75x."
 
 #. Plugin - name (tank_core)
 #. source: Tank Core
 msgid "PLUGIN.tank_core.name"
-msgstr "Tank Core"
+msgstr ""
 
 #. Plugin - description (tank_core)
 #. source: Increase Weapon Damage +20% per 100 Max HP.
@@ -859,9 +784,7 @@ msgstr "Диспетчер завдань"
 #. Plugin - description (task_manager)
 #. source: Multiply Weapon Refresh 2.0x.\nMultiply Weapon Size 0.75x.
 msgid "PLUGIN.task_manager.description"
-msgstr ""
-"Помножує оновлення зброї на 2.0х\n"
-"Помножує розмір зброї на 0.75х"
+msgstr "Помножує оновлення зброї на 2.0х\nПомножує розмір зброї на 0.75х"
 
 #. Plugin - name (raid_0)
 #. source: RAID 0
@@ -871,9 +794,7 @@ msgstr ""
 #. Plugin - description (raid_0)
 #. source: Multiply Zip and RAM rewards 2.0x.\nDecrease Zip and RAM success chance.
 msgid "PLUGIN.raid_0.description"
-msgstr ""
-"Помножує нагороди від zip та ОЗП на 2.0x.\n"
-"Зменшує шанс успіху для zip та ОЗП."
+msgstr "Помножує нагороди від zip та ОЗП на 2.0x.\nЗменшує шанс успіху для zip та ОЗП."
 
 #. Plugin - name (system_restore)
 #. source: System Restore
@@ -883,9 +804,7 @@ msgstr "Відновлення системи"
 #. Plugin - description (system_restore)
 #. source: On death, heal 50% of Max HP instead of Blue Screen.\nOnce per stack.
 msgid "PLUGIN.system_restore.description"
-msgstr ""
-"При смерті відновлює 50 % від макс. ОЗ замість «синього екрану».\n"
-"Одноразове використання за стек."
+msgstr "При смерті відновлює 50 % від макс. ОЗ замість «синього екрану».\nОдноразове використання за стек."
 
 #. Plugin - name (power_user)
 #. source: Power User
@@ -925,9 +844,7 @@ msgstr "Протокол I"
 #. Difficulty protocol - description (protocol_1)
 #. source: The beginner difficulty. Earn 16 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_1.description"
-msgstr ""
-"Початкова складність. Заробляй 16 Beanz за відкриття Безпечної папки + "
-"усунених ворогів"
+msgstr "Початкова складність. Заробляй 16 Beanz за відкриття Безпечної папки + усунених ворогів"
 
 #. Difficulty protocol - name (protocol_2)
 #. source: Protocol II
@@ -937,9 +854,7 @@ msgstr "Протокол II"
 #. Difficulty protocol - description (protocol_2)
 #. source: The sophomore difficulty. Earn 24 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_2.description"
-msgstr ""
-"Друга складність. Заробляй 24 Beanz за відкриття Безпечної папки + усунених "
-"ворогів"
+msgstr "Друга складність. Заробляй 24 Beanz за відкриття Безпечної папки + усунених ворогів"
 
 #. Difficulty protocol - name (protocol_3)
 #. source: Protocol III
@@ -949,9 +864,7 @@ msgstr "Протокол III"
 #. Difficulty protocol - description (protocol_3)
 #. source: The tertiary difficulty. Earn 32 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_3.description"
-msgstr ""
-"Третя складність. Заробляй 32 Beanz за відкриття Безпечної папки + усунених "
-"ворогів"
+msgstr "Третя складність. Заробляй 32 Beanz за відкриття Безпечної папки + усунених ворогів"
 
 #. Difficulty protocol - name (protocol_4)
 #. source: Protocol IV
@@ -961,9 +874,7 @@ msgstr "Протокол IV"
 #. Difficulty protocol - description (protocol_4)
 #. source: The senior difficulty. Earn 48 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_4.description"
-msgstr ""
-"Четверта складність. Заробляй 48 Beanz за відкриття Безпечної папки + "
-"усунених ворогів"
+msgstr "Четверта складність. Заробляй 48 Beanz за відкриття Безпечної папки + усунених ворогів"
 
 #. Difficulty protocol - name (protocol_5)
 #. source: Protocol V
@@ -978,7 +889,7 @@ msgstr "Подумай ще раз. Втім, отримаєш 64 Beanz за в�
 #. Stat display - name (upgrade_player_armor)
 #. source: Armo(u)r
 msgid "STAT.upgrade_player_armor.name"
-msgstr "Armo(u)r"
+msgstr ""
 
 #. Stat display - description (upgrade_player_armor)
 #. source: Resistence from all incoming Damage. (Exponential)
@@ -1031,7 +942,8 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr "Втрата пакетів"
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
+#, fuzzy
 msgid "STAT.upgrade_player_dodge.description"
 msgstr "Шанс уникнути всієї отриманої шкоди. (Експоненціально)"
 
@@ -1067,11 +979,10 @@ msgid "STAT.upgrade_player_luck.name"
 msgstr "Удача"
 
 #. Stat display - description (upgrade_player_luck)
-#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
+#, fuzzy
 msgid "STAT.upgrade_player_luck.description"
-msgstr ""
-"Підвищує шанси на кращі результати, що збільшує ймовірність отримання "
-"предметів вищої рідкісності, та інших бонусів."
+msgstr "Підвищує шанси на кращі результати, що збільшує ймовірність отримання предметів вищої рідкісності, та інших бонусів."
 
 #. Stat display - name (upgrade_player_magnetism_multi)
 #. source: Magnetism
@@ -1111,9 +1022,7 @@ msgstr "Продуктивність"
 #. Stat display - description (upgrade_player_proc_speed)
 #. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
 msgid "STAT.upgrade_player_proc_speed.description"
-msgstr ""
-"Помножує швидкість обробки всіх файлів, включаючи .zip, .bat, LemWire тощо "
-"(Експоненціально)"
+msgstr "Помножує швидкість обробки всіх файлів, включаючи .zip, .bat, LemWire тощо (Експоненціально)"
 
 #. Stat display - name (upgrade_player_refresh_multi)
 #. source: Weapon Refresh
@@ -1143,9 +1052,7 @@ msgstr "Копії зброї"
 #. Stat display - description (upgrade_player_weap_amount)
 #. source: Chance of additional weapon spawns on attack. Relative to base amount.
 msgid "STAT.upgrade_player_weap_amount.description"
-msgstr ""
-"Шанс появи додаткової зброї під час атаки. Масштабується від базової "
-"кількості."
+msgstr "Шанс появи додаткової зброї під час атаки. Масштабується від базової кількості."
 
 #. Stat display - name (upgrade_player_weap_size)
 #. source: Weapon Size
@@ -1387,8 +1294,7 @@ msgstr "Збільшує максимальні ОЗ на +{percent}."
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_power_multi.description"
-msgstr ""
-"Збільшує силу Відкидання, Жару, Зараження та Лагу зброї на +{percent}%."
+msgstr "Збільшує силу Відкидання, Жару, Зараження та Лагу зброї на +{percent}%."
 
 #. Upgrade card - description (upgrade_player_proc_speed)
 #. source: Increases file opening speed by +{percent}%.
@@ -1444,9 +1350,7 @@ msgstr "Бульбашки"
 #. Upgrade card - description (weapon_bubbles)
 #. source: Giant bubbles float around that add stacks of Infect to enemies.
 msgid "UPGRADE.weapon_bubbles.description"
-msgstr ""
-"Навколо літають гігантські бульбашки, які накладають на ворогів стеки "
-"Зараження."
+msgstr "Навколо літають гігантські бульбашки, які накладають на ворогів стеки Зараження."
 
 #. Upgrade card - name (weapon_cdrive)
 #. source: C: Drive
@@ -1476,8 +1380,7 @@ msgstr "Фаєрвол"
 #. Upgrade card - description (weapon_firewall)
 #. source: Creates a ring of fire around the player that adds stacks of Heat to enemies.
 msgid "UPGRADE.weapon_firewall.description"
-msgstr ""
-"Створює кільце вогню навколо гравця, яке накладає на ворогів стеки Жару."
+msgstr "Створює кільце вогню навколо гравця, яке накладає на ворогів стеки Жару."
 
 #. Upgrade card - name (weapon_fontart)
 #. source: FontArt
@@ -1487,8 +1390,7 @@ msgstr ""
 #. Upgrade card - description (weapon_fontart)
 #. source: Drops letters on the strongest enemy that add stacks of Heat to enemies.
 msgid "UPGRADE.weapon_fontart.description"
-msgstr ""
-"Скидує літери на найсильнішого ворога, які накладають на ворогів стеки Жару."
+msgstr "Скидує літери на найсильнішого ворога, які накладають на ворогів стеки Жару."
 
 #. Upgrade card - name (weapon_hitmarkers)
 #. source: HaD: DoCK
@@ -1508,9 +1410,7 @@ msgstr ""
 #. Upgrade card - description (weapon_paint)
 #. source: Paints circles near the player that damage and add stacks of Lag to enemies over time.
 msgid "UPGRADE.weapon_paint.description"
-msgstr ""
-"Малює кола біля гравця, які завдають шкоди ворогам та з часом накладають "
-"стеки Лагу."
+msgstr "Малює кола біля гравця, які завдають шкоди ворогам та з часом накладають стеки Лагу."
 
 #. Upgrade card - name (weapon_pinball)
 #. source: Pinball
@@ -1555,7 +1455,7 @@ msgstr "Кидає картку, що відскакує, яка наклада�
 #. Upgrade card - name (weapon_fraps)
 #. source: Frames
 msgid "UPGRADE.weapon_fraps.name"
-msgstr "Frames"
+msgstr ""
 
 #. Upgrade card - description (weapon_fraps)
 #. source: Fires flickering FPS numbers. The number shown is the damage dealt.
@@ -1570,8 +1470,7 @@ msgstr "Ятаган"
 #. Upgrade card - description (weapon_scimitar)
 #. source: Slashes above and below the cursor. Extra amount adds alternating slashes.
 msgid "UPGRADE.weapon_scimitar.description"
-msgstr ""
-"Розсічення над і під вказівником. Додаткова кількість додає почергові удари."
+msgstr "Розсічення над і під вказівником. Додаткова кількість додає почергові удари."
 
 #. Upgrade card - name (weapon_sniper)
 #. source: Sniper 1.6
@@ -1581,8 +1480,7 @@ msgstr ""
 #. Upgrade card - description (weapon_sniper)
 #. source: One heavy shot at the strongest enemy. Clears show in a killfeed.
 msgid "UPGRADE.weapon_sniper.description"
-msgstr ""
-"Один потужний постріл у найсильнішого ворога. Усунення з'являється у кілфіді."
+msgstr "Один потужний постріл у найсильнішого ворога. Усунення з'являється у кілфіді."
 
 #. Upgrade card - name (weapon_minesweeper)
 #. source: Mines
@@ -1602,20 +1500,17 @@ msgstr "Електронна пошта"
 #. Upgrade card - description (weapon_email)
 #. source: Envelopes fly out, bounce off walls, and boomerang home hitting both ways.
 msgid "UPGRADE.weapon_email.description"
-msgstr ""
-"Конверти вилітають, відскакують від стін і повертаються назад, вражаючи цілі "
-"в обох напрямках."
+msgstr "Конверти вилітають, відскакують від стін і повертаються назад, вражаючи цілі в обох напрямках."
 
 #. Upgrade card - name (weapon_cruiser)
 #. source: Internet Cruiser
 msgid "UPGRADE.weapon_cruiser.name"
-msgstr "Internet Cruiser"
+msgstr ""
 
 #. Upgrade card - description (weapon_cruiser)
 #. source: Opens a browser tab somewhere on screen. Lingers and applies heavy Lag.
 msgid "UPGRADE.weapon_cruiser.description"
-msgstr ""
-"Відкриває десь на екрані вкладку браузера. Висить і накладає сильний Лаг."
+msgstr "Відкриває десь на екрані вкладку браузера. Висить і накладає сильний Лаг."
 
 #. Upgrade card - name (weapon_orchestra)
 #. source: Orchestra
@@ -1625,9 +1520,7 @@ msgstr ""
 #. Upgrade card - description (weapon_orchestra)
 #. source: Opens a browser tab on the closest enemy on screen. Infects, and sometimes executes.
 msgid "UPGRADE.weapon_orchestra.description"
-msgstr ""
-"Відкриває вкладку браузера на найближчому ворогу на екрані. Заражає, а іноді "
-"й знищує."
+msgstr "Відкриває вкладку браузера на найближчому ворогу на екрані. Заражає, а іноді й знищує."
 
 #. Upgrade card - name (weapon_satellite)
 #. source: WLAN
@@ -1647,8 +1540,7 @@ msgstr "Чат AVN"
 #. Upgrade card - description (weapon_avn)
 #. source: Orbiting chat-bubble beams type out messages and Lag enemies.
 msgid "UPGRADE.weapon_avn.description"
-msgstr ""
-"Бульбашки чату, що кружляють навколо, друкують текст та наносять Лаг ворогам."
+msgstr "Бульбашки чату, що кружляють навколо, друкують текст та наносять Лаг ворогам."
 
 #. Upgrade card - name (weapon_cone)
 #. source: Very Large Cone
@@ -1656,11 +1548,10 @@ msgid "UPGRADE.weapon_cone.name"
 msgstr "ВеЛикий Конус"
 
 #. Upgrade card - description (weapon_cone)
-#. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
+#, fuzzy
 msgid "UPGRADE.weapon_cone.description"
-msgstr ""
-"До вас прилипають помаранчеві дорожні клини, які просмажують Жаром те, на що "
-"вказують."
+msgstr "До вас прилипають помаранчеві дорожні клини, які просмажують Жаром те, на що вказують."
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
@@ -1670,9 +1561,7 @@ msgstr ""
 #. Upgrade card - description (weapon_blatand)
 #. source: Chains dashed Infect links between enemies at a fixed link length.
 msgid "UPGRADE.weapon_blatand.description"
-msgstr ""
-"Між ворогами зв'язуються штриховані ланки з фіксованою довжиною. Інфікують "
-"ворогів"
+msgstr "Між ворогами зв'язуються штриховані ланки з фіксованою довжиною. Інфікують ворогів"
 
 #. Upgrade card - name (weapon_modem)
 #. source: Output Device
@@ -1680,9 +1569,10 @@ msgid "UPGRADE.weapon_modem.name"
 msgstr "Пристрій виведення"
 
 #. Upgrade card - description (weapon_modem)
-#. source: Blasts concentric handshake rings outward from the cursor.
+#. source: Blasts sound rings outward from the cursor.
+#, fuzzy
 msgid "UPGRADE.weapon_modem.description"
-msgstr "Випускає з курсора концентричні кільця рукостискання."
+msgstr "Випускає з вказівника концентричні кільця з’єднання."
 
 #. Weapon metadata
 #. source: FPS counter
@@ -1715,7 +1605,8 @@ msgid "WEAPON.cruiser.spawn_noun"
 msgstr "додаткової вкладки"
 
 #. Weapon metadata
-#. source: trap
+#. source: tab
+#, fuzzy
 msgid "WEAPON.orchestra.spawn_noun"
 msgstr "додаткової вкладки"
 
@@ -2030,9 +1921,19 @@ msgid "SETTINGS.music_volume"
 msgstr "Гучність музики"
 
 #. Settings menu
+#. source: SFX Volume
+msgid "SETTINGS.sfx_volume"
+msgstr "Гучність ефектів"
+
+#. Settings menu
 #. source: Keygen Volume
 msgid "SETTINGS.keygen_volume"
 msgstr "Звук keygen"
+
+#. Settings menu
+#. source: Main Menu Computer Sound
+msgid "SETTINGS.menu_computer_sound"
+msgstr ""
 
 #. Settings menu
 #. source: Animation Speed
@@ -2067,16 +1968,12 @@ msgstr "Розмір, у якому гра відображається у ві�
 #. Settings menu
 #. source: Lock the frame rate to your display to prevent tearing.
 msgid "SETTINGS.vsync_tip"
-msgstr ""
-"Зафіксовує частоту кадрів відповідно до вашого дисплея, щоб уникнути ефекту "
-"«розриву зображення»."
+msgstr "Зафіксовує частоту кадрів відповідно до вашого дисплея, щоб уникнути ефекту «розриву зображення»."
 
 #. Settings menu
 #. source: Maximum frames per second. Unlimited uses your hardware's limit.
 msgid "SETTINGS.fps_cap_tip"
-msgstr ""
-"Максимальна кількість кадрів на секунду. «Необмежений» використовує "
-"максимальну продуктивність вашого обладнання."
+msgstr "Максимальна кількість кадрів на секунду. «Необмежений» використовує максимальну продуктивність вашого обладнання."
 
 #. Settings menu
 #. source: Strength of the CRT scanline filter over the screen.
@@ -2099,9 +1996,19 @@ msgid "SETTINGS.music_volume_tip"
 msgstr "Гучність для ігрового саундтреку."
 
 #. Settings menu
+#. source: Volume for sound effects.
+msgid "SETTINGS.sfx_volume_tip"
+msgstr ""
+
+#. Settings menu
 #. source: Volume for Keygen windows that play their own track.
 msgid "SETTINGS.keygen_volume_tip"
 msgstr "Гучність для keygen вікон, які відтворюють власну музику."
+
+#. Settings menu
+#. source: Play the computer humming sound on the main menu.
+msgid "SETTINGS.menu_computer_sound_tip"
+msgstr ""
 
 #. Settings menu
 #. source: Language for menus and in-game text.
@@ -2116,15 +2023,12 @@ msgstr "Швидкість відтворення анімацій інтерф�
 #. Settings menu
 #. source: How fast the cursor moves with the stick or keys in menus.
 msgid "SETTINGS.menu_cursor_speed_tip"
-msgstr ""
-"Швидкість переміщення вказівника за допомогою джойстика або клавіш у меню."
+msgstr "Швидкість переміщення вказівника за допомогою джойстика або клавіш у меню."
 
 #. Settings menu
 #. source: Control your cursor with the mouse in Safe Folders. Battle Folders always use WASD or the left stick.
 msgid "SETTINGS.admin_cursor_tip"
-msgstr ""
-"Керуй вказівником за допомогою миші в безпечних папках. В бойових папках "
-"працює тільки WASD або лівий стік."
+msgstr "Керуй вказівником за допомогою миші в безпечних папках. В бойових папках працює тільки WASD або лівий стік."
 
 #. Settings menu
 #. source: Vibrate the controller when taking damage.
@@ -2386,10 +2290,7 @@ msgstr "Вхід виконано"
 #. Login screen - click your user name prompt
 #. source: To begin, click your user name.\nAfter you log on, you can change profiles.\nJust click on your name at the top of the menu.
 msgid "UI.login_prompt"
-msgstr ""
-"Щоб розпочати, натисніть на своє ім’я користувача.\n"
-"Після входу ви зможете змінювати профілі.\n"
-"Просто натисніть на своє ім’я у верхній частині меню."
+msgstr "Щоб розпочати, натисніть на своє ім’я користувача.\nПісля входу ви зможете змінювати профілі.\nПросто натисніть на своє ім’я у верхній частині меню."
 
 #. Login screen - turn off computer button
 #. source: Turn off computer
@@ -2683,6 +2584,46 @@ msgstr "Профіль.xls - Antivirus Survivors"
 msgid "UI.start_menu_tasks_stats"
 msgstr "Завдання та статистика"
 
+#. Credits window - title, also the desktop icon name
+#. source: Credits
+msgid "CREDITS.window_title"
+msgstr "Титри"
+
+#. Credits window - role title
+#. source: Development, Art, Music etc.
+msgid "CREDITS.solo_developer"
+msgstr "Розробка, візуал, музика і так далі."
+
+#. Credits window - role title
+#. source: Producer
+msgid "CREDITS.producer"
+msgstr "Продюсер"
+
+#. Credits window - role title. Keep the name Virry.
+#. source: Animator (Virry)
+msgid "CREDITS.animation_virry"
+msgstr "Аніматорка (Virry)"
+
+#. Credits window - role title
+#. source: Community QA
+msgid "CREDITS.community_qa"
+msgstr "QA спільноти"
+
+#. Credits window - role title
+#. source: Community Translators
+msgid "CREDITS.community_translators"
+msgstr "Перекладачі спільноти"
+
+#. Credits window - role title
+#. source: Special Thanks
+msgid "CREDITS.special_thanks"
+msgstr "Особлива подяка"
+
+#. Credits window - note under Special Thanks
+#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
+msgid "CREDITS.special_thanks_note"
+msgstr "Величезне спасибі всім вам за допомогу в здійсненні цієї мрії. Я вас всіх люблю! -Shaun"
+
 #. Profile stats window - statistics tab
 #. source: Stats
 msgid "UI.stats_tab"
@@ -2696,9 +2637,7 @@ msgstr "Завдання"
 #. Tasks screen - sort completed toggle
 #. source: Sort by Completed
 msgid "UI.task_sort_completed"
-msgstr ""
-"Сортувати за \n"
-"завершеними"
+msgstr "Сортувати за \nзавершеними"
 
 #. Tasks footer - categories cycle label next to key icons
 #. source: Categories
@@ -2708,59 +2647,42 @@ msgstr "Категорії"
 #. Virry blurb - statistics mode
 #. source: Your run records live in these sheet. Switch to Tasks for unlocks.
 msgid "UI.task_virry_stats"
-msgstr ""
-"Ваші записи про забіги зберігаються в цих аркушах. Перейдіть у розділ "
-"\"Завдання\" для розблокувань."
+msgstr "Ваші записи про забіги зберігаються в цих аркушах. Перейдіть у розділ \"Завдання\" для розблокувань."
 
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_weapons"
-msgstr ""
-"Виконуй завдання для зброї, а потім купляй її у «Додати/Видалити "
-"розблокування»."
+msgstr "Виконуй завдання для зброї, а потім купляй її у «Додати/Видалити розблокування»."
 
 #. Virry blurb - cursor class tasks
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_classes"
-msgstr ""
-"Класи вказівників змінюють те, як ти ведеш бій. Розблокуй один із них, а "
-"потім придбай його в розділі «Додати/Видалити розблокування»."
+msgstr "Класи вказівників змінюють те, як ти ведеш бій. Розблокуй один із них, а потім придбай його в розділі «Додати/Видалити розблокування»."
 
 #. Virry blurb - plugin tasks
 #. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_plugins"
-msgstr ""
-"Плаґіни надають пасивні здібності, які можна отримати відкриваючи "
-"інсталятори. Виконуй завдання, а потім купляй їх у «Додати/Видалити "
-"розблокування»."
+msgstr "Плаґіни надають пасивні здібності, які можна отримати відкриваючи інсталятори. Виконуй завдання, а потім купляй їх у «Додати/Видалити розблокування»."
 
 #. Virry blurb - weapon driver tasks
 #. source: Weapon Drivers upgrade a weapon's with unique additions. When unlocked reach levels 8, 16 and 24 to obtain them.
 msgid "UI.task_virry_drivers"
-msgstr ""
-"Драйвери надають зброї унікальні доповнення. Їх можна розблокувати на 8, 16 "
-"та 24 рівнях."
+msgstr "Драйвери надають зброї унікальні доповнення. Їх можна розблокувати на 8, 16 та 24 рівнях."
 
 #. Virry blurb - files tasks
 #. source: Safe Files, Battle Files, and Special Files. Unlock them, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_files"
-msgstr ""
-"Безпечні файли, бойові файли та особливі файли. Розблоковуй їх, а потім "
-"купляй їх у «Додати/Видалити розблокування»."
+msgstr "Безпечні файли, бойові файли та особливі файли. Розблоковуй їх, а потім купляй їх у «Додати/Видалити розблокування»."
 
 #. Virry blurb - theme tasks
 #. source: Themes dress up the desktop. When unlocked they can be applied in the Personalise menu.
 msgid "UI.task_virry_themes"
-msgstr ""
-"Теми прикрашають робочий стіл. Після розблокування їх можна застосувати в "
-"меню персоналізації."
+msgstr "Теми прикрашають робочий стіл. Після розблокування їх можна застосувати в меню персоналізації."
 
 #. Virry blurb - policy tasks
 #. source: Complete a Protocol with each Policy, then Domain Policies. Protocol V is the hard set.
 msgid "UI.task_virry_policies"
-msgstr ""
-"Заверши Протокол з кожною політикою, а потім політикою домену. Протокол V "
-"дуже складний."
+msgstr "Заверши Протокол з кожною політикою, а потім політикою домену. Протокол V дуже складний."
 
 #. Virry blurb - general milestones
 #. source: General milestones. Mostly Beanz rewards.
@@ -2940,9 +2862,7 @@ msgstr "Спам-атака рекламою"
 #. Profile stats - failed file opens tooltip
 #. source: Spam popups spawned from failed Zip or Download More RAM opens.
 msgid "UI.stat_failed_files_desc"
-msgstr ""
-"Cпливаючі вікна зі спамом, що з’являються через невдале розпакування zip-"
-"файлу або спроби завантажити більше ОЗП."
+msgstr "Cпливаючі вікна зі спамом, що з’являються через невдале розпакування zip-файлу або спроби завантажити більше ОЗП."
 
 #. Profile stats - rar files opened tooltip
 #. source: Rar archives completed.
@@ -3145,9 +3065,7 @@ msgstr ""
 #. source: Special Files spawn during battle. While one is active, hold {special} to use it.
 #. Keep placeholders unchanged: {special}
 msgid "UI.vapor_store_intro"
-msgstr ""
-"Під час бою з'являються особливі файли. Поки один з них активний, утримуй "
-"{special} щоб використати його."
+msgstr "Під час бою з'являються особливі файли. Поки один з них активний, утримуй {special} щоб використати його."
 
 #. Vapor store - featured weapon heading
 #. source: Featured Weapon
@@ -3172,8 +3090,7 @@ msgstr "Додати/Видалити розблокування"
 #. Add/Remove Unlocks - weapons tab intro
 #. source: Unlock new weapons to start with and choose during runs.
 msgid "UI.features_store_intro_weapons"
-msgstr ""
-"Розблоковуй нову зброю, з якої можна почати, або обирати під час забігів."
+msgstr "Розблоковуй нову зброю, з якої можна почати, або обирати під час забігів."
 
 #. Add/Remove Unlocks - cursors tab intro
 #. source: Unlock new Cursor Classes to start with.
@@ -3188,14 +3105,12 @@ msgstr "Розблоковуй нові плаґіни, які можна вст
 #. Add/Remove Unlocks - safe files tab intro
 #. source: Unlock new file types to use in Safe Folders.
 msgid "UI.features_store_intro_safe_files"
-msgstr ""
-"Розблоковуй нові типи файлів, які можна використати в безпечних папках."
+msgstr "Розблоковуй нові типи файлів, які можна використати в безпечних папках."
 
 #. Add/Remove Unlocks - battle files tab intro
 #. source: Unlock new file types to spawn during battle rounds.
 msgid "UI.features_store_intro_battle_files"
-msgstr ""
-"Розблоковуй нові типи файлів, які можуть з'явитися під час бойових раундів."
+msgstr "Розблоковуй нові типи файлів, які можуть з'явитися під час бойових раундів."
 
 #. UI (script-driven)
 #. source: Weapons
@@ -3349,8 +3264,7 @@ msgstr "Заверши один раз %s або вище, щоб ввімкну
 #. source: Complete 3 different Policies on %s or higher to enable Domain Policies.
 #. Keep placeholders unchanged: %s
 msgid "UI.domain_policies_locked"
-msgstr ""
-"Заверши 3 різні політики на %s або вище, щоб ввімкнути політики домену."
+msgstr "Заверши 3 різні політики на %s або вище, щоб ввімкнути політики домену."
 
 #. UI (script-driven)
 #. source: Run Beanz: x%.2f
@@ -3432,9 +3346,7 @@ msgstr "Незавершений"
 #. UI (script-driven)
 #. source: Control your cursor with the mouse in Safe Folders.[br]Battle Folders always use WASD or the left stick.
 msgid "UI.admin_mouse_tooltip"
-msgstr ""
-"Керуй вказівником за допомогою миші в безпечних папках. [br]В бойових папках "
-"працює тільки WASD або лівий стік."
+msgstr "Керуй вказівником за допомогою миші в безпечних папках. [br]В бойових папках працює тільки WASD або лівий стік."
 
 #. UI (script-driven)
 #. source: Reroll Locked
@@ -3575,29 +3487,22 @@ msgstr "Недостатньо ключів :("
 #. Starter folder weapons category help
 #. source: Your first of four weapons for the run. You'll pick more as you level up.
 msgid "UI.starter_help_weapons"
-msgstr ""
-"Ваша перша зброя в забігу. З підвищенням рівня ви зможете обирати й інші."
+msgstr "Ваша перша зброя в забігу. З підвищенням рівня ви зможете обирати й інші."
 
 #. Starter folder cursor class category help
 #. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
 msgid "UI.starter_help_cursor"
-msgstr ""
-"Класи вказівників визначають базові характеристики. Усі поліпшення множать "
-"ці базові значення."
+msgstr "Класи вказівників визначають базові характеристики. Усі поліпшення множать ці базові значення."
 
 #. Starter folder difficulty category help
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
 msgid "UI.starter_help_difficulty"
-msgstr ""
-"Складність папки визначає правила забігу: інтенсивність атак ворогів, "
-"нагороди та те, що ви зможете розблокувати."
+msgstr "Складність папки визначає правила забігу: інтенсивність атак ворогів, нагороди та те, що ви зможете розблокувати."
 
 #. Starter folder policies category help
 #. source: Optional extra rules on top of the protocol. Completing them earns more Beanz.
 msgid "UI.starter_help_policies"
-msgstr ""
-"Необов'язкові правила на додачу до протокола. Їх виконання дозволить "
-"заробити більше Beanz."
+msgstr "Необов'язкові правила на додачу до протокола. Їх виконання дозволить заробити більше Beanz."
 
 #. Starter folder button that reopens the tutorial guide
 #. source: Guide
@@ -3607,7 +3512,7 @@ msgstr "Посібник"
 #. Tutorial next-page button
 #. source: Next
 msgid "UI.next"
-msgstr "Наступна"
+msgstr "Далі"
 
 #. Tutorial window title
 #. source: Quick Start Guide
@@ -3618,94 +3523,47 @@ msgstr "Короткий посібник"
 #. source: Welcome to {game}!\n\nI'm Virry, and I'm going to take you through some basics of how to play.
 #. Keep placeholders unchanged: {game}
 msgid "UI.tutorial_1_body"
-msgstr ""
-"Ласкаво просимо до {game}!\n"
-"Мене звати Віррі, і я тобі розповім як грати в цю гру."
+msgstr "Ласкаво просимо до {game}!\nМене звати Віррі, і я тобі розповім як грати в цю гру."
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
 #. Keep placeholders unchanged: {move}, {click}, {drag}
 msgid "UI.tutorial_2_body"
-msgstr ""
-"Розпочнемо з руху. Використовуй {move}, щоб рухатись по екрану.\n"
-"Клацай за допомогою {click}, і не забувай клацати двічі, щоб відкрити "
-"файли.\n"
-"Також, ти можеш затиснути {drag}, щоб перетягувати файли і рухати їх по всій "
-"папці."
+msgstr "Розпочнемо з руху. Використовуй {move}, щоб рухатись по екрану.\nКлацай за допомогою {click}, і не забувай клацати двічі, щоб відкрити файли.\nТакож, ти можеш затиснути {drag}, щоб перетягувати файли і рухати їх по всій папці."
 
 #. Tutorial page 3 - class, protocol, policies
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
-msgstr ""
-"Для початку ти можеш обрати {class} та {difficulty}.\n"
-"\n"
-"Поки що, давай оберемо {default} вказівник — інші стануть доступними в "
-"процесі гри.\n"
-"\n"
-"Вибери «Протокол I–III». Це {difficulty}.\n"
-"\n"
-"Завершення протоколу розблокує {policies}, які нададуть додаткові виклики.\n"
-"\n"
-"Тож обирай свій {class} та {difficulty} вже зараз!"
+msgstr "Для початку ти можеш обрати {class} та {difficulty}.\n\nПоки що, давай оберемо {default} вказівник — інші стануть доступними в процесі гри.\n\nВибери «Протокол I–III». Це {difficulty}.\n\nЗавершення протоколу розблокує {policies}, які нададуть додаткові виклики.\n\nТож обирай свій {class} та {difficulty} вже зараз!"
 
 #. Tutorial page 4 - {drivers}
 #. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
 #. Keep placeholders unchanged: {drivers}
 msgid "UI.tutorial_4_body"
-msgstr ""
-"Для початку, ти можеш обрати одну стартову зброю.\n"
-"\n"
-"Просуваючись у забігу та підвищуючи рівень, ти зможеш додавати до свого "
-"набору все більше зброї.\n"
-"Під час підвищення рівня ти також зможеш обирати між поліпшеннями зброї та "
-"гравця, щоб підвищити свої характеристики.\n"
-"\n"
-"Коли твоя зброя досягне певних рівнів, ти розблокуєш {drivers}, які надають "
-"індивідуальні покращення."
+msgstr "Для початку, ти можеш обрати одну стартову зброю.\n\nПросуваючись у забігу та підвищуючи рівень, ти зможеш додавати до свого набору все більше зброї.\nПід час підвищення рівня ти також зможеш обирати між поліпшеннями зброї та гравця, щоб підвищити свої характеристики.\n\nКоли твоя зброя досягне певних рівнів, ти розблокуєш {drivers}, які надають індивідуальні покращення."
 
 #. Tutorial page 5 - {safe}
 #. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
 #. Keep placeholders unchanged: {safe}
 msgid "UI.tutorial_5_body"
-msgstr ""
-"Мета гри — вижити.\n"
-"\n"
-"У грі 5 раундів по 5 хвилин. Щоб перейти до наступного раунду, потрібно "
-"дістатися до {safe} наприкінці кожного раунду."
+msgstr "Мета гри — вижити.\n\nУ грі 5 раундів по 5 хвилин. Щоб перейти до наступного раунду, потрібно дістатися до {safe} наприкінці кожного раунду."
 
 #. Tutorial page 6
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
-msgstr ""
-"Щоб вижити:\n"
-"Уникай ворогів, збирай досвід і монети, отримуй поліпшення та відкривай "
-"файли.\n"
-"\n"
-"Деякі файли ризиково відкривати, для деяких потрібні ключі, а деякі просто "
-"дають гарантовані нагороди.\n"
-"\n"
-"Крім того, у правому верхньому куті кожного раунду з’являтиметься побічне "
-"завдання, за виконання якого можна отримати бонуси."
+msgstr "Щоб вижити:\nУникай ворогів, збирай досвід і монети, отримуй поліпшення та відкривай файли.\n\nДеякі файли ризиково відкривати, для деяких потрібні ключі, а деякі просто дають гарантовані нагороди.\n\nКрім того, у правому верхньому куті кожного раунду з’являтиметься побічне завдання, за виконання якого можна отримати бонуси."
 
 #. Tutorial page 7 - {safe} {vapor}
 #. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
 #. Keep placeholders unchanged: {safe}, {vapor}
 msgid "UI.tutorial_7_body"
-msgstr ""
-"Заробляй Beanz, усуваючи ворогів і встигаючи вчасно дістатися до {safe}.\n"
-"\n"
-"Отримуй додаткові Beanz за виконання завдань.\n"
-"\n"
-"Витрачай свої Beanz на нові класи вказівників, зброю, поліпшення "
-"характеристик, плаґіни, файли, {vapor} предмети та багато іншого!"
+msgstr "Заробляй Beanz, усуваючи ворогів і встигаючи вчасно дістатися до {safe}.\n\nОтримуй додаткові Beanz за виконання завдань.\n\nВитрачай свої Beanz на нові класи вказівників, зброю, поліпшення характеристик, плаґіни, файли, {vapor} предмети та багато іншого!"
 
 #. Tutorial page 8
 #. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
 msgid "UI.tutorial_8_body"
-msgstr ""
-"Що ж, наразі це все!\n"
-"Тож обирай свою першу зброю, грай, виживай та насолоджуйся грою :)"
+msgstr "Що ж, наразі це все!\nТож обирай свою першу зброю, грай, виживай та насолоджуйся грою :)"
 
 #. Plus! cleared. %s is the elite name, %s is the dropped filename
 #. source: %s cleared, %s dropped.
@@ -3886,29 +3744,7 @@ msgstr "Ви перемогли!"
 #. source: A fatal exception has occurred and the system has been terminated to prevent corruption.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nIf this is the first time you've seen this termination screen, restart your system.\nIf this screen appears again, internal modules may have been compromised.\n\nPlease verify the integrity of your installed components. Unexpected behavior may\nindicate corrupted memory, invalid packet injection, or unauthorized script execution.\n\nIf the issue persists, perform a secure reboot or contact your system's internal administrator.\n\nTechnical Dump:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nBeginning forced shutdown...\nMemory cache flushed.\n\nPress {click} to continue. {tab} for stats
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
-msgstr ""
-"Сталося фатальне виключення, і система була зупинена, щоб запобігти "
-"пошкодженню даних.\n"
-"CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
-"\n"
-"Якщо ви бачите цей екран завершення роботи вперше, перезапустіть систему.\n"
-"Якщо цей екран з’явиться знову, це може свідчити про порушення цілісності "
-"внутрішніх модулів.\n"
-"\n"
-"Будь ласка, перевірте цілісність встановлених компонентів. Несподівана "
-"поведінка може\n"
-"вказувати на пошкодження пам’яті, введення недійсних пакетів або "
-"несанкціоноване виконання скриптів.\n"
-"Якщо проблема не зникне, виконайте безпечний перезапуск або зверніться до "
-"внутрішнього адміністратора вашої системи.\n"
-"\n"
-"Технічний дамп:\n"
-"STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n"
-"\n"
-"Починається примусове вимкнення...\n"
-"Кеш пам’яті очищено.\n"
-"\n"
-"Натисніть {click}, щоб продовжити. {tab} — для статистики"
+msgstr "Сталося фатальне виключення, і система була зупинена, щоб запобігти пошкодженню даних.\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nЯкщо ви бачите цей екран завершення роботи вперше, перезапустіть систему.\nЯкщо цей екран з’явиться знову, це може свідчити про порушення цілісності внутрішніх модулів.\n\nБудь ласка, перевірте цілісність встановлених компонентів. Несподівана поведінка може\nвказувати на пошкодження пам’яті, введення недійсних пакетів або несанкціоноване виконання скриптів.\nЯкщо проблема не зникне, виконайте безпечний перезапуск або зверніться до внутрішнього адміністратора вашої системи.\n\nТехнічний дамп:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nПочинається примусове вимкнення...\nКеш пам’яті очищено.\n\nНатисніть {click}, щоб продовжити. {tab} — для статистики"
 
 #. Browser address-bar caption
 #. source: Address
@@ -3990,9 +3826,7 @@ msgstr "Завантажити"
 #. Vapidshare part tooltip while another part is downloading
 #. source: Another part is downloading. Get Vapidshare Pro for simultaneous downloads.
 msgid "CLICKABLE.vapid_part_busy"
-msgstr ""
-"Інша частина в процесі завантаження. Придбайте Vapidshare Pro для одночасних "
-"завантажень."
+msgstr "Інша частина в процесі завантаження. Придбайте Vapidshare Pro для одночасних завантажень."
 
 #. Shop / upgrade screen - reroll button
 #. source: Reroll: %.2f Coin
@@ -4371,8 +4205,7 @@ msgstr ""
 #. UI (script-driven)
 #. source: Heal now, or upgrade Health Check files for later battles.
 msgid "UI.unlock_file_health_check_pro_desc"
-msgstr ""
-"Відновлюйте ОЗ зараз, або поліпшіть \"Перевірку стану\" для наступних битв."
+msgstr "Відновлюйте ОЗ зараз, або поліпшіть \"Перевірку стану\" для наступних битв."
 
 #. UI (script-driven)
 #. source: Health Check Plus
@@ -4382,7 +4215,7 @@ msgstr "Перевірка стану Плюс"
 #. UI (script-driven)
 #. source: Invest Coin between battles and cash out later.
 msgid "UI.unlock_file_stock_trader_desc"
-msgstr "Вкладайте монети між раундами, щоб потім вивести на рахунок."
+msgstr "Вкладайте монети між раундами, щоб потім вивести їх на рахунок."
 
 #. UI (script-driven)
 #. source: Finance Manager
@@ -4392,9 +4225,7 @@ msgstr "Фінансовий менеджер"
 #. Unlock description - Ethanol 130% safe file
 #. source: Pay Coin to copy a random plugin you already have installed.
 msgid "UI.unlock_file_ethanol_desc"
-msgstr ""
-"Заплатіть монетою, щоб скопіювати випадковий плаґін, який у вас уже "
-"встановлено."
+msgstr "Заплатіть монетою, щоб скопіювати випадковий плаґін, який у вас уже встановлено."
 
 #. Unlock reward - Ethanol 130% name
 #. source: Ethanol 130%
@@ -4439,12 +4270,12 @@ msgstr "Встановити 3 міфічних плаґіни"
 #. UI (script-driven)
 #. source: Spend 3 Keys for a legendary plugin install.
 msgid "UI.unlock_file_legendary_installer_desc"
-msgstr "Витратьте 3 ключі, щоб встановити легендарний плаґін."
+msgstr "Витратьте 3 ключі, щоб встановити міфічний плаґін."
 
 #. UI (script-driven)
 #. source: Legendary Installer
 msgid "UI.unlock_file_legendary_installer_reward"
-msgstr "Легендарний інсталятор"
+msgstr "Міфічний інсталятор"
 
 #. UI (script-driven)
 #. source: Defeat a Plus! enemy in 10 seconds
@@ -4454,9 +4285,7 @@ msgstr "Здолайте \"Плюс!\" ворога за 10 секунд"
 #. UI (script-driven)
 #. source: Install Morgan Antivirus to raise difficulty and spawn extra Plus! enemies.
 msgid "UI.unlock_file_morgan_av_desc"
-msgstr ""
-"Встановіть антивірус Morgan, щоб підвищити складність та згенерувати "
-"додаткових \"Плюс!\" ворогів."
+msgstr "Встановіть антивірус Morgan, щоб підвищити складність та згенерувати додаткових \"Плюс!\" ворогів."
 
 #. UI (script-driven)
 #. source: Bonus Beanz
@@ -4578,9 +4407,7 @@ msgstr "Потрібна активація"
 #. Optional extra difficulty policy - description (unsigned_driver)
 #. source: Keygen files do not spawn. Get plugins from cracked installers, or buy Keys at the Key Shop.
 msgid "POLICY.unsigned_driver.description"
-msgstr ""
-"Файли keygen не з'являються. Отримуйте плаґіни з крекнутих інсталяторів, або "
-"купуйте ключі в Магазині ключів."
+msgstr "Файли keygen не з'являються. Отримуйте плаґіни з крекнутих інсталяторів, або купуйте ключі в Магазині ключів."
 
 #. Optional extra difficulty policy - name (read_only)
 #. source: Read Only
@@ -4663,18 +4490,14 @@ msgid "POLICY.open_relay.description"
 msgstr "Кожен бойовий файл має всередині спам."
 
 #. Optional extra difficulty policy - name (default_domain_policy)
-#. source: Default Domain Policy
+#. source: Natasha's Wrath
 msgid "POLICY.default_domain_policy.name"
 msgstr "Політика домену за замовчуванням"
 
 #. Optional extra difficulty policy - description (default_domain_policy)
 #. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
 msgid "POLICY.default_domain_policy.description"
-msgstr ""
-"Усі стандартні політики ввімкнені одночасно. Вороги швидші, міцніші та "
-"численніші. Поточний запас здоров’я зменшується вдвічі в кожній бойовій "
-"папці. Додаткова зброя, генератори ключів та повторні спроби заборонені. "
-"Порожнеча подвоюється. Таймер втечі скорочується вдвічі."
+msgstr "Усі стандартні політики ввімкнені одночасно. Вороги швидші, міцніші та численніші. Поточний запас здоров’я зменшується вдвічі в кожній бойовій папці. Додаткова зброя, генератори ключів та повторні спроби заборонені. Порожнеча подвоюється. Таймер втечі скорочується вдвічі."
 
 #. Policy complete unlock requirement template
 #. source: Complete any protocol using {policy}
@@ -4736,9 +4559,7 @@ msgstr "Витрати {cost} монет за 1 ключ"
 #. source: Sell 1 Key for {cost} Coin.\nMarketplace fee keeps {fee} Coin.
 #. Keep placeholders unchanged: {cost}, {fee}
 msgid "UI.keybuy_sell_tooltip"
-msgstr ""
-"Продати 1 ключ за {cost} монет\n"
-"Комісія торговельного майданчика становить {fee} монет."
+msgstr "Продати 1 ключ за {cost} монет\nКомісія торговельного майданчика становить {fee} монет."
 
 #. KeyBuy nav links under the logo
 #. source: home | buy | sell | my keys | help
@@ -4773,9 +4594,7 @@ msgstr "Поліпшено"
 #. Health Check Pro upgrade-files tooltip
 #. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
-msgstr ""
-"В наступних боях, файли перевірок стану будуть залишати більше здоров'я в "
-"цьому забігу."
+msgstr "В наступних боях, файли перевірок стану будуть залишати більше здоров'я в цьому забігу."
 
 #. Health Check Pro heal tooltip
 #. source: Restore 50% of your Max HP right now.
@@ -4800,9 +4619,7 @@ msgstr "Експрес-ремонт"
 #. Health Check Pro file-upgrade explanation
 #. source: Upgrading makes Health Check files in battle drop more hearts.
 msgid "UI.health_check_pro_file_blurb"
-msgstr ""
-"Після поліпшення, файли перевірок стану залишатимуть більше здоров'я під час "
-"бою."
+msgstr "Після поліпшення, файли перевірок стану залишатимуть більше здоров'я під час бою."
 
 #. Health Check Pro current heart range
 #. source: Now: {min}–{max} HP
@@ -4862,9 +4679,7 @@ msgstr "Позиція"
 #. Finance Manager run-stats group
 #. source: Run Stats
 msgid "UI.stock_trader_group_run"
-msgstr ""
-"Статистика\n"
-"забігу"
+msgstr "Статистика\nзабігу"
 
 #. Finance Manager wallet group
 #. source: Wallet
@@ -4949,9 +4764,7 @@ msgstr "Зніміть кошти з поточної інвестиції і п
 #. Ethanol 130% window explanation
 #. source: Pay Coin to roll a copy of a random plugin you already have installed.
 msgid "UI.ethanol_body"
-msgstr ""
-"Заплатіть монетою, щоб отримати копію випадкового плаґіна, який у вас уже "
-"встановлено."
+msgstr "Заплатіть монетою, щоб отримати копію випадкового плаґіна, який у вас уже встановлено."
 
 #. Ethanol 130% copy button
 #. source: Copy: {cost} Coin
@@ -5052,8 +4865,6 @@ msgstr "Двічі клацніть, щоб грати"
 
 #. Desktop icon tooltip
 #. source: Double-Click to skip track
-#, fuzzy
-#| msgid "CLICKABLE.double_click_shop"
 msgid "CLICKABLE.double_click_shuffle"
 msgstr "Двічі клацніть, щоб пропустити трек"
 
@@ -5102,9 +4913,7 @@ msgstr "Двічі клацніть, щоб змінити мову"
 #. Desktop icon tooltip
 #. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
 msgid "CLICKABLE.github_translations"
-msgstr ""
-"Двічі клацніть, щоб відкрити посилання[br]Переклади в грі були надані "
-"завдяки неймовірному внеску спільноти."
+msgstr "Двічі клацніть, щоб відкрити посилання[br]Переклади в грі були надані завдяки неймовірному внеску спільноти."
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
@@ -5252,17 +5061,13 @@ msgstr ""
 #. source: Extracting file: \n%s from /.???
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracting"
-msgstr ""
-"Розпакування: \n"
-"%s з /.???"
+msgstr "Розпакування: \n%s з /.???"
 
 #. Zip extractor window
 #. source: Estimated time left: {m}m {s}s ({cur} KB of {max} KB) \nProcessing rate: {rate} KB/Sec
 #. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
 msgid "ZIP.progress"
-msgstr ""
-"Залишилося приблизно: {m}хв {s}с ({cur} КБ з {max} КБ)\n"
-"Швидкість: {rate} КБ/Сек"
+msgstr "Залишилося приблизно: {m}хв {s}с ({cur} КБ з {max} КБ)\nШвидкість: {rate} КБ/Сек"
 
 #. Zip extractor window
 #. source: %s extracted successfully.
@@ -5384,8 +5189,7 @@ msgstr "Результат"
 #. Run stats panel row
 #. source: Run score from clears, levels, safe folders, and a completion bonus.
 msgid "RUNSTAT.score_desc"
-msgstr ""
-"Очки за усунення, проходження рівнів, безпечних папок та бонус за завершення."
+msgstr "Очки за усунення, проходження рівнів, безпечних папок та бонус за завершення."
 
 #. Run stats panel row
 #. source: Class
@@ -5473,9 +5277,7 @@ msgstr "Кількість зібраних ключів в останній б�
 #. Safe Folder explorer - last round Beanz tooltip
 #. source: Beanz earned in the last Battle Folder, including the Safe Folder award.
 msgid "RUNSTAT.last_round_beanz_desc"
-msgstr ""
-"Зароблено Beanz в попередній бойовій папці, включаючи нагороду Безпечної "
-"папки."
+msgstr "Зароблено Beanz в попередній бойовій папці, включаючи нагороду Безпечної папки."
 
 #. Run and last-round DPS label
 #. source: DPS
@@ -5632,9 +5434,7 @@ msgstr "Розігнаний"
 #. Weapon driver / overclock card - description (overclocked)
 #. source: Multiply Damage 1.6x.\nReduce Refresh -15%.
 msgid "DRIVER.overclocked.description"
-msgstr ""
-"Помножує шкоду на 1.6x\n"
-"Зменшує оновлення -15%."
+msgstr "Помножує шкоду на 1.6x\nЗменшує оновлення -15%."
 
 #. Weapon driver / overclock card - name (hyperthreaded)
 #. source: Hyperthreaded
@@ -5644,9 +5444,7 @@ msgstr "Гіперпотоковість"
 #. Weapon driver / overclock card - description (hyperthreaded)
 #. source: Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.hyperthreaded.description"
-msgstr ""
-"+2 до кількості.\n"
-"Зменшує шкоду на -20%."
+msgstr "+2 до кількості.\nЗменшує шкоду на -20%."
 
 #. Weapon driver / overclock card - name (turbo_clock)
 #. source: Turbo Clock
@@ -5656,9 +5454,7 @@ msgstr "Турбо розгін"
 #. Weapon driver / overclock card - description (turbo_clock)
 #. source: Increase Speed +50%.\nReduce Power -15%.
 msgid "DRIVER.turbo_clock.description"
-msgstr ""
-"Збільшує швидкість на +50%.\n"
-"Зменшує потужність на -15%."
+msgstr "Збільшує швидкість на +50%.\nЗменшує потужність на -15%."
 
 #. Weapon driver / overclock card - name (bloated_cache)
 #. source: Bloated Cache
@@ -5698,9 +5494,7 @@ msgstr "Фрагментований"
 #. Weapon driver / overclock card - description (avd_fragmented)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.avd_fragmented.description"
-msgstr ""
-"При відскоку від стіни: розділяється на дві половини.\n"
-"Копії можуть розділятися лише один раз."
+msgstr "При відскоку від стіни: розділяється на дві половини.\nКопії можуть розділятися лише один раз."
 
 #. Weapon driver / overclock card - name (avn_away)
 #. source: Away Message
@@ -5710,10 +5504,7 @@ msgstr "Автовідповідач"
 #. Weapon driver / overclock card - description (avn_away)
 #. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
 msgid "DRIVER.avn_away.description"
-msgstr ""
-"+1 до кількості. \n"
-"Збільшує швидкість на +20%.\n"
-"Збільшує розмір на +15%."
+msgstr "+1 до кількості. \nЗбільшує швидкість на +20%.\nЗбільшує розмір на +15%."
 
 #. Weapon driver / overclock card - name (avn_buddy)
 #. source: Buddy List
@@ -5723,9 +5514,7 @@ msgstr "Список друзів"
 #. Weapon driver / overclock card - description (avn_buddy)
 #. source: Add +2 Amount.\nIncrease Power +15%.
 msgid "DRIVER.avn_buddy.description"
-msgstr ""
-"+2 до кількості.\n"
-"Збільшує потужність на +15%."
+msgstr "+2 до кількості.\nЗбільшує потужність на +15%."
 
 #. Weapon driver / overclock card - name (blatand_pair)
 #. source: Paired Devices
@@ -5735,9 +5524,7 @@ msgstr "Спарені пристрої"
 #. Weapon driver / overclock card - description (blatand_pair)
 #. source: Add +1 Amount. Increase Power +25%.\nIncrease Speed +20%.
 msgid "DRIVER.blatand_pair.description"
-msgstr ""
-"+1 до кількості. Збільшує потужність на +25%.\n"
-"Збільшує швидкість на +20%."
+msgstr "+1 до кількості. Збільшує потужність на +25%.\nЗбільшує швидкість на +20%."
 
 #. Weapon driver / overclock card - name (bubbles_soap)
 #. source: Soap
@@ -5747,9 +5534,7 @@ msgstr "Мило"
 #. Weapon driver / overclock card - description (bubbles_soap)
 #. source: Add +1 Amount.\nIncrease Size +40%.
 msgid "DRIVER.bubbles_soap.description"
-msgstr ""
-"+1 до кількості.\n"
-"Збільшує розмір +40%."
+msgstr "+1 до кількості.\nЗбільшує розмір +40%."
 
 #. Weapon driver / overclock card - name (bubbles_suds)
 #. source: Suds
@@ -5759,9 +5544,7 @@ msgstr "Мильна піна"
 #. Weapon driver / overclock card - description (bubbles_suds)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.bubbles_suds.description"
-msgstr ""
-"При відскоку від стіни: розділяються на дві половини.\n"
-"Копії можуть розділятися лише один раз."
+msgstr "При відскоку від стіни: розділяються на дві половини.\nКопії можуть розділятися лише один раз."
 
 #. Weapon driver / overclock card - name (cdrive_seek)
 #. source: Seek
@@ -5771,9 +5554,7 @@ msgstr "Час пошуку"
 #. Weapon driver / overclock card - description (cdrive_seek)
 #. source: Converts Repel to Lag.\nIncrease Speed +60%.
 msgid "DRIVER.cdrive_seek.description"
-msgstr ""
-"Перетворює Відкидання на Лаг.\n"
-"Збільшує швидкість на +60%."
+msgstr "Перетворює Відкидання на Лаг.\nЗбільшує швидкість на +60%."
 
 #. Weapon driver / overclock card - name (cdrive_cleanup)
 #. source: Disk Cleanup
@@ -5793,9 +5574,7 @@ msgstr "Об'їзд"
 #. Weapon driver / overclock card - description (cone_detour)
 #. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
 msgid "DRIVER.cone_detour.description"
-msgstr ""
-"Перетворює Жар на Лаг. Збільшує розмір на +35%.\n"
-"Збільшує шкоду на +15%."
+msgstr "Перетворює Жар на Лаг. Збільшує розмір на +35%.\nЗбільшує шкоду на +15%."
 
 #. Weapon driver / overclock card - name (cone_workzone)
 #. source: Work Zone
@@ -5805,9 +5584,7 @@ msgstr "Робоча зона"
 #. Weapon driver / overclock card - description (cone_workzone)
 #. source: Add +1 Amount.\nIncrease Power +30%.
 msgid "DRIVER.cone_workzone.description"
-msgstr ""
-"+1 до кількості.\n"
-"Збільшення потужності на +30%."
+msgstr "+1 до кількості.\nЗбільшення потужності на +30%."
 
 #. Weapon driver / overclock card - name (cruiser_multitab)
 #. source: Browser Hijack
@@ -5817,9 +5594,7 @@ msgstr "Захоплення браузера"
 #. Weapon driver / overclock card - description (cruiser_multitab)
 #. source: Converts Lag to Infect. Add +1 Amount.\nIncrease Power +25%.
 msgid "DRIVER.cruiser_multitab.description"
-msgstr ""
-"Перетворює Лаг на Зараження. +1 до кількості.\n"
-"Збільшує потужність на +25%."
+msgstr "Перетворює Лаг на Зараження. +1 до кількості.\nЗбільшує потужність на +25%."
 
 #. Weapon driver / overclock card - name (cruiser_popup)
 #. source: Popup Storm
@@ -5839,9 +5614,7 @@ msgstr "Розріз"
 #. Weapon driver / overclock card - description (cut_cleave)
 #. source: Converts Repel to Infect. Increase Size +80%.\nAdd -0.5 Amount.
 msgid "DRIVER.cut_cleave.description"
-msgstr ""
-"Перетворює Відкидання на Зараження. Збільшує розмір на +80%.\n"
-"-0.5 до кількості."
+msgstr "Перетворює Відкидання на Зараження. Збільшує розмір на +80%.\n-0.5 до кількості."
 
 #. Weapon driver / overclock card - name (cut_papercut)
 #. source: Paper Cut
@@ -5851,9 +5624,7 @@ msgstr "Паперовий поріз"
 #. Weapon driver / overclock card - description (cut_papercut)
 #. source: Add +2 Amount.\nIncrease Speed +25%.
 msgid "DRIVER.cut_papercut.description"
-msgstr ""
-"+2 до кількості.\n"
-"Збільшує швидкість на +25%"
+msgstr "+2 до кількості.\nЗбільшує швидкість на +25%"
 
 #. Weapon driver / overclock card - name (email_cc)
 #. source: Flame Mail
@@ -5863,9 +5634,7 @@ msgstr "Гнівний лист"
 #. Weapon driver / overclock card - description (email_cc)
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
 msgid "DRIVER.email_cc.description"
-msgstr ""
-"Перетворює Зараження на Жар. +1 до кількості.\n"
-"Збільшує швидкість на +35%."
+msgstr "Перетворює Зараження на Жар. +1 до кількості.\nЗбільшує швидкість на +35%."
 
 #. Weapon driver / overclock card - name (email_bounce)
 #. source: Undeliverable
@@ -5885,9 +5654,7 @@ msgstr "Блокування"
 #. Weapon driver / overclock card - description (firewall_deny)
 #. source: Increase Power +50%. Add +1 Amount.
 msgid "DRIVER.firewall_deny.description"
-msgstr ""
-"Збільшує потужність на +50%.\n"
-"+1 кількості."
+msgstr "Збільшує потужність на +50%.\n+1 кількості."
 
 #. Weapon driver / overclock card - name (firewall_stealth)
 #. source: Flameout
@@ -5907,21 +5674,17 @@ msgstr "Жирний шрифт"
 #. Weapon driver / overclock card - description (fontart_bold)
 #. source: Increase Size +60%. Increase Power +60%.\nReduce Amount -25%.
 msgid "DRIVER.fontart_bold.description"
-msgstr ""
-"Збільшує розмір на +60%. Збільшує потужність на +60%.\n"
-"Зменшує кількість на -25%"
+msgstr "Збільшує розмір на +60%. Збільшує потужність на +60%.\nЗменшує кількість на -25%"
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
 msgid "DRIVER.fontart_wordart.name"
 msgstr ""
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
 msgid "DRIVER.fontart_wordart.description"
-msgstr ""
-"Збільшує розмір на +40%.\n"
-"+1 до кількості."
+msgstr "Збільшує розмір на +40%.\n+1 до кількості."
 
 #. Weapon driver / overclock card - name (fraps_benchmark)
 #. source: Benchmark
@@ -5931,9 +5694,7 @@ msgstr "Тест продуктивності"
 #. Weapon driver / overclock card - description (fraps_benchmark)
 #. source: Converts Repel to Heat. Increase Damage +25%.\nIncrease Speed +20%.
 msgid "DRIVER.fraps_benchmark.description"
-msgstr ""
-"Перетворює Відкидання на Жар. Збільшує шкоду на +25%.\n"
-"Збільшує швидкість на +20%"
+msgstr "Перетворює Відкидання на Жар. Збільшує шкоду на +25%.\nЗбільшує швидкість на +20%"
 
 #. Weapon driver / overclock card - name (fraps_vsync)
 #. source: VSync
@@ -5943,9 +5704,7 @@ msgstr ""
 #. Weapon driver / overclock card - description (fraps_vsync)
 #. source: FPS numbers bounce off walls.\nIncrease Size +20%.
 msgid "DRIVER.fraps_vsync.description"
-msgstr ""
-"Показники к/с відскакують від стін\n"
-"Збільшує розмір на +20%."
+msgstr "Показники к/с відскакують від стін\nЗбільшує розмір на +20%."
 
 #. Weapon driver / overclock card - name (hitmarkers_headhunter)
 #. source: Headhunter
@@ -5955,9 +5714,7 @@ msgstr "Мисливець за головами"
 #. Weapon driver / overclock card - description (hitmarkers_headhunter)
 #. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
 msgid "DRIVER.hitmarkers_headhunter.description"
-msgstr ""
-"Збільшує шанс страти. Перетворює Відкидання на Жар\n"
-"Зменшує шкоду на -15%"
+msgstr "Збільшує шанс страти. Перетворює Відкидання на Жар\nЗменшує шкоду на -15%"
 
 #. Weapon driver / overclock card - name (hitmarkers_killstreak)
 #. source: Killstreak
@@ -5977,9 +5734,7 @@ msgstr "Запалювальний заряд"
 #. Weapon driver / overclock card - description (minesweeper_flag)
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
 msgid "DRIVER.minesweeper_flag.description"
-msgstr ""
-"Перетворює Відкидання на Жар. +1 до кількості.\n"
-"Збільшує потужність на +20%."
+msgstr "Перетворює Відкидання на Жар. +1 до кількості.\nЗбільшує потужність на +20%."
 
 #. Weapon driver / overclock card - name (minesweeper_chord)
 #. source: Chord
@@ -5992,28 +5747,24 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr "Міни залишаються на місці доти, доки їх не підірвуть."
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
 msgid "DRIVER.modem_handshake.name"
-msgstr "Перевантаження комутованого зв'язку"
+msgstr "Зворотний зв'язок"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
 msgid "DRIVER.modem_handshake.description"
-msgstr ""
-"Перетворює Відкидання на Лаг. +1 до кількості.\n"
-"Збільшує розмір на +25%."
+msgstr "Перетворює Відкидання на Лаг. +1 до кількості.\nЗбільшує розмір на +25%."
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
 msgid "DRIVER.modem_broadband.name"
-msgstr "Широкосмуговий"
+msgstr "Підсилення"
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
 msgid "DRIVER.modem_broadband.description"
-msgstr ""
-"Збільшує швидкість на +50%\n"
-"Збільшує шкоду на +20%."
+msgstr "Збільшує швидкість на +50%\nЗбільшує шкоду на +20%."
 
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
 #. source: Tab Overload
@@ -6023,9 +5774,7 @@ msgstr "Перевантаження вкладками"
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
 msgid "DRIVER.orchestra_fortissimo.description"
-msgstr ""
-"Перетворює Зараження на Жар. Збільшує шкоду на +35%.\n"
-"Збільшує потужність на +35%"
+msgstr "Перетворює Зараження на Жар. Збільшує шкоду на +35%.\nЗбільшує потужність на +35%"
 
 #. Weapon driver / overclock card - name (orchestra_taskkill)
 #. source: End Process
@@ -6045,9 +5794,7 @@ msgstr "Розлив"
 #. Weapon driver / overclock card - description (paint_spill)
 #. source: Increase Size +100%.\nReduce Damage -20%.
 msgid "DRIVER.paint_spill.description"
-msgstr ""
-"Збільшує розмір на +100%\n"
-"Зменшує шкоду на -20%"
+msgstr "Збільшує розмір на +100%\nЗменшує шкоду на -20%"
 
 #. Weapon driver / overclock card - name (paint_fill)
 #. source: Fill Bucket
@@ -6057,9 +5804,7 @@ msgstr "Заливка"
 #. Weapon driver / overclock card - description (paint_fill)
 #. source: Add +1 Amount.\nIncrease Power +40%.
 msgid "DRIVER.paint_fill.description"
-msgstr ""
-"+1 до кількості.\n"
-"Збільшує потужність на +40%"
+msgstr "+1 до кількості.\nЗбільшує потужність на +40%"
 
 #. Weapon driver / overclock card - name (pinball_tilted)
 #. source: Tilted
@@ -6069,9 +5814,7 @@ msgstr "Тілт"
 #. Weapon driver / overclock card - description (pinball_tilted)
 #. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
 msgid "DRIVER.pinball_tilted.description"
-msgstr ""
-"При відскоку від стіни: збільшує розмір. Відбувається не більше двох разів.\n"
-"Зменшує розмір на -30%."
+msgstr "При відскоку від стіни: збільшує розмір. Відбувається не більше двох разів.\nЗменшує розмір на -30%."
 
 #. Weapon driver / overclock card - name (quarantine_strict)
 #. source: Strict
@@ -6081,9 +5824,7 @@ msgstr "Суворий"
 #. Weapon driver / overclock card - description (quarantine_strict)
 #. source: Converts Repel to Infect.\nIncrease Power +70%.
 msgid "DRIVER.quarantine_strict.description"
-msgstr ""
-"Перетворює Відкидання на Зараження.\n"
-"Збільшує потужність на +70%."
+msgstr "Перетворює Відкидання на Зараження.\nЗбільшує потужність на +70%."
 
 #. Weapon driver / overclock card - name (quarantine_heuristic)
 #. source: Heuristic
@@ -6093,9 +5834,7 @@ msgstr "Евристика"
 #. Weapon driver / overclock card - description (quarantine_heuristic)
 #. source: Increase Damage +40%.\nIncrease Speed +20%.
 msgid "DRIVER.quarantine_heuristic.description"
-msgstr ""
-"Збільшує шкоду на +40%.\n"
-"Збільшує швидкість на +20%."
+msgstr "Збільшує шкоду на +40%.\nЗбільшує швидкість на +20%."
 
 #. Weapon driver / overclock card - name (satellite_dish)
 #. source: Microwave Dish
@@ -6105,9 +5844,7 @@ msgstr "Параболічна антена"
 #. Weapon driver / overclock card - description (satellite_dish)
 #. source: Converts Lag to Heat. Increase Size +30%.\nIncrease Speed +15%.
 msgid "DRIVER.satellite_dish.description"
-msgstr ""
-"Перетворює Лаг на Жар. Збільшує розмір на +30%.\n"
-"Збільшує швидкість на +15%."
+msgstr "Перетворює Лаг на Жар. Збільшує розмір на +30%.\nЗбільшує швидкість на +15%."
 
 #. Weapon driver / overclock card - name (satellite_uplink)
 #. source: Uplink
@@ -6127,9 +5864,7 @@ msgstr "Отрута"
 #. Weapon driver / overclock card - description (scimitar_dragon)
 #. source: Converts Repel to Infect. Increase Size +50%.\nAdd +1 Amount.
 msgid "DRIVER.scimitar_dragon.description"
-msgstr ""
-"Перетворює Відкидання на Зараження. Збільшує розмір на +50%.\n"
-"+1 до кількості."
+msgstr "Перетворює Відкидання на Зараження. Збільшує розмір на +50%.\n+1 до кількості."
 
 #. Weapon driver / overclock card - name (scimitar_dual)
 #. source: Dual Wield
@@ -6149,9 +5884,7 @@ msgstr "Глибокий пошук"
 #. Weapon driver / overclock card - description (search_deep)
 #. source: Converts Repel to Lag. Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.search_deep.description"
-msgstr ""
-"Перетворює Відкидання на Лаг. +2 до кількості.\n"
-"Зменшує шкоду на -20%."
+msgstr "Перетворює Відкидання на Лаг. +2 до кількості.\nЗменшує шкоду на -20%."
 
 #. Weapon driver / overclock card - name (search_indexed)
 #. source: Find Next
@@ -6161,9 +5894,7 @@ msgstr "Шукати далі"
 #. Weapon driver / overclock card - description (search_indexed)
 #. source: Increase Speed +30%.\nIncrease Refresh +20%.
 msgid "DRIVER.search_indexed.description"
-msgstr ""
-"Збільшує швидкість на +30%.\n"
-"Збільшує оновлення на +20%."
+msgstr "Збільшує швидкість на +30%.\nЗбільшує оновлення на +20%."
 
 #. Weapon driver / overclock card - name (sniper_scope)
 #. source: High Caliber
@@ -6173,9 +5904,7 @@ msgstr "Високий калібр"
 #. Weapon driver / overclock card - description (sniper_scope)
 #. source: Multiply Damage 1.5x. Increase Power +30%.\nIncrease Refresh +25%.
 msgid "DRIVER.sniper_scope.description"
-msgstr ""
-"Помножує шкоду на 1.5х. Збільшує потужність на +30%.\n"
-"Збільшує оновлення на +25%"
+msgstr "Помножує шкоду на 1.5х. Збільшує потужність на +30%.\nЗбільшує оновлення на +25%"
 
 #. Weapon driver / overclock card - name (sniper_oneshot)
 #. source: One Shot
@@ -6185,9 +5914,7 @@ msgstr "Один постріл"
 #. Weapon driver / overclock card - description (sniper_oneshot)
 #. source: Adds +7% execute chance.\nIncrease Damage +25%.
 msgid "DRIVER.sniper_oneshot.description"
-msgstr ""
-"+7% шансу на страту.\n"
-"Збільшує шкоду на 25%."
+msgstr "+7% шансу на страту.\nЗбільшує шкоду на 25%."
 
 #. Weapon driver / overclock card - name (solitaire_cheat)
 #. source: Cheat
@@ -6197,10 +5924,7 @@ msgstr "Чіт"
 #. Weapon driver / overclock card - description (solitaire_cheat)
 #. source: Increase Damage +50%. Add +1 Amount.\nReduce Refresh -15%.
 msgid "DRIVER.solitaire_cheat.description"
-msgstr ""
-"Збільшує шкоду на +50%.\n"
-"+1 до кількості.\n"
-"Зменшує оновлення на -15%"
+msgstr "Збільшує шкоду на +50%.\n+1 до кількості.\nЗменшує оновлення на -15%"
 
 #. Scene label
 #. screens: spam_ad.tscn; trailer_ad.tscn
@@ -6364,21 +6088,13 @@ msgstr "SHZip v2.03 (Незареєстрована копія)"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid ""
-"Extracting file:\n"
-"temp_file_649743.zip from /.???"
-msgstr ""
-"Розпакування:\n"
-"temp_file_649743.zip з /.???"
+msgid "Extracting file:\ntemp_file_649743.zip from /.???"
+msgstr "Розпакування:\ntemp_file_649743.zip з /.???"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid ""
-"Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
-"Processing rate: 0.00 KB/Sec"
-msgstr ""
-"Залишилося приблизно: 0хв 00с (0.00 КБ з 0.00 КБ)\n"
-"Швидкість: 0.00 КБ/Сек"
+msgid "Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\nProcessing rate: 0.00 KB/Sec"
+msgstr "Залишилося приблизно: 0хв 00с (0.00 КБ з 0.00 КБ)\nШвидкість: 0.00 КБ/Сек"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6472,28 +6188,8 @@ msgstr "Перемога!"
 
 #. Scene label
 #. screens: end_screen.tscn
-msgid ""
-"You did it! I'm proud of you! I hope you had fun.\n"
-"\n"
-"However I am very sorry that this is such a boring and uninspired win "
-"screen. You deserve better and you will get better - in the full release.\n"
-"\n"
-"In the meantime, enjoy trying some of the harder difficulties, go spend "
-"those Beanz on some upgrades and try out some different builds.\n"
-"\n"
-"If you had fun during this demo be sure to give it a wishlist or follow on "
-"Steam - there's so much more to come!"
-msgstr ""
-"Ти зробив це! Я пишаюся тобою! Сподіваюся, було весело!\n"
-"\n"
-"Проте, мені дуже шкода, що екран перемоги такий нудний та нецікавий. Ти "
-"заслуговуєш кращого, і саме це ти отримаєш на релізі.\n"
-"\n"
-"А поки що, спробуй іншу складність, витрать Beanz на якісь поліпшення та "
-"спробуй зібрати інші білди.\n"
-"\n"
-"Якщо тобі сподобалася ця демка, обов'язково закинь в список бажаного, або "
-"слідкуй за грою в Steam. Далі буде!"
+msgid "You did it! I'm proud of you! I hope you had fun.\n\nHowever I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n\nIn the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n\nIf you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
+msgstr "Ти зробив це! Я пишаюся тобою! Сподіваюся, було весело!\n\nПроте, мені дуже шкода, що екран перемоги такий нудний та нецікавий. Ти заслуговуєш кращого, і саме це ти отримаєш на релізі.\n\nА поки що, спробуй іншу складність, витрать Beanz на якісь поліпшення та спробуй зібрати інші білди.\n\nЯкщо тобі сподобалася ця демка, обов'язково закинь в список бажаного, або слідкуй за грою в Steam. Далі буде!"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6517,11 +6213,8 @@ msgstr "Готуюсь до встановлення..."
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid ""
-"PluginInstaller is preparing to find all appropriate plugins for this "
-"application."
-msgstr ""
-"ІнсталяторПлаґіну готується знайти належні плаґіни для цього застосунку."
+msgid "PluginInstaller is preparing to find all appropriate plugins for this application."
+msgstr "ІнсталяторПлаґіну готується знайти належні плаґіни для цього застосунку."
 
 #. Scene label
 #. screens: installer_window.tscn
@@ -6530,12 +6223,8 @@ msgstr "Перевіряю рівень сумісності плаґіну..."
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid ""
-"Add +10 Max HP.\n"
-"Heal 20% of Max HP when opening a Safe Folder."
-msgstr ""
-"Додає +10 макс. ОЗ.\n"
-"Лікує 20% Макс. ОЗ коли відкриваєш Безпечну папку."
+msgid "Add +10 Max HP.\nHeal 20% of Max HP when opening a Safe Folder."
+msgstr "Додає +10 макс. ОЗ.\nЛікує 20% Макс. ОЗ коли відкриваєш Безпечну папку."
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -6569,35 +6258,13 @@ msgstr "Налаштування"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid ""
-"coming soon\n"
-"- more weapons\n"
-"- more enemies\n"
-"- bosses\n"
-"- classes\n"
-"- wallpapers\n"
-"- weapon evos\n"
-"- and more"
-msgstr ""
-"далі буде\n"
-"- більше зброї\n"
-"- більше ворогів\n"
-"- боси\n"
-"- класи\n"
-"- шпалери\n"
-"- еволюція зброї\n"
-"- та інше"
+msgid "coming soon\n- more weapons\n- more enemies\n- bosses\n- classes\n- wallpapers\n- weapon evos\n- and more"
+msgstr "далі буде\n- більше зброї\n- більше ворогів\n- боси\n- класи\n- шпалери\n- еволюція зброї\n- та інше"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid ""
-"Thank you so much for playing. It means the world to me.\n"
-"enjoy and have a great day <3\n"
-"shaun"
-msgstr ""
-"Щиро дякую що граєте. Це неймовірно важливо для мене.\n"
-"насолоджуйтесь. гарного вам дня <3\n"
-"shaun"
+msgid "Thank you so much for playing. It means the world to me.\nenjoy and have a great day <3\nshaun"
+msgstr "Щиро дякую що граєте. Це неймовірно важливо для мене.\nнасолоджуйтесь. гарного вам дня <3\nshaun"
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
@@ -6621,11 +6288,6 @@ msgstr "Налаштування"
 
 #. Scene label
 #. screens: options_menu.tscn
-msgid "SFX Volume"
-msgstr "Гучність ефектів"
-
-#. Scene label
-#. screens: options_menu.tscn
 msgid "Back"
 msgstr "Назад"
 
@@ -6641,9 +6303,7 @@ msgstr "Вийти"
 
 #. Scene label
 #. screens: pause_menu.tscn
-msgid ""
-"Antivirus Survivors 2003 Professional\n"
-"Shaun Hammond Business Solutions Ltd"
+msgid "Antivirus Survivors 2003 Professional\nShaun Hammond Business Solutions Ltd"
 msgstr ""
 
 #. Scene label
@@ -6728,12 +6388,8 @@ msgstr "Оновлення пошуку"
 
 #. Scene label
 #. screens: upgrade_button.tscn
-msgid ""
-"Increases Refresh Rate for Search by 20%.\n"
-"But here's a second line also."
-msgstr ""
-"Збільшує частоту оновлення для Пошуку на 20%.\n"
-"Але тут ще другий рядок."
+msgid "Increases Refresh Rate for Search by 20%.\nBut here's a second line also."
+msgstr "Збільшує частоту оновлення для Пошуку на 20%.\nАле тут ще другий рядок."
 
 #. Scene label
 #. screens: torrent_window.tscn
@@ -6798,198 +6454,3 @@ msgstr "Вікно"
 #. Scene label
 msgid "Antivirus Survivors 2003 Professional"
 msgstr ""
-
-#~ msgid "Wishlist"
-#~ msgstr "Додати до бажаного"
-
-#~ msgid "UI.admin_mouse_tooltip_locked"
-#~ msgstr "Заверши першу спробу, щоб розблокувати права адміністратора."
-
-#~ msgid "Skips installing plugin and removes it from selection pool."
-#~ msgstr "Пропускає встановлення плаґіну та прибирає його зі списку."
-
-#~ msgid "Skips installing plugin and refunds Key."
-#~ msgstr "Пропускає встановлення плаґіну та повертає Ключ."
-
-#~ msgid "Installs plugin."
-#~ msgstr "Встановлює плаґін."
-
-#~ msgid "File"
-#~ msgstr "Файл"
-
-#~ msgid "Action"
-#~ msgstr "Дія"
-
-#~ msgid "View"
-#~ msgstr "Вигляд"
-
-#~ msgid "Help"
-#~ msgstr "Допомога"
-
-#~ msgid "Validating cache files..."
-#~ msgstr "Перевірка цілісності файлів..."
-
-#~ msgid "Starter Weapon"
-#~ msgstr "Початкова зброя"
-
-#~ msgid "Edit"
-#~ msgstr "Редагувати"
-
-#~ msgid "Remove"
-#~ msgstr "Видалити"
-
-#~ msgid "Skip"
-#~ msgstr "Пропустити"
-
-#~ msgid "Pause menu"
-#~ msgstr "Меню паузи"
-
-#~ msgid "META.coin_gain.name"
-#~ msgstr "Приріст монет "
-
-#~ msgid "META.crit_damage.name"
-#~ msgstr "Критична шкода"
-
-#~ msgid "META.exp_gain.name"
-#~ msgstr "Отримання досвіду"
-
-#~ msgid "META.health_regen.name"
-#~ msgstr "Регенерація"
-
-#~ msgid "META.max_health.name"
-#~ msgstr "Макс. здоров'я"
-
-#~ msgid "META.proc_speed.name"
-#~ msgstr "Швидкодія"
-
-#~ msgid "META.weap_amount.name"
-#~ msgstr "Копії зброї"
-
-#~ msgid "META.weap_damage.name"
-#~ msgstr "Шкода від зброї"
-
-#~ msgid "META.weap_refresh.name"
-#~ msgstr "Оновлення зброї"
-
-#~ msgid "META.weap_repel.name"
-#~ msgstr "Потужність зброї"
-
-#~ msgid "META.weap_size.name"
-#~ msgstr "Розмір зброї"
-
-#~ msgid "META.weap_speed.name"
-#~ msgstr "Швидкість зброї"
-
-#~ msgid "UPGRADE.upgrade_player_coin_gain.name"
-#~ msgstr "Приріст монет"
-
-#~ msgid "UPGRADE.upgrade_player_crit_chance.name"
-#~ msgstr "Крит. шанс"
-
-#~ msgid "UPGRADE.upgrade_player_crit_damage_multi.name"
-#~ msgstr "Критична шкода"
-
-#~ msgid "UPGRADE.upgrade_player_damage_multi.name"
-#~ msgstr "Шкода від зброї"
-
-#~ msgid "UPGRADE.upgrade_player_dodge.name"
-#~ msgstr "Втрата пакетів"
-
-#~ msgid "UPGRADE.upgrade_player_exp_gain.name"
-#~ msgstr "Отримання досвіду"
-
-#~ msgid "UPGRADE.upgrade_player_health_regen.name"
-#~ msgstr "Регенерація"
-
-#~ msgid "UPGRADE.upgrade_player_luck.name"
-#~ msgstr "Удача"
-
-#~ msgid "UPGRADE.upgrade_player_magnetism_multi.name"
-#~ msgstr "Магнетизм"
-
-#~ msgid "UPGRADE.upgrade_player_max_health.name"
-#~ msgstr "Макс. здоров'я"
-
-#~ msgid "UPGRADE.upgrade_player_power_multi.name"
-#~ msgstr "Потужність зброї"
-
-#~ msgid "UPGRADE.upgrade_player_proc_speed.name"
-#~ msgstr "Продуктивність"
-
-#~ msgid "UPGRADE.upgrade_player_refresh_multi.name"
-#~ msgstr "Оновлення зброї"
-
-#~ msgid "UPGRADE.upgrade_player_speed.name"
-#~ msgstr "Швидкість вказівника"
-
-#~ msgid "UPGRADE.upgrade_player_weap_amount.name"
-#~ msgstr "Копії зброї"
-
-#~ msgid "UPGRADE.upgrade_player_weap_size.name"
-#~ msgstr "Розмір зброї"
-
-#~ msgid "UPGRADE.upgrade_player_weap_speed.name"
-#~ msgstr "Швидкість зброї"
-
-#~ msgid "UI.max"
-#~ msgstr "Макс."
-
-#~ msgid "Download"
-#~ msgstr "Йде завантаження"
-
-#~ msgid "Cancel"
-#~ msgstr "Скасувати"
-
-#~ msgid "Not Enough Keys :("
-#~ msgstr "Недостатньо Ключів :("
-
-#~ msgid "Movement -"
-#~ msgstr "Рух -"
-
-#~ msgid "Click and Drag -"
-#~ msgstr "Перетягнути -"
-
-#~ msgid "Menu Shortcut -"
-#~ msgstr "Меню -"
-
-#~ msgid "Show Stats -"
-#~ msgstr "Показати статистику -"
-
-#~ msgid "Close -"
-#~ msgstr "Закрити -"
-
-#~ msgid "Pause -"
-#~ msgstr "Пауза - "
-
-#~ msgid "Cursor Class"
-#~ msgstr "Клас вказівника миші"
-
-#~ msgid "Weapons"
-#~ msgstr "Зброя"
-
-#~ msgid "Get to the Safe Folder!"
-#~ msgstr "Дістанься Безпечної папки!"
-
-#~ msgid "Plugin Suite Installation"
-#~ msgstr "Програма встановлення пакета плаґінів"
-
-#~ msgid "Please wait..."
-#~ msgstr "Будь ласка зачекайте..."
-
-#~ msgid "Install"
-#~ msgstr "Інсталювати"
-
-#~ msgid "Music Volume"
-#~ msgstr "Гучність музики"
-
-#~ msgid "Window Mode"
-#~ msgstr "Віконний режим"
-
-#~ msgid "Stats"
-#~ msgstr "Статистика"
-
-#~ msgid "Control Panel"
-#~ msgstr "Панель керування"
-
-#~ msgid "Show Stats"
-#~ msgstr "Статистика"
