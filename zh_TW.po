@@ -35,7 +35,7 @@ msgstr "預設"
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 msgid "CLASS.default.description"
 msgstr ""
-"沒有等級額外獎勵或懲罰\n"
+"沒有職業加成或懲罰\n"
 "就只是個游標"
 
 #. Class select - name (null)
@@ -2834,12 +2834,12 @@ msgstr "所有遊玩中累計在戰鬥資料夾中花費的時間"
 #. Profile stats - enemies cleared
 #. source: Enemies Cleared
 msgid "UI.stat_kills"
-msgstr "已清除敵人數"
+msgstr "已消滅敵人數"
 
 #. Profile stats - enemies cleared tooltip
 #. source: Enemies cleared across all runs.
 msgid "UI.stat_kills_desc"
-msgstr "所有遊玩中累計清除的敵人數"
+msgstr "所有遊玩中累計消滅的敵人數"
 
 #. Profile stats - deaths
 #. source: Deaths
@@ -3085,7 +3085,7 @@ msgstr "使用此原則通關的次數"
 #. Profile stats - enemy sheet row tooltip
 #. source: Times this enemy type has been cleared.
 msgid "UI.stat_enemy_row_desc"
-msgstr "此類型敵人被清除的數量"
+msgstr "此類型敵人被消滅的數量"
 
 #. Profile stats - protocol completions row tooltip
 #. source: Runs completed on this Protocol.
@@ -3242,7 +3242,7 @@ msgstr "插件"
 #. UI (script-driven)
 #. source: Safe Files
 msgid "UI.store_group_safe_files"
-msgstr "戰鬥檔案"
+msgstr "安全檔案"
 
 #. UI (script-driven)
 #. source: Battle Files
@@ -4085,13 +4085,13 @@ msgstr "使用 {weapon} 消滅 {amount} 個敵人"
 #. source: Get {weapon} to level {amount}
 #. Keep placeholders unchanged: {weapon}, {amount}
 msgid "UI.unlock_weapon_level"
-msgstr "將 {weapon} 提升至 {amount} 等級"
+msgstr "將 {weapon} 提升至 {amount} 等"
 
 #. Unlock requirement - reach a player level in one run
 #. source: Reach level {amount} in a single run
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_reach_level"
-msgstr "單次遊玩達到等級 {amount}"
+msgstr "單次遊玩達到 {amount} 等"
 
 #. Unlock requirement - deal N damage
 #. source: Deal {amount} damage
@@ -4133,7 +4133,7 @@ msgstr "開啟 {amount} 次vapor.exe"
 #. source: Clear {amount} {enemy} enemies
 #. Keep placeholders unchanged: {amount}, {enemy}
 msgid "UI.unlock_clear_enemy"
-msgstr "清除 {amount} 個 {enemy} 敵人"
+msgstr "消滅 {amount} 個 {enemy} 敵人"
 
 #. Unlock requirement - complete N runs
 #. source: Complete {amount} runs
@@ -4366,7 +4366,7 @@ msgstr "罪犯"
 #. UI (script-driven)
 #. source: Slow the world around you to clear enemies more easily.
 msgid "UI.unlock_widget_bullet_time_desc"
-msgstr "減慢周圍環境的速度，以便更輕鬆地清除敵人"
+msgstr "減慢周圍環境的速度，以便更輕鬆地消滅敵人"
 
 #. UI (script-driven)
 #. source: Heaps of Pain
@@ -4476,7 +4476,7 @@ msgstr "額外獎勵 Beanz"
 #. Lifetime clears milestone description
 #. source: Lifetime enemy clears milestone.
 msgid "UI.unlock_general_kills_desc"
-msgstr "生涯敵人清除里程碑"
+msgstr "生涯敵人消滅里程碑"
 
 #. Lifetime files milestone description
 #. source: Lifetime files opened milestone.
@@ -4563,7 +4563,7 @@ msgstr "虛空造成的傷害翻倍，延遲也翻倍"
 #. Optional extra difficulty policy - name (bad_sector)
 #. source: Bad Sector
 msgid "POLICY.bad_sector.name"
-msgstr "不良區域"
+msgstr "壞軌"
 
 #. Optional extra difficulty policy - description (bad_sector)
 #. source: Halve current HP each Battle Folder.
@@ -4578,7 +4578,7 @@ msgstr "記憶體不足"
 #. Optional extra difficulty policy - description (low_memory)
 #. source: No new weapons at level 8, 16, or 24.
 msgid "POLICY.low_memory.description"
-msgstr "不會在等級8，16和24出現新武器"
+msgstr "不會在8，16和24等出現新武器"
 
 #. Optional extra difficulty policy - name (unsigned_driver)
 #. source: Activation Required
@@ -4623,7 +4623,7 @@ msgstr "每場戰鬥只有2.5分鐘"
 #. Optional extra difficulty policy - name (extended_support)
 #. source: Extended Support
 msgid "POLICY.extended_support.name"
-msgstr "延長支援"
+msgstr "延伸支援"
 
 #. Optional extra difficulty policy - description (extended_support)
 #. source: Battle rounds last 10 minutes.
@@ -5139,7 +5139,7 @@ msgstr "難度更高.額外的Plus!敵人"
 #. source: Level %d
 #. Keep placeholders unchanged: %d
 msgid "TOOLTIP.level"
-msgstr "等級%d"
+msgstr "%d 等"
 
 #. Stat tooltip
 #. source: Damage: %.1f
@@ -5352,7 +5352,7 @@ msgstr "本輪開啟的資料夾跟檔案數"
 #. Run stats panel row
 #. source: Enemies cleared this run.
 msgid "RUNSTAT.enemies_cleared_desc"
-msgstr "本輪清除的敵人數"
+msgstr "本輪消滅的敵人數"
 
 #. Run stats panel row
 #. source: Coins collected this run.
@@ -5450,7 +5450,7 @@ msgstr "本回合沒有新任務"
 #. Safe Folder explorer - last round kills tooltip
 #. source: Enemies cleared in the last Battle Folder.
 msgid "RUNSTAT.last_round_kills_desc"
-msgstr "上次在戰鬥中清除的敵人數"
+msgstr "上次在戰鬥中消滅的敵人數"
 
 #. Safe Folder explorer - last round files tooltip
 #. source: Files opened in the last Battle Folder.
@@ -5600,15 +5600,15 @@ msgstr ""
 
 #. Scene label
 msgid "Level 8"
-msgstr "等級 8"
+msgstr "8 等"
 
 #. Scene label
 msgid "Level 16"
-msgstr "等級 16"
+msgstr "16 等"
 
 #. Scene label
 msgid "Level 24 "
-msgstr "等級 24 "
+msgstr "24 等"
 
 #. Scene label
 msgid "Empty"
