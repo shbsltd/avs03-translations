@@ -264,7 +264,7 @@ msgstr "自動播放"
 #. Plugin - description (blast_on_file_open)
 #. source: 25% Chance to trigger a Blast when opening a File.
 msgid "PLUGIN.blast_on_file_open.description"
-msgstr "當開啟文件時25%機率觸發衝擊波"
+msgstr "當開啟檔案時25%機率觸發衝擊波"
 
 #. Plugin - name (chance_defrag)
 #. source: Disk Cleanup
@@ -574,7 +574,7 @@ msgstr "知識庫"
 #. Plugin - description (xp_file_open)
 #. source: Gain +5 EXP when opening a File.
 msgid "PLUGIN.xp_file_open.description"
-msgstr "當開啟文件時+5經驗"
+msgstr "當開啟檔案時+5經驗"
 
 #. Plugin - name (xp_gain_boost)
 #. source: EXP Gain Boost
@@ -634,7 +634,7 @@ msgstr "網頁計數器"
 #. Plugin - description (adsense)
 #. source: Gain +1 Coin when opening a File.
 msgid "PLUGIN.adsense.description"
-msgstr "當開啟文件時+1硬幣"
+msgstr "當開啟檔案時+1硬幣"
 
 #. Plugin - name (still_frame)
 #. source: Still Frame
@@ -1020,7 +1020,7 @@ msgstr "處理速度"
 #. Stat display - description (upgrade_player_proc_speed)
 #. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
 msgid "STAT.upgrade_player_proc_speed.description"
-msgstr "提高所有文件處理速度，包括.zip，.bat，LemWire etc.(指數級)"
+msgstr "提高所有檔案處理速度，包括.zip，.bat，LemWire etc.(指數級)"
 
 #. Stat display - name (upgrade_player_refresh_multi)
 #. source: Weapon Refresh
@@ -2239,7 +2239,7 @@ msgstr "立即前往安全資料夾 !"
 #. End-of-round timer prompt when the boss file drops
 #. source: Get to the Boss File!
 msgid "UI.get_to_boss_file"
-msgstr "立即前往BOSS文件 !"
+msgstr "立即前往BOSS檔案 !"
 
 #. Upgrade screen - title
 #. source: Level Up!
@@ -2386,12 +2386,12 @@ msgstr "個人資料圖片"
 #. Cosmetic unlock - bmp drop requirement
 #. source: Found in a .bmp file
 msgid "UI.cosmetic_found_bmp"
-msgstr "在.bmp文件中找到"
+msgstr "在.bmp檔案中找到"
 
 #. Cosmetic unlock - image drop requirement
 #. source: Found in a .jpeg/.png file
 msgid "UI.cosmetic_found_image"
-msgstr "在.jpeg/.png文件找到"
+msgstr "在.jpeg/.png檔案找到"
 
 #. Cosmetic unlock - avatar reward blurb
 #. source: Unlocks a new profile picture.
@@ -2717,12 +2717,12 @@ msgstr "所有遊玩中累計在戰鬥資料夾中花費的時間"
 #. Profile stats - enemies cleared
 #. source: Enemies Cleared
 msgid "UI.stat_kills"
-msgstr "已清除敵人數"
+msgstr "已消滅敵人數"
 
 #. Profile stats - enemies cleared tooltip
 #. source: Enemies cleared across all runs.
 msgid "UI.stat_kills_desc"
-msgstr "所有遊玩中累計清除的敵人數"
+msgstr "所有遊玩中累計消滅的敵人數"
 
 #. Profile stats - deaths
 #. source: Deaths
@@ -2968,7 +2968,7 @@ msgstr "使用此原則通關的次數"
 #. Profile stats - enemy sheet row tooltip
 #. source: Times this enemy type has been cleared.
 msgid "UI.stat_enemy_row_desc"
-msgstr "此類型敵人被清除的數量"
+msgstr "此類型敵人被消滅的數量"
 
 #. Profile stats - protocol completions row tooltip
 #. source: Runs completed on this Protocol.
@@ -2983,12 +2983,12 @@ msgstr "整體"
 #. Profile stats - files 1 sheet tab
 #. source: Files 1
 msgid "UI.stat_sheet_files"
-msgstr "文件 1"
+msgstr "檔案 1"
 
 #. Profile stats - files 2 sheet tab
 #. source: Files 2
 msgid "UI.stat_sheet_battle"
-msgstr "文件 2"
+msgstr "檔案 2"
 
 #. Profile stats - weapons sheet tab
 #. source: Weapons
@@ -3100,12 +3100,12 @@ msgstr "解鎖可在每輪遊玩中安裝的新插件"
 #. Add/Remove Unlocks - safe files tab intro
 #. source: Unlock new file types to use in Safe Folders.
 msgid "UI.features_store_intro_safe_files"
-msgstr "解鎖可在安全資料夾中使用的新文件類型"
+msgstr "解鎖可在安全資料夾中使用的新檔案類型"
 
 #. Add/Remove Unlocks - battle files tab intro
 #. source: Unlock new file types to spawn during battle rounds.
 msgid "UI.features_store_intro_battle_files"
-msgstr "解鎖可在戰鬥回合中產生的新文件類型"
+msgstr "解鎖可在戰鬥回合中產生的新檔案類型"
 
 #. UI (script-driven)
 #. source: Weapons
@@ -3125,12 +3125,12 @@ msgstr "插件"
 #. UI (script-driven)
 #. source: Safe Files
 msgid "UI.store_group_safe_files"
-msgstr "安全文件檔"
+msgstr "安全檔案"
 
 #. UI (script-driven)
 #. source: Battle Files
 msgid "UI.store_group_battle_files"
-msgstr "戰鬥文件檔"
+msgstr "戰鬥檔案"
 
 #. UI (script-driven)
 #. source: Special Files
@@ -3155,7 +3155,7 @@ msgstr "驅動模組"
 #. Tasks screen - files category (special, safe, battle)
 #. source: Files
 msgid "UI.task_group_files"
-msgstr "文件"
+msgstr "檔案"
 
 #. Tasks screen - theme unlock category
 #. source: Themes
@@ -3195,7 +3195,7 @@ msgstr "通訊協定"
 #. Task tooltip type - boss file
 #. source: Boss File
 msgid "UI.task_group_singular_file"
-msgstr "BOSS文件檔"
+msgstr "BOSS檔案"
 
 #. Task tooltip type - singular
 #. source: Theme
@@ -3663,7 +3663,7 @@ msgstr "額外內容"
 #. Window menu File
 #. source: File
 msgid "UI.menu_file"
-msgstr "文件"
+msgstr "檔案"
 
 #. Window menu Edit
 #. source: Edit
@@ -3693,7 +3693,7 @@ msgstr "操作"
 #. Starter folder / policies tree - difficulty row
 #. source: Folder Difficulty
 msgid "UI.folder_difficulty"
-msgstr "文件難度"
+msgstr "檔案難度"
 
 #. Starter folder / policies tree - weapon row
 #. source: Starter Weapon
@@ -3899,13 +3899,13 @@ msgstr "使用 {weapon} 消滅 {amount} 個敵人"
 #. source: Get {weapon} to level {amount}
 #. Keep placeholders unchanged: {weapon}, {amount}
 msgid "UI.unlock_weapon_level"
-msgstr "將 {weapon} 提升至 {amount} 等級"
+msgstr "將 {weapon} 提升至 {amount} 等"
 
 #. Unlock requirement - reach a player level in one run
 #. source: Reach level {amount} in a single run
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_reach_level"
-msgstr "單次遊玩達到等級 {amount}"
+msgstr "單次遊玩達到 {amount} 等"
 
 #. Unlock requirement - deal N damage
 #. source: Deal {amount} damage
@@ -3917,13 +3917,13 @@ msgstr "造成 {amount} 點傷害"
 #. source: Open {amount} files
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_open_files"
-msgstr "開啟 {amount} 次文件"
+msgstr "開啟 {amount} 次檔案"
 
 #. Unlock requirement - open N files of a type
 #. source: Open {amount} {file} files
 #. Keep placeholders unchanged: {amount}, {file}
 msgid "UI.unlock_open_file_type"
-msgstr "開啟 {amount} 個 {file} 文件"
+msgstr "開啟 {amount} 個 {file} 檔案"
 
 #. Unlock requirement - Download More RAM N times
 #. source: Download More RAM {amount} times
@@ -3935,7 +3935,7 @@ msgstr "下載更多記憶體 {amount} 次"
 #. source: Successfully extract {amount} Zip files
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_extract_zips"
-msgstr "成功提取 {amount} 個 Zip 文件"
+msgstr "成功提取 {amount} 個 Zip 檔案"
 
 #. Unlock requirement - open vapor.exe N times
 #. source: Open vapor.exe {amount} times
@@ -3947,7 +3947,7 @@ msgstr "開啟 {amount} 次vapor.exe"
 #. source: Clear {amount} {enemy} enemies
 #. Keep placeholders unchanged: {amount}, {enemy}
 msgid "UI.unlock_clear_enemy"
-msgstr "清除 {amount} 個 {enemy} 敵人"
+msgstr "消滅 {amount} 個 {enemy} 敵人"
 
 #. Unlock requirement - complete N runs
 #. source: Complete {amount} runs
@@ -3963,7 +3963,7 @@ msgstr "同時在四個角落都有視窗"
 #. Unlock description - overlay windows in all 4 corners
 #. source: Open files until their windows fill every corner of the screen.
 msgid "UI.unlock_corner_windows_desc"
-msgstr "開啟文件，直到視窗填滿螢幕的每個角落"
+msgstr "開啟檔案，直到視窗填滿螢幕的每個角落"
 
 #. Unlock requirement - complete N tasks
 #. source: Complete {amount} tasks
@@ -4108,7 +4108,7 @@ msgstr "擊敗任意首領"
 #. source: {boss} File
 #. Keep placeholders unchanged: {boss}
 msgid "UI.unlock_boss_choice_reward"
-msgstr "{boss} 文件"
+msgstr "{boss} 檔案"
 
 #. Unlock description - boss choice file
 #. source: Lets you choose {boss} at the end of a run instead of only Random Boss.
@@ -4180,7 +4180,7 @@ msgstr "罪犯"
 #. UI (script-driven)
 #. source: Slow the world around you to clear enemies more easily.
 msgid "UI.unlock_widget_bullet_time_desc"
-msgstr "減慢周圍環境的速度，以便更輕鬆地清除敵人"
+msgstr "減慢周圍環境的速度，以便更輕鬆地消滅敵人"
 
 #. UI (script-driven)
 #. source: Heaps of Pain
@@ -4190,7 +4190,7 @@ msgstr "無盡痛苦"
 #. UI (script-driven)
 #. source: Buy and sell Keys for Coin in Safe Folders.
 msgid "UI.unlock_file_keybuy_desc"
-msgstr "在安全文件夾中用硬幣買賣金鑰"
+msgstr "在安全資料夾中用硬幣買賣金鑰"
 
 #. UI (script-driven)
 #. source: KeyBuy
@@ -4290,12 +4290,12 @@ msgstr "額外獎勵 Beanz"
 #. Lifetime clears milestone description
 #. source: Lifetime enemy clears milestone.
 msgid "UI.unlock_general_kills_desc"
-msgstr "生涯敵人清除里程碑"
+msgstr "生涯敵人消滅里程碑"
 
 #. Lifetime files milestone description
 #. source: Lifetime files opened milestone.
 msgid "UI.unlock_general_files_desc"
-msgstr "生涯已開啟文件里程碑"
+msgstr "生涯已開啟檔案里程碑"
 
 #. Lifetime file-type opens milestone description
 #. source: {file} files opened across all runs.
@@ -4377,7 +4377,7 @@ msgstr "虛空造成的傷害翻倍，延遲也翻倍"
 #. Optional extra difficulty policy - name (bad_sector)
 #. source: Bad Sector
 msgid "POLICY.bad_sector.name"
-msgstr "不良區域"
+msgstr "壞軌"
 
 #. Optional extra difficulty policy - description (bad_sector)
 #. source: Halve current HP each Battle Folder.
@@ -4392,7 +4392,7 @@ msgstr "記憶體不足"
 #. Optional extra difficulty policy - description (low_memory)
 #. source: No new weapons at level 8, 16, or 24.
 msgid "POLICY.low_memory.description"
-msgstr "不會在等級8，16和24出現新武器"
+msgstr "不會在8，16和24等出現新武器"
 
 #. Optional extra difficulty policy - name (unsigned_driver)
 #. source: Activation Required
@@ -4437,7 +4437,7 @@ msgstr "每場戰鬥只有2.5分鐘"
 #. Optional extra difficulty policy - name (extended_support)
 #. source: Extended Support
 msgid "POLICY.extended_support.name"
-msgstr "延長支援"
+msgstr "延伸支援"
 
 #. Optional extra difficulty policy - description (extended_support)
 #. source: Battle rounds last 10 minutes.
@@ -4472,7 +4472,7 @@ msgstr "重新導向資料夾"
 #. Optional extra difficulty policy - description (redirected_folders)
 #. source: No files spawn in the rounds.
 msgid "POLICY.redirected_folders.description"
-msgstr "本輪不會產生任何文件"
+msgstr "本輪不會產生任何檔案"
 
 #. Optional extra difficulty policy - name (open_relay)
 #. source: Open Relay
@@ -4579,7 +4579,7 @@ msgstr "立即治療"
 #. Health Check Pro upgrade-files button
 #. source: Upgrade Files
 msgid "UI.health_check_pro_boost"
-msgstr "升級文件"
+msgstr "升級檔案"
 
 #. Health Check Pro upgrade-files button after purchase
 #. source: Upgraded
@@ -4945,7 +4945,7 @@ msgstr "難度更高.額外的Plus!敵人"
 #. source: Level %d
 #. Keep placeholders unchanged: %d
 msgid "TOOLTIP.level"
-msgstr "等級%d"
+msgstr "%d 等"
 
 #. Stat tooltip
 #. source: Damage: %.1f
@@ -5149,12 +5149,12 @@ msgstr "本輪開啟過的安全資料夾"
 #. Run stats panel row
 #. source: Folders and files opened this run.
 msgid "RUNSTAT.files_opened_desc"
-msgstr "本輪開啟的資料夾跟文件數"
+msgstr "本輪開啟的資料夾跟檔案數"
 
 #. Run stats panel row
 #. source: Enemies cleared this run.
 msgid "RUNSTAT.enemies_cleared_desc"
-msgstr "本輪清除的敵人數"
+msgstr "本輪消滅的敵人數"
 
 #. Run stats panel row
 #. source: Coins collected this run.
@@ -5252,12 +5252,12 @@ msgstr "本回合沒有新任務"
 #. Safe Folder explorer - last round kills tooltip
 #. source: Enemies cleared in the last Battle Folder.
 msgid "RUNSTAT.last_round_kills_desc"
-msgstr "上次在戰鬥中清除的敵人數"
+msgstr "上次在戰鬥中消滅的敵人數"
 
 #. Safe Folder explorer - last round files tooltip
 #. source: Files opened in the last Battle Folder.
 msgid "RUNSTAT.last_round_files_desc"
-msgstr "上次在戰鬥中開啟的文件數"
+msgstr "上次在戰鬥中開啟的檔案數"
 
 #. Safe Folder explorer - last round coin tooltip
 #. source: Coin collected in the last Battle Folder.
@@ -5402,15 +5402,15 @@ msgstr ""
 
 #. Scene label
 msgid "Level 8"
-msgstr "等級 8"
+msgstr "8 等"
 
 #. Scene label
 msgid "Level 16"
-msgstr "等級 16"
+msgstr "16 等"
 
 #. Scene label
 msgid "Level 24 "
-msgstr "等級 24 "
+msgstr "24 等"
 
 #. Scene label
 msgid "Empty"
