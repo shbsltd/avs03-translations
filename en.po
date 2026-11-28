@@ -892,9 +892,9 @@ msgid "STAT.upgrade_player_armor.name"
 msgstr "Armo(u)r"
 
 #. Stat display - description (upgrade_player_armor)
-#. source: Resistence from all incoming Damage. (Exponential)
+#. source: Resistance from all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_armor.description"
-msgstr "Resistence from all incoming Damage. (Exponential)"
+msgstr "Resistance from all incoming Damage. (Exponential)"
 
 #. Stat display - name (upgrade_player_coin_gain)
 #. source: Coin Gain
